@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Campaign Notes/What's in a Name? OneShot/Basilus Simmeran.md",
+                "file": "1. Worldbuilding/Bloom.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "31af75ffb5301a6f",
+            "id": "a8d9f491d6588c1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "Test Timeline.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "Test Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "Test Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "Test Timeline.md"
               }
             }
           },
@@ -157,9 +157,17 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "3ead7498021d05a3",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -180,19 +188,21 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "31af75ffb5301a6f",
+  "active": "a8d9f491d6588c1c",
   "lastOpenFiles": [
-    "3. Campaign Notes/What's in a Name? OneShot/Basilus Simmeran.md",
+    "z_templates/Military Formation.md",
+    "Test Timeline.md",
+    "1. Worldbuilding/Bloom.md",
+    "3. Campaign Notes/What's in a Name? OneShot/Characters/Nadezhda Plavikamen.md",
+    "3. Campaign Notes/What's in a Name? OneShot/Characters/Den Koran.md",
+    "3. Campaign Notes/What's in a Name? OneShot/Characters/Basilus Simmeran.md",
+    "3. Campaign Notes/What's in a Name? OneShot/Characters",
+    "3. Campaign Notes/3. Campaign Notes.md",
     "test.md",
     "README.md",
-    "test.md",
-    "3. Campaign Notes/3. Campaign Notes.md",
     "3. Campaign Notes/What's in a Name? OneShot/Session Summary.md",
-    "3. Campaign Notes/What's in a Name? OneShot/Nadezhda Plavikamen.md",
-    "3. Campaign Notes/What's in a Name? OneShot/Den Koran.md",
     "3. Campaign Notes/What's in a Name? OneShot/Combat 1.md",
     "z_templates/Myths and Legends.md",
-    "z_templates/Military Formation.md",
     "z_templates/Character Sheet.md"
   ]
 }

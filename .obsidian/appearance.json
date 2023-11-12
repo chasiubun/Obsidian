@@ -1,4 +1,11 @@
 {
   "accentColor": "",
-  "cssTheme": "ITS Theme"
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "dnd5e-compendium",
+    "compendium-obsidian-0.15",
+    "obsidian-default-theme",
+    "timeline-snippet",
+    "supercharged-links-gen"
+  ]
 }
