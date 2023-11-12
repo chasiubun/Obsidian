@@ -3,7 +3,7 @@
 | -            | -                | -          | -                   |
 | ------------ | ---------------- | ---------- | ------------------- |
 | Name:        | Basilus Simmeran | Race:      | [[changeling-mpmm]] |
-| Player Name: | Victor           | Class:     | [[2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/humanoid/druid|druid]]   (1)                    |
+| Player Name: | Victor           | Class:     | [[druid]]   (1)                    |
 | Gender:      |  male                |            |                     |
 | Background:  |   [[outlander]]                | Alignment: |                     |
 | Age:         |                  | Height:    |                     |

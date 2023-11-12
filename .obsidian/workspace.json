@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "3e613b6628a6c4c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a9d8343728a17ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e552017301a61ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Campaign Notes/What's in a Name? OneShot/Basilus Simmeran.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f35ff459282d7a4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "05d1bf0dba0d4490",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "faf2738ac2cfe932",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5a25f65b5a493c6a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "afc4dd13726636a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c1b23eadb3e65a89",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f2c237919f12fb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c98942b1b8e748a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3. Campaign Notes/What's in a Name? OneShot/Basilus Simmeran.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0549848cd8242f2f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3. Campaign Notes/What's in a Name? OneShot/Basilus Simmeran.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d805c6c2f917727c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f8e36babf36b789a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3. Campaign Notes/What's in a Name? OneShot/Basilus Simmeran.md"
+              }
+            }
+          },
+          {
+            "id": "6d4ef85d94ed621e",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "33135c761039daa3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false
+    }
+  },
+  "active": "33135c761039daa3",
+  "lastOpenFiles": [
+    "3. Campaign Notes/3. Campaign Notes.md",
+    "3. Campaign Notes/What's in a Name? OneShot/Session Summary.md",
+    "3. Campaign Notes/What's in a Name? OneShot/Basilus Simmeran.md",
+    "3. Campaign Notes/What's in a Name? OneShot/Nadezhda Plavikamen.md",
+    "3. Campaign Notes/What's in a Name? OneShot/Den Koran.md",
+    "3. Campaign Notes/What's in a Name? OneShot/Combat 1.md",
+    "z_templates/Myths and Legends.md",
+    "z_templates/Military Formation.md",
+    "z_templates/Character Sheet.md"
+  ]
+}
