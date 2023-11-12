@@ -1,0 +1,119 @@
+[
+  {
+    "type": "statblock",
+    "icon": {
+      "name": "dragon",
+      "type": "font-awesome"
+    },
+    "command": false,
+    "injectColor": false,
+    "noTitle": false,
+    "copy": false
+  },
+  {
+    "type": "flowchart",
+    "icon": {
+      "name": "map",
+      "type": "font-awesome"
+    },
+    "command": false,
+    "injectColor": false,
+    "noTitle": true,
+    "copy": false
+  },
+  {
+    "type": "gallery",
+    "icon": {
+      "name": "image",
+      "type": "font-awesome"
+    },
+    "command": false,
+    "injectColor": false,
+    "noTitle": true,
+    "copy": false
+  },
+  {
+    "type": "readaloud",
+    "icon": {
+      "name": "book-reader",
+      "type": "font-awesome"
+    },
+    "title": "Read Aloud",
+    "command": false,
+    "injectColor": false,
+    "noTitle": false,
+    "copy": false
+  },
+  {
+    "type": "charm",
+    "icon": {
+      "name": "magic",
+      "type": "font-awesome"
+    },
+    "title": "Charm",
+    "command": false,
+    "injectColor": false,
+    "noTitle": false,
+    "copy": false
+  },
+  {
+    "type": "letter",
+    "icon": {
+      "name": "envelope-open-text",
+      "type": "font-awesome"
+    },
+    "title": "Letter",
+    "command": false,
+    "injectColor": false,
+    "noTitle": false,
+    "copy": false
+  },
+  {
+    "type": "npc",
+    "icon": {
+      "name": "address-card",
+      "type": "font-awesome"
+    },
+    "title": "NPC",
+    "command": false,
+    "injectColor": false,
+    "noTitle": false,
+    "copy": false
+  },
+  {
+    "type": "scene",
+    "icon": {
+      "name": "archway",
+      "type": "font-awesome"
+    },
+    "title": "Scene",
+    "command": false,
+    "injectColor": false,
+    "noTitle": false,
+    "copy": false
+  },
+  {
+    "type": "skill",
+    "icon": {
+      "name": "hand-sparkles",
+      "type": "font-awesome"
+    },
+    "title": "Skill Check",
+    "command": false,
+    "injectColor": false,
+    "noTitle": false,
+    "copy": false
+  },
+  {
+    "type": "weather",
+    "icon": {
+      "name": "cloud-sun",
+      "type": "font-awesome"
+    },
+    "title": "Weather",
+    "command": false,
+    "injectColor": false,
+    "noTitle": false,
+    "copy": false
+  }
+]
