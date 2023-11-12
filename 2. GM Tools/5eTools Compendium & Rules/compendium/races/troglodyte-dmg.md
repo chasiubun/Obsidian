@@ -22,7 +22,7 @@ You have advantage on Dexterity ([Stealth](/compendium/rules/skills.md#Stealth))
 
 ### Stench
 
-Any creature other than a troglodyte that starts its turn within 5 ft. of you must succeed on a DC 12 Constitution saving throw or be [poisoned](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#poisoned) until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all troglodytes for 1 hour.
+Any creature other than a troglodyte that starts its turn within 5 ft. of you must succeed on a DC 12 Constitution saving throw or be [poisoned](/compendium/rules/conditions.md#poisoned) until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all troglodytes for 1 hour.
 
 ### Sunlight Sensitivity
 

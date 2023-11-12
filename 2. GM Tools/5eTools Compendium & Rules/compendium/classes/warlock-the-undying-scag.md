@@ -49,7 +49,7 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 ### Undying Nature (Level 10)
 
-Beginning at 10th level, you can hold your breath indefinitely, and you don't require food, water, or sleep, although you still require rest to reduce [exhaustion](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#exhaustion) and still benefit from finishing short and long rests.
+Beginning at 10th level, you can hold your breath indefinitely, and you don't require food, water, or sleep, although you still require rest to reduce [exhaustion](/compendium/rules/conditions.md#exhaustion) and still benefit from finishing short and long rests.
 
 In addition, you age at a slower rate. For every 10 years that pass, your body ages only 1 year, and you are immune to being magically aged.
 

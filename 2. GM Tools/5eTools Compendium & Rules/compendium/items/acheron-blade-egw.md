@@ -27,7 +27,7 @@ While holding the sword, you can use an action to give yourself `1d4 + 4` tempor
 
 ## Disheartening Strike
 
-When you hit a creature with an attack using this weapon, you can fill the target with unsettling dread: the target has disadvantage on the next saving throw it makes before the end of your next turn. The creature ignores this effect if it's immune to the [frightened](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#frightened) condition. Once you use this property, you can't do so again until the next dusk.
+When you hit a creature with an attack using this weapon, you can fill the target with unsettling dread: the target has disadvantage on the next saving throw it makes before the end of your next turn. The creature ignores this effect if it's immune to the [frightened](/compendium/rules/conditions.md#frightened) condition. Once you use this property, you can't do so again until the next dusk.
 
 **Variants**:
 - [Acheron Blade Longsword](#Acheron%20Blade%20Longsword)

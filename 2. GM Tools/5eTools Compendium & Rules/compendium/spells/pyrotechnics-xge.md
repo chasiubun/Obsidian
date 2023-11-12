@@ -25,7 +25,7 @@ Choose an area of nonmagical flame that you can see and that fits within a 5-foo
 
 ## Fireworks
 
-The target explodes with a dazzling display of colors. Each creature within 10 feet of the target must succeed on a Constitution saving throw or become [blinded](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#blinded) until the end of your next turn.
+The target explodes with a dazzling display of colors. Each creature within 10 feet of the target must succeed on a Constitution saving throw or become [blinded](/compendium/rules/conditions.md#blinded) until the end of your next turn.
 
 ## Smoke
 

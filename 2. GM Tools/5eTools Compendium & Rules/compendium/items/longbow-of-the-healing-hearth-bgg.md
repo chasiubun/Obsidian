@@ -29,7 +29,7 @@ The bow has 8 charges for the following properties, which you can use while wiel
 
 ## Curative Arrow
 
-When you take the [Attack](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Attack) action using the bow, you can expend 1 charge to replace one of your attacks with a blazing arrow of curative magic, which automatically hits one creature you can see within 150 feet of you. The target can then immediately spend and roll one of its unspent Hit Dice and regain a number of hit points equal to the roll plus your Wisdom modifier (minimum of +1).
+When you take the [Attack](/compendium/rules/actions.md#Attack) action using the bow, you can expend 1 charge to replace one of your attacks with a blazing arrow of curative magic, which automatically hits one creature you can see within 150 feet of you. The target can then immediately spend and roll one of its unspent Hit Dice and regain a number of hit points equal to the roll plus your Wisdom modifier (minimum of +1).
 
 If the target has no unspent Hit Dice remaining, nothing happens. You can use a curative arrow only once per turn.
 

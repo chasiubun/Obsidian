@@ -69,7 +69,7 @@ You also learn an additional spell of 1st level or higher when you reach certain
 
 *7th-level Swarmkeeper feature*
 
-You can condense part of your swarm into a focused mass that lifts you up. As a bonus action, you gain a flying speed of 10 feet and can hover. This effect lasts for 1 minute or until you are [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated).
+You can condense part of your swarm into a focused mass that lifts you up. As a bonus action, you gain a flying speed of 10 feet and can hover. This effect lasts for 1 minute or until you are [incapacitated](/compendium/rules/conditions.md#incapacitated).
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
@@ -80,7 +80,7 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 Your Gathered Swarm grows mightier in the following ways:
 
 - The damage of Gathered Swarm increases to `1d8`.  
-- If a creature fails its saving throw against being moved by Gathered Swarm, you can also cause the swarm to knock the creature [prone](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#prone).  
+- If a creature fails its saving throw against being moved by Gathered Swarm, you can also cause the swarm to knock the creature [prone](/compendium/rules/conditions.md#prone).  
 - When you are moved by Gathered Swarm, it gives you half cover until the start of your next turn.  
 
 ### Swarming Dispersal (Level 15)

@@ -1,0 +1,1 @@
+Sol sung all things into creation as a display of balance and order. In another expression of balance and order, Sol split itself into 8 parts called [[Parhelion]] 

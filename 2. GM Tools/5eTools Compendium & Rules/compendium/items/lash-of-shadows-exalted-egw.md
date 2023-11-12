@@ -53,7 +53,7 @@ When the whip reaches an awakened state, it gains the following properties:
 
 - The weapon's bonus to attack and damage rolls increases to +2.  
 - The saving throw DC for the weapon's poisons increases to 15.  
-- The weapon gains a new poison option called Ghoul's Blood. A creature that fails the saving throw against this poison is [poisoned](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#poisoned) for 1 minute. While [poisoned](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#poisoned) in this way, the creature is [paralyzed](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#paralyzed). The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
+- The weapon gains a new poison option called Ghoul's Blood. A creature that fails the saving throw against this poison is [poisoned](/compendium/rules/conditions.md#poisoned) for 1 minute. While [poisoned](/compendium/rules/conditions.md#poisoned) in this way, the creature is [paralyzed](/compendium/rules/conditions.md#paralyzed). The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 
 ## Exalted
 
@@ -61,6 +61,6 @@ When the whip reaches an exalted state, it gains the following additional proper
 
 - The weapon's bonus to attack and damage rolls increases to +3.  
 - The saving throw DC for the weapon's poisons increases to 17.  
-- The weapon gains a new poison option called Cockatrice Tears. A creature that fails the saving throw against this poison begins to turn to stone and is [restrained](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#restrained). It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is [petrified](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#petrified) for 24 hours.  
+- The weapon gains a new poison option called Cockatrice Tears. A creature that fails the saving throw against this poison begins to turn to stone and is [restrained](/compendium/rules/conditions.md#restrained). It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is [petrified](/compendium/rules/conditions.md#petrified) for 24 hours.  
 
 *Source: Explorer's Guide to Wildemount p. 276, Derived from *

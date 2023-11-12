@@ -48,6 +48,6 @@ Starting at 10th level, your thoughts can't be read by telepathy or other means 
 
 ### Create Thrall (Level 14)
 
-At 14th level, you gain the ability to infect a humanoid's mind with the alien magic of your patron. You can use your action to touch an [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated) humanoid. That creature is then [charmed](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#charmed) by you until a [remove curse](/compendium/spells/remove-curse.md) spell is cast on it, the [charmed](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#charmed) condition is removed from it, or you use this feature again.
+At 14th level, you gain the ability to infect a humanoid's mind with the alien magic of your patron. You can use your action to touch an [incapacitated](/compendium/rules/conditions.md#incapacitated) humanoid. That creature is then [charmed](/compendium/rules/conditions.md#charmed) by you until a [remove curse](/compendium/spells/remove-curse.md) spell is cast on it, the [charmed](/compendium/rules/conditions.md#charmed) condition is removed from it, or you use this feature again.
 
-You can communicate telepathically with the [charmed](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#charmed) creature as long as the two of you are on the same plane of existence.
+You can communicate telepathically with the [charmed](/compendium/rules/conditions.md#charmed) creature as long as the two of you are on the same plane of existence.

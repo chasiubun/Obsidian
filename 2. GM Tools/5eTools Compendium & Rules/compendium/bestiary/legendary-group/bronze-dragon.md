@@ -14,7 +14,7 @@ _Source: Monster Manual_
 On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects:
 
 - The dragon creates fog as though it had cast the [fog cloud](/compendium/spells/fog-cloud.md) spell. The fog lasts until initiative count 20 on the next round.  
-- A thunderclap originates at a point the dragon can see within 120 feet of it. Each creature within a 20-foot radius centered on that point must make a DC 15 Constitution saving throw or take 5 (`1d10`) thunder damage and be [deafened](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#deafened) until the end of its next turn.  
+- A thunderclap originates at a point the dragon can see within 120 feet of it. Each creature within a 20-foot radius centered on that point must make a DC 15 Constitution saving throw or take 5 (`1d10`) thunder damage and be [deafened](/compendium/rules/conditions.md#deafened) until the end of its next turn.  
 
 ### Additional Lair Actions
 
@@ -22,7 +22,7 @@ At your discretion, a legendary ([adult](/compendium/bestiary/dragon/adult-bronz
 
 - **Ocean's Call.** The dragon conjures a swarm of spectral dolphins. Each creature in the water within 120 feet of the dragon must succeed on a DC 15 Dexterity saving throw or take 5 (`1d10`) slashing damage; then the swarm vanishes.  
 - **Salt Burst.** The dragon chooses a point it can see in the lair. The air in a 20-foot-radius sphere centered on that point bursts with abrasive salt crystals. Each creature in that area must succeed on a DC 15 Dexterity saving throw or take 10 (`3d6`) slashing damage.  
-- **Whelming Water.** The dragon causes a strong current to course through the water in its lair. The dragon chooses any number of creatures it can see that are standing or swimming in water within 120 feet of it. Each chosen creature must succeed on a DC 15 Strength saving throw or be knocked [prone](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#prone).  
+- **Whelming Water.** The dragon causes a strong current to course through the water in its lair. The dragon chooses any number of creatures it can see that are standing or swimming in water within 120 feet of it. Each chosen creature must succeed on a DC 15 Strength saving throw or be knocked [prone](/compendium/rules/conditions.md#prone).  
 
 ## Regional effects
 _Source: Monster Manual_

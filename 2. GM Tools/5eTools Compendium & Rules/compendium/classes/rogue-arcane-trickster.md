@@ -79,7 +79,7 @@ Intelligence is your spellcasting ability for your wizard spells, since you lear
 
 ### Mage Hand Legerdemain (Level 3)
 
-Starting at 3rd level, when you cast [mage hand](/compendium/spells/mage-hand.md), you can make the spectral hand [invisible](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#invisible), and you can perform the following additional tasks with it:
+Starting at 3rd level, when you cast [mage hand](/compendium/spells/mage-hand.md), you can make the spectral hand [invisible](/compendium/rules/conditions.md#invisible), and you can perform the following additional tasks with it:
 
 - You can stow one object the hand is holding in a container worn or carried by another creature.  
 - You can retrieve an object in a container worn or carried by another creature.  

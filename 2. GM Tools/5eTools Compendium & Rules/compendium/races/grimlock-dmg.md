@@ -18,7 +18,7 @@ aliases: ["Grimlock (DMG)"]
 
 ### Blindsight
 
-You have no eyes, and cannot be [blinded](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#blinded). You can perceive your surroundings within 30 ft., or 10 ft. while [deafened](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#deafened). You are considered blind beyond this radius.
+You have no eyes, and cannot be [blinded](/compendium/rules/conditions.md#blinded). You can perceive your surroundings within 30 ft., or 10 ft. while [deafened](/compendium/rules/conditions.md#deafened). You are considered blind beyond this radius.
 
 ### Keen Hearing and Smell
 

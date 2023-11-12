@@ -24,7 +24,7 @@ The orb has 3 charges and regains all expended charges at dawn. When you cast a 
 
 ## Astute Mind
 
-You gain a +2 bonus to any Constitution saving throw you make to maintain your [concentration](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#concentration) on a spell.
+You gain a +2 bonus to any Constitution saving throw you make to maintain your [concentration](/compendium/rules/conditions.md#concentration) on a spell.
 
 ## Divine Sight
 

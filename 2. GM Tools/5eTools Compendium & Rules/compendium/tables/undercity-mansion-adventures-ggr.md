@@ -17,7 +17,7 @@ aliases: ["Undercity Mansion Adventures"]
 | 1 | Find the source of a noxious fog rising from the undercity and poisoning a surface neighborhood. |
 | 2 | Rescue several citizens being held hostage by Ochran agents. |
 | 3 | Find the daytime lair of an elusive monster that hunts on the surface at night. |
-| 4 | Rescue a guild member [petrified](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#petrified) by an [undercity medusa](/compendium/bestiary/monstrosity/undercity-medusa-ggr.md) that uses the mansion as its lair. |
+| 4 | Rescue a guild member [petrified](/compendium/rules/conditions.md#petrified) by an [undercity medusa](/compendium/bestiary/monstrosity/undercity-medusa-ggr.md) that uses the mansion as its lair. |
 | 5 | Take shelter in the mansion to escape a horrible monster prowling the undercity. |
 | 6 | Win a bet by surviving a night inside. |
 | 7 | Escape from captivity here. |

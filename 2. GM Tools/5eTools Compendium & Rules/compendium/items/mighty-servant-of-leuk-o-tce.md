@@ -44,7 +44,7 @@ While there are no attuned creatures inside the servant, it is an inert object.
 
 Upon his death, the soul of the mighty warlord Leuk-o was drawn into the artifact and has become its animating force. The servant has been known to attack or move of its own accord, particularly if doing so will cause destruction. Once every 24 hours, the servant, at the DM's discretion, takes one action while uncrewed.
 
-If the servant loses half of its hit points or more, each creature attuned to it must succeed on a DC 20 Wisdom saving throw or be [charmed](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#charmed) for 24 hours. While [charmed](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#charmed) in this way, the creature goes on a destructive spree, seeking to destroy structures and attack any unattuned creatures within sight of the servant, starting with those threatening the artifact-preferably using the servant, if possible.
+If the servant loses half of its hit points or more, each creature attuned to it must succeed on a DC 20 Wisdom saving throw or be [charmed](/compendium/rules/conditions.md#charmed) for 24 hours. While [charmed](/compendium/rules/conditions.md#charmed) in this way, the creature goes on a destructive spree, seeking to destroy structures and attack any unattuned creatures within sight of the servant, starting with those threatening the artifact-preferably using the servant, if possible.
 
 ## Self-Destruct
 

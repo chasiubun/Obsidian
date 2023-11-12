@@ -11,7 +11,7 @@ aliases: ["Poison Needle"]
 
 A poisoned needle is hidden within a treasure chest's lock, or in something else that a creature might open. Opening the chest without the proper key causes the needle to spring out, delivering a dose of poison.
 
-When the trap is triggered, the needle extends 3 inches straight out from the lock. A creature within range takes 1 piercing damage and 11 (`2d10`) poison damage, and must succeed on a DC 15 Constitution saving throw or be [poisoned](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#poisoned) for 1 hour.
+When the trap is triggered, the needle extends 3 inches straight out from the lock. A creature within range takes 1 piercing damage and 11 (`2d10`) poison damage, and must succeed on a DC 15 Constitution saving throw or be [poisoned](/compendium/rules/conditions.md#poisoned) for 1 hour.
 
 A successful DC 20 Intelligence ([Investigation](/compendium/rules/skills.md#Investigation)) check allows a character to deduce the trap's presence from alterations made to the lock to accommodate the needle.
 

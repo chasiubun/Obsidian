@@ -27,7 +27,7 @@ You can see in dim light within 60 feet of you as if it were bright light and in
 
 ### Unending Breath
 
-You can hold your breath indefinitely while you're not [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated).
+You can hold your breath indefinitely while you're not [incapacitated](/compendium/rules/conditions.md#incapacitated).
 
 ### Lightning Resistance
 

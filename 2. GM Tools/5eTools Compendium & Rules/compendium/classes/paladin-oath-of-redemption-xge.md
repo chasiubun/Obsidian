@@ -78,7 +78,7 @@ At 18th level, the range of this aura increases to 30 feet.
 
 ### Protective Spirit (Level 15)
 
-Starting at 15th level, a holy presence mends your wounds in battle. You regain hit points equal to `1d6` + half your paladin level if you end your turn in combat with fewer than half of your hit points remaining and you aren't [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated).
+Starting at 15th level, a holy presence mends your wounds in battle. You regain hit points equal to `1d6` + half your paladin level if you end your turn in combat with fewer than half of your hit points remaining and you aren't [incapacitated](/compendium/rules/conditions.md#incapacitated).
 
 ### Emissary of Redemption (Level 20)
 

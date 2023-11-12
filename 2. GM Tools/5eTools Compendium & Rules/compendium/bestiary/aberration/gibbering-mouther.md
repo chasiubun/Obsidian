@@ -20,7 +20,7 @@ The gibbering mouther's body is an amorphous mass of mouths and eyes that propel
 
 ## Mouths of Madness
 
-When a gibbering mouther senses prey, its mouths begin to murmur and chatter, each with a different voice: deep or shrill, wailing or ululating, crying out in agony or ecstasy. This cacophonous gibbering overcomes the senses of any creature that hears it, causing most to flee in terror. Others are overcome with madness or stand [paralyzed](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#paralyzed), fixated on the horrific creature as it oozes forward to consume them.
+When a gibbering mouther senses prey, its mouths begin to murmur and chatter, each with a different voice: deep or shrill, wailing or ululating, crying out in agony or ecstasy. This cacophonous gibbering overcomes the senses of any creature that hears it, causing most to flee in terror. Others are overcome with madness or stand [paralyzed](/compendium/rules/conditions.md#paralyzed), fixated on the horrific creature as it oozes forward to consume them.
 
 ### All-Consuming
 

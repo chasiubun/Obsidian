@@ -14,7 +14,7 @@ _Source: Mordenkainen's Tome of Foes_
 On initiative count 20 (losing initiative ties), Geryon can take a lair action to cause one of the following effects; he can't use the same effect two rounds in a row:
 
 - Geryon causes a blast of cold to burst from the ground at a point he can see within 120 feet of him. The cold fills a cube, 10 feet on each side, centered on that point. Each creature in that area must succeed on a DC 21 Constitution saving throw or take 28 (`8d6`) cold damage.  
-- Geryon targets one creature he can see within 60 feet of him. The target must succeed on a DC 21 Wisdom saving throw or become [restrained](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#restrained) for 1 minute. The target can end the effect on itself if it deals any damage to one or more of its allies.  
+- Geryon targets one creature he can see within 60 feet of him. The target must succeed on a DC 21 Wisdom saving throw or become [restrained](/compendium/rules/conditions.md#restrained) for 1 minute. The target can end the effect on itself if it deals any damage to one or more of its allies.  
 - Geryon casts the [banishment](/compendium/spells/banishment.md) spell.  
 
 ## Regional effects

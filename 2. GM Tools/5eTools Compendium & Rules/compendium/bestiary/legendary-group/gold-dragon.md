@@ -20,7 +20,7 @@ On initiative count 20 (losing initiative ties), the dragon takes a lair action 
 
 At your discretion, a legendary ([adult](/compendium/bestiary/dragon/adult-gold-dragon.md) or [ancient](/compendium/bestiary/dragon/ancient-gold-dragon.md)) gold dragon can use the following additional lair action while in its lair:
 
-- **Beguiling Glow.** Warm light fills a 30-foot-radius sphere centered on the dragon; each creature in that area must succeed on a DC 15 Wisdom saving throw or be [charmed](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#charmed) by the dragon until initiative count 20 on the next round.  
+- **Beguiling Glow.** Warm light fills a 30-foot-radius sphere centered on the dragon; each creature in that area must succeed on a DC 15 Wisdom saving throw or be [charmed](/compendium/rules/conditions.md#charmed) by the dragon until initiative count 20 on the next round.  
 
 ## Regional effects
 _Source: Monster Manual_

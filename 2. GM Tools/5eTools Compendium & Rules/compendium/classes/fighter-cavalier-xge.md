@@ -23,13 +23,13 @@ When you choose this archetype at 3rd level, you gain proficiency in one of the 
 
 ### Born to the Saddle (Level 3)
 
-Starting at 3rd level, your mastery as a rider becomes apparent. You have advantage on saving throws made to avoid falling off your mount. If you fall off your mount and descend no more than 10 feet, you can land on your feet if you're not [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated).
+Starting at 3rd level, your mastery as a rider becomes apparent. You have advantage on saving throws made to avoid falling off your mount. If you fall off your mount and descend no more than 10 feet, you can land on your feet if you're not [incapacitated](/compendium/rules/conditions.md#incapacitated).
 
 Finally, mounting or dismounting a creature costs you only 5 feet of movement, rather than half your speed.
 
 ### Unwavering Mark (Level 3)
 
-Starting at 3rd level, you can menace your foes, foiling their attacks and punishing them for harming others. When you hit a creature with a melee weapon attack, you can mark the creature until the end of your next turn. This effect ends early if you are [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated) or you die, or if someone else marks the creature.
+Starting at 3rd level, you can menace your foes, foiling their attacks and punishing them for harming others. When you hit a creature with a melee weapon attack, you can mark the creature until the end of your next turn. This effect ends early if you are [incapacitated](/compendium/rules/conditions.md#incapacitated) or you die, or if someone else marks the creature.
 
 While it is within 5 feet of you, a creature marked by you has disadvantage on any attack roll that doesn't target you.
 
@@ -49,7 +49,7 @@ At 10th level, you become a master of locking down your enemies. Creatures provo
 
 ### Ferocious Charger (Level 15)
 
-Starting at 15th level, you can run down your foes, whether you're mounted or not. If you move at least 10 feet in a straight line right before attacking a creature and you hit it with the attack, that target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + your Strength modifier) or be knocked [prone](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#prone). You can use this feature only once on each of your turns.
+Starting at 15th level, you can run down your foes, whether you're mounted or not. If you move at least 10 feet in a straight line right before attacking a creature and you hit it with the attack, that target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + your Strength modifier) or be knocked [prone](/compendium/rules/conditions.md#prone). You can use this feature only once on each of your turns.
 
 ### Vigilant Defender (Level 18)
 

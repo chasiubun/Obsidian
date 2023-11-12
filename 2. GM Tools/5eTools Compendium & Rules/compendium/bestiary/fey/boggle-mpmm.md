@@ -21,7 +21,7 @@ Boggles are born out of feelings of loneliness. They materialize when a sapient 
 
 Boggles engage in petty pranks to amuse themselves, using the oil they excrete to cause trouble. A boggle also isn't above breaking dishes, hiding tools, startling cows to decrease their milk, or hiding a baby in an attic. Although a boggle's antics might cause distress and unintentional harm, mischief—not mayhem—is usually the intent. If threatened, a boggle flees rather than stand and fight.
 
-A boggle can create magical openings to travel short distances or to pilfer items that would otherwise be beyond its reach. To create such a rift in space, a boggle must be adjacent to a space defined by a frame, such as an open window or a doorway, a gap between the bars of a cage, or the opening between the feet of a bed and the floor. The rift is [invisible](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#invisible) and disappears after a few seconds—just enough time for the boggle to step, reach, or attack through it.
+A boggle can create magical openings to travel short distances or to pilfer items that would otherwise be beyond its reach. To create such a rift in space, a boggle must be adjacent to a space defined by a frame, such as an open window or a doorway, a gap between the bars of a cage, or the opening between the feet of a bed and the floor. The rift is [invisible](/compendium/rules/conditions.md#invisible) and disappears after a few seconds—just enough time for the boggle to step, reach, or attack through it.
 
 ```ad-statblock
 title: Boggle

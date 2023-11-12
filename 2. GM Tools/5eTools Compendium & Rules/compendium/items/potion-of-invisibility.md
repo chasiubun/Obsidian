@@ -13,6 +13,6 @@ aliases:
 *Potion, minor, very rare*  
 
 
-This potion's container looks empty but feels as though it holds liquid. When you drink it, you become [invisible](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#invisible) for 1 hour. Anything you wear or carry is [invisible](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#invisible) with you. The effect ends early if you attack or cast a spell.
+This potion's container looks empty but feels as though it holds liquid. When you drink it, you become [invisible](/compendium/rules/conditions.md#invisible) for 1 hour. Anything you wear or carry is [invisible](/compendium/rules/conditions.md#invisible) with you. The effect ends early if you attack or cast a spell.
 
 *Source: Dungeon Master's Guide p. 188. Available in the SRD and the Basic Rules.*

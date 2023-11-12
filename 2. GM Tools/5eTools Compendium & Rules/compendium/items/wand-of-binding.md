@@ -23,6 +23,6 @@ While holding the wand, you can use an action to expend some of its charges to c
 
 ## Assisted Escape
 
-While holding the wand, you can use your reaction to expend 1 charge and gain advantage on a saving throw you make to avoid being [paralyzed](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#paralyzed) or [restrained](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#restrained), or you can expend 1 charge and gain advantage on any check you make to escape a grapple.
+While holding the wand, you can use your reaction to expend 1 charge and gain advantage on a saving throw you make to avoid being [paralyzed](/compendium/rules/conditions.md#paralyzed) or [restrained](/compendium/rules/conditions.md#restrained), or you can expend 1 charge and gain advantage on any check you make to escape a grapple.
 
 *Source: Dungeon Master's Guide p. 209. Available in the SRD.*

@@ -13,7 +13,7 @@ _Source: Mordenkainen's Tome of Foes_
 
 On Initiative count 20 (losing initiative ties), Yeenoghu can take a lair action to cause one of the following effects; he can't use the same effect two rounds in a row:
 
-- Yeenoghu causes an iron spike - 5 feet tall and 1 inch in diameter - to burst from the ground at a point he can see within 100 feet of him. Any creature in the space where the spike emerges must make a DC 24 Dexterity saving throw. On a failed save, the creature takes 27 (`6d8`) piercing damage and is [restrained](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#restrained) by being impaled on the spike. A creature can use an action to remove itself (or a creature it can reach) from the spike, ending the [restrained](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#restrained) condition.  
+- Yeenoghu causes an iron spike - 5 feet tall and 1 inch in diameter - to burst from the ground at a point he can see within 100 feet of him. Any creature in the space where the spike emerges must make a DC 24 Dexterity saving throw. On a failed save, the creature takes 27 (`6d8`) piercing damage and is [restrained](/compendium/rules/conditions.md#restrained) by being impaled on the spike. A creature can use an action to remove itself (or a creature it can reach) from the spike, ending the [restrained](/compendium/rules/conditions.md#restrained) condition.  
 - Each gnoll or hyena that Yeenoghu can see can use its reaction to move up to its speed.  
 - Until the next initiative count 20, all gnolls and hyenas within the lair are enraged, causing them to have advantage on melee weapon attack rolls and causing attack rolls to have advantage against them.  
 

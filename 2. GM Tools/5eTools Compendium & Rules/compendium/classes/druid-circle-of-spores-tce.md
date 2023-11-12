@@ -54,7 +54,7 @@ These benefits last for 10 minutes, until you lose all these temporary hit point
 
 At 6th level, your spores gain the ability to infest a corpse and animate it. If a beast or a humanoid that is Small or Medium dies within 10 feet of you, you can use your reaction to animate it, causing it to stand up immediately with 1 hit point. The creature uses the [zombie](/compendium/bestiary/undead/zombie.md) stat block in the "Monster Manual". It remains animate for 1 hour, after which time it collapses and dies.
 
-In combat, the zombie's turn comes immediately after yours. It obeys your mental commands, and the only action it can take is the [Attack](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Attack) action, making one melee attack.
+In combat, the zombie's turn comes immediately after yours. It obeys your mental commands, and the only action it can take is the [Attack](/compendium/rules/actions.md#Attack) action, making one melee attack.
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.
 
@@ -68,4 +68,4 @@ While the cube of spores persists, you can't use your Halo of Spores reaction.
 
 ### Fungal Body (Level 14)
 
-At 14th level, the fungal spores in your body alter you: you can't be [blinded](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#blinded), [deafened](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#deafened), [frightened](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#frightened), or [poisoned](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#poisoned), and any critical hit against you counts as a normal hit instead, unless you're [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated).
+At 14th level, the fungal spores in your body alter you: you can't be [blinded](/compendium/rules/conditions.md#blinded), [deafened](/compendium/rules/conditions.md#deafened), [frightened](/compendium/rules/conditions.md#frightened), or [poisoned](/compendium/rules/conditions.md#poisoned), and any critical hit against you counts as a normal hit instead, unless you're [incapacitated](/compendium/rules/conditions.md#incapacitated).

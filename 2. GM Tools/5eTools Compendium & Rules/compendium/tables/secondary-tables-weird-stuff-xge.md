@@ -15,7 +15,7 @@ aliases: ["Secondary Tables; Weird Stuff"]
 | dice: d12 | What Happened |
 |-----------|---------------|
 | 1 | You were turned into a toad and remained in that form for `1d4` weeks. |
-| 2 | You were [petrified](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#petrified) and remained a stone statue for a time until someone freed you. |
+| 2 | You were [petrified](/compendium/rules/conditions.md#petrified) and remained a stone statue for a time until someone freed you. |
 | 3 | You were enslaved by a hag, a satyr, or some other being and lived in that creature's thrall for `1d6` years. |
 | 4 | A dragon held you as a prisoner for `1d4` months until adventurers killed it. |
 | 5 | You were taken captive by a race of evil humanoids such as drow, kuo-toa, or quaggoths. You lived as a slave in the Underdark until you escaped. |

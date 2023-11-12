@@ -13,4 +13,4 @@ aliases: ["Dwarven Fortitude"]
 
 You have the blood of dwarf heroes flowing through your veins. You gain the following benefits:
 
-- Whenever you take the [Dodge](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Dodge) action in combat, you can spend one Hit Die to heal yourself. Roll the die, add your Constitution modifier, and regain a number of hit points equal to the total (minimum of 1).
+- Whenever you take the [Dodge](/compendium/rules/actions.md#Dodge) action in combat, you can spend one Hit Die to heal yourself. Roll the die, add your Constitution modifier, and regain a number of hit points equal to the total (minimum of 1).

@@ -29,7 +29,7 @@ When you choose this path at 3rd level, you gain the ability to use [spiked armo
 
 While you are wearing [spiked armor](/compendium/items/spiked-armor-scag.md) and are raging, you can use a bonus action to make one melee weapon attack with your armor spikes at a target within 5 feet of you. If the attack hits, the spikes deal `1d4` piercing damage. You use your Strength modifier for the attack and damage rolls.
 
-Additionally, when you use the [Attack](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Attack) action to grapple a creature, the target takes 3 piercing damage if your grapple check succeeds.
+Additionally, when you use the [Attack](/compendium/rules/actions.md#Attack) action to grapple a creature, the target takes 3 piercing damage if your grapple check succeeds.
 
 ### Reckless Abandon (Level 6)
 
@@ -37,8 +37,8 @@ Beginning at 6th level, when you use Reckless Attack while raging, you also gain
 
 ### Battlerager Charge (Level 10)
 
-Beginning at 10th level, you can take the [Dash](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Dash) action as a bonus action while you are raging.
+Beginning at 10th level, you can take the [Dash](/compendium/rules/actions.md#Dash) action as a bonus action while you are raging.
 
 ### Spiked Retribution (Level 14)
 
-Starting at 14th level, when a creature within 5 feet of you hits you with a melee attack, the attacker takes 3 piercing damage if you are raging, aren't [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated), and are wearing [spiked armor](/compendium/items/spiked-armor-scag.md).
+Starting at 14th level, when a creature within 5 feet of you hits you with a melee attack, the attacker takes 3 piercing damage if you are raging, aren't [incapacitated](/compendium/rules/conditions.md#incapacitated), and are wearing [spiked armor](/compendium/items/spiked-armor-scag.md).

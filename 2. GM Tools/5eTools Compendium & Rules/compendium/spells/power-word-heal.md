@@ -17,7 +17,7 @@ aliases: ["Power Word Heal"]
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-A wave of healing energy washes over the creature you touch. The target regains all its hit points. If the creature is [charmed](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#charmed), [frightened](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#frightened), [paralyzed](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#paralyzed), or [stunned](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#stunned), the condition ends. If the creature is [prone](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#prone), it can use its reaction to stand up. This spell has no effect on undead or constructs.
+A wave of healing energy washes over the creature you touch. The target regains all its hit points. If the creature is [charmed](/compendium/rules/conditions.md#charmed), [frightened](/compendium/rules/conditions.md#frightened), [paralyzed](/compendium/rules/conditions.md#paralyzed), or [stunned](/compendium/rules/conditions.md#stunned), the condition ends. If the creature is [prone](/compendium/rules/conditions.md#prone), it can use its reaction to stand up. This spell has no effect on undead or constructs.
 
 **Classes**: [Bard](/compendium/classes/bard.md), [Sorcerer (Divine Soul)](/compendium/classes/sorcerer-divine-soul-xge.md)
 

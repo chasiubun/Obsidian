@@ -25,7 +25,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells 
 
 ### Hidden Step
 
-As a bonus action, you can magically turn [invisible](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#invisible) until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+As a bonus action, you can magically turn [invisible](/compendium/rules/conditions.md#invisible) until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 ### Powerful Build
 

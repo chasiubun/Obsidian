@@ -25,5 +25,5 @@ aliases: ["Psychic Wind"]
 | 11-12 | `2d10` psychic damage |
 | 13-16 | `4d10` psychic damage |
 | 17-18 | [Long-term madness](/compendium/tables/long-term-madness.md) (see chapter 8) |
-| 19-20 | [Unconscious](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#Unconscious) for `1d10` minutes—the effect on you ends if you take damage or if another creature uses an action to shake you awake |
+| 19-20 | [Unconscious](/compendium/rules/conditions.md#Unconscious) for `1d10` minutes—the effect on you ends if you take damage or if another creature uses an action to shake you awake |
 ^mental-effect

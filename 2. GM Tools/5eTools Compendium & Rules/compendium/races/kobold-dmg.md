@@ -18,7 +18,7 @@ aliases: ["Kobold (DMG)"]
 
 ### Pack Tactics
 
-You have advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated).
+You have advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
 
 ### Sunlight Sensitivity
 

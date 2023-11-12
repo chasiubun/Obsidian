@@ -65,7 +65,7 @@ You gain the service of a 4th-level fighter who appears in a space you choose wi
 
 ### The Void
 ![](/compendium/decks/img/12-void.webp#card)
-This black card spells disaster. Your soul is drawn from your body and contained in an object in a place of the DM's choice. One or more powerful beings guard the place. While your soul is trapped in this way, your body is [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated). A [wish](/compendium/spells/wish.md) spell can't restore your soul, but the spell reveals the location of the object that holds it. You draw no more cards.
+This black card spells disaster. Your soul is drawn from your body and contained in an object in a place of the DM's choice. One or more powerful beings guard the place. While your soul is trapped in this way, your body is [incapacitated](/compendium/rules/conditions.md#incapacitated). A [wish](/compendium/spells/wish.md) spell can't restore your soul, but the spell reveals the location of the object that holds it. You draw no more cards.
 
 ### Flames
 ![](/compendium/decks/img/13-flames.webp#card)

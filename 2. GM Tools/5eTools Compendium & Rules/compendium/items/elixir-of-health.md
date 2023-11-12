@@ -13,6 +13,6 @@ aliases:
 *Potion, minor, rare*  
 
 
-When you drink this potion, it cures any disease afflicting you, and it removes the [blinded](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#blinded), [deafened](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#deafened), [paralyzed](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#paralyzed), and [poisoned](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#poisoned) conditions. The clear red liquid has tiny bubbles of light in it.
+When you drink this potion, it cures any disease afflicting you, and it removes the [blinded](/compendium/rules/conditions.md#blinded), [deafened](/compendium/rules/conditions.md#deafened), [paralyzed](/compendium/rules/conditions.md#paralyzed), and [poisoned](/compendium/rules/conditions.md#poisoned) conditions. The clear red liquid has tiny bubbles of light in it.
 
 *Source: Dungeon Master's Guide p. 168*

@@ -21,7 +21,7 @@ Your innate magic comes from the wild forces of chaos that underlie the order of
 
 Starting when you choose this origin at 1st level, your spellcasting can unleash surges of untamed magic. Immediately after you cast a sorcerer spell of 1st level or higher, the DM can have you roll a `d20`. If you roll a 1, roll on the Wild Magic Surge table to create a random magical effect. A Wild Magic Surge can happen once per turn.
 
-If a Wild Magic effect is a spell, it's too wild to be affected by Metamagic. If it normally requires [concentration](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#concentration), it doesn't require [concentration](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#concentration) in this case; the spell lasts for its full duration.
+If a Wild Magic effect is a spell, it's too wild to be affected by Metamagic. If it normally requires [concentration](/compendium/rules/conditions.md#concentration), it doesn't require [concentration](/compendium/rules/conditions.md#concentration) in this case; the spell lasts for its full duration.
 
 ![Wild Magic Surge](/compendium/tables/wild-magic-surge.md)
 

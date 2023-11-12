@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "8a9d8343728a17ac",
+        "id": "724d22e7dc9ae94f",
         "type": "tabs",
         "children": [
           {
-            "id": "8e552017301a61ab",
+            "id": "b9a54f20908299e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Worldbuilding/Bloom.md",
+                "file": "1. Worldbuilding/Atlas/Regions/Fontaine.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a8d9f491d6588c1c",
+            "id": "27ea1dc72862b5fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test Timeline.md",
+                "file": "1. Worldbuilding/Atlas/Regions/Fontaine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "faea6cb0b4835dcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Parhelion.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test Timeline.md",
+                "file": "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Parhelion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test Timeline.md",
+                "file": "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Parhelion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,16 +150,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test Timeline.md"
+                "file": "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Parhelion.md"
               }
-            }
-          },
-          {
-            "id": "6d4ef85d94ed621e",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
             }
           },
           {
@@ -165,13 +169,29 @@
               "type": "git-history-view",
               "state": {}
             }
+          },
+          {
+            "id": "c0db7de031a69811",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "889d8b44ae2f0771",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 403.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,28 +201,63 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
+      "dbfolder:Create a new database table": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "a8d9f491d6588c1c",
+  "active": "faea6cb0b4835dcb",
   "lastOpenFiles": [
-    "z_templates/Military Formation.md",
-    "Test Timeline.md",
+    "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Sol.md",
+    "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Parhelion.md",
+    "1. Worldbuilding/History & Cosmology/Creation Mythos/Origin.md",
+    "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity",
     "1. Worldbuilding/Bloom.md",
-    "3. Campaign Notes/What's in a Name? OneShot/Characters/Nadezhda Plavikamen.md",
-    "3. Campaign Notes/What's in a Name? OneShot/Characters/Den Koran.md",
-    "3. Campaign Notes/What's in a Name? OneShot/Characters/Basilus Simmeran.md",
-    "3. Campaign Notes/What's in a Name? OneShot/Characters",
-    "3. Campaign Notes/3. Campaign Notes.md",
-    "test.md",
-    "README.md",
-    "3. Campaign Notes/What's in a Name? OneShot/Session Summary.md",
-    "3. Campaign Notes/What's in a Name? OneShot/Combat 1.md",
-    "z_templates/Myths and Legends.md",
-    "z_templates/Character Sheet.md"
+    "1. Worldbuilding/Atlas/Cities/Noir.md",
+    "1. Worldbuilding/History & Cosmology/Creation Mythos",
+    "1. Worldbuilding/Atlas/Regions/Fontaine.md",
+    "1. Worldbuilding/Atlas/Regions/Astrale.md",
+    "1. Worldbuilding/Atlas/Regions",
+    "1. Worldbuilding/Atlas/Regions/UnderMont.md",
+    "1. Worldbuilding/Atlas/Regions/Miroirs.md",
+    "1. Worldbuilding/Atlas/Regions/Void.md",
+    "Untitled.md",
+    "1. Worldbuilding/Atlas/Regions/Reverie.md",
+    "z_templates/NPC.md",
+    "1. Worldbuilding/Shalom_NPC.md",
+    "1. Worldbuilding/Paradisium Cult.md",
+    "1. Worldbuilding/Timeline of the World.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/humanoid/kobold.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/races/kobold-dmg.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/tables/creature-paintings-tce.md",
+    "2. GM Tools/Misc DND Handbook/Gameplay/Adventuring.md",
+    "2. GM Tools/5eTools Compendium & Rules/rules/actions.md",
+    "2. GM Tools/LazyGM /5e_Monster_Builder.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/celestial/celestial.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/celestial/celestial-spirit-6th-level-spell-tce.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/beast/beast.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/rules/variant-rules/img/xge-003.webp",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/rules/variant-rules/img/xge-001.webp",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/rules/variant-rules/img/xge-002.webp",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/npc/token/zuggtmoy.png",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/npc/token/zisatta.png",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/npc/token/zilchyn-qleptin.png",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/npc/token/zi-liang.png",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/npc/token/zephyros.png",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/npc/token/zeond.png",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/npc/token/zegana.png",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/rules/variant-rules/wands-that-dont-recharge.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/rules/variant-rules/img",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/npc/token",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/npc/img",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/img",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/ooze/token",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/ooze/img"
   ]
 }

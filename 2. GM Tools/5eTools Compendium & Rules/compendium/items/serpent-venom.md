@@ -13,6 +13,6 @@ aliases:
 
 - **Cost**: 200 gp
 
-This poison must be harvested from a dead or [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated) [giant poisonous snake](/compendium/bestiary/beast/giant-poisonous-snake.md). A creature subjected to this poison must succeed on a DC 11 Constitution saving throw, taking 10 (`3d6`) poison damage on a failed save, or half as much damage on a successful one.
+This poison must be harvested from a dead or [incapacitated](/compendium/rules/conditions.md#incapacitated) [giant poisonous snake](/compendium/bestiary/beast/giant-poisonous-snake.md). A creature subjected to this poison must succeed on a DC 11 Constitution saving throw, taking 10 (`3d6`) poison damage on a failed save, or half as much damage on a successful one.
 
 *Source: Dungeon Master's Guide p. 258. Available in the SRD.*

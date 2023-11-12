@@ -25,7 +25,7 @@ At 3rd level, you learn magical theory or some of the secrets of nature—typica
 
 At 3rd level, you learn to unleash special magical effects with some of your shots. When you gain this feature, you learn two Arcane Shot options of your choice (see "Arcane Shot Options" below).
 
-Once per turn when you fire an arrow from a shortbow or longbow as part of the [Attack](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Attack) action, you can apply one of your Arcane Shot options to that arrow. You decide to use the option when the arrow hits a creature, unless the option doesn't involve an attack roll. You have two uses of this ability, and you regain all expended uses of it when you finish a short or long rest.
+Once per turn when you fire an arrow from a shortbow or longbow as part of the [Attack](/compendium/rules/actions.md#Attack) action, you can apply one of your Arcane Shot options to that arrow. You decide to use the option when the arrow hits a creature, unless the option doesn't involve an attack roll. You have two uses of this ability, and you regain all expended uses of it when you finish a short or long rest.
 
 You gain an additional Arcane Shot option of your choice when you reach certain levels in this class: 7th, 10th, 15th, and 18th level. Each option also improves when you become an 18th-level fighter.
 

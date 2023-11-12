@@ -75,7 +75,7 @@ Your Tentacle of the Deeps can defend you and others, interposing itself between
 
 You learn the spell [Evard's black tentacles](/compendium/spells/evards-black-tentacles.md). It counts as a warlock spell for you, but it doesn't count against the number of spells you know. You can also cast it once without a spell slot, and you regain the ability to do so when you finish a long rest.
 
-Whenever you cast this spell, your patron's magic bolsters you, granting you a number of temporary hit points equal to your warlock level. Moreover, damage can't break your [concentration](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#concentration) on this spell.
+Whenever you cast this spell, your patron's magic bolsters you, granting you a number of temporary hit points equal to your warlock level. Moreover, damage can't break your [concentration](/compendium/rules/conditions.md#concentration) on this spell.
 
 ### Fathomless Plunge (Level 14)
 

@@ -11,4 +11,4 @@ aliases: ["One with Shadows"]
 
 **Prerequisite**: 5th-level Warlock
 
-When you are in an area of dim light or darkness, you can use your action to become [invisible](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#invisible) until you move or take an action or a reaction.
+When you are in an area of dim light or darkness, you can use your action to become [invisible](/compendium/rules/conditions.md#invisible) until you move or take an action or a reaction.

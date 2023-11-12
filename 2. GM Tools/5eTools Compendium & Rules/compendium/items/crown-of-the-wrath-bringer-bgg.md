@@ -19,6 +19,6 @@ When you make an attack roll against a creature and hit it while wearing this cr
 
 ## Invoking the Rune
 
-As an action, you can invoke the crown's rune to cast the [fear](/compendium/spells/fear.md) spell (save DC 15) with it; the spell has a duration of 1 minute and doesn't require [concentration](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#concentration). Once the rune has been invoked, it can't be invoked again until the next dawn.
+As an action, you can invoke the crown's rune to cast the [fear](/compendium/spells/fear.md) spell (save DC 15) with it; the spell has a duration of 1 minute and doesn't require [concentration](/compendium/rules/conditions.md#concentration). Once the rune has been invoked, it can't be invoked again until the next dawn.
 
 *Source: Bigby Presents: Glory of the Giants p. 111*

@@ -15,7 +15,7 @@ aliases: ["Wild Magic Surge"]
 | dice: d100 | Effect |
 |------------|--------|
 | 01-02 | Roll on this table at the start of each of your turns for the next minute, ignoring this result on subsequent rolls. |
-| 03-04 | For the next minute, you can see any [invisible](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#invisible) creature if you have line of sight to it. |
+| 03-04 | For the next minute, you can see any [invisible](/compendium/rules/conditions.md#invisible) creature if you have line of sight to it. |
 | 05-06 | A modron chosen and controlled by the DM appears in an unoccupied space within 5 feet of you, then disappears 1 minute later. |
 | 07-08 | You cast [fireball](/compendium/spells/fireball.md) as a 3rd-level spell centered on yourself. |
 | 09-10 | You cast [magic missile](/compendium/spells/magic-missile.md) as a 5th-level spell. |
@@ -32,9 +32,9 @@ aliases: ["Wild Magic Surge"]
 | 31-32 | You are transported to the Astral Plane until the end of your next turn, after which time you return to the space you previously occupied or the nearest unoccupied space if that space is occupied. |
 | 33-34 | Maximize the damage of the next damaging spell you cast within the next minute. |
 | 35-36 | Roll a `d10`. Your age changes by a number of years equal to the roll. If the roll is odd, you get younger (minimum 1 year old). If the roll is even, you get older. |
-| 37-38 | `1d6` [flumphs](/compendium/bestiary/aberration/flumph.md) controlled by the DM appear in unoccupied spaces within 60 feet of you and are [frightened](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#frightened) of you. They vanish after 1 minute. |
+| 37-38 | `1d6` [flumphs](/compendium/bestiary/aberration/flumph.md) controlled by the DM appear in unoccupied spaces within 60 feet of you and are [frightened](/compendium/rules/conditions.md#frightened) of you. They vanish after 1 minute. |
 | 39-40 | You regain `2d10` hit points. |
-| 41-42 | You turn into a potted plant until the start of your next turn. While a plant, you are [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated) and have vulnerability to all damage. If you drop to 0 hit points, your pot breaks, and your form reverts. |
+| 41-42 | You turn into a potted plant until the start of your next turn. While a plant, you are [incapacitated](/compendium/rules/conditions.md#incapacitated) and have vulnerability to all damage. If you drop to 0 hit points, your pot breaks, and your form reverts. |
 | 43-44 | For the next minute, you can teleport up to 20 feet as a bonus action on each of your turns. |
 | 45-46 | You cast [levitate](/compendium/spells/levitate.md) on yourself. |
 | 47-48 | A [unicorn](/compendium/bestiary/celestial/unicorn.md) controlled by the DM appears in a space within 5 feet of you, then disappears 1 minute later. |
@@ -47,18 +47,18 @@ aliases: ["Wild Magic Surge"]
 | 61-62 | For the next minute, you must shout when you speak. |
 | 63-64 | You cast [fog cloud](/compendium/spells/fog-cloud.md) centered on yourself. |
 | 65-66 | Up to three creatures you choose within 30 feet of you take `4d10` lightning damage. |
-| 67-68 | You are [frightened](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#frightened) by the nearest creature until the end of your next turn. |
-| 69-70 | Each creature within 30 feet of you becomes [invisible](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#invisible) for the next minute. The invisibility ends on a creature when it attacks or casts a spell. |
+| 67-68 | You are [frightened](/compendium/rules/conditions.md#frightened) by the nearest creature until the end of your next turn. |
+| 69-70 | Each creature within 30 feet of you becomes [invisible](/compendium/rules/conditions.md#invisible) for the next minute. The invisibility ends on a creature when it attacks or casts a spell. |
 | 71-72 | You gain resistance to all damage for the next minute. |
-| 73-74 | A random creature within 60 feet of you becomes [poisoned](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#poisoned) for `1d4` hours. |
-| 75-76 | You glow with bright light in a 30-foot radius for the next minute. Any creature that ends its turn within 5 feet of you is [blinded](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#blinded) until the end of its next turn. |
+| 73-74 | A random creature within 60 feet of you becomes [poisoned](/compendium/rules/conditions.md#poisoned) for `1d4` hours. |
+| 75-76 | You glow with bright light in a 30-foot radius for the next minute. Any creature that ends its turn within 5 feet of you is [blinded](/compendium/rules/conditions.md#blinded) until the end of its next turn. |
 | 77-78 | You cast [polymorph](/compendium/spells/polymorph.md) on yourself. If you fail the saving throw, you turn into a sheep for the spell's duration. |
 | 79-80 | Illusory butterflies and flower petals flutter in the air within 10 feet of you for the next minute. |
 | 81-82 | You can take one additional action immediately. |
 | 83-84 | Each creature within 30 feet of you takes `1d10` necrotic damage. You regain hit points equal to the sum of the necrotic damage dealt. |
 | 85-86 | You cast [mirror image](/compendium/spells/mirror-image.md). |
 | 87-88 | You cast [fly](/compendium/spells/fly.md) on a random creature within 60 feet of you. |
-| 89-90 | You become [invisible](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#invisible) for the next minute. During that time, other creatures can't hear you. The invisibility ends if you attack or cast a spell. |
+| 89-90 | You become [invisible](/compendium/rules/conditions.md#invisible) for the next minute. During that time, other creatures can't hear you. The invisibility ends if you attack or cast a spell. |
 | 91-92 | If you die within the next minute, you immediately come back to life as if by the [reincarnate](/compendium/spells/reincarnate.md) spell. |
 | 93-94 | Your size increases by one size category for the next minute. |
 | 95-96 | You and all creatures within 30 feet of you gain vulnerability to piercing damage for the next minute. |

@@ -21,7 +21,7 @@ aliases: ["Expeditious Retreat"]
 - **Components:** V, S
 - **Duration:** Concentration, up to 10 minute
 
-This spell allows you to move at an incredible pace. When you cast this spell, and then as a bonus action on each of your turns until the spell ends, you can take the [Dash](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Dash) action.
+This spell allows you to move at an incredible pace. When you cast this spell, and then as a bonus action on each of your turns until the spell ends, you can take the [Dash](/compendium/rules/actions.md#Dash) action.
 
 **Classes**: [Artificer](/compendium/classes/artificer-tce.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Sorcerer](/compendium/classes/sorcerer.md), [Warlock](/compendium/classes/warlock.md), [Wizard](/compendium/classes/wizard.md)
 

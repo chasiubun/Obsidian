@@ -21,7 +21,7 @@ On initiative count 20 (losing initiative ties), the dragon takes a lair action 
 
 At your discretion, a legendary ([adult](/compendium/bestiary/dragon/adult-white-dragon.md) or [ancient](/compendium/bestiary/dragon/ancient-white-dragon.md)) white dragon can use one or both of the following additional lair actions while in its lair:
 
-- **Blinding Sleet.** Driving sleet falls in a 40-foot-high, 20-foot-radius cylinder centered on a point the dragon can see within 120 feet of it. Each creature in that area must succeed on a DC 15 Constitution saving throw or be [blinded](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#blinded) until initiative count 20 on the next round.  
+- **Blinding Sleet.** Driving sleet falls in a 40-foot-high, 20-foot-radius cylinder centered on a point the dragon can see within 120 feet of it. Each creature in that area must succeed on a DC 15 Constitution saving throw or be [blinded](/compendium/rules/conditions.md#blinded) until initiative count 20 on the next round.  
 - **Whirling Wind.** A strong wind blows in a 30-foot-radius sphere centered on the dragon (see the "Dungeon Master's Guide" for rules on "strong wind"). The dragon's flying is not affected by this wind, which lasts until the next time the dragon uses a lair action or until the dragon dies.  
 
 ## Regional effects

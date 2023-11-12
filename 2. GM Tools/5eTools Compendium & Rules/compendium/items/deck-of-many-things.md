@@ -99,7 +99,7 @@ Every magic item you wear or carry disintegrates. Artifacts in your possession a
 
 ## The Void
 
-This black card spells disaster. Your soul is drawn from your body and contained in an object in a place of the DM's choice. One or more powerful beings guard the place. While your soul is trapped in this way, your body is [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated). A [wish](/compendium/spells/wish.md) spell can't restore your soul, but the spell reveals the location of the object that holds it. You draw no more cards.
+This black card spells disaster. Your soul is drawn from your body and contained in an object in a place of the DM's choice. One or more powerful beings guard the place. While your soul is trapped in this way, your body is [incapacitated](/compendium/rules/conditions.md#incapacitated). A [wish](/compendium/spells/wish.md) spell can't restore your soul, but the spell reveals the location of the object that holds it. You draw no more cards.
 
 ## Flames
 

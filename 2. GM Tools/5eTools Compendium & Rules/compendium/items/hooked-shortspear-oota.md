@@ -17,6 +17,6 @@ aliases:
 - **Properties**: [Light](/compendium/rules/item-properties.md#Light), Martial
 - **Weight**: 2.0 lbs.
 
-On a hit with this weapon, the wielder can forgo dealing damage and attempt to trip the target, in which case the target must succeed on a Strength saving throw or fall [prone](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#prone). The DC is 8 + the wielder's Strength modifier + the wielder's proficiency bonus.
+On a hit with this weapon, the wielder can forgo dealing damage and attempt to trip the target, in which case the target must succeed on a Strength saving throw or fall [prone](/compendium/rules/conditions.md#prone). The DC is 8 + the wielder's Strength modifier + the wielder's proficiency bonus.
 
 *Source: Out of the Abyss p. 224*

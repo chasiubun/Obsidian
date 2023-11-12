@@ -27,7 +27,7 @@ Also at 3rd level, you learn to inspire others in battle. A creature that has a 
 
 ### Extra Attack (Level 6)
 
-Starting at 6th level, you can attack twice, instead of once, whenever you take the [Attack](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Attack) action on your turn.
+Starting at 6th level, you can attack twice, instead of once, whenever you take the [Attack](/compendium/rules/actions.md#Attack) action on your turn.
 
 ### Battle Magic (Level 14)
 

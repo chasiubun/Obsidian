@@ -38,7 +38,7 @@ Starting at 3rd level, you always have certain spells prepared after you reach p
 
 ### Experimental Elixir (Level 3)
 
-Beginning at 3rd level, whenever you finish a long rest, you can magically produce an *experimental elixir* in an empty flask you touch. Roll on the Experimental Elixir table for the elixir's effect, which is triggered when someone drinks the elixir. As an action, a creature can drink the elixir or administer it to an [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated) creature.
+Beginning at 3rd level, whenever you finish a long rest, you can magically produce an *experimental elixir* in an empty flask you touch. Roll on the Experimental Elixir table for the elixir's effect, which is triggered when someone drinks the elixir. As an action, a creature can drink the elixir or administer it to an [incapacitated](/compendium/rules/conditions.md#incapacitated) creature.
 
 Creating an *experimental elixir* requires you to have [alchemist's supplies](/compendium/items/alchemists-supplies.md) on your person, and any elixir you create with this feature lasts until it is drunk or until the end of your next long rest.
 
@@ -73,5 +73,5 @@ Starting at 9th level, you can incorporate restorative reagents into some of you
 
 By 15th level, you have been exposed to so many chemicals that they pose little risk to you, and you can use them to quickly end certain ailments:
 
-- You gain resistance to acid damage and poison damage, and you are immune to the [poisoned](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#poisoned) condition.  
+- You gain resistance to acid damage and poison damage, and you are immune to the [poisoned](/compendium/rules/conditions.md#poisoned) condition.  
 - You can cast [greater restoration](/compendium/spells/greater-restoration.md) and [heal](/compendium/spells/heal.md) without expending a spell slot, without preparing the spell, and without material components, provided you use [alchemist's supplies](/compendium/items/alchemists-supplies.md) as the spellcasting focus. Once you cast either spell with this feature, you can't cast that spell with it again until you finish a long rest.

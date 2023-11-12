@@ -33,12 +33,12 @@ Beginning at 6th level, casting divination spells comes so easily to you that it
 
 ### The Third Eye (Level 10)
 
-Starting at 10th level, you can use your action to increase your powers of perception. When you do so, choose one of the following benefits, which lasts until you are [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated) or you take a short or long rest. You can't use the feature again until you finish a rest.
+Starting at 10th level, you can use your action to increase your powers of perception. When you do so, choose one of the following benefits, which lasts until you are [incapacitated](/compendium/rules/conditions.md#incapacitated) or you take a short or long rest. You can't use the feature again until you finish a rest.
 
 - **Darkvision.** You gain [darkvision](/compendium/rules/senses.md#darkvision) out to a range of 60 feet.  
 - **Ethereal Sight.** You can see into the Ethereal Plane within 60 feet of you.  
 - **Greater Comprehension.** You can read any language.  
-- **See Invisibility.** You can see [invisible](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#invisible) creatures and objects within 10 feet of you that are within line of sight.  
+- **See Invisibility.** You can see [invisible](/compendium/rules/conditions.md#invisible) creatures and objects within 10 feet of you that are within line of sight.  
 
 ### Greater Portent (Level 14)
 

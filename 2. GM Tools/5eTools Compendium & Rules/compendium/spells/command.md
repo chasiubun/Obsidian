@@ -41,7 +41,7 @@ The target spends its turn moving away from you by the fastest available means.
 
 ## Grovel
 
-The target falls [prone](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#prone) and then ends its turn.
+The target falls [prone](/compendium/rules/conditions.md#prone) and then ends its turn.
 
 ## Halt
 

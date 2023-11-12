@@ -13,4 +13,4 @@ You learn the [find familiar](/compendium/spells/find-familiar.md) spell and can
 
 When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: [imp](/compendium/bestiary/fiend/imp.md), [pseudodragon](/compendium/bestiary/dragon/pseudodragon.md), [quasit](/compendium/bestiary/fiend/quasit.md), or [sprite](/compendium/bestiary/fey/sprite.md).
 
-Additionally, when you take the [Attack](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Attack) action, you can forgo one of your own attacks to allow your familiar to use its reaction to make one attack of its own.
+Additionally, when you take the [Attack](/compendium/rules/actions.md#Attack) action, you can forgo one of your own attacks to allow your familiar to use its reaction to make one attack of its own.

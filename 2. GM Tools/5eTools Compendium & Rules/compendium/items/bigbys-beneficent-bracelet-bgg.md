@@ -37,6 +37,6 @@ The bracelet can create up to three copies and regains all expended uses at dawn
 
 ## Helpful Hand
 
-As an action, you can use the bracelet to cast [Bigby's hand](/compendium/spells/bigbys-hand.md) as a 9th-level spell (spell attack bonus +13). When you cast the spell this way, the spell doesn't require [concentration](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#concentration). Once this property is used, it can't be used again until the next dawn.
+As an action, you can use the bracelet to cast [Bigby's hand](/compendium/spells/bigbys-hand.md) as a 9th-level spell (spell attack bonus +13). When you cast the spell this way, the spell doesn't require [concentration](/compendium/rules/conditions.md#concentration). Once this property is used, it can't be used again until the next dawn.
 
 *Source: Bigby Presents: Glory of the Giants p. 111*

@@ -27,7 +27,7 @@ As long as you are within range of the illusion, you can use your action to caus
 
 Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence ([Investigation](/compendium/rules/skills.md#Investigation)) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and its other sensory qualities become faint to the creature.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the spell lasts until dispelled, without requiring your [concentration](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#concentration).
+**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the spell lasts until dispelled, without requiring your [concentration](/compendium/rules/conditions.md#concentration).
 
 **Classes**: [Bard](/compendium/classes/bard.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Sorcerer](/compendium/classes/sorcerer.md), [Warlock](/compendium/classes/warlock.md), [Wizard](/compendium/classes/wizard.md)
 

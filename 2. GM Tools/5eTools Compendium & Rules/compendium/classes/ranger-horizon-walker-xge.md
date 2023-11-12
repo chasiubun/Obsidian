@@ -54,7 +54,7 @@ Once you use this feature, you can't use it again until you finish a short or lo
 
 ### Distant Strike (Level 11)
 
-At 11th level, you gain the ability to pass between the planes in the blink of an eye. When you take the [Attack](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Attack) action, you can teleport up to 10 feet before each attack to an unoccupied space you can see.
+At 11th level, you gain the ability to pass between the planes in the blink of an eye. When you take the [Attack](/compendium/rules/actions.md#Attack) action, you can teleport up to 10 feet before each attack to an unoccupied space you can see.
 
 If you attack at least two different creatures with the action, you can make one additional attack with it against a third creature.
 

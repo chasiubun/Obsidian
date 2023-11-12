@@ -24,7 +24,7 @@ A basilisk born and raised in captivity can be domesticated and trained. Such a 
 
 Basilisks are ponderous for hunting creatures, but they needn't chase prey. Meeting a basilisk's supernatural gaze can be enough to affect a rapid transformation, transforming a victim into porous stone. Basilisks, with their strong jaws, are able to consume the stone. The stone returns to organic form in the basilisk's gullet.
 
-Some alchemists are said to know how to process the basilisk's gullet and the fluids contained within. Properly handled, the gullet produces an oil that can return [petrified](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#petrified) creatures to flesh and life. Unfortunately for such a victim, any parts lost in stone form remain absent if the creature revives. Revivification using the oil is impossible if a vital part of the [petrified](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#petrified) creature, such as its head, is detached.
+Some alchemists are said to know how to process the basilisk's gullet and the fluids contained within. Properly handled, the gullet produces an oil that can return [petrified](/compendium/rules/conditions.md#petrified) creatures to flesh and life. Unfortunately for such a victim, any parts lost in stone form remain absent if the creature revives. Revivification using the oil is impossible if a vital part of the [petrified](/compendium/rules/conditions.md#petrified) creature, such as its head, is detached.
 
 > [!quote]- A quote from X the Mystic's 4th rule of dungeon survival  
 > 

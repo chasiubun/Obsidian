@@ -31,7 +31,7 @@ You have advantage on saving throws against spells.
 
 ### Poison Resilience
 
-You have advantage on saving throws you make to avoid or end the [poisoned](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#poisoned) condition on yourself. You also have resistance to poison damage.
+You have advantage on saving throws you make to avoid or end the [poisoned](/compendium/rules/conditions.md#poisoned) condition on yourself. You also have resistance to poison damage.
 
 ### Serpentine Spellcasting
 

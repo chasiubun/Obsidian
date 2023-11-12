@@ -95,7 +95,7 @@ You customize your armor for subtle undertakings. It has the following features:
 
 *5th-level Armorer feature*
 
-You can attack twice, rather than once, whenever you take the [Attack](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Attack) action on your turn.
+You can attack twice, rather than once, whenever you take the [Attack](/compendium/rules/actions.md#Attack) action on your turn.
 
 ### Armor Modifications (Level 9)
 

@@ -76,7 +76,7 @@ Immediately after you deal damage to a creature with your Divine Smite feature, 
 
 *7th-level Oath of Glory feature*
 
-You emanate an aura that fills you and your companions with supernatural speed, allowing you to race across a battlefield in formation. Your walking speed increases by 10 feet. In addition, if you aren't [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated), the walking speed of any ally who starts their turn within 5 feet of you increases by 10 feet until the end of that turn.
+You emanate an aura that fills you and your companions with supernatural speed, allowing you to race across a battlefield in formation. Your walking speed increases by 10 feet. In addition, if you aren't [incapacitated](/compendium/rules/conditions.md#incapacitated), the walking speed of any ally who starts their turn within 5 feet of you increases by 10 feet until the end of that turn.
 
 When you reach 18th level in this class, the range of the aura increases to 10 feet.
 

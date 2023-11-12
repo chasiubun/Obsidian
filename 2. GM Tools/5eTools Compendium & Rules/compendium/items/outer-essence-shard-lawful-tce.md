@@ -20,6 +20,6 @@ When you use a Metamagic option on a spell while you are holding or wearing the 
 
 ## Property
 
-You can end one of the following conditions affecting yourself or one creature you can see within 30 feet of you: [charmed](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#charmed), [blinded](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#blinded), [deafened](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#deafened), [frightened](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#frightened), [poisoned](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#poisoned), or [stunned](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#stunned).
+You can end one of the following conditions affecting yourself or one creature you can see within 30 feet of you: [charmed](/compendium/rules/conditions.md#charmed), [blinded](/compendium/rules/conditions.md#blinded), [deafened](/compendium/rules/conditions.md#deafened), [frightened](/compendium/rules/conditions.md#frightened), [poisoned](/compendium/rules/conditions.md#poisoned), or [stunned](/compendium/rules/conditions.md#stunned).
 
 *Source: Tasha's Cauldron of Everything p. 133*

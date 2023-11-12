@@ -22,7 +22,7 @@ As an action, you can channel the orb's magic to hold your ground. For the next 
 
 ## Stone Soul
 
-You can't be [petrified](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#petrified).
+You can't be [petrified](/compendium/rules/conditions.md#petrified).
 
 ## Earthen Step
 
@@ -33,6 +33,6 @@ You can cast [meld into stone](/compendium/spells/meld-into-stone.md) as a bonus
 You can transfer the orb's magic to a nonmagical item—a shield or a pair of boots—by tracing the stein rune there with your finger. The transfer takes 8 hours of work that requires the two items to be within 5 feet of each other. At the end, the orb is destroyed, and the rune appears in silver on the chosen item, which gains a benefit based on its form:
 
 - **Shield.** The shield is now a rare magic item that requires attunement. While you wield it, you have resistance to all damage dealt by ranged weapon attacks.  
-- **Boots.** The pair of boots is now an uncommon magic item that requires attunement. While you wear the boots, you have advantage on Strength saving throws, and you can use your reaction to avoid being knocked [prone](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#prone).  
+- **Boots.** The pair of boots is now an uncommon magic item that requires attunement. While you wear the boots, you have advantage on Strength saving throws, and you can use your reaction to avoid being knocked [prone](/compendium/rules/conditions.md#prone).  
 
 *Source: Storm King's Thunder p. 235*

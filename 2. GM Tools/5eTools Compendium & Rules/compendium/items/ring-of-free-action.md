@@ -14,6 +14,6 @@ aliases:
 *Ring, major, rare (requires attunement)*  
 
 
-While you wear this ring, difficult terrain doesn't cost you extra movement. In addition, magic can neither reduce your speed nor cause you to be [paralyzed](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#paralyzed) or [restrained](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#restrained).
+While you wear this ring, difficult terrain doesn't cost you extra movement. In addition, magic can neither reduce your speed nor cause you to be [paralyzed](/compendium/rules/conditions.md#paralyzed) or [restrained](/compendium/rules/conditions.md#restrained).
 
 *Source: Dungeon Master's Guide p. 191. Available in the SRD.*

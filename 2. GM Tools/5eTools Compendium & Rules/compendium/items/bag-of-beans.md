@@ -22,7 +22,7 @@ If you remove a bean from the bag, plant it in dirt or sand, and then water it, 
 
 | dice: d100 | Effect |
 |------------|--------|
-| 01 | `5d4` toadstools sprout. If a creature eats a toadstool, roll any die. On an odd roll, the eater must succeed on a DC 15 Constitution saving throw or take `5d6` poison damage and become [poisoned](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#poisoned) for 1 hour. On an even roll, the eater gains `5d6` temporary hit points for 1 hour. |
+| 01 | `5d4` toadstools sprout. If a creature eats a toadstool, roll any die. On an odd roll, the eater must succeed on a DC 15 Constitution saving throw or take `5d6` poison damage and become [poisoned](/compendium/rules/conditions.md#poisoned) for 1 hour. On an even roll, the eater gains `5d6` temporary hit points for 1 hour. |
 | 02-10 | A geyser erupts and spouts water, beer, berry juice, tea, vinegar, wine, or oil (DM's choice) 30 feet into the air for `1d12` rounds. |
 | 11-20 | A [treant](/compendium/bestiary/plant/treant.md) sprouts. There's a 50% chance chance that the treant is chaotic evil and attacks. |
 | 21-30 | An animate, immobile stone statue in your likeness rises. It makes verbal threats against you. If you leave it and others come near, it describes you as the most heinous of villains and directs the newcomers to find and attack you. If you are on the same plane of existence as the statue, it knows where you are. The statue becomes inanimate after 24 hours. |

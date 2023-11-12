@@ -1,15 +1,24 @@
 [
+  "obsidian-banners",
+  "obsidian-image-toolkit",
+  "obsidian-timeline",
   "dataview",
+  "obsidian-excalidraw-plugin",
   "table-editor-obsidian",
   "templater-obsidian",
   "obsidian-git",
   "obsidian-style-settings",
-  "obsidian-admonition",
+  "dbfolder",
+  "various-complements",
   "buttons",
-  "obsidian-banners",
-  "obsidian-image-toolkit",
   "obsidian-leaflet-plugin",
   "fantasy-calendar",
   "obsidian-5e-statblocks",
-  "obsidian-timeline"
+  "supercharged-links-obsidian",
+  "alx-folder-note",
+  "folder-note-core",
+  "obsidian-view-mode-by-frontmatter",
+  "initiative-tracker",
+  "obsidian-admonition",
+  "image-window"
 ]

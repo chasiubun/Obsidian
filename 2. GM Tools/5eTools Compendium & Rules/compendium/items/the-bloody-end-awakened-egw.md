@@ -50,7 +50,7 @@ When the morningstar reaches an awakened state, it gains the following propertie
 
 - The weapon's bonus to attack and damage rolls increases to +2.  
 - The saving throw DC for spells cast from the morningstar increases to 15.  
-- When you reduce a creature to 0 hit points with an attack using The Bloody End, you can cause the following effect: each creature of your choice within 15 feet of you must succeed on a DC 15 Wisdom saving throw or be [frightened](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#frightened) of you until the end of your next turn. This property can't be used again until the next dawn.  
+- When you reduce a creature to 0 hit points with an attack using The Bloody End, you can cause the following effect: each creature of your choice within 15 feet of you must succeed on a DC 15 Wisdom saving throw or be [frightened](/compendium/rules/conditions.md#frightened) of you until the end of your next turn. This property can't be used again until the next dawn.  
 - When a creature hits you with a melee attack, you can use your reaction to deal `1d6` psychic damage to the attacker.  
 
 *Source: Explorer's Guide to Wildemount p. 278, Derived from *

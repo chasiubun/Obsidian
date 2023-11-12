@@ -222,7 +222,7 @@ _Source: Tasha's Cauldron of Everything p. 56_
 
 *1st-level ranger [optional class features](/compendium/rules/variant-rules/optional-class-features-tce.md), which replaces the Favored Enemy feature and works with the Foe Slayer feature*
 
-When you hit a creature with an attack roll, you can call on your mystical bond with nature to mark the target as your favored enemy for 1 minute or until you lose your [concentration](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#concentration) (as if you were concentrating on a spell).
+When you hit a creature with an attack roll, you can call on your mystical bond with nature to mark the target as your favored enemy for 1 minute or until you lose your [concentration](/compendium/rules/conditions.md#concentration) (as if you were concentrating on a spell).
 
 The first time on each of your turns that you hit the favored enemy and deal damage to it, including when you mark it, you can increase that damage by `1d4`.
 
@@ -343,7 +343,7 @@ Whenever you reach a level in this class that grants the Ability Score Improveme
 
 ### Extra Attack (Level 5)
 
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Attack) action on your turn.
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack](/compendium/rules/actions.md#Attack) action on your turn.
 
 ### Favored Enemy and Natural Explorer improvements (Level 6)
 
@@ -387,7 +387,7 @@ _Source: Tasha's Cauldron of Everything p. 56_
 
 *10th-level ranger [optional class features](/compendium/rules/variant-rules/optional-class-features-tce.md), which replaces the Hide in Plain Sight feature*
 
-You draw on the powers of nature to hide yourself from view briefly. As a bonus action, you can magically become [invisible](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#invisible), along with any equipment you are wearing or carrying, until the start of your next turn.
+You draw on the powers of nature to hide yourself from view briefly. As a bonus action, you can magically become [invisible](/compendium/rules/conditions.md#invisible), along with any equipment you are wearing or carrying, until the start of your next turn.
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
@@ -404,7 +404,7 @@ You gain an additional benefit when you reach 10th level in this class.
 
 As an action, you can give yourself a number of temporary hit points equal to `1d8` + your Wisdom modifier (minimum of 1 temporary hit point). You can use this action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
-In addition, whenever you finish a short rest, your [exhaustion](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#exhaustion) level, if any, is decreased by 1.
+In addition, whenever you finish a short rest, your [exhaustion](/compendium/rules/conditions.md#exhaustion) level, if any, is decreased by 1.
 
 ### Ranger Archetype feature (Level 11)
 
@@ -418,7 +418,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Vanish (Level 14)
 
-Starting at 14th level, you can use the [Hide](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Hide) action as a bonus action on your turn. Also, you can't be tracked by nonmagical means, unless you choose to leave a trail.
+Starting at 14th level, you can use the [Hide](/compendium/rules/actions.md#Hide) action as a bonus action on your turn. Also, you can't be tracked by nonmagical means, unless you choose to leave a trail.
 
 ### Favored Enemy improvement (Level 14)
 
@@ -436,7 +436,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Feral Senses (Level 18)
 
-At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it. You are also aware of the location of any [invisible](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#invisible) creature within 30 feet of you, provided that the creature isn't hidden from you and you aren't [blinded](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#blinded) or [deafened](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#deafened).
+At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it. You are also aware of the location of any [invisible](/compendium/rules/conditions.md#invisible) creature within 30 feet of you, provided that the creature isn't hidden from you and you aren't [blinded](/compendium/rules/conditions.md#blinded) or [deafened](/compendium/rules/conditions.md#deafened).
 
 ### Ability Score Improvement (Level 19)
 

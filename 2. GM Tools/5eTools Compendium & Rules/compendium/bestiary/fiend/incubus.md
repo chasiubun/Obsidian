@@ -24,7 +24,7 @@ Inevitably, the fiend enters the mortal realm in tempting form to directly influ
 
 A mortal bequeaths its soul to the fiend not by formal pledge or contract. Instead, when a succubus or incubus has corrupted a creature completely-some say by causing the victim to commit the three betrayals of thought, word, and deed-the victim's soul belongs to the fiend. The more virtuous the fiend's prey, the longer the corruption takes, but the more rewarding the downfall. After successfully corrupting a victim, the succubus or incubus kills it, and the tainted soul descends into the Lower Planes.
 
-The succubus or incubus resorts to charming a victim magically only when necessary, usually as a form of self-defense. A [charmed](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#charmed) creature isn't responsible for its actions, so forcing it to behave against its will won't bring the fiend closer to the ultimate prize: the victim's soul.
+The succubus or incubus resorts to charming a victim magically only when necessary, usually as a form of self-defense. A [charmed](/compendium/rules/conditions.md#charmed) creature isn't responsible for its actions, so forcing it to behave against its will won't bring the fiend closer to the ultimate prize: the victim's soul.
 
 ## Deadly Kiss
 

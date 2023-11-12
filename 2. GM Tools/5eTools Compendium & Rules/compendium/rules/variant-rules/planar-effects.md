@@ -40,7 +40,7 @@ A [calm emotions](/compendium/spells/calm-emotions.md) spell removes despair, as
 
 ## Outer Planes: Psychic Dissonance
 
-Each of the Outer Planes emanates a psychic dissonance that affects visitors of an incompatible alignment—good creatures on the Lower Planes, evil ones on the Upper Planes—if they spend too much time on the plane. You can reflect this dissonance with this optional rule. At the end of a long rest spent on an incompatible plane, a visitor must make a DC 10 Constitution saving throw. On a failed save, the creature gains one level of [exhaustion](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#exhaustion). Incompatibility between lawful and chaotic alignments doesn't have the same effect, so Mechanus and Limbo lack this quality.
+Each of the Outer Planes emanates a psychic dissonance that affects visitors of an incompatible alignment—good creatures on the Lower Planes, evil ones on the Upper Planes—if they spend too much time on the plane. You can reflect this dissonance with this optional rule. At the end of a long rest spent on an incompatible plane, a visitor must make a DC 10 Constitution saving throw. On a failed save, the creature gains one level of [exhaustion](/compendium/rules/conditions.md#exhaustion). Incompatibility between lawful and chaotic alignments doesn't have the same effect, so Mechanus and Limbo lack this quality.
 
 ## Mount Celestia: Blessed Beneficence
 
@@ -80,7 +80,7 @@ Finally, a creature can use an action to make an Intelligence check to stabilize
 
 ## Pandemonium: Mad Winds
 
-A visitor must make a DC 10 Wisdom saving throw after each hour spent among the howling winds. On a failed save, the creature gains one level of [exhaustion](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#exhaustion). A creature that reaches six levels of [exhaustion](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#exhaustion) while on this plane doesn't die. Instead, the creature gains a random form of indefinite madness, as described in chapter 8, "Running the Game." Finishing a long rest doesn't reduce a creature's [exhaustion](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#exhaustion) level unless the creature can somehow escape the maddening winds.
+A visitor must make a DC 10 Wisdom saving throw after each hour spent among the howling winds. On a failed save, the creature gains one level of [exhaustion](/compendium/rules/conditions.md#exhaustion). A creature that reaches six levels of [exhaustion](/compendium/rules/conditions.md#exhaustion) while on this plane doesn't die. Instead, the creature gains a random form of indefinite madness, as described in chapter 8, "Running the Game." Finishing a long rest doesn't reduce a creature's [exhaustion](/compendium/rules/conditions.md#exhaustion) level unless the creature can somehow escape the maddening winds.
 
 ## The Abyss: Abyssal Corruption
 
@@ -108,7 +108,7 @@ Portals and gates that open onto the plane become one-way only. Secret ways out 
 
 ## Hades: Vile Transformation
 
-At the end of each long rest taken on the plane, a visitor must make a DC 10 Wisdom saving throw. On a failed save, the creature gains one level of [exhaustion](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#exhaustion), which can't be removed while the creature remains in Hades. If the creature reaches six levels of [exhaustion](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#exhaustion), it doesn't die. Instead, the creature permanently transforms into a larva, whereupon all levels of [exhaustion](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#exhaustion) afflicting the creature are removed.
+At the end of each long rest taken on the plane, a visitor must make a DC 10 Wisdom saving throw. On a failed save, the creature gains one level of [exhaustion](/compendium/rules/conditions.md#exhaustion), which can't be removed while the creature remains in Hades. If the creature reaches six levels of [exhaustion](/compendium/rules/conditions.md#exhaustion), it doesn't die. Instead, the creature permanently transforms into a larva, whereupon all levels of [exhaustion](/compendium/rules/conditions.md#exhaustion) afflicting the creature are removed.
 
 A larva is a miserable fiend that retains the facial features of its previous form but has the body of a fat worm. A larva has only a few faint memories of its previous life and the statistics in the [larva](/compendium/bestiary/fiend/larva-dmg.md) stat block. Hades is crawling with larvae. Night hags, liches, and rakshasas harvest them for use in vile rituals. Other fiends like to feed on them.
 
@@ -134,4 +134,4 @@ At the end of each long rest taken on this plane, a visitor that isn't lawful ne
 
 ## Arcadia: Planar Vitality
 
-While on this plane, creatures can't be [frightened](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#frightened) or [poisoned](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#poisoned), and they are immune to disease and poisons.
+While on this plane, creatures can't be [frightened](/compendium/rules/conditions.md#frightened) or [poisoned](/compendium/rules/conditions.md#poisoned), and they are immune to disease and poisons.

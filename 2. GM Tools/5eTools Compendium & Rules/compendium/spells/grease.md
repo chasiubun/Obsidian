@@ -21,7 +21,7 @@ aliases: ["Grease"]
 
 Slick grease covers the ground in a 10-foot square centered on a point within range and turns it into difficult terrain for the duration.
 
-When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or fall [prone](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#prone). A creature that enters the area or ends its turn there must also succeed on a Dexterity saving throw or fall [prone](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#prone).
+When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or fall [prone](/compendium/rules/conditions.md#prone). A creature that enters the area or ends its turn there must also succeed on a Dexterity saving throw or fall [prone](/compendium/rules/conditions.md#prone).
 
 **Classes**: [Artificer](/compendium/classes/artificer-tce.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Wizard](/compendium/classes/wizard.md)
 

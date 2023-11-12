@@ -23,7 +23,7 @@ _Source: Mordenkainen's Tome of Foes_
 The region containing Baphomet's lair is warped by his magic, creating one or more of the following effects:
 
 - Plant life within 1 mile of the lair grows thick and forms walls of trees, hedges, and other flora in the form of small mazes.  
-- Beasts within 1 mile of the lair become [frightened](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#frightened) and disoriented, as though constantly under threat of being hunted, and might lash out or panic even when no visible threat is nearby.  
+- Beasts within 1 mile of the lair become [frightened](/compendium/rules/conditions.md#frightened) and disoriented, as though constantly under threat of being hunted, and might lash out or panic even when no visible threat is nearby.  
 - If a humanoid spends at least 1 hour within 1 mile of the lair, that creature must succeed on a DC 18 Wisdom saving throw or descend into a madness determined by the Madness of Baphomet table. A creature that succeeds on this saving throw can't be affected by this regional effect again for 24 hours.  
 
 If Baphomet dies, these effects fade over the course of `1d10` days.

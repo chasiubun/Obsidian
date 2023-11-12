@@ -19,7 +19,7 @@ aliases: ["Sunbeam"]
 - **Components:** V, S, a magnifying glass
 - **Duration:** Concentration, up to 1 minute
 
-A beam of brilliant light flashes out from your hand in a 5-foot-wide, 60-foot-long line. Each creature in the line must make a Constitution saving throw. On a failed save, a creature takes `6d8` radiant damage and is [blinded](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#blinded) until your next turn. On a successful save, it takes half as much damage and isn't [blinded](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#blinded) by this spell. Undead and oozes have disadvantage on this saving throw.
+A beam of brilliant light flashes out from your hand in a 5-foot-wide, 60-foot-long line. Each creature in the line must make a Constitution saving throw. On a failed save, a creature takes `6d8` radiant damage and is [blinded](/compendium/rules/conditions.md#blinded) until your next turn. On a successful save, it takes half as much damage and isn't [blinded](/compendium/rules/conditions.md#blinded) by this spell. Undead and oozes have disadvantage on this saving throw.
 
 You can create a new line of radiance as your action on any turn until the spell ends.
 

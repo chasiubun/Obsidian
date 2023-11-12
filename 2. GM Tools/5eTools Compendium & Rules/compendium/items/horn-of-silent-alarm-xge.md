@@ -13,6 +13,6 @@ aliases:
 *Wondrous Item, minor, common*  
 
 
-This horn has 4 charges. When you use an action to blow it, one creature of your choice can hear the horn's blare, provided the creature is within 600 feet of the horn and not [deafened](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#deafened). No other creature hears sound coming from the horn. The horn regains `1d4` expended charges daily at dawn.
+This horn has 4 charges. When you use an action to blow it, one creature of your choice can hear the horn's blare, provided the creature is within 600 feet of the horn and not [deafened](/compendium/rules/conditions.md#deafened). No other creature hears sound coming from the horn. The horn regains `1d4` expended charges daily at dawn.
 
 *Source: Xanathar's Guide to Everything p. 137*

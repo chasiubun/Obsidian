@@ -4,8 +4,15 @@
   "enabledCssSnippets": [
     "dnd5e-compendium",
     "compendium-obsidian-0.15",
-    "obsidian-default-theme",
     "timeline-snippet",
-    "supercharged-links-gen"
-  ]
+    "supercharged-links-gen",
+    "hide-markdown-link-url",
+    "dnd5e-only-statblock",
+    "dnd5e-only-admonitions",
+    "obsidian-default-theme",
+    "pf2-compendium",
+    "pf2-only-statblocks"
+  ],
+  "translucency": true,
+  "theme": "system"
 }

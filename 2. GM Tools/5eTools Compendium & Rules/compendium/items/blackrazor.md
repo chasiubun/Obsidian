@@ -33,9 +33,9 @@ If you hit an undead with this weapon, you take `1d10` necrotic damage and the t
 
 ## Soul Hunter
 
-While you hold the weapon. you are aware of the presence of Tiny or larger creatures within 60 feet of you that aren't constructs or undead. You also can't be [charmed](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#charmed) or [frightened](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#frightened).
+While you hold the weapon. you are aware of the presence of Tiny or larger creatures within 60 feet of you that aren't constructs or undead. You also can't be [charmed](/compendium/rules/conditions.md#charmed) or [frightened](/compendium/rules/conditions.md#frightened).
 
-Blackrazor can cast the [haste](/compendium/spells/haste.md) spell on you once per day. It decides when to cast the spell and maintains [concentration](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#concentration) on it so that you don't have to.
+Blackrazor can cast the [haste](/compendium/spells/haste.md) spell on you once per day. It decides when to cast the spell and maintains [concentration](/compendium/rules/conditions.md#concentration) on it so that you don't have to.
 
 ## Sentience
 

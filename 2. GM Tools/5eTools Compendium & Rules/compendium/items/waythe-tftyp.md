@@ -21,7 +21,7 @@ aliases:
 
 Waythe is a unique greatsword most recently in the possession of a high-ranking [cloud giant](/compendium/bestiary/giant/cloud-giant.md) ambassador.
 
-You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you hit a creature of the giant type with it, the giant takes an extra `2d6` slashing damage, and it must succeed on a DC 15 Strength saving throw or fall [prone](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#prone).
+You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you hit a creature of the giant type with it, the giant takes an extra `2d6` slashing damage, and it must succeed on a DC 15 Strength saving throw or fall [prone](/compendium/rules/conditions.md#prone).
 
 The sword also functions as a [wand of enemy detection](/compendium/items/wand-of-enemy-detection.md). It regains all of its expended charges at dawn and isn't at risk of crumbling if its last charge is used.
 

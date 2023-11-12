@@ -25,7 +25,7 @@ When its diabolical aspect shines through, a forlarren is a cunning, calculating
 
 ## A Sinister Cycle
 
-A forlarren in its fey aspect demonstrates self-destructive urges that reflect the inherent tension in its nature. That aspect might drive it to drink itself nearly to death, or to throw itself into caring for others with such relentless energy that it eventually collapses from [exhaustion](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#exhaustion). Unfortunately, when it reaches that breaking point, its diabolical nature asserts itself, and it remains in this scheming, dominating mindset until its plans are foiled and it faces defeat. Then, overwhelmed with fear and shame, the forlarren's diabolical nature fades and its fey aspect emerges once again.
+A forlarren in its fey aspect demonstrates self-destructive urges that reflect the inherent tension in its nature. That aspect might drive it to drink itself nearly to death, or to throw itself into caring for others with such relentless energy that it eventually collapses from [exhaustion](/compendium/rules/conditions.md#exhaustion). Unfortunately, when it reaches that breaking point, its diabolical nature asserts itself, and it remains in this scheming, dominating mindset until its plans are foiled and it faces defeat. Then, overwhelmed with fear and shame, the forlarren's diabolical nature fades and its fey aspect emerges once again.
 
 Several ballads of the Feywild recount the dramatic fall of valiant forlarren. In all these tales, the hero achieves some great deed only to see their sinister, diabolical side surface. Deceiving their companions during their most daunting trials, the forlarren then betrays those companions at the worst moment possible.
 

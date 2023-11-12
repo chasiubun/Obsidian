@@ -9,6 +9,6 @@ aliases: ["Falling onto a Creature"]
 # Falling onto a Creature
 *Wilderness Hazard*  
 
-If a creature falls into the space of a second creature and neither of them is Tiny, the second creature must succeed on a DC 15 Dexterity saving throw or be impacted by the falling creature, and any damage resulting from the fall is divided evenly between them. The impacted creature is also knocked [prone](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#prone), unless it is two or more sizes larger than the falling creature.
+If a creature falls into the space of a second creature and neither of them is Tiny, the second creature must succeed on a DC 15 Dexterity saving throw or be impacted by the falling creature, and any damage resulting from the fall is divided evenly between them. The impacted creature is also knocked [prone](/compendium/rules/conditions.md#prone), unless it is two or more sizes larger than the falling creature.
 
 *Source: Tasha's Cauldron of Everything p. 170*

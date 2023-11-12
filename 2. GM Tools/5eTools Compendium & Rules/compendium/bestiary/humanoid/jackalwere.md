@@ -25,7 +25,7 @@ A jackalwere prefers to fight alongside jackals and others of its kind. Under th
 
 ## Supernatural Servants
 
-Jackalweres kidnap humanoids for their lamia masters, condemning victims to a lifetime of slavery or an agonizing death. A jackalwere's magical gaze renders a foe [unconscious](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#unconscious), allowing the monster to bind a creature or drag it away.
+Jackalweres kidnap humanoids for their lamia masters, condemning victims to a lifetime of slavery or an agonizing death. A jackalwere's magical gaze renders a foe [unconscious](/compendium/rules/conditions.md#unconscious), allowing the monster to bind a creature or drag it away.
 
 A jackalwere might also use its gaze to incapacitate a deadly enemy long enough to make good its escape.
 

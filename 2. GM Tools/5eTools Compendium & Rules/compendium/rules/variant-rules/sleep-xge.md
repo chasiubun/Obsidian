@@ -8,7 +8,7 @@ aliases: ["Sleep"]
 # Sleep
 *Source: Xanathar's Guide to Everything p. 77* 
 
-Just as in the real world, D&D characters spend many hours sleeping, most often as part of a long rest. Most monsters also need to sleep. While a creature sleeps, it is subjected to the [unconscious](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#unconscious) condition. Here are a few rules that expand on that basic fact.
+Just as in the real world, D&D characters spend many hours sleeping, most often as part of a long rest. Most monsters also need to sleep. While a creature sleeps, it is subjected to the [unconscious](/compendium/rules/conditions.md#unconscious) condition. Here are a few rules that expand on that basic fact.
 
 ## Waking Someone
 
@@ -20,12 +20,12 @@ Whispers don't disturb sleep, unless a sleeper's passive Wisdom ([Perception](/c
 
 Sleeping in light armor has no adverse effect on the wearer, but sleeping in medium or heavy armor makes it difficult to recover fully during a long rest.
 
-When you finish a long rest during which you slept in medium or heavy armor, you regain only one quarter of your spent Hit Dice (minimum of one die). If you have any levels of [exhaustion](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#exhaustion), the rest doesn't reduce your [exhaustion](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#exhaustion) level.
+When you finish a long rest during which you slept in medium or heavy armor, you regain only one quarter of your spent Hit Dice (minimum of one die). If you have any levels of [exhaustion](/compendium/rules/conditions.md#exhaustion), the rest doesn't reduce your [exhaustion](/compendium/rules/conditions.md#exhaustion) level.
 
 ## Going without a Long Rest
 
 A long rest is never mandatory, but going without sleep does have its consequences. If you want to account for the effects of sleep deprivation on characters and creatures, use these rules.
 
-Whenever you end a 24-hour period without finishing a long rest, you must succeed on a DC 10 Constitution saving throw or suffer one level of [exhaustion](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#exhaustion).
+Whenever you end a 24-hour period without finishing a long rest, you must succeed on a DC 10 Constitution saving throw or suffer one level of [exhaustion](/compendium/rules/conditions.md#exhaustion).
 
-It becomes harder to fight off [exhaustion](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#exhaustion) if you stay awake for multiple days. After the first 24 hours, the DC increases by 5 for each consecutive 24-hour period without a long rest. The DC resets to 10 when you finish a long rest.
+It becomes harder to fight off [exhaustion](/compendium/rules/conditions.md#exhaustion) if you stay awake for multiple days. After the first 24 hours, the DC increases by 5 for each consecutive 24-hour period without a long rest. The DC resets to 10 when you finish a long rest.

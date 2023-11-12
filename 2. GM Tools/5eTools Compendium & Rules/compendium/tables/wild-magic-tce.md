@@ -21,5 +21,5 @@ aliases: ["Wild Magic"]
 | 5 | Whenever a creature hits you with an attack roll before your rage ends, that creature takes `1d6` force damage, as magic lashes out in retribution. |
 | 6 | Until your rage ends, you are surrounded by multi colored, protective lights; you gain a +1 bonus to AC, and while within 10 feet of you, your allies gain the same bonus. |
 | 7 | Flowers and vines temporarily grow around you. Until your rage ends, the ground within 15 feet of you is difficult terrain for your enemies. |
-| 8 | A bolt of light shoots from your chest. Another creature of your choice that you can see within 30 feet of you must succeed on a Constitution saving throw or take `1d6` radiant damage and be [blinded](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#blinded) until the start of your next turn. Until your rage ends, you can use this effect again on each of your turns as a bonus action. |
+| 8 | A bolt of light shoots from your chest. Another creature of your choice that you can see within 30 feet of you must succeed on a Constitution saving throw or take `1d6` radiant damage and be [blinded](/compendium/rules/conditions.md#blinded) until the start of your next turn. Until your rage ends, you can use this effect again on each of your turns as a bonus action. |
 ^wild-magic

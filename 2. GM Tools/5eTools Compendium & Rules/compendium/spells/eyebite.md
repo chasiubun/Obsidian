@@ -23,11 +23,11 @@ For the spell's duration, your eyes become an inky void imbued with dread power.
 
 ## Asleep
 
-The target falls [unconscious](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#unconscious). It wakes up if it takes any damage or if another creature uses its action to shake the sleeper awake.
+The target falls [unconscious](/compendium/rules/conditions.md#unconscious). It wakes up if it takes any damage or if another creature uses its action to shake the sleeper awake.
 
 ## Panicked
 
-The target is [frightened](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#frightened) of you. On each of its turns, the [frightened](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#frightened) creature must take the [Dash](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Dash) action and move away from you by the safest and shortest available route, unless there is nowhere to move. If the target moves to a place at least 60 feet away from you where it can no longer see you, this effect ends.
+The target is [frightened](/compendium/rules/conditions.md#frightened) of you. On each of its turns, the [frightened](/compendium/rules/conditions.md#frightened) creature must take the [Dash](/compendium/rules/actions.md#Dash) action and move away from you by the safest and shortest available route, unless there is nowhere to move. If the target moves to a place at least 60 feet away from you where it can no longer see you, this effect ends.
 
 ## Sickened
 

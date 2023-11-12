@@ -39,7 +39,7 @@ Each target must make a Constitution saving throw. On a failed save, a target bi
 
 ## Fear
 
-Each target must make a Wisdom saving throw and becomes [frightened](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#frightened) for 1 minute on a failed save. While [frightened](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#frightened), the target drops whatever it is holding and must move at least 30 feet away from the glyph on each of its turns, if able.
+Each target must make a Wisdom saving throw and becomes [frightened](/compendium/rules/conditions.md#frightened) for 1 minute on a failed save. While [frightened](/compendium/rules/conditions.md#frightened), the target drops whatever it is holding and must move at least 30 feet away from the glyph on each of its turns, if able.
 
 ## Hopelessness
 
@@ -51,15 +51,15 @@ Each target must make an Intelligence saving throw. On a failed save, the target
 
 ## Pain
 
-Each target must make a Constitution saving throw and becomes [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated) with excruciating pain for 1 minute on a failed save.
+Each target must make a Constitution saving throw and becomes [incapacitated](/compendium/rules/conditions.md#incapacitated) with excruciating pain for 1 minute on a failed save.
 
 ## Sleep
 
-Each target must make a Wisdom saving throw and falls [unconscious](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#unconscious) for 10 minutes on a failed save. A creature awakens if it takes damage or if someone uses an action to shake or slap it awake.
+Each target must make a Wisdom saving throw and falls [unconscious](/compendium/rules/conditions.md#unconscious) for 10 minutes on a failed save. A creature awakens if it takes damage or if someone uses an action to shake or slap it awake.
 
 ## Stunning
 
-Each target must make a Wisdom saving throw and becomes [stunned](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#stunned) for 1 minute on a failed save.
+Each target must make a Wisdom saving throw and becomes [stunned](/compendium/rules/conditions.md#stunned) for 1 minute on a failed save.
 
 ## Summary
 

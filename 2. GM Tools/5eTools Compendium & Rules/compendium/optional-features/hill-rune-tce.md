@@ -11,6 +11,6 @@ aliases: ["Hill Rune"]
 
 **Prerequisite**: 7th-level Fighter
 
-This rune's magic bestows a resilience reminiscent of a hill giant. While wearing or carrying an object that bears this rune, you have advantage on saving throws against being [poisoned](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#poisoned), and you have resistance against poison damage.
+This rune's magic bestows a resilience reminiscent of a hill giant. While wearing or carrying an object that bears this rune, you have advantage on saving throws against being [poisoned](/compendium/rules/conditions.md#poisoned), and you have resistance against poison damage.
 
 In addition, you can invoke the rune as a bonus action, gaining resistance to bludgeoning, piercing, and slashing damage for 1 minute. Once you invoke this rune, you can't do so again until you finish a short or long rest.

@@ -121,7 +121,7 @@ In addition, you have advantage on saving throws against plants that are magical
 
 ### Nature's Ward (Level 10)
 
-When you reach 10th level, you can't be [charmed](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#charmed) or [frightened](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#frightened) by elementals or fey, and you are immune to poison and disease.
+When you reach 10th level, you can't be [charmed](/compendium/rules/conditions.md#charmed) or [frightened](/compendium/rules/conditions.md#frightened) by elementals or fey, and you are immune to poison and disease.
 
 ### Nature's Sanctuary (Level 14)
 

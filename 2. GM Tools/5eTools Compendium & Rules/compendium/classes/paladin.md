@@ -335,7 +335,7 @@ Whenever you reach a level in this class that grants the Ability Score Improveme
 
 ### Extra Attack (Level 5)
 
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Attack) action on your turn.
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack](/compendium/rules/actions.md#Attack) action on your turn.
 
 ### Aura of Protection (Level 6)
 
@@ -355,7 +355,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Aura of Courage (Level 10)
 
-Starting at 10th level, you and friendly creatures within 10 feet of you can't be [frightened](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#frightened) while you are conscious.
+Starting at 10th level, you and friendly creatures within 10 feet of you can't be [frightened](/compendium/rules/conditions.md#frightened) while you are conscious.
 
 At 18th level, the range of this aura increases to 30 feet.
 

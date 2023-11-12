@@ -23,7 +23,7 @@ While wearing this armor, your hit point maximum increases by an amount equal to
 
 ## Invoking the Rune
 
-As an action, you can invoke the armor's rune to cast the [beacon of hope](/compendium/spells/beacon-of-hope.md) spell with it; the spell has a duration of 1 minute and doesn't require [concentration](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#concentration). Once the rune has been invoked, it can't be invoked again until the next dawn.
+As an action, you can invoke the armor's rune to cast the [beacon of hope](/compendium/spells/beacon-of-hope.md) spell with it; the spell has a duration of 1 minute and doesn't require [concentration](/compendium/rules/conditions.md#concentration). Once the rune has been invoked, it can't be invoked again until the next dawn.
 
 **Variants**:
 - [Chain Mail of Safeguarding](#Chain%20Mail%20of%20Safeguarding)

@@ -19,7 +19,7 @@ You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and ot
 
 ### Fast Hands (Level 3)
 
-Starting at 3rd level, you can use the bonus action granted by your Cunning Action to make a Dexterity ([Sleight of Hand](/compendium/rules/skills.md#Sleight%20of%20Hand)) check, use your [thieves' tools](/compendium/items/thieves-tools.md) to disarm a trap or open a lock, or take the [Use an Object](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Use%20an%20Object) action.
+Starting at 3rd level, you can use the bonus action granted by your Cunning Action to make a Dexterity ([Sleight of Hand](/compendium/rules/skills.md#Sleight%20of%20Hand)) check, use your [thieves' tools](/compendium/items/thieves-tools.md) to disarm a trap or open a lock, or take the [Use an Object](/compendium/rules/actions.md#Use%20an%20Object) action.
 
 ### Second-Story Work (Level 3)
 

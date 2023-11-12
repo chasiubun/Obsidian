@@ -13,6 +13,6 @@ aliases:
 
 - **Cost**: 600 gp
 
-A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become [poisoned](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#poisoned) for `4d6` hours. The [poisoned](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#poisoned) creature is [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated).
+A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become [poisoned](/compendium/rules/conditions.md#poisoned) for `4d6` hours. The [poisoned](/compendium/rules/conditions.md#poisoned) creature is [incapacitated](/compendium/rules/conditions.md#incapacitated).
 
 *Source: Dungeon Master's Guide p. 258. Available in the SRD.*

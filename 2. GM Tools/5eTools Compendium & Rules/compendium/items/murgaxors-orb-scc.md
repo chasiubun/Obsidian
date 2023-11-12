@@ -29,11 +29,11 @@ Any Humanoid you touch while holding the orb must succeed on a DC 10 Wisdom savi
 
 ## Unconsciousness
 
-The cursed creature falls [unconscious](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#unconscious) for 1 hour. The creature is roused if it takes damage or someone uses an action to shake or slap it awake.
+The cursed creature falls [unconscious](/compendium/rules/conditions.md#unconscious) for 1 hour. The creature is roused if it takes damage or someone uses an action to shake or slap it awake.
 
 ## Visions of Terror
 
-The cursed creature sees terrifying visions, causing it to view all creatures that aren't also cursed as dangerous monsters for 10 minutes. The cursed creature must use its action each round to make one attack against the nearest non-cursed creature. If the cursed creature has multiple possible targets, it attacks one at random. This effect ends if the cursed creature is [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated).
+The cursed creature sees terrifying visions, causing it to view all creatures that aren't also cursed as dangerous monsters for 10 minutes. The cursed creature must use its action each round to make one attack against the nearest non-cursed creature. If the cursed creature has multiple possible targets, it attacks one at random. This effect ends if the cursed creature is [incapacitated](/compendium/rules/conditions.md#incapacitated).
 
 After either of these effects ends, the affected creature is no longer cursed. The curse can also be removed from a creature with a [remove curse](/compendium/spells/remove-curse.md) spell or similar magic. All cases of the curse end if Murgaxor's orb is destroyed.
 

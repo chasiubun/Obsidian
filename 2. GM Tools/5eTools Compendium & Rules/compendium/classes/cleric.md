@@ -275,7 +275,7 @@ Beginning at 6th level, you can use your Channel Divinity twice between rests, a
 
 As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
 
-A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the [Dash](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Dash) action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the [Dodge](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Dodge) action.
+A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the [Dash](/compendium/rules/actions.md#Dash) action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the [Dodge](/compendium/rules/actions.md#Dodge) action.
 
 ### Channel Divinity: Harness Divine Power (Level 2)
 _Source: Tasha's Cauldron of Everything p. 30_

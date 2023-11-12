@@ -30,7 +30,7 @@ As a bonus action, you let out a cry at your enemies within 10 feet of you. Unti
 Kobold's connections to dragons can manifest in unpredictable ways in an individual kobold. Choose one of the following legacy options for your kobold.
 
 - **Craftiness.** You have proficiency in one of the following skills of your choice: [Arcana](/compendium/rules/skills.md#Arcana), [Investigation](/compendium/rules/skills.md#Investigation), [Medicine](/compendium/rules/skills.md#Medicine), [Sleight of Hand](/compendium/rules/skills.md#Sleight%20of%20Hand), or [Survival](/compendium/rules/skills.md#Survival).  
-- **Defiance.** You have advantage on saving throws to avoid or end the [frightened](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#frightened) condition on yourself.  
+- **Defiance.** You have advantage on saving throws to avoid or end the [frightened](/compendium/rules/conditions.md#frightened) condition on yourself.  
 - **Draconic Sorcery.** You know one cantrip of your choice from the sorcerer spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for that cantrip (choose when you select this race).  
 
 ## Description

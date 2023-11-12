@@ -15,4 +15,4 @@ You are uncommonly nimble for your race. You gain the following benefits:
 
 - Increase your walking speed by 5 feet.  
 - You gain proficiency in the [Acrobatics](/compendium/rules/skills.md#Acrobatics) or [Athletics](/compendium/rules/skills.md#Athletics) skill (your choice).  
-- You have advantage on any Strength ([Athletics](/compendium/rules/skills.md#Athletics)) or Dexterity ([Acrobatics](/compendium/rules/skills.md#Acrobatics)) check you make to escape from being [grappled](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#grappled).
+- You have advantage on any Strength ([Athletics](/compendium/rules/skills.md#Athletics)) or Dexterity ([Acrobatics](/compendium/rules/skills.md#Acrobatics)) check you make to escape from being [grappled](/compendium/rules/conditions.md#grappled).

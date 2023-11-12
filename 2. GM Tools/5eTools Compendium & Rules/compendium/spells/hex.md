@@ -22,7 +22,7 @@ If the target drops to 0 hit points before this spell ends, you can use a bonus 
 
 A [remove curse](/compendium/spells/remove-curse.md) cast on the target ends this spell early.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your [concentration](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#concentration) on the spell for up to 8 hours. When you use a spell slot of 5th level or higher, you can maintain your [concentration](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#concentration) on the spell for up to 24 hours.
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your [concentration](/compendium/rules/conditions.md#concentration) on the spell for up to 8 hours. When you use a spell slot of 5th level or higher, you can maintain your [concentration](/compendium/rules/conditions.md#concentration) on the spell for up to 24 hours.
 
 **Classes**: [Warlock](/compendium/classes/warlock.md)
 

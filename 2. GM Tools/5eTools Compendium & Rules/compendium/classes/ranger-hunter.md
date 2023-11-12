@@ -47,7 +47,7 @@ At 7th level, you gain one of the following features of your choice.
 
 - **Steel Will**  
 
-    You have advantage on saving throws against being [frightened](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#frightened).  
+    You have advantage on saving throws against being [frightened](/compendium/rules/conditions.md#frightened).  
 
 ### Multiattack (Level 11)
 

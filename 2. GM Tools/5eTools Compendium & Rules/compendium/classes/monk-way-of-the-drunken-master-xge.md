@@ -25,7 +25,7 @@ When you choose this tradition at 3rd level, you gain proficiency in the [Perfor
 
 ### Drunken Technique (Level 3)
 
-At 3rd level, you learn how to twist and turn quickly as part of your Flurry of Blows. Whenever you use Flurry of Blows, you gain the benefit of the [Disengage](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Disengage) action, and your walking speed increases by 10 feet until the end of the current turn.
+At 3rd level, you learn how to twist and turn quickly as part of your Flurry of Blows. Whenever you use Flurry of Blows, you gain the benefit of the [Disengage](/compendium/rules/actions.md#Disengage) action, and your walking speed increases by 10 feet until the end of the current turn.
 
 ### Tipsy Sway (Level 6)
 
@@ -33,7 +33,7 @@ Starting at 6th level, you can move in sudden, swaying ways. You gain the follow
 
 - **Leap to Your Feet**  
 
-    When you're [prone](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#prone), you can stand up by spending 5 feet of movement, rather than half your speed.  
+    When you're [prone](/compendium/rules/conditions.md#prone), you can stand up by spending 5 feet of movement, rather than half your speed.  
 
 - **Redirect Attack**  
 

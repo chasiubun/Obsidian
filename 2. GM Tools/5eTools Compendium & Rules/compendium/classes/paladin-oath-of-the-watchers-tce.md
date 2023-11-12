@@ -71,13 +71,13 @@ _Source: Tasha's Cauldron of Everything_
 
 You can use your Channel Divinity to castigate unworldly beings. As an action, you present your holy symbol and each aberration, celestial, elemental, fey, or fiend within 30 feet of you that can hear you must make a Wisdom saving throw. On a failed save, the creature is turned for 1 minute or until it takes damage.
 
-A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly end its move in a space within 30 feet of you. For its action, it can use only the [Dash](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Dash) action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can take the [Dodge](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Dodge) action.
+A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly end its move in a space within 30 feet of you. For its action, it can use only the [Dash](/compendium/rules/actions.md#Dash) action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can take the [Dodge](/compendium/rules/actions.md#Dodge) action.
 
 ### Aura of the Sentinel (Level 7)
 
 *7th-level Oath of the Watchers feature*
 
-You emit an aura of alertness while you aren't [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated). When you and any creatures of your choice within 10 feet of you roll initiative, you all gain a bonus to initiative equal to your proficiency bonus.
+You emit an aura of alertness while you aren't [incapacitated](/compendium/rules/conditions.md#incapacitated). When you and any creatures of your choice within 10 feet of you roll initiative, you all gain a bonus to initiative equal to your proficiency bonus.
 
 At 18th level, the range of this aura increases to 30 feet.
 

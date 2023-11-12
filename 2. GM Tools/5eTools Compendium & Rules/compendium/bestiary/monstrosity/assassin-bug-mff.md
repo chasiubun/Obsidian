@@ -11,7 +11,7 @@ aliases: ["Assassin Bug"]
 # Assassin Bug
 *Source: Mordenkainen's Fiendish Folio p. 4*  
 
-Assassin bugs plague the frontier and the wilderness, where they seek to hatch their voracious maggots within [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated) hosts. Resembling giant bluebottle flies, these insectile terrors bear stunted humanoid limbs hinting at the bizarre ceremonies that created them.
+Assassin bugs plague the frontier and the wilderness, where they seek to hatch their voracious maggots within [incapacitated](/compendium/rules/conditions.md#incapacitated) hosts. Resembling giant bluebottle flies, these insectile terrors bear stunted humanoid limbs hinting at the bizarre ceremonies that created them.
 
 ## Dangerous Cultivation
 
@@ -19,7 +19,7 @@ While the exact origins of the assassin bug are uncertain, rumors speak of an an
 
 ## Horrific Egg Layers
 
-An assassin bug attacks with a paralytic bite to first incapacitate its prey, making it easy to infect that [paralyzed](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#paralyzed) victim with eggs. However, they are able to infest any target as needed, and will do so to eliminate threats. Given their need to lay eggs in a living host, assassin bugs generally flee from constructs and undead. Once deposited within a living host, assassin bug eggs immediately hatch into assassin bug maggots that burrow toward their victim's heart, consuming it and killing the host unless they are quickly destroyed. After gorging themselves on the host's body over several days, the maggots emerge as juvenile assassin bugs, ready to continue their horrid life cycle.
+An assassin bug attacks with a paralytic bite to first incapacitate its prey, making it easy to infect that [paralyzed](/compendium/rules/conditions.md#paralyzed) victim with eggs. However, they are able to infest any target as needed, and will do so to eliminate threats. Given their need to lay eggs in a living host, assassin bugs generally flee from constructs and undead. Once deposited within a living host, assassin bug eggs immediately hatch into assassin bug maggots that burrow toward their victim's heart, consuming it and killing the host unless they are quickly destroyed. After gorging themselves on the host's body over several days, the maggots emerge as juvenile assassin bugs, ready to continue their horrid life cycle.
 
 ## An Unnatural Plague
 

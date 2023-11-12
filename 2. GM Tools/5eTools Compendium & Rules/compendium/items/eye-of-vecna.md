@@ -46,8 +46,8 @@ Your alignment changes to neutral evil, and you gain the following benefits:
 If you are attuned to both the hand and eye, you gain the following additional benefits:
 
 - You are immune to disease and poison.  
-- Using the eye's X-ray vision never causes you to suffer [exhaustion](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#exhaustion).  
-- You experience premonitions of danger and, unless you are [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated), can't be surprised.  
+- Using the eye's X-ray vision never causes you to suffer [exhaustion](/compendium/rules/conditions.md#exhaustion).  
+- You experience premonitions of danger and, unless you are [incapacitated](/compendium/rules/conditions.md#incapacitated), can't be surprised.  
 - If you start your turn with at least 1 hit point, you regain `1d10` hit points.  
 - If a creature has a skeleton, you can attempt to turn its bones to jelly with a touch of the [Hand of Vecna](/compendium/items/hand-of-vecna.md). You can do so by using an action to make a melee attack against a creature you can reach, using your choice of your melee attack bonus for weapons or spells. On a hit, the target must succeed on a DC 18 Constitution saving throw or drop to 0 hit points.  
 - You can use an action to cast [wish](/compendium/spells/wish.md). This property can't be used again until 30 days have passed.  

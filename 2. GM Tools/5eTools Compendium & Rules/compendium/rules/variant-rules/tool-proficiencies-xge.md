@@ -236,7 +236,7 @@ Footwear holds a surprising number of secrets. You can learn where someone has r
 
 #### Maintain Shoes
 
-As part of a long rest, you can repair your companions' shoes. For the next 24 hours, up to six creatures of your choice who wear shoes you worked on can travel up to 10 hours a day without making saving throws to avoid [exhaustion](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#exhaustion).
+As part of a long rest, you can repair your companions' shoes. For the next 24 hours, up to six creatures of your choice who wear shoes you worked on can travel up to 10 hours a day without making saving throws to avoid [exhaustion](/compendium/rules/conditions.md#exhaustion).
 
 #### Craft Hidden Compartment
 
@@ -660,7 +660,7 @@ Your training with poisons can help you when you try to recall facts about infam
 
 #### Investigation, Perception
 
-Your knowledge of poisons has taught you to handle those substances carefully, giving you an edge when you inspect [poisoned](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#poisoned) objects or try to extract clues from events that involve poison.
+Your knowledge of poisons has taught you to handle those substances carefully, giving you an edge when you inspect [poisoned](/compendium/rules/conditions.md#poisoned) objects or try to extract clues from events that involve poison.
 
 #### Medicine
 
@@ -678,7 +678,7 @@ Your proficiency allows you to handle and apply a poison without risk of exposin
 
 | Activity | DC |
 |----------|----|
-| Spot a [poisoned](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#poisoned) object | 10 |
+| Spot a [poisoned](/compendium/rules/conditions.md#poisoned) object | 10 |
 | Determine the effects of a poison | 20 |
 ^poisoners-tools
 

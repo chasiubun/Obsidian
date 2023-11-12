@@ -19,5 +19,5 @@ aliases: ["Other Adventure Hooks; Golgari Adventure Hooks"]
 | 3 | [Swarms of insects](/compendium/bestiary/beast/swarm-of-insects.md) under the control of a [Golgari shaman](/compendium/bestiary/humanoid/golgari-shaman-ggr.md) terrorize a neighborhood. |
 | 4 | Poor people who subsist on Golgari food contract a dangerous, contagious magical infection. |
 | 5 | Several kraul have moved into an old tenement and are making their neighbors nervous. |
-| 6 | A beloved statue, long assumed to be the image of some forgotten community hero, suddenly returns to life after being [petrified](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#petrified) for a hundred years. |
+| 6 | A beloved statue, long assumed to be the image of some forgotten community hero, suddenly returns to life after being [petrified](/compendium/rules/conditions.md#petrified) for a hundred years. |
 ^golgari-adventure-hooks

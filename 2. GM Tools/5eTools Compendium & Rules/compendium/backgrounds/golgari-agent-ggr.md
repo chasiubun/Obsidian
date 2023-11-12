@@ -74,7 +74,7 @@ Members of the Golgari Swarm are unmistakably products of the undercity, ill at 
 
 | dice: d6 | Bond |
 |----------|------|
-| 1 | I cherish the finger of a family member who was [petrified](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#petrified) by a medusa. |
+| 1 | I cherish the finger of a family member who was [petrified](/compendium/rules/conditions.md#petrified) by a medusa. |
 | 2 | I have an identical twin who is as different from me as any person could be. |
 | 3 | I want to lead one faction of the guild to a new position of dominance. |
 | 4 | I love spending time in the moss-covered building where I took part in my first reclamation mission. |

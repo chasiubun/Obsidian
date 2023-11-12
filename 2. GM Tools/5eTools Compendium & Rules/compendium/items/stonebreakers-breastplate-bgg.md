@@ -21,7 +21,7 @@ While wearing this breastplate, you have resistance to bludgeoning, piercing, an
 
 ## Invoking the Rune
 
-As an action, you can invoke the breastplate's rune to cast the [wall of stone](/compendium/spells/wall-of-stone.md) spell (save DC 14) with it. When you cast the spell in this way, you have advantage on saving throws made to maintain [concentration](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#concentration) on the spell.
+As an action, you can invoke the breastplate's rune to cast the [wall of stone](/compendium/spells/wall-of-stone.md) spell (save DC 14) with it. When you cast the spell in this way, you have advantage on saving throws made to maintain [concentration](/compendium/rules/conditions.md#concentration) on the spell.
 
 Once the rune has been invoked, it can't be invoked again until the next dawn.
 

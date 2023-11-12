@@ -22,17 +22,17 @@ _Source: Player's Handbook p. 290. Available in the SRD and the Basic Rules._
 ## Concentration
 _Source: Player's Handbook p. 203. Available in the SRD and the Basic Rules._
 
-Some spells require you to maintain [concentration](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#concentration) in order to keep their magic active. If you lose [concentration](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#concentration), such a spell ends.
+Some spells require you to maintain [concentration](/compendium/rules/conditions.md#concentration) in order to keep their magic active. If you lose [concentration](/compendium/rules/conditions.md#concentration), such a spell ends.
 
-If a spell must be maintained with [concentration](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#concentration), that fact appears in its Duration entry, and the spell specifies how long you can concentrate on it. You can end [concentration](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#concentration) at any time (no action required).
+If a spell must be maintained with [concentration](/compendium/rules/conditions.md#concentration), that fact appears in its Duration entry, and the spell specifies how long you can concentrate on it. You can end [concentration](/compendium/rules/conditions.md#concentration) at any time (no action required).
 
-Normal activity, such as moving and attacking, doesn't interfere with [concentration](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#concentration). The following factors can break [concentration](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#concentration):
+Normal activity, such as moving and attacking, doesn't interfere with [concentration](/compendium/rules/conditions.md#concentration). The following factors can break [concentration](/compendium/rules/conditions.md#concentration):
 
-- **Casting another spell that requires concentration.** You lose [concentration](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#concentration) on a spell if you cast another spell that requires [concentration](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#concentration). You can't concentrate on two spells at once.  
-- **Taking damage.** Whenever you take damage while you are concentrating on a spell, you must make a Constitution saving throw to maintain your [concentration](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#concentration). The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon's breath, you make a separate saving throw for each source of damage.  
-- **Being incapacitated or killed.** You lose [concentration](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#concentration) on a spell if you are [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated) or if you die.  
+- **Casting another spell that requires concentration.** You lose [concentration](/compendium/rules/conditions.md#concentration) on a spell if you cast another spell that requires [concentration](/compendium/rules/conditions.md#concentration). You can't concentrate on two spells at once.  
+- **Taking damage.** Whenever you take damage while you are concentrating on a spell, you must make a Constitution saving throw to maintain your [concentration](/compendium/rules/conditions.md#concentration). The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon's breath, you make a separate saving throw for each source of damage.  
+- **Being incapacitated or killed.** You lose [concentration](/compendium/rules/conditions.md#concentration) on a spell if you are [incapacitated](/compendium/rules/conditions.md#incapacitated) or if you die.  
 
-The DM might also decide that certain environmental phenomena, such as a wave crashing over you while you're on a storm-tossed ship, require you to succeed on a DC 10 Constitution saving throw to maintain [concentration](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#concentration) on a spell.
+The DM might also decide that certain environmental phenomena, such as a wave crashing over you while you're on a storm-tossed ship, require you to succeed on a DC 10 Constitution saving throw to maintain [concentration](/compendium/rules/conditions.md#concentration) on a spell.
 
 ## Deafened
 _Source: Player's Handbook p. 290. Available in the SRD and the Basic Rules._
@@ -72,7 +72,7 @@ _Source: Player's Handbook p. 290. Available in the SRD and the Basic Rules._
 _Source: Player's Handbook p. 290. Available in the SRD and the Basic Rules._
 
 - A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.  
-- The condition ends if the grappler is [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated).  
+- The condition ends if the grappler is [incapacitated](/compendium/rules/conditions.md#incapacitated).  
 - The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the [thunderwave](/compendium/spells/thunderwave.md) spell.  
 
 ## Incapacitated
@@ -89,7 +89,7 @@ _Source: Player's Handbook p. 291. Available in the SRD and the Basic Rules._
 ## Paralyzed
 _Source: Player's Handbook p. 291. Available in the SRD and the Basic Rules._
 
-- A paralyzed creature is [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated) and can't move or speak.  
+- A paralyzed creature is [incapacitated](/compendium/rules/conditions.md#incapacitated) and can't move or speak.  
 - The creature automatically fails Strength and Dexterity saving throws.  
 - Attack rolls against the creature have advantage.  
 - Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.  
@@ -98,7 +98,7 @@ _Source: Player's Handbook p. 291. Available in the SRD and the Basic Rules._
 _Source: Player's Handbook p. 291. Available in the SRD and the Basic Rules._
 
 - A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.  
-- The creature is [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated), can't move or speak, and is unaware of its surroundings.  
+- The creature is [incapacitated](/compendium/rules/conditions.md#incapacitated), can't move or speak, and is unaware of its surroundings.  
 - Attack rolls against the creature have advantage.  
 - The creature automatically fails Strength and Dexterity saving throws.  
 - The creature has resistance to all damage.  
@@ -126,15 +126,15 @@ _Source: Player's Handbook p. 292. Available in the SRD and the Basic Rules._
 ## Stunned
 _Source: Player's Handbook p. 292. Available in the SRD and the Basic Rules._
 
-- A stunned creature is [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated), can't move, and can speak only falteringly.  
+- A stunned creature is [incapacitated](/compendium/rules/conditions.md#incapacitated), can't move, and can speak only falteringly.  
 - The creature automatically fails Strength and Dexterity saving throws.  
 - Attack rolls against the creature have advantage.  
 
 ## Unconscious
 _Source: Player's Handbook p. 292. Available in the SRD and the Basic Rules._
 
-- An unconscious creature is [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated), can't move or speak, and is unaware of its surroundings.  
-- The creature drops whatever it's holding and falls [prone](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#prone).  
+- An unconscious creature is [incapacitated](/compendium/rules/conditions.md#incapacitated), can't move or speak, and is unaware of its surroundings.  
+- The creature drops whatever it's holding and falls [prone](/compendium/rules/conditions.md#prone).  
 - The creature automatically fails Strength and Dexterity saving throws.  
 - Attack rolls against the creature have advantage.  
 - Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.

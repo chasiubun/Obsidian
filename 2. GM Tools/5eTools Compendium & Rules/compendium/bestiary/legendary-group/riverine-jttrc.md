@@ -13,7 +13,7 @@ aliases: ["Riverine"]
 
 On initiative count 20 (losing initiative ties), the riverine can take one of the following lair actions; the riverine can't take the same lair action two rounds in a row:
 
-- **Phantasmal Mist.** The riverine creates fog around a creature it can see within 120 feet of it. The target must succeed on a DC 17 Wisdom saving throw or take 5 (`1d10`) psychic damage and be [frightened](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#frightened) of the riverine until the end of the target's next turn.  
+- **Phantasmal Mist.** The riverine creates fog around a creature it can see within 120 feet of it. The target must succeed on a DC 17 Wisdom saving throw or take 5 (`1d10`) psychic damage and be [frightened](/compendium/rules/conditions.md#frightened) of the riverine until the end of the target's next turn.  
 - **River's Fury.** The riverine conjures swampy ground that briefly covers the ground in a 20-foot square the riverine can see within 120 feet of itself. That area becomes difficult terrain until initiative count 20 on the next round. Any creature, other than the riverine, that enters the affected area or starts its turn there takes 7 (`2d6`) cold damage.  
 
 ## Regional effects

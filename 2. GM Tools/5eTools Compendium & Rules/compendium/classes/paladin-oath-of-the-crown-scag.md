@@ -62,7 +62,7 @@ When you take this oath at 3rd level, you gain the following two Channel Divinit
 
 ### Champion Challenge (Level 3)
 
-As a bonus action, you issue a challenge that compels other creatures to do battle with you. Each creature of your choice that you can see within 30 feet of you must make a Wisdom saving throw. On a failed save, a creature can't willingly move more than 30 feet away from you. This effect ends on the creature if you are [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated) or die or if the creature is more than 30 feet away from you.
+As a bonus action, you issue a challenge that compels other creatures to do battle with you. Each creature of your choice that you can see within 30 feet of you must make a Wisdom saving throw. On a failed save, a creature can't willingly move more than 30 feet away from you. This effect ends on the creature if you are [incapacitated](/compendium/rules/conditions.md#incapacitated) or die or if the creature is more than 30 feet away from you.
 
 ### Turn the Tide (Level 3)
 
@@ -74,7 +74,7 @@ Starting at 7th level, when a creature within 5 feet of you takes damage, you ca
 
 ### Unyielding Spirit (Level 15)
 
-Starting at 15th level, you have advantage on saving throws to avoid becoming [paralyzed](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#paralyzed) or [stunned](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#stunned).
+Starting at 15th level, you have advantage on saving throws to avoid becoming [paralyzed](/compendium/rules/conditions.md#paralyzed) or [stunned](/compendium/rules/conditions.md#stunned).
 
 ### Exalted Champion (Level 20)
 
@@ -84,4 +84,4 @@ At 20th level, your presence on the field of battle is an inspiration to those d
 - Your allies have advantage on death saving throws while within 30 feet of you.  
 - You have advantage on Wisdom saving throws, as do your allies within 30 feet of you.  
 
-This effect ends early if you are [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated) or die. Once you use this feature, you can't use it again until you finish a long rest.
+This effect ends early if you are [incapacitated](/compendium/rules/conditions.md#incapacitated) or die. Once you use this feature, you can't use it again until you finish a long rest.

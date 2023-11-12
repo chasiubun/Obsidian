@@ -34,6 +34,6 @@ The cannon shoots a ball of lightning to a point you can see within 1,200 feet o
 
 ## Poison Spray
 
-The cannon expels poison gas in a 60-foot cone. Each creature in that area must make a DC 15 Constitution saving throw. On a failed save, the creature takes 22 (`4d10`) poison damage and is [poisoned](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#poisoned) for 1 minute. On a successful save, the creature takes half as much damage and isn't [poisoned](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#poisoned). A creature [poisoned](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#poisoned) in this way can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+The cannon expels poison gas in a 60-foot cone. Each creature in that area must make a DC 15 Constitution saving throw. On a failed save, the creature takes 22 (`4d10`) poison damage and is [poisoned](/compendium/rules/conditions.md#poisoned) for 1 minute. On a successful save, the creature takes half as much damage and isn't [poisoned](/compendium/rules/conditions.md#poisoned). A creature [poisoned](/compendium/rules/conditions.md#poisoned) in this way can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 *Source: Explorer's Guide to Wildemount p. 265*

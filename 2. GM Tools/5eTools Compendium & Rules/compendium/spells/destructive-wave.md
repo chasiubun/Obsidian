@@ -17,7 +17,7 @@ aliases: ["Destructive Wave"]
 - **Components:** V
 - **Duration:** Instantaneous
 
-You strike the ground, creating a burst of divine energy that ripples outward from you. Each creature you choose within 30 feet of you must succeed on a Constitution saving throw or take `5d6` thunder damage, as well as `5d6` radiant or necrotic damage (your choice), and be knocked [prone](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#prone). A creature that succeeds on its saving throw takes half as much damage and isn't knocked [prone](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#prone).
+You strike the ground, creating a burst of divine energy that ripples outward from you. Each creature you choose within 30 feet of you must succeed on a Constitution saving throw or take `5d6` thunder damage, as well as `5d6` radiant or necrotic damage (your choice), and be knocked [prone](/compendium/rules/conditions.md#prone). A creature that succeeds on its saving throw takes half as much damage and isn't knocked [prone](/compendium/rules/conditions.md#prone).
 
 **Classes**: [Cleric (Tempest Domain)](/compendium/classes/cleric-tempest-domain.md), [Paladin](/compendium/classes/paladin.md)
 

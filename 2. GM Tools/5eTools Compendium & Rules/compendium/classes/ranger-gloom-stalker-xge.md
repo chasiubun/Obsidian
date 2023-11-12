@@ -36,13 +36,13 @@ Starting at 3rd level, you learn an additional spell when you reach certain leve
 
 At 3rd level, you master the art of the ambush. You can give yourself a bonus to your initiative rolls equal to your Wisdom modifier.
 
-At the start of your first turn of each combat, your walking speed increases by 10 feet, which lasts until the end of that turn. If you take the [Attack](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Attack) action on that turn, you can make one additional weapon attack as part of that action. If that attack hits, the target takes an extra `1d8` damage of the weapon's damage type.
+At the start of your first turn of each combat, your walking speed increases by 10 feet, which lasts until the end of that turn. If you take the [Attack](/compendium/rules/actions.md#Attack) action on that turn, you can make one additional weapon attack as part of that action. If that attack hits, the target takes an extra `1d8` damage of the weapon's damage type.
 
 ### Umbral Sight (Level 3)
 
 At 3rd level, you gain [darkvision](/compendium/rules/senses.md#darkvision) out to a range of 60 feet. If you already have [darkvision](/compendium/rules/senses.md#darkvision) from your race, its range increases by 30 feet.
 
-You are also adept at evading creatures that rely on [darkvision](/compendium/rules/senses.md#darkvision). While in darkness, you are [invisible](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#invisible) to any creature that relies on [darkvision](/compendium/rules/senses.md#darkvision) to see you in that darkness.
+You are also adept at evading creatures that rely on [darkvision](/compendium/rules/senses.md#darkvision). While in darkness, you are [invisible](/compendium/rules/conditions.md#invisible) to any creature that relies on [darkvision](/compendium/rules/senses.md#darkvision) to see you in that darkness.
 
 ### Iron Mind (Level 7)
 

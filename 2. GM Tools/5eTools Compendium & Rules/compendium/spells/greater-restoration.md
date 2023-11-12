@@ -23,9 +23,9 @@ aliases: ["Greater Restoration"]
 - **Components:** V, S, diamond dust worth at least 100 gp, which the spell consumes
 - **Duration:** Instantaneous
 
-You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's [exhaustion](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#exhaustion) level by one, or end one of the following effects on the target:
+You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's [exhaustion](/compendium/rules/conditions.md#exhaustion) level by one, or end one of the following effects on the target:
 
-- One effect that [charmed](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#charmed) or [petrified](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#petrified) the target  
+- One effect that [charmed](/compendium/rules/conditions.md#charmed) or [petrified](/compendium/rules/conditions.md#petrified) the target  
 - One curse, including the target's attunement to a cursed magic item  
 - Any reduction to one of the target's ability scores  
 - One effect reducing the target's hit point maximum  

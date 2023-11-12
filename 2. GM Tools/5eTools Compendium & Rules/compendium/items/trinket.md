@@ -111,7 +111,7 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 | 92 | An ornate brooch of dwarven design |
 | 93 | An empty wine bottle bearing a pretty label that says, "The Wizard of Wines Winery, Red Dragon Crush, 331422-W" |
 | 94 | A mosaic tile with a multicolored, glazed surface |
-| 95 | A [petrified](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#petrified) mouse |
+| 95 | A [petrified](/compendium/rules/conditions.md#petrified) mouse |
 | 96 | A black pirate flag adorned with a dragon's skull and crossbones |
 | 97 | A tiny mechanical crab or spider that moves about when it's not being observed |
 | 98 | A glass jar containing lard with a label that reads, "Griffon Grease" |

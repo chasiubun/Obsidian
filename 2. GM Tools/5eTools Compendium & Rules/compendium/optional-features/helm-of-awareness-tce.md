@@ -11,4 +11,4 @@ aliases: ["Helm of Awareness"]
 
 **Prerequisite**: 10th-level Artificer, A helmet (requires attunement)
 
-While wearing this helmet, a creature has advantage on initiative rolls. In addition, the wearer can't be surprised, provided it isn't [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated).
+While wearing this helmet, a creature has advantage on initiative rolls. In addition, the wearer can't be surprised, provided it isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).

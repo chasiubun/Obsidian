@@ -27,7 +27,7 @@ If you spend 10 minutes playing the harp, you can cast the [heroes' feast](/comp
 
 ## Soothing Melody
 
-As an action, you can use the harp to cast the [calm emotions](/compendium/spells/calm-emotions.md) spell (save DC 19). When the spell is cast using the harp, its duration increases to 1 hour, provided you maintain [concentration](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#concentration) on the spell. This property can be used five times, and it regains all uses at dawn.
+As an action, you can use the harp to cast the [calm emotions](/compendium/spells/calm-emotions.md) spell (save DC 19). When the spell is cast using the harp, its duration increases to 1 hour, provided you maintain [concentration](/compendium/rules/conditions.md#concentration) on the spell. This property can be used five times, and it regains all uses at dawn.
 
 ## Sentience
 

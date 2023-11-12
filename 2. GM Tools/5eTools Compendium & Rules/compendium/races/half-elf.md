@@ -30,7 +30,7 @@ Thanks to your elf blood, you have superior vision in dark and dim conditions. Y
 
 ### Fey Ancestry
 
-You have advantage on saving throws against being [charmed](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#charmed), and magic can't put you to sleep.
+You have advantage on saving throws against being [charmed](/compendium/rules/conditions.md#charmed), and magic can't put you to sleep.
 
 ### Skill Versatility
 

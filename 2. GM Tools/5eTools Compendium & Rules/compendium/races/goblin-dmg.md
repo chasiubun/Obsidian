@@ -18,7 +18,7 @@ aliases: ["Goblin (DMG)"]
 
 ### Nimble Escape
 
-You can take the [Disengage](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Disengage) or [Hide](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Hide) action as a bonus action on each of your turns.
+You can take the [Disengage](/compendium/rules/actions.md#Disengage) or [Hide](/compendium/rules/actions.md#Hide) action as a bonus action on each of your turns.
 
 ### Darkvision
 

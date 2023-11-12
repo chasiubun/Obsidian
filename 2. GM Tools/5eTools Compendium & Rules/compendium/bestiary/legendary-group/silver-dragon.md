@@ -20,7 +20,7 @@ On initiative count 20 (losing initiative ties), the dragon takes a lair action 
 
 At your discretion, a legendary ([adult](/compendium/bestiary/dragon/adult-silver-dragon.md) or [ancient](/compendium/bestiary/dragon/ancient-silver-dragon.md)) silver dragon can use the following additional lair action while in its lair:
 
-- **Icy Grip.** A sudden, supernatural chill fills the lair near the dragon. Each creature of the dragon's choice that it can see within 120 feet of it must succeed on a DC 15 Constitution saving throw or be [restrained](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#restrained) until initiative count 20 on the next round. Creatures that have resistance to cold damage have advantage on the saving throw; creatures that have immunity to cold damage succeed automatically.  
+- **Icy Grip.** A sudden, supernatural chill fills the lair near the dragon. Each creature of the dragon's choice that it can see within 120 feet of it must succeed on a DC 15 Constitution saving throw or be [restrained](/compendium/rules/conditions.md#restrained) until initiative count 20 on the next round. Creatures that have resistance to cold damage have advantage on the saving throw; creatures that have immunity to cold damage succeed automatically.  
 
 ## Regional effects
 _Source: Monster Manual_

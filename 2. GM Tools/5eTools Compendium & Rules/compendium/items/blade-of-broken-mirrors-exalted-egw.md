@@ -59,6 +59,6 @@ When the dagger reaches an exalted state, it gains the following properties:
 
 - The weapon's bonus to attack and damage rolls increases to +3.  
 - The saving throw DC for spells cast from the dagger increases to 17.  
-- While holding the dagger, you can turn [invisible](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#invisible) as an action. Anything you are wearing or carrying is [invisible](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#invisible) with you. You remain [invisible](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#invisible) until you stop holding the dagger, until you attack or cast a spell that forces a creature to make a saving throw, or until you use a bonus action to become visible again.  
+- While holding the dagger, you can turn [invisible](/compendium/rules/conditions.md#invisible) as an action. Anything you are wearing or carrying is [invisible](/compendium/rules/conditions.md#invisible) with you. You remain [invisible](/compendium/rules/conditions.md#invisible) until you stop holding the dagger, until you attack or cast a spell that forces a creature to make a saving throw, or until you use a bonus action to become visible again.  
 
 *Source: Explorer's Guide to Wildemount p. 275, Derived from *

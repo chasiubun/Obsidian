@@ -17,6 +17,6 @@ This stone is a large gem worth 150 gp.
 
 ## Curse
 
-The stone is cursed, but its magical nature is hidden; [detect magic](/compendium/spells/detect-magic.md) doesn't detect it. An [identify](/compendium/spells/identify.md) spell reveals the stone's true nature. If you use the [Dash](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Dash) or [Disengage](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Disengage) action while the stone is on your person, its curse activates. Until the curse is broken with [remove curse](/compendium/spells/remove-curse.md) or similar magic, your speed is reduced by 5 feet, and your maximum load and maximum lift capacities are halved. You also become unwilling to part with the stone.
+The stone is cursed, but its magical nature is hidden; [detect magic](/compendium/spells/detect-magic.md) doesn't detect it. An [identify](/compendium/spells/identify.md) spell reveals the stone's true nature. If you use the [Dash](/compendium/rules/actions.md#Dash) or [Disengage](/compendium/rules/actions.md#Disengage) action while the stone is on your person, its curse activates. Until the curse is broken with [remove curse](/compendium/spells/remove-curse.md) or similar magic, your speed is reduced by 5 feet, and your maximum load and maximum lift capacities are halved. You also become unwilling to part with the stone.
 
 *Source: Tales from the Yawning Portal p. 228*

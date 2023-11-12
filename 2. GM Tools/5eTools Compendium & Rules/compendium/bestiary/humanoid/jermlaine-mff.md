@@ -19,7 +19,7 @@ Jermlaine hate and resent all larger creatures. They are acutely aware that thei
 
 ## Hidden Threat
 
-The jermlaine's skin is rough, leathery, and textured like stone. Whether by the design of some sympathetic god or through sheer luck, their hide makes them appear [invisible](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#invisible) to [darkvision](/compendium/rules/senses.md#darkvision). Part of the jermlaine's anger comes from attempts to hunt them down and fashion cloaks and other material from their skin. Such experiments have yet to yield a functional magic item, and the jermlaine's hatred of outsiders is driven in part by their assumption that any who meet them seek to harvest them for such experiments.
+The jermlaine's skin is rough, leathery, and textured like stone. Whether by the design of some sympathetic god or through sheer luck, their hide makes them appear [invisible](/compendium/rules/conditions.md#invisible) to [darkvision](/compendium/rules/senses.md#darkvision). Part of the jermlaine's anger comes from attempts to hunt them down and fashion cloaks and other material from their skin. Such experiments have yet to yield a functional magic item, and the jermlaine's hatred of outsiders is driven in part by their assumption that any who meet them seek to harvest them for such experiments.
 
 ## Secret Lairs
 

@@ -13,6 +13,6 @@ aliases:
 *Wondrous Item, minor, common*  
 
 
-While held up to your ear, this horn suppresses the effects of the [deafened](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#deafened) condition on you, allowing you to hear normally.
+While held up to your ear, this horn suppresses the effects of the [deafened](/compendium/rules/conditions.md#deafened) condition on you, allowing you to hear normally.
 
 *Source: Xanathar's Guide to Everything p. 137*

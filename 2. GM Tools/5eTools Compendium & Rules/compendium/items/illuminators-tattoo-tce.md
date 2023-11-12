@@ -25,6 +25,6 @@ If your attunement to the tattoo ends, the tattoo vanishes, and the needle reapp
 
 While this tattoo is on your skin, you can write with your fingertip as if it were an ink pen that never runs out of ink.
 
-As an action, you can touch a piece of writing up to one page in length and speak a creature's name. The writing becomes [invisible](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#invisible) to everyone other than you and the named creature for the next 24 hours. Either of you can dismiss the invisibility by touching the script (no action required). Once used, this action can't be used again until the next dawn.
+As an action, you can touch a piece of writing up to one page in length and speak a creature's name. The writing becomes [invisible](/compendium/rules/conditions.md#invisible) to everyone other than you and the named creature for the next 24 hours. Either of you can dismiss the invisibility by touching the script (no action required). Once used, this action can't be used again until the next dawn.
 
 *Source: Tasha's Cauldron of Everything p. 129*

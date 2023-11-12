@@ -15,6 +15,6 @@ aliases:
 
 - **Properties**: Vestige
 
-These mithral-frame goggles with clear diamond lenses were used by the evoker Danoth Oro to spot [invisible](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#invisible) enemies and scout areas from afar.
+These mithral-frame goggles with clear diamond lenses were used by the evoker Danoth Oro to spot [invisible](/compendium/rules/conditions.md#invisible) enemies and scout areas from afar.
 
 *Source: Explorer's Guide to Wildemount p. 270*

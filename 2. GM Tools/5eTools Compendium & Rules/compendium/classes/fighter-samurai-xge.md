@@ -39,10 +39,10 @@ Starting at 10th level, when you roll initiative and have no uses of Fighting Sp
 
 ### Rapid Strike (Level 15)
 
-Starting at 15th level, you learn to trade accuracy for swift strikes. If you take the [Attack](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Attack) action on your turn and have advantage on an attack roll against one of the targets, you can forgo the advantage for that roll to make an additional weapon attack against that target, as part of the same action. You can do so no more than once per turn.
+Starting at 15th level, you learn to trade accuracy for swift strikes. If you take the [Attack](/compendium/rules/actions.md#Attack) action on your turn and have advantage on an attack roll against one of the targets, you can forgo the advantage for that roll to make an additional weapon attack against that target, as part of the same action. You can do so no more than once per turn.
 
 ### Strength before Death (Level 18)
 
-Starting at 18th level, your fighting spirit can delay the grasp of death. If you take damage that reduces you to 0 hit points and doesn't kill you outright, you can use your reaction to delay falling [unconscious](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#unconscious), and you can immediately take an extra turn, interrupting the current turn. While you have 0 hit points during that extra turn, taking damage causes death saving throw failures as normal, and three death saving throw failures can still kill you. When the extra turn ends, you fall [unconscious](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#unconscious) if you still have 0 hit points.
+Starting at 18th level, your fighting spirit can delay the grasp of death. If you take damage that reduces you to 0 hit points and doesn't kill you outright, you can use your reaction to delay falling [unconscious](/compendium/rules/conditions.md#unconscious), and you can immediately take an extra turn, interrupting the current turn. While you have 0 hit points during that extra turn, taking damage causes death saving throw failures as normal, and three death saving throw failures can still kill you. When the extra turn ends, you fall [unconscious](/compendium/rules/conditions.md#unconscious) if you still have 0 hit points.
 
 Once you use this feature, you can't use it again until you finish a long rest.

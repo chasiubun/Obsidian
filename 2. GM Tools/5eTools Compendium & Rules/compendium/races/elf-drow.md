@@ -35,7 +35,7 @@ You have proficiency in the [Perception](/compendium/rules/skills.md#Perception)
 
 ### Fey Ancestry
 
-You have advantage on saving throws against being [charmed](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#charmed), and magic can't put you to sleep.
+You have advantage on saving throws against being [charmed](/compendium/rules/conditions.md#charmed), and magic can't put you to sleep.
 
 ### Trance
 

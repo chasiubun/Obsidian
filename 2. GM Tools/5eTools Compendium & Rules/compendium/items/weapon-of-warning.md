@@ -66,7 +66,7 @@ aliases:
 *Generic Variant, major, uncommon (requires attunement)*  
 
 
-This magic weapon warns you of danger. While the weapon is on your person, you have advantage on initiative rolls. In addition, you and any of your companions within 30 feet of you can't be surprised, except when [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated) by something other than nonmagical sleep. The weapon magically awakens you and your companions within range if any of you are sleeping naturally when combat begins.
+This magic weapon warns you of danger. While the weapon is on your person, you have advantage on initiative rolls. In addition, you and any of your companions within 30 feet of you can't be surprised, except when [incapacitated](/compendium/rules/conditions.md#incapacitated) by something other than nonmagical sleep. The weapon magically awakens you and your companions within range if any of you are sleeping naturally when combat begins.
 
 **Variants**:
 - [Heavy Crossbow of Warning](#Heavy%20Crossbow%20of%20Warning)

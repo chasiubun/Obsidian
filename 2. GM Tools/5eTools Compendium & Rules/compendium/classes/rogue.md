@@ -220,7 +220,7 @@ At 6th level, you can choose two more of your proficiencies (in skills or with [
 
 Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra `1d6` damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
 
-You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated), and you don't have disadvantage on the attack roll.
+You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't [incapacitated](/compendium/rules/conditions.md#incapacitated), and you don't have disadvantage on the attack roll.
 
 The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.
 
@@ -232,7 +232,7 @@ In addition, you understand a set of secret signs and symbols used to convey sho
 
 ### Cunning Action (Level 2)
 
-Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the [Dash](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Dash), [Disengage](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Disengage), or [Hide](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Hide) action.
+Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the [Dash](/compendium/rules/actions.md#Dash), [Disengage](/compendium/rules/actions.md#Disengage), or [Hide](/compendium/rules/actions.md#Hide) action.
 
 ### Roguish Archetype (Level 3)
 
@@ -295,7 +295,7 @@ At 13th level, you gain a feature granted by your Roguish Archetype.
 
 ### Blindsense (Level 14)
 
-Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or [invisible](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#invisible) creature within 10 feet of you.
+Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or [invisible](/compendium/rules/conditions.md#invisible) creature within 10 feet of you.
 
 ### Slippery Mind (Level 15)
 
@@ -313,7 +313,7 @@ At 17th level, you gain a feature granted by your Roguish Archetype.
 
 ### Elusive (Level 18)
 
-Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated).
+Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't [incapacitated](/compendium/rules/conditions.md#incapacitated).
 
 ### Ability Score Improvement (Level 19)
 

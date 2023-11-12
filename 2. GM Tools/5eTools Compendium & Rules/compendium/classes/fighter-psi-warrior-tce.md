@@ -55,19 +55,19 @@ You have mastered new ways to use your telekinetic abilities, detailed below.
 
 - **Telekinetic Thrust**  
 
-    When you deal damage to a target with your Psionic Strike, you can force the target to make a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Intelligence modifier. If the save fails, you can knock the target [prone](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#prone) or move it up to 10 feet in any direction horizontally.  
+    When you deal damage to a target with your Psionic Strike, you can force the target to make a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Intelligence modifier. If the save fails, you can knock the target [prone](/compendium/rules/conditions.md#prone) or move it up to 10 feet in any direction horizontally.  
 
 ### Guarded Mind (Level 10)
 
 *10th-level Psi Warrior feature*
 
-The psionic energy flowing through you has bolstered your mind. You have resistance to psychic damage. Moreover, if you start your turn [charmed](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#charmed) or [frightened](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#frightened), you can expend a Psionic Energy die and end every effect on yourself subjecting you to those conditions.
+The psionic energy flowing through you has bolstered your mind. You have resistance to psychic damage. Moreover, if you start your turn [charmed](/compendium/rules/conditions.md#charmed) or [frightened](/compendium/rules/conditions.md#frightened), you can expend a Psionic Energy die and end every effect on yourself subjecting you to those conditions.
 
 ### Bulwark of Force (Level 15)
 
 *15th-level Psi Warrior feature*
 
-You can shield yourself and others with telekinetic force. As a bonus action, you can choose creatures, which can include you, that you can see within 30 feet of you, up to a number of creatures equal to your Intelligence modifier (minimum of one creature). Each of the chosen creatures is protected by half cover for 1 minute or until you're [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated).
+You can shield yourself and others with telekinetic force. As a bonus action, you can choose creatures, which can include you, that you can see within 30 feet of you, up to a number of creatures equal to your Intelligence modifier (minimum of one creature). Each of the chosen creatures is protected by half cover for 1 minute or until you're [incapacitated](/compendium/rules/conditions.md#incapacitated).
 
 Once you take this bonus action, you can't do so again until you finish a long rest, unless you expend a Psionic Energy die to take it again.
 

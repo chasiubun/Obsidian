@@ -1,0 +1,1 @@
+The [[Parhelion]] class are the 8 partitions of [[Sol]]. 

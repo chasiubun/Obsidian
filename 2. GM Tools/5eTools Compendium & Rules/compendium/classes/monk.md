@@ -217,7 +217,7 @@ You gain the following benefits while you are unarmed or wielding only monk weap
 
 - You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.  
 - You can roll a `d4` in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.  
-- When you use the [Attack](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Attack) action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the [Attack](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Attack) action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.  
+- When you use the [Attack](/compendium/rules/actions.md#Attack) action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the [Attack](/compendium/rules/actions.md#Attack) action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.  
 
 Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama).
 
@@ -235,15 +235,15 @@ Some of your ki features require your target to make a saving throw to resist th
 
 ### Flurry of Blows (Level 2)
 
-Immediately after you take the [Attack](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Attack) action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action.
+Immediately after you take the [Attack](/compendium/rules/actions.md#Attack) action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action.
 
 ### Patient Defense (Level 2)
 
-You can spend 1 ki point to take the [Dodge](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Dodge) action as a bonus action on your turn.
+You can spend 1 ki point to take the [Dodge](/compendium/rules/actions.md#Dodge) action as a bonus action on your turn.
 
 ### Step of the Wind (Level 2)
 
-You can spend 1 ki point to take the [Disengage](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Disengage) or [Dash](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Dash) action as a bonus action on your turn, and your jump distance is doubled for the turn.
+You can spend 1 ki point to take the [Disengage](/compendium/rules/actions.md#Disengage) or [Dash](/compendium/rules/actions.md#Dash) action as a bonus action on your turn, and your jump distance is doubled for the turn.
 
 ### Dedicated Weapon (Level 2)
 _Source: Tasha's Cauldron of Everything p. 48_
@@ -300,11 +300,11 @@ As an action, you can spend 2 ki points and roll a Martial Arts die. You regain 
 
 ### Extra Attack (Level 5)
 
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Attack) action on your turn.
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack](/compendium/rules/actions.md#Attack) action on your turn.
 
 ### Stunning Strike (Level 5)
 
-Starting at 5th level, you can interfere with the flow of ki in an opponent's body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be [stunned](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#stunned) until the end of your next turn.
+Starting at 5th level, you can interfere with the flow of ki in an opponent's body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be [stunned](/compendium/rules/conditions.md#stunned) until the end of your next turn.
 
 ### Focused Aim (Level 5)
 _Source: Tasha's Cauldron of Everything p. 48_
@@ -327,7 +327,7 @@ At 7th level, your instinctive agility lets you dodge out of the way of certain 
 
 ### Stillness of Mind (Level 7)
 
-Starting at 7th level, you can use your action to end one effect on yourself that is causing you to be [charmed](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#charmed) or [frightened](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#frightened).
+Starting at 7th level, you can use your action to end one effect on yourself that is causing you to be [charmed](/compendium/rules/conditions.md#charmed) or [frightened](/compendium/rules/conditions.md#frightened).
 
 ### Ability Score Improvement (Level 8)
 
@@ -379,7 +379,7 @@ At 17th level, you gain one feature granted by your Monastic Tradition.
 
 ### Empty Body (Level 18)
 
-Beginning at 18th level, you can use your action to spend 4 ki points to become [invisible](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#invisible) for 1 minute. During that time, you also have resistance to all damage but force damage.
+Beginning at 18th level, you can use your action to spend 4 ki points to become [invisible](/compendium/rules/conditions.md#invisible) for 1 minute. During that time, you also have resistance to all damage but force damage.
 
 Additionally, you can spend 8 ki points to cast the [astral projection](/compendium/spells/astral-projection.md) spell, without needing material components. When you do so, you can't take any other creatures with you.
 

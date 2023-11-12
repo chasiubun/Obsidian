@@ -44,7 +44,7 @@ The servant has [blindsight](/compendium/rules/senses.md#blindsight) with a radi
 
 ## Condition Immunities
 
-The servant can't be [blinded](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#blinded), [charmed](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#charmed), [frightened](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#frightened), or [paralyzed](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#paralyzed).
+The servant can't be [blinded](/compendium/rules/conditions.md#blinded), [charmed](/compendium/rules/conditions.md#charmed), [frightened](/compendium/rules/conditions.md#frightened), or [paralyzed](/compendium/rules/conditions.md#paralyzed).
 
 ## Languages
 

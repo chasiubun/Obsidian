@@ -37,7 +37,7 @@ While wearing the Verminshroud in its awakened state, you gain the following ben
 While wearing the Verminshroud in its exalted state, you gain the following benefits:
 
 - You gain a climbing speed equal to your walking speed.  
-- Your teeth become razor-sharp natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal piercing damage equal to `1d6` + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike. You can make this attack as a bonus action. When you bite a creature and deal damage to it, the creature must succeed on a DC 17 Constitution saving throw or be [poisoned](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#poisoned) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the condition on itself on a success.  
+- Your teeth become razor-sharp natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal piercing damage equal to `1d6` + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike. You can make this attack as a bonus action. When you bite a creature and deal damage to it, the creature must succeed on a DC 17 Constitution saving throw or be [poisoned](/compendium/rules/conditions.md#poisoned) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the condition on itself on a success.  
 - When you cast the [polymorph](/compendium/spells/polymorph.md) spell using the Verminshroud, you can transform into a [giant scorpion](/compendium/bestiary/beast/giant-scorpion.md).  
 
 *Source: Explorer's Guide to Wildemount p. 273, Derived from *

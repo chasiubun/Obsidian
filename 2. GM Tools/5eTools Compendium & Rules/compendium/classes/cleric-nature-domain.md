@@ -43,7 +43,7 @@ Also at 1st level, you gain proficiency with heavy armor.
 
 Starting at 2nd level, you can use your Channel Divinity to charm animals and plants.
 
-As an action, you present your holy symbol and invoke the name of your deity. Each beast or plant creature that can see you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is [charmed](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#charmed) by you for 1 minute or until it takes damage. While it is [charmed](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#charmed) by you, it is friendly to you and other creatures you designate.
+As an action, you present your holy symbol and invoke the name of your deity. Each beast or plant creature that can see you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is [charmed](/compendium/rules/conditions.md#charmed) by you for 1 minute or until it takes damage. While it is [charmed](/compendium/rules/conditions.md#charmed) by you, it is friendly to you and other creatures you designate.
 
 ### Dampen Elements (Level 6)
 
@@ -62,4 +62,4 @@ You are blessed with divine might in battle. When a creature takes damage from o
 
 ### Master of Nature (Level 17)
 
-At 17th level, you gain the ability to command animals and plant creatures. While creatures are [charmed](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#charmed) by your Charm Animals and Plants feature, you can take a bonus action on your turn to verbally command what each of those creatures will do on its next turn.
+At 17th level, you gain the ability to command animals and plant creatures. While creatures are [charmed](/compendium/rules/conditions.md#charmed) by your Charm Animals and Plants feature, you can take a bonus action on your turn to verbally command what each of those creatures will do on its next turn.

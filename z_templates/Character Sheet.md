@@ -1,7 +1,7 @@
 ## Physical Characteristics
 
 | -            | -   | -          | -   |
-| ------------ | --- | ---------- | --- |
+|:------------ | --- | ---------- | --- |
 | Name:        |     | Race:      |     |
 | Player Name: |     | Class:     |     |
 | Gender:      |     |            |     |
@@ -9,6 +9,7 @@
 | Age:         |     | Height:    |     |
 | Weight:      |     | Eyes:      |     |
 | Skin:        |     | Hair:      |     |
+
 
 
 ## Character Data

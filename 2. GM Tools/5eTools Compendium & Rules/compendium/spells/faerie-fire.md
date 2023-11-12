@@ -24,7 +24,7 @@ aliases: ["Faerie Fire"]
 
 Each object in a 20-foot cube within range is outlined in blue, green, or violet light (your choice). Any creature in the area when the spell is cast is also outlined in light if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed dim light in a 10-foot radius.
 
-Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected creature or object can't benefit from being [invisible](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#invisible).
+Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected creature or object can't benefit from being [invisible](/compendium/rules/conditions.md#invisible).
 
 **Classes**: [Artificer](/compendium/classes/artificer-tce.md), [Bard](/compendium/classes/bard.md), [Cleric (Light Domain)](/compendium/classes/cleric-light-domain.md), [Cleric (Twilight Domain)](/compendium/classes/cleric-twilight-domain-tce.md), [Druid](/compendium/classes/druid.md), [Ranger (Swarmkeeper)](/compendium/classes/ranger-swarmkeeper-tce.md), [Warlock (The Archfey)](/compendium/classes/warlock-the-archfey.md)
 

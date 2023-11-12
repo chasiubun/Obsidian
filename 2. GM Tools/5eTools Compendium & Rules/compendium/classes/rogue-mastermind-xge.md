@@ -25,7 +25,7 @@ Additionally, you can unerringly mimic the speech patterns and accent of a creat
 
 ### Master of Tactics (Level 3)
 
-Starting at 3rd level, you can use the [Help](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Help) action as a bonus action. Additionally, when you use the [Help](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Help) action to aid an ally in attacking a creature, the target of that attack can be within 30 feet of you, rather than within 5 feet of you, if the target can see or hear you.
+Starting at 3rd level, you can use the [Help](/compendium/rules/actions.md#Help) action as a bonus action. Additionally, when you use the [Help](/compendium/rules/actions.md#Help) action to aid an ally in attacking a creature, the target of that attack can be within 30 feet of you, rather than within 5 feet of you, if the target can see or hear you.
 
 ### Insightful Manipulator (Level 9)
 

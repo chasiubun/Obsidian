@@ -46,7 +46,7 @@ The spirit appears in an unoccupied space of your choice that you can see within
 
 The spirit is friendly to you and your companions and obeys your commands. See this creature's game statistics in the [Wildfire Spirit](/compendium/bestiary/elemental/wildfire-spirit-tce.md) stat block, which uses your proficiency bonus (PB) in several places. You determine the spirit's appearance. Some spirits take the form of a humanoid figure made of gnarled branches covered in flame, while others look like beasts wreathed in fire.
 
-In combat, the spirit shares your initiative count, but it takes its turn immediately after yours. The only action it takes on its turn is the [Dodge](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Dodge) action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated), the spirit can take any action of its choice, not just [Dodge](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Dodge).
+In combat, the spirit shares your initiative count, but it takes its turn immediately after yours. The only action it takes on its turn is the [Dodge](/compendium/rules/actions.md#Dodge) action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are [incapacitated](/compendium/rules/conditions.md#incapacitated), the spirit can take any action of its choice, not just [Dodge](/compendium/rules/actions.md#Dodge).
 
 The spirit manifests for 1 hour, until it is reduced to 0 hit points, until you use this feature to summon the spirit again, or until you die.
 
@@ -70,6 +70,6 @@ You can use this reaction a number of times equal to your proficiency bonus, and
 
 *14th-level Circle of Wildfire feature*
 
-The bond with your wildfire spirit can save you from death. If the spirit is within 120 feet of you when you are reduced to 0 hit points and thereby fall [unconscious](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#unconscious), you can cause the spirit to drop to 0 hit points. You then regain half your hit points and immediately rise to your feet.
+The bond with your wildfire spirit can save you from death. If the spirit is within 120 feet of you when you are reduced to 0 hit points and thereby fall [unconscious](/compendium/rules/conditions.md#unconscious), you can cause the spirit to drop to 0 hit points. You then regain half your hit points and immediately rise to your feet.
 
 Once you use this feature, you can't use it again until you finish a long rest.

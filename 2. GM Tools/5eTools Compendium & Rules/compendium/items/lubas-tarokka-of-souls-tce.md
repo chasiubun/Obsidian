@@ -32,7 +32,7 @@ While holding the deck, you can use an action to cast one of the following spell
 
 ## Enduring Vision
 
-While holding the deck, you automatically succeed on Constitution saving throws made to maintain your [concentration](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#concentration) on divination spells.
+While holding the deck, you automatically succeed on Constitution saving throws made to maintain your [concentration](/compendium/rules/conditions.md#concentration) on divination spells.
 
 ## Twist of Fate
 

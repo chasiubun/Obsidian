@@ -109,7 +109,7 @@ At 4th level and again at 8th, 12th, 14th, 16th, and 19th level, the sidekick in
 
 *6th-level Warrior feature*
 
-The sidekick can attack twice, instead of once, whenever it takes the [Attack](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Attack) action on its turn.
+The sidekick can attack twice, instead of once, whenever it takes the [Attack](/compendium/rules/actions.md#Attack) action on its turn.
 
 The number of attacks increases to three when the sidekick reaches 15th level.
 
@@ -157,7 +157,7 @@ At 4th level and again at 8th, 12th, 14th, 16th, and 19th level, the sidekick in
 
 *15th-level Warrior feature*
 
-The sidekick can attack twice, instead of once, whenever it takes the [Attack](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Attack) action on its turn.
+The sidekick can attack twice, instead of once, whenever it takes the [Attack](/compendium/rules/actions.md#Attack) action on its turn.
 
 The number of attacks increases to three when the sidekick reaches 15th level.
 

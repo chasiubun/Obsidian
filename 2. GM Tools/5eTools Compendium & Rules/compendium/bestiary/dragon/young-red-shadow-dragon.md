@@ -46,7 +46,7 @@ While in dim light or darkness, the dragon has resistance to damage that isn't f
 
 ### Shadow Stealth
 
-While in dim light or darkness, the dragon can take the [Hide](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Hide) action as a bonus action.
+While in dim light or darkness, the dragon can take the [Hide](/compendium/rules/actions.md#Hide) action as a bonus action.
 
 ### Sunlight Sensitivity
 

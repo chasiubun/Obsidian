@@ -16,7 +16,7 @@ A sea fury lurks in the caverns where its coven once dwelled, decorating the wal
 On initiative count 20 (losing initiative ties), the sea fury can take a lair action to cause one of the following magical effects, but can't use the same effect two rounds in a row:
 
 - Caverns, tunnels, and pools of water within 120 feet of the sea fury become foggy or murky, to the extent that the area becomes heavily obscured.  
-- The sea fury conjures a 15-foot cube of water that fills an unoccupied space it can see within 30 feet of it, then moves the water in a straight line up to 60 feet, after which the water disperses. Any creature that comes into contact with the rushing [wave](/compendium/items/wave.md) must succeed on a DC 16 Strength saving throw or be knocked [prone](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#prone) by it and pushed 15 feet along its course.  
+- The sea fury conjures a 15-foot cube of water that fills an unoccupied space it can see within 30 feet of it, then moves the water in a straight line up to 60 feet, after which the water disperses. Any creature that comes into contact with the rushing [wave](/compendium/items/wave.md) must succeed on a DC 16 Strength saving throw or be knocked [prone](/compendium/rules/conditions.md#prone) by it and pushed 15 feet along its course.  
 - The sea fury calls forth the spirit of a dead sailor or sea hag that met its end in the lair. This spirit has the statistics of a [specter](/compendium/bestiary/undead/specter.md) and lasts until the sea fury uses another lair action. The specter appears in an unoccupied space within 30 feet of the sea fury and obeys the sea fury's commands.  
 
 ## Regional effects

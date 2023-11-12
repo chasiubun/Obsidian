@@ -194,4 +194,4 @@ At 4th level and again at 8th, 12th, 16th, and 18th level, the sidekick increase
 
 *20th-level Spellcaster feature*
 
-Taking damage can't break the sidekick's [concentration](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#concentration) on a spell.
+Taking damage can't break the sidekick's [concentration](/compendium/rules/conditions.md#concentration) on a spell.

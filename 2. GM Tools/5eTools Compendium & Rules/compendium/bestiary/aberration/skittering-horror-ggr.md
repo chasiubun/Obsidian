@@ -52,8 +52,8 @@ Horrors share some common body types but vary wildly in other characteristics. A
 
 | dice: d4 | Feature |
 |----------|---------|
-| 1 | Grasping Tendrils. The horror has four tendrils. Each tendril can be attacked (AC 12, 10 hit points). Destroying one deals no damage to the horror. As a bonus action, the horror can target one creature it can see within 10 feet of it. The target must succeed on a Dexterity saving throw or be [grappled](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#grappled) by the horror. The DC of the saving throw and the DC to escape the grapple are the same: 9 for the flying horror, 13 for the shadow horror, and 19 for the skittering horror. Until the grapple ends, the horror can't use the same tendril to grapple another target. |
-| 2 | Indomitable Mind. The horror is immune to the [charmed](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#charmed) condition. |
+| 1 | Grasping Tendrils. The horror has four tendrils. Each tendril can be attacked (AC 12, 10 hit points). Destroying one deals no damage to the horror. As a bonus action, the horror can target one creature it can see within 10 feet of it. The target must succeed on a Dexterity saving throw or be [grappled](/compendium/rules/conditions.md#grappled) by the horror. The DC of the saving throw and the DC to escape the grapple are the same: 9 for the flying horror, 13 for the shadow horror, and 19 for the skittering horror. Until the grapple ends, the horror can't use the same tendril to grapple another target. |
+| 2 | Indomitable Mind. The horror is immune to the [charmed](/compendium/rules/conditions.md#charmed) condition. |
 | 3 | Keen Senses. The horror has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight, sound, or smell. |
 | 4 | Mind Sight. Magical darkness doesn't impede the horror's [darkvision](/compendium/rules/senses.md#darkvision). |
 ^secondary-features

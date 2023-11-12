@@ -35,7 +35,7 @@ Your totem animal might be an animal related to those listed here but more appro
 
 - **Eagle**  
 
-    While you're raging and aren't wearing heavy armor, other creatures have disadvantage on opportunity attack rolls against you, and you can use the [Dash](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Dash) action as a bonus action on your turn. The spirit of the eagle makes you into a predator who can weave through the fray with ease.  
+    While you're raging and aren't wearing heavy armor, other creatures have disadvantage on opportunity attack rolls against you, and you can use the [Dash](/compendium/rules/actions.md#Dash) action as a bonus action on your turn. The spirit of the eagle makes you into a predator who can weave through the fray with ease.  
 
 - **Wolf**  
 
@@ -67,7 +67,7 @@ At 14th level, you gain a magical benefit based on a totem animal of your choice
 
 - **Bear**  
 
-    While you're raging, any creature within 5 feet of you that's hostile to you has disadvantage on attack rolls against targets other than you or another character with this feature. An enemy is immune to this effect if it can't see or hear you or if it can't be [frightened](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#frightened).  
+    While you're raging, any creature within 5 feet of you that's hostile to you has disadvantage on attack rolls against targets other than you or another character with this feature. An enemy is immune to this effect if it can't see or hear you or if it can't be [frightened](/compendium/rules/conditions.md#frightened).  
 
 - **Eagle**  
 
@@ -75,4 +75,4 @@ At 14th level, you gain a magical benefit based on a totem animal of your choice
 
 - **Wolf**  
 
-    While you're raging, you can use a bonus action on your turn to knock a Large or smaller creature [prone](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#prone) when you hit it with melee weapon attack.
+    While you're raging, you can use a bonus action on your turn to knock a Large or smaller creature [prone](/compendium/rules/conditions.md#prone) when you hit it with melee weapon attack.

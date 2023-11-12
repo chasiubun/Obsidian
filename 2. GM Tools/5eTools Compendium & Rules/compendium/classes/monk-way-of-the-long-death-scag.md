@@ -23,7 +23,7 @@ Starting when you choose this tradition at 3rd level, your study of death allows
 
 ### Hour of Reaping (Level 6)
 
-At 6th level, you gain the ability to unsettle or terrify those around you as an action, for your soul has been touched by the shadow of death. When you take this action, each creature within 30 feet of you that can see you must succeed on a Wisdom saving throw or be [frightened](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#frightened) of you until the end of your next turn.
+At 6th level, you gain the ability to unsettle or terrify those around you as an action, for your soul has been touched by the shadow of death. When you take this action, each creature within 30 feet of you that can see you must succeed on a Wisdom saving throw or be [frightened](/compendium/rules/conditions.md#frightened) of you until the end of your next turn.
 
 ### Mastery of Death (Level 11)
 

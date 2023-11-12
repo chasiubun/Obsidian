@@ -31,7 +31,7 @@ Starting at 2nd level, you can call forth nature spirits to influence the world 
 
 As a bonus action, you can move the spirit up to 60 feet to a point you can see.
 
-The spirit persists for 1 minute or until you're [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated). Once you use this feature, you can't use it again until you finish a short or long rest.
+The spirit persists for 1 minute or until you're [incapacitated](/compendium/rules/conditions.md#incapacitated). Once you use this feature, you can't use it again until you finish a short or long rest.
 
 The effect of the spirit's aura depends on the type of spirit you summon from the options below.
 
@@ -63,6 +63,6 @@ Beginning at 10th level, your Spirit Totem safeguards the beasts and fey that yo
 
 ### Faithful Summons (Level 14)
 
-Starting at 14th level, the nature spirits you commune with protect you when you are the most defenseless. If you are reduced to 0 hit points or are [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated) against your will, you can immediately gain the benefits of [conjure animals](/compendium/spells/conjure-animals.md) as if it were cast using a 9th-level spell slot. It summons four beasts of your choice that are challenge rating 2 or lower. The conjured beasts appear within 20 feet of you. If they receive no commands from you, they protect you from harm and attack your foes. The spell lasts for 1 hour, requiring no [concentration](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#concentration), or until you dismiss it (no action required).
+Starting at 14th level, the nature spirits you commune with protect you when you are the most defenseless. If you are reduced to 0 hit points or are [incapacitated](/compendium/rules/conditions.md#incapacitated) against your will, you can immediately gain the benefits of [conjure animals](/compendium/spells/conjure-animals.md) as if it were cast using a 9th-level spell slot. It summons four beasts of your choice that are challenge rating 2 or lower. The conjured beasts appear within 20 feet of you. If they receive no commands from you, they protect you from harm and attack your foes. The spell lasts for 1 hour, requiring no [concentration](/compendium/rules/conditions.md#concentration), or until you dismiss it (no action required).
 
 Once you use this feature, you can't use it again until you finish a long rest.

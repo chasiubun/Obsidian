@@ -38,7 +38,7 @@ At 3rd level, you adopt a style of fighting as your specialty. Choose one of the
 
 At 3rd level, you learn to perform impressive displays of martial prowess and speed.
 
-Whenever you take the [Attack](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Attack) action on your turn, your walking speed increases by 10 feet until the end of the turn, and if a weapon attack that you make as part of this action hits a creature, you can use one of the following Blade Flourish options of your choice. You can use only one Blade Flourish option per turn.
+Whenever you take the [Attack](/compendium/rules/actions.md#Attack) action on your turn, your walking speed increases by 10 feet until the end of the turn, and if a weapon attack that you make as part of this action hits a creature, you can use one of the following Blade Flourish options of your choice. You can use only one Blade Flourish option per turn.
 
 - **Defensive Flourish**  
 
@@ -54,7 +54,7 @@ Whenever you take the [Attack](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/
 
 ### Extra Attack (Level 6)
 
-Starting at 6th level, you can attack twice, instead of once, whenever you take the [Attack](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/actions.md#Attack) action on your turn.
+Starting at 6th level, you can attack twice, instead of once, whenever you take the [Attack](/compendium/rules/actions.md#Attack) action on your turn.
 
 ### Master's Flourish (Level 14)
 

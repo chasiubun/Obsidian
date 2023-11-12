@@ -42,7 +42,7 @@ Your body has been altered to incorporate certain animal characteristics. You ch
 
 At 1st level, choose one of the following options:
 
-- **Manta Glide.** You have ray-like fins that you can use as wings to slow your fall or allow you to glide. When you fall and aren't [incapacitated](2.%20GM%20Tools/Misc%20DND%20Handbook/compendium/rules/conditions.md#incapacitated), you can subtract up to 100 feet from the fall when calculating falling damage, and you can move up to 2 feet horizontally for every 1 foot you descend.  
+- **Manta Glide.** You have ray-like fins that you can use as wings to slow your fall or allow you to glide. When you fall and aren't [incapacitated](/compendium/rules/conditions.md#incapacitated), you can subtract up to 100 feet from the fall when calculating falling damage, and you can move up to 2 feet horizontally for every 1 foot you descend.  
 - **Nimble Climber.** You have a climbing speed equal to your walking speed.  
 - **Underwater Adaptation.** You can breathe air and water, and you have a swimming speed equal to your walking speed.  
 
