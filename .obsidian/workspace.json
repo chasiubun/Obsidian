@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Parhelion.md",
+                "file": "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Parhelion.md",
+                "file": "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Parhelion.md",
+                "file": "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Parhelion.md"
+                "file": "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects.md"
               }
             }
           },
@@ -213,9 +213,10 @@
   },
   "active": "faea6cb0b4835dcb",
   "lastOpenFiles": [
-    "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Sol.md",
     "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Parhelion.md",
+    "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects.md",
     "1. Worldbuilding/History & Cosmology/Creation Mythos/Origin.md",
+    "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Sol.md",
     "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity",
     "1. Worldbuilding/Bloom.md",
     "1. Worldbuilding/Atlas/Cities/Noir.md",
@@ -251,7 +252,6 @@
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/npc/token/zephyros.png",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/npc/token/zeond.png",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/npc/token/zegana.png",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/rules/variant-rules/wands-that-dont-recharge.md",
     "2. GM Tools/5eTools Compendium & Rules/compendium/rules/variant-rules/img",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/npc/token",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/npc/img",
