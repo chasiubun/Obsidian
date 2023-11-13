@@ -112,9 +112,8 @@
     "creatures": [
       {
         "name": "JLin",
-        "display": "JL",
         "initiative": 18,
-        "static": true,
+        "static": false,
         "modifier": 1,
         "hp": 8,
         "currentMaxHP": 8,
@@ -122,7 +121,7 @@
         "currentAC": "13",
         "note": "Combat 1",
         "path": "3. Campaign Notes/What's in a Name? OneShot/Combat 1.md",
-        "id": "ID_4ab8c9dad82b",
+        "id": "ID_6809f8e9f8f8",
         "currentHP": 8,
         "tempHP": 0,
         "status": [],
@@ -130,9 +129,8 @@
         "level": 1,
         "player": true,
         "active": true,
-        "hidden": true,
-        "friendly": true,
-        "hit_dice": "1d8"
+        "hidden": false,
+        "friendly": false
       },
       {
         "name": "Blink Dog",

@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Worldbuilding/Culture/Division of Cultures.md",
+                "file": "1. Worldbuilding/Atlas/Regions/Fontaine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Worldbuilding/Culture/Division of Cultures.md",
+                "file": "1. Worldbuilding/Atlas/Regions/Fontaine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Worldbuilding/Culture/Division of Cultures.md"
+                "file": "1. Worldbuilding/Atlas/Regions/Fontaine.md"
               }
             }
           },
@@ -177,13 +177,22 @@
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
+          },
+          {
+            "id": "4d46b6919d02633e",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 403.5
+    "width": 403.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,7 +212,7 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "faea6cb0b4835dcb",
+  "active": "33135c761039daa3",
   "lastOpenFiles": [
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/zombie.png",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/wraith.png",
