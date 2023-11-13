@@ -11,7 +11,7 @@ tags:
 aliases: ["Dragon Turtle"]
 ---
 # Dragon Turtle
-*Source: Monster Manual p. 119, Journeys through the Radiant Citadel. Available in the SRD.*  
+*Source: Monster Manual p. 119, Mythic Odysseys of Theros, Journeys through the Radiant Citadel. Available in the SRD.*  
 
 Dragon turtles are among the most fearsome creatures of the oceans. As large and voracious as the oldest of its land-based dragon kin, a dragon turtle strikes with its deadly jaws, steaming breath, and crushing tail.
 

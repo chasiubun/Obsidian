@@ -4,6 +4,7 @@ cssclasses: json5e-note
 ---
 # Index of Fiend
 
+- [Abhorrent Overlord](abhorrent-overlord-mot.md)
 - [Abyssal Wretch](abyssal-wretch-mtf.md)
 - [Alkilith](alkilith-mpmm.md)
 - [Amnizu](amnizu-mpmm.md)
@@ -19,6 +20,7 @@ cssclasses: json5e-note
 - [Blue Abishai](blue-abishai-mpmm.md)
 - [Bone Devil](bone-devil.md)
 - [Bulezau](bulezau-mpmm.md)
+- [Cackler](cackler-ggr.md)
 - [Cambion](cambion.md)
 - [Canoloth](canoloth-mpmm.md)
 - [Chain Devil](chain-devil.md)
@@ -29,6 +31,7 @@ cssclasses: json5e-note
 - [Draegloth](draegloth-mpmm.md)
 - [Dretch](dretch.md)
 - [Dybbuk](dybbuk-mpmm.md)
+- [Eater of Hope](eater-of-hope-mot.md)
 - [Erinyes](erinyes.md)
 - [Fiendish Spirit (Demon, 6th-Level Spell)](fiendish-spirit-demon-6th-level-spell-tce.md)
 - [Fiendish Spirit (Demon, 7th-Level Spell)](fiendish-spirit-demon-7th-level-spell-tce.md)
@@ -59,6 +62,7 @@ cssclasses: json5e-note
 - [Lemure](lemure.md)
 - [Manes](manes.md)
 - [Marilith](marilith.md)
+- [Master of Cruelties](master-of-cruelties-ggr.md)
 - [Maurezhi](maurezhi-mpmm.md)
 - [Maw Demon](maw-demon-mpmm.md)
 - [Merregon](merregon-mpmm.md)
@@ -69,6 +73,7 @@ cssclasses: json5e-note
 - [Nalfeshnee](nalfeshnee.md)
 - [Narzugon](narzugon-mpmm.md)
 - [Night Hag](night-hag.md)
+- [Nightmare Shepherd](nightmare-shepherd-mot.md)
 - [Nightmare](nightmare.md)
 - [Nupperibo](nupperibo-mpmm.md)
 - [Nycaloth](nycaloth.md)
@@ -85,6 +90,7 @@ cssclasses: json5e-note
 - [Shadow Demon](shadow-demon.md)
 - [Shoosuva](shoosuva-mpmm.md)
 - [Sibriex](sibriex-mpmm.md)
+- [Sire of Insanity](sire-of-insanity-ggr.md)
 - [Spined Devil](spined-devil.md)
 - [Stench Kow](stench-kow-mpmm.md)
 - [Succubus](succubus.md)
@@ -97,3 +103,4 @@ cssclasses: json5e-note
 - [White Abishai](white-abishai-mpmm.md)
 - [Yagnoloth](yagnoloth-mpmm.md)
 - [Yochlol](yochlol.md)
+- [Zakya Rakshasa](zakya-rakshasa-erlw.md)

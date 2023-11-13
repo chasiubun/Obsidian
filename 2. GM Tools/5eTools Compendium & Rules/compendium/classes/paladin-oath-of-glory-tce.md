@@ -8,7 +8,7 @@ aliases: ["Oath of Glory"]
 ---
 # Oath of Glory
 *[Paladin](paladin.md): Sacred Oath*  
-*Source: Tasha's Cauldron of Everything p. 53*  
+*Source: Tasha's Cauldron of Everything p. 53, Mythic Odysseys of Theros p. 29*  
 
 
 ## Class Features

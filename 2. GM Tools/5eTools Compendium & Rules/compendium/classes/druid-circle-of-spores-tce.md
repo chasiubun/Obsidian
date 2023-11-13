@@ -8,7 +8,7 @@ aliases: ["Circle of Spores"]
 ---
 # Circle of Spores
 *[Druid](druid.md): Druid Circle*  
-*Source: Tasha's Cauldron of Everything p. 36*  
+*Source: Tasha's Cauldron of Everything p. 36, Guildmasters' Guide to Ravnica p. 26*  
 
 
 ## Class Features

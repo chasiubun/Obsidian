@@ -11,7 +11,7 @@ tags:
 aliases: ["Sea Hag"]
 ---
 # Sea Hag
-*Source: Monster Manual p. 179, Tales from the Yawning Portal, Journeys through the Radiant Citadel. Available in the SRD.*  
+*Source: Monster Manual p. 179, Tales from the Yawning Portal, Mythic Odysseys of Theros, Journeys through the Radiant Citadel. Available in the SRD.*  
 
 Sea hags live in dismal and polluted underwater lairs, surrounded by merrow and other aquatic monsters.
 

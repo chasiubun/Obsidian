@@ -17,7 +17,7 @@ tags:
 aliases: ["Veteran"]
 ---
 # Veteran
-*Source: Monster Manual p. 350, Tales from the Yawning Portal, Journeys through the Radiant Citadel. Available in the SRD.*  
+*Source: Monster Manual p. 350, Tales from the Yawning Portal, Eberron: Rising from the Last War, Mythic Odysseys of Theros, Journeys through the Radiant Citadel. Available in the SRD.*  
 
 Veterans are professional fighters that take up arms for pay or to protect something they believe in or value. Their ranks include soldiers retired from long service and warriors who never served anyone but themselves.
 

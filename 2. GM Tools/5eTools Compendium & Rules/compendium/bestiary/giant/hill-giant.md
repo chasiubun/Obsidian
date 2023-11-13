@@ -10,7 +10,7 @@ tags:
 aliases: ["Hill Giant"]
 ---
 # Hill Giant
-*Source: Monster Manual p. 155, Tales from the Yawning Portal. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 155, Tales from the Yawning Portal, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
 
 Hill giants are selfish, dimwitted brutes that hunt, forage, and raid in constant search of food. They blunder through hills and forests devouring what they can, bullying smaller creatures into feeding them. Their laziness and dullness would long ago have spelled their end if not for their formidable size and strength.
 

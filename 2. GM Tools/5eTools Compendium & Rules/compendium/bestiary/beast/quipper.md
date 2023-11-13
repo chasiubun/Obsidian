@@ -10,7 +10,7 @@ tags:
 aliases: ["Quipper"]
 ---
 # Quipper
-*Source: Monster Manual p. 335. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 335, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules.*  
 
 A quipper is a carnivorous fish with sharp teeth.
 

@@ -11,7 +11,7 @@ tags:
 aliases: ["Centaur"]
 ---
 # Centaur
-*Source: Monster Manual p. 38, Tales from the Yawning Portal. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 38, Tales from the Yawning Portal, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules.*  
 
 > [!quote]- A quote from Batley Summerfoot, a halfling adventurer who never read HOOVES OF FURY, by Iryil Grayborn of Sundown  
 > 

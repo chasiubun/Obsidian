@@ -11,7 +11,7 @@ tags:
 aliases: ["Hell Hound"]
 ---
 # Hell Hound
-*Source: Monster Manual p. 182, Tales from the Yawning Portal. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 182, Tales from the Yawning Portal, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules.*  
 
 Monstrous, fire-breathing fiends that take the form of powerful dogs, hell hounds are found on the battlefields of Acheron and throughout the Lower Planes. On the Material Plane, hell hounds are most commonly seen in service to devils, fire giants, and other evil creatures that use them as guard animals and companions.
 

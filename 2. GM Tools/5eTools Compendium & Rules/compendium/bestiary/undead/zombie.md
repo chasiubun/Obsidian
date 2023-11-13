@@ -10,7 +10,7 @@ tags:
 aliases: ["Zombie"]
 ---
 # Zombie
-*Source: Monster Manual p. 316, Lost Mine of Phandelver, Tales from the Yawning Portal, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 316, Lost Mine of Phandelver, Tales from the Yawning Portal, Eberron: Rising from the Last War, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  
 
 From somewhere in the darkness, a gurgling moan is heard. A form lurches into view, dragging one foot as it raises bloated arms and broken hands. The zombie advances, driven to kill anyone too slow to escape its grasp.
 

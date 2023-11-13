@@ -10,7 +10,7 @@ tags:
 aliases: ["Cloud Giant"]
 ---
 # Cloud Giant
-*Source: Monster Manual p. 154, Tales from the Yawning Portal, Journeys through the Radiant Citadel. Available in the SRD.*  
+*Source: Monster Manual p. 154, Tales from the Yawning Portal, Mythic Odysseys of Theros, Journeys through the Radiant Citadel. Available in the SRD.*  
 
 Cloud giants live extravagant lives high above the world, showing little concern for the plights of other races except as amusement. They are muscular with light skin and have hair of silver or blue.
 

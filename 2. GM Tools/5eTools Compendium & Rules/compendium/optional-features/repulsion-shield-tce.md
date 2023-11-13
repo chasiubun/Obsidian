@@ -7,7 +7,7 @@ tags:
 aliases: ["Repulsion Shield"]
 ---
 # Repulsion Shield
-*Source: Tasha's Cauldron of Everything p. 23*  
+*Source: Tasha's Cauldron of Everything p. 23, Eberron: Rising from the Last War p. 63*  
 
 **Prerequisite**: 6th-level Artificer, A shield (requires attunement)
 

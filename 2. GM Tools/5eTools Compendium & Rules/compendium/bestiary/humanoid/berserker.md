@@ -15,7 +15,7 @@ tags:
 aliases: ["Berserker"]
 ---
 # Berserker
-*Source: Monster Manual p. 344. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 344, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules.*  
 
 Hailing from uncivilized lands, unpredictable berserkers come together in war parties and seek conflict wherever they can find it.
 

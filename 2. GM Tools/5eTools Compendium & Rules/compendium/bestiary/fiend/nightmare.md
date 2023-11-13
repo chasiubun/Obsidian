@@ -9,7 +9,7 @@ tags:
 aliases: ["Nightmare"]
 ---
 # Nightmare
-*Source: Monster Manual p. 235. Available in the SRD.*  
+*Source: Monster Manual p. 235, Mythic Odysseys of Theros. Available in the SRD.*  
 
 A nightmare appears in a cloud of roiling smoke, its mane, tail, and hooves wreathed in flame. The creature's unearthly black form moves with supernatural speed, vanishing in a cloud of brimstone as quickly as it appeared.
 

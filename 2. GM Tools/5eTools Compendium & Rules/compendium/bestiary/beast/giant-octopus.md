@@ -10,7 +10,7 @@ tags:
 aliases: ["Giant Octopus"]
 ---
 # Giant Octopus
-*Source: Monster Manual p. 326, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 326, Mythic Odysseys of Theros, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 ```ad-statblock
 title: Giant Octopus

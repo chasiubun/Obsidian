@@ -9,7 +9,7 @@ tags:
 aliases: ["Flesh Golem"]
 ---
 # Flesh Golem
-*Source: Monster Manual p. 169, Tales from the Yawning Portal. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 169, Tales from the Yawning Portal, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules.*  
 
 A flesh golem is a grisly assortment of humanoid body parts stitched and bolted together into a muscled brute imbued with formidable strength. Its brain is capable of simple reason, though its thoughts are no more sophisticated than those of a young child. The golem's muscle tissue responds to the power of lightning, invigorating the creature with vitality and strength. Powerful enchantments protect the golem's skin, deflecting spells and all but the most potent weapons.
 

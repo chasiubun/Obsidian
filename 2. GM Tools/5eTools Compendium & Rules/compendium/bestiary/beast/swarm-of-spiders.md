@@ -16,7 +16,7 @@ tags:
 aliases: ["Swarm of Spiders"]
 ---
 # Swarm of Spiders
-*Source: Monster Manual p. 338. Available in the SRD.*  
+*Source: Monster Manual p. 338, Mythic Odysseys of Theros. Available in the SRD.*  
 
 > [!note] The Nature of Swarms
 > 

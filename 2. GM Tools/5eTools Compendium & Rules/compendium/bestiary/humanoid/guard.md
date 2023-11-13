@@ -16,7 +16,7 @@ tags:
 aliases: ["Guard"]
 ---
 # Guard
-*Source: Monster Manual p. 347, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 347, Eberron: Rising from the Last War, Mythic Odysseys of Theros, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  
 
 Guards include members of a city watch, sentries in a citadel or fortified town, and the bodyguards of merchants and nobles.
 

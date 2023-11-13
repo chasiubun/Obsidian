@@ -13,7 +13,7 @@ tags:
 aliases: ["Gnoll"]
 ---
 # Gnoll
-*Source: Monster Manual p. 163, Tales from the Yawning Portal. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 163, Tales from the Yawning Portal, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
 
 Gnolls are feral humanoids that attack settlements along the frontiers and borderlands of civilization without warning, slaughtering their victims and devouring their flesh.
 

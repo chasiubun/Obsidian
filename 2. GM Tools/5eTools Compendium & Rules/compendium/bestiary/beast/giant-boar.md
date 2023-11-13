@@ -12,7 +12,7 @@ tags:
 aliases: ["Giant Boar"]
 ---
 # Giant Boar
-*Source: Monster Manual p. 323. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 323, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules.*  
 
 ```ad-statblock
 title: Giant Boar

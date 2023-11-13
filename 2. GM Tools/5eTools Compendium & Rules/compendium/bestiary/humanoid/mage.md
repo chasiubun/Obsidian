@@ -10,7 +10,7 @@ tags:
 aliases: ["Mage"]
 ---
 # Mage
-*Source: Monster Manual p. 347, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 347, Eberron: Rising from the Last War, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  
 
 Mages spend their lives in the study and practice of magic. Good-aligned mages offer counsel to nobles and others in power, while evil mages dwell in isolated sites to perform unspeakable experiments without interference.
 

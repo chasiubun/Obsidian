@@ -10,7 +10,7 @@ tags:
 aliases: ["Beholder"]
 ---
 # Beholder
-*Source: Monster Manual p. 28, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel*  
+*Source: Monster Manual p. 28, Eberron: Rising from the Last War, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel*  
 
 One glance at a beholder is enough to assess its foul and otherworldly nature. Aggressive, hateful, and greedy, these aberrations dismiss all other creatures as lesser beings, toying with them or destroying them as they choose.
 

@@ -15,7 +15,7 @@ tags:
 aliases: ["Bandit Captain"]
 ---
 # Bandit Captain
-*Source: Monster Manual p. 344. Available in the SRD.*  
+*Source: Monster Manual p. 344, Mythic Odysseys of Theros. Available in the SRD.*  
 
 It takes a strong personality, ruthless cunning, and a silver tongue to keep a gang of bandits in line. The bandit captain has these qualities in spades.
 

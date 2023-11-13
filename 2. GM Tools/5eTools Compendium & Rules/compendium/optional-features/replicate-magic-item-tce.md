@@ -7,7 +7,7 @@ tags:
 aliases: ["Replicate Magic Item"]
 ---
 # Replicate Magic Item
-*Source: Tasha's Cauldron of Everything p. 22*  
+*Source: Tasha's Cauldron of Everything p. 22, Eberron: Rising from the Last War p. 63*  
 
 Using this infusion, you replicate a particular magic item. You can learn this infusion multiple times; each time you do so, choose a magic item that you can make with it, picking from the Replicable Items tables below. A table's title tells you the level you must be in the class to choose an item from the table. Alternatively, you can choose the magic item from among the common magic items in the game, not including potions or scrolls.
 
@@ -65,7 +65,7 @@ In the tables, an item's entry tells you whether the item requires attunement. S
 | [Ring of jumping](compendium/items/ring-of-jumping.md) | Yes |
 | [Ring of mind shielding](compendium/items/ring-of-mind-shielding.md) | Yes |
 | [Slippers of spider climbing](compendium/items/slippers-of-spider-climbing.md) | Yes |
-| Ventilating lungs (detailed in "chapter 5") | Yes |
+| [Ventilating lungs](compendium/items/ventilating-lungs-erlw.md) (detailed in "chapter 5") | Yes |
 | [Winged boots](compendium/items/winged-boots.md) | Yes |
 ^replicable-items-10th-level-artificer
 
@@ -74,7 +74,7 @@ In the tables, an item's entry tells you whether the item requires attunement. S
 | Magic Item | Attunement |
 |------------|------------|
 | [Amulet of health](compendium/items/amulet-of-health.md) | Yes |
-| Arcane propulsion arm (detailed in "chapter 5") | Yes |
+| [Arcane propulsion arm](compendium/items/arcane-propulsion-arm-erlw.md) (detailed in "chapter 5") | Yes |
 | [Belt of hill giant strength](compendium/items/belt-of-hill-giant-strength.md) | Yes |
 | [Boots of levitation](compendium/items/boots-of-levitation.md) | Yes |
 | [Boots of speed](compendium/items/boots-of-speed.md) | Yes |

@@ -9,7 +9,7 @@ tags:
 aliases: ["Night Hag"]
 ---
 # Night Hag
-*Source: Monster Manual p. 178, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel. Available in the SRD.*  
+*Source: Monster Manual p. 178, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel. Available in the SRD.*  
 
 Sly and subversive, night hags want to see the virtuous turn to villainy: love turned into obsession, kindness turned to hate, devotion to disregard, and generosity to selfishness. Night hags take perverse joy in corrupting mortals.
 

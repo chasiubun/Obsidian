@@ -10,7 +10,7 @@ tags:
 aliases: ["Dryad"]
 ---
 # Dryad
-*Source: Monster Manual p. 121, Journeys through the Radiant Citadel. Available in the SRD.*  
+*Source: Monster Manual p. 121, Mythic Odysseys of Theros, Journeys through the Radiant Citadel. Available in the SRD.*  
 
 Travelers entering a forest might catch a glimpse of a feminine form flitting through the trees. Warm laughter hangs on the air, drawing those who hear it deeper into the emerald shadows.
 

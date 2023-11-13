@@ -10,7 +10,7 @@ tags:
 aliases: ["Assassin"]
 ---
 # Assassin
-*Source: Monster Manual p. 343, Tales from the Yawning Portal, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel. Available in the SRD.*  
+*Source: Monster Manual p. 343, Tales from the Yawning Portal, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel. Available in the SRD.*  
 
 Trained in the use of poison, assassins are remorseless killers who work for nobles, guildmasters, sovereigns, and anyone else who can afford them.
 

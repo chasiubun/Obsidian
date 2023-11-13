@@ -11,7 +11,7 @@ tags:
 aliases: ["Shadow"]
 ---
 # Shadow
-*Source: Monster Manual p. 269, Tales from the Yawning Portal, Tasha's Cauldron of Everything. Available in the SRD.*  
+*Source: Monster Manual p. 269, Tales from the Yawning Portal, Mythic Odysseys of Theros, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Shadows are undead that resemble dark exaggerations of humanoid shadows.
 

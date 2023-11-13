@@ -11,7 +11,7 @@ tags:
 aliases: ["Saber-Toothed Tiger"]
 ---
 # Saber-Toothed Tiger
-*Source: Monster Manual p. 336, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 336, Mythic Odysseys of Theros, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  
 
 ```ad-statblock
 title: Saber-Toothed Tiger

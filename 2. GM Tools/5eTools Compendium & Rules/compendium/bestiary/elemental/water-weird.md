@@ -11,7 +11,7 @@ tags:
 aliases: ["Water Weird"]
 ---
 # Water Weird
-*Source: Monster Manual p. 299, Tales from the Yawning Portal, Journeys through the Radiant Citadel*  
+*Source: Monster Manual p. 299, Tales from the Yawning Portal, Mythic Odysseys of Theros, Journeys through the Radiant Citadel*  
 
 A water weird is an elemental guardian bound to a specific water-filled location, such as a pool or fountain.
 

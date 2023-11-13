@@ -10,7 +10,7 @@ tags:
 aliases: ["Wraith"]
 ---
 # Wraith
-*Source: Monster Manual p. 302, Tales from the Yawning Portal, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel. Available in the SRD.*  
+*Source: Monster Manual p. 302, Tales from the Yawning Portal, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel. Available in the SRD.*  
 
 A wraith is malice incarnate, concentrated into an incorporeal form that seeks to quench all life. The creature is suffused with negative energy, and its mere passage through the world leaves nearby plants blackened and withered. Animals flee from its presence. Even small fires can be extinguished by the sucking oblivion of the wraith's horrifying existence.
 

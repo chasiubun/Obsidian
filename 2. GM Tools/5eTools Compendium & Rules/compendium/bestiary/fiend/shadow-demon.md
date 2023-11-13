@@ -9,7 +9,7 @@ tags:
 aliases: ["Shadow Demon"]
 ---
 # Shadow Demon
-*Source: Monster Manual p. 64, Journeys through the Radiant Citadel*  
+*Source: Monster Manual p. 64, Mythic Odysseys of Theros, Journeys through the Radiant Citadel*  
 
 When a demon's body is destroyed but the fiend is prevented from reforming in the Abyss, its essence sometimes takes on a vague physical form. These shadow demons exist outside the normal abyssal hierarchy, since their creation results most often from mortal magic, not from transformation or promotion.
 

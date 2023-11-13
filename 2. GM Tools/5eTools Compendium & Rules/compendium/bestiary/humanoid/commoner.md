@@ -16,7 +16,7 @@ tags:
 aliases: ["Commoner"]
 ---
 # Commoner
-*Source: Monster Manual p. 345, Lost Mine of Phandelver, Tales from the Yawning Portal, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 345, Lost Mine of Phandelver, Tales from the Yawning Portal, Eberron: Rising from the Last War, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  
 
 Commoners include peasants, serfs, slaves, servants, pilgrims, merchants, artisans, and hermits.
 

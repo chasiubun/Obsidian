@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Worldbuilding/Atlas/Regions/Miroirs.md",
+                "file": "1. Worldbuilding/Culture/Division of Cultures.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Worldbuilding/Atlas/Regions/Miroirs.md",
+                "file": "1. Worldbuilding/Culture/Division of Cultures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Worldbuilding/Atlas/Regions/Miroirs.md",
+                "file": "1. Worldbuilding/Culture/Division of Cultures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Worldbuilding/Atlas/Regions/Miroirs.md"
+                "file": "1. Worldbuilding/Culture/Division of Cultures.md"
               }
             }
           },
@@ -177,17 +177,9 @@
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
-          },
-          {
-            "id": "889d8b44ae2f0771",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -213,36 +205,6 @@
   },
   "active": "faea6cb0b4835dcb",
   "lastOpenFiles": [
-    "1. Worldbuilding/Atlas/Regions/Fontaine.md",
-    "1. Worldbuilding/Atlas/Regions/Astrale.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/fey/fey.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/fey/boggle-mpmm.md",
-    "3. Campaign Notes/3. Campaign Notes.md",
-    "2. GM Tools/5eTools Compendium & Rules/rules/item-types.md",
-    "2. GM Tools/5eTools Compendium & Rules/rules/item-properties.md",
-    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/optional-class-features-tce.md",
-    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/adamantine-weapons-xge.md",
-    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/familiars-vgm.md",
-    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/morale.md",
-    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/skills-with-different-abilities.md",
-    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/downtime-activity-selling-a-magic-item-xge.md",
-    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/healing.md",
-    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/skill-variants.md",
-    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/milestones.md",
-    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/fear-and-horror.md",
-    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/explosives.md",
-    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/downtime-activity-research-xge.md",
-    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/proficiency-dice.md",
-    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/downtime-activity-pit-fighting-xge.md",
-    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/customizing-ability-scores.md",
-    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/downtime-activity-scribing-a-spell-scroll-xge.md",
-    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/cleaving-through-creatures.md",
-    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/new-ability-scores-honor-and-sanity.md",
-    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/player-characters-as-lycanthropes.md",
-    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/img/xge-003.webp",
-    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/img/xge-002.webp",
-    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/img/xge-001.webp",
-    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/img",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/zombie.png",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/wraith.png",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/will-o-wisp.png",
@@ -250,14 +212,44 @@
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/warhorse-skeleton.png",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/vampiric-mist.png",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/vampire.png",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/vampire-warrior.png",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/vampire-spellcaster.png",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/vampire-spawn.png",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/undying-soldier.png",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/zombie.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/wraith.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/will-o-wisp.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/wight.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/warhorse-skeleton.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/vampiric-mist-mpmm.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/vampire.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/vampire-warrior.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/vampire-spellcaster.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/vampire-spawn.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/undying-soldier-erlw.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/undying-councilor-erlw.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/undead.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/undead-spirit-skeletal-9th-level-spell-tce.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/undead-spirit-skeletal-8th-level-spell-tce.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/undead-spirit-skeletal-7th-level-spell-tce.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/undead-spirit-skeletal-6th-level-spell-tce.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/undead-spirit-skeletal-5th-level-spell-tce.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/undead-spirit-skeletal-4th-level-spell-tce.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/undead-spirit-skeletal-3rd-level-spell-tce.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/undead-spirit-putrid-9th-level-spell-tce.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/undead-spirit-putrid-8th-level-spell-tce.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/undead-spirit-putrid-7th-level-spell-tce.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/undead-spirit-putrid-6th-level-spell-tce.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/undead-spirit-putrid-5th-level-spell-tce.md",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/img",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/ooze/token",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/ooze/img",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/plant/token",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/plant/img",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/npc/token",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/npc/img",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/monstrosity/token"
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/ooze/token",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/ooze/img",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/monstrosity/token",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/monstrosity/img"
   ]
 }

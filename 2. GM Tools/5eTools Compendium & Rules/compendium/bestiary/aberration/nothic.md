@@ -10,7 +10,7 @@ tags:
 aliases: ["Nothic"]
 ---
 # Nothic
-*Source: Monster Manual p. 236, Lost Mine of Phandelver, Journeys through the Radiant Citadel. Available in the Basic Rules.*  
+*Source: Monster Manual p. 236, Lost Mine of Phandelver, Mythic Odysseys of Theros, Journeys through the Radiant Citadel. Available in the Basic Rules.*  
 
 A baleful eye peers out from the darkness, its gleam hinting at a weird intelligence and unnerving malevolence. Most times, a nothic is content to watch, weighing and assessing the creatures it encounters. When driven to violence, it uses its horrific gaze to rot the flesh from its enemies' bones.
 

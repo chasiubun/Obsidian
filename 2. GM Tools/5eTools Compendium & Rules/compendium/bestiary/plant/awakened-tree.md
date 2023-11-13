@@ -10,7 +10,7 @@ tags:
 aliases: ["Awakened Tree"]
 ---
 # Awakened Tree
-*Source: Monster Manual p. 317. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 317, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules.*  
 
 An awakened tree is an ordinary tree given sentience and mobility by the [awaken](compendium/spells/awaken.md) spell or similar magic.
 

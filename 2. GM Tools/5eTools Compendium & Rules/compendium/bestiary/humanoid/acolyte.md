@@ -10,7 +10,7 @@ tags:
 aliases: ["Acolyte"]
 ---
 # Acolyte
-*Source: Monster Manual p. 342, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 342, Eberron: Rising from the Last War, Mythic Odysseys of Theros, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  
 
 Acolytes are junior members of a clergy, usually answerable to a priest. They perform a variety of functions in a temple and are granted minor spellcasting power by their deities.
 

@@ -11,7 +11,7 @@ tags:
 aliases: ["Air Elemental"]
 ---
 # Air Elemental
-*Source: Monster Manual p. 124, Tales from the Yawning Portal, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 124, Tales from the Yawning Portal, Eberron: Rising from the Last War, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  
 
 An air elemental is a funneling cloud of whirling air with a vague semblance of a face. Although it likes to race across the ground, picking up dust and debris as it goes, it can also fly and attack from above.
 

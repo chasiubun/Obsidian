@@ -10,7 +10,7 @@ tags:
 aliases: ["Killer Whale"]
 ---
 # Killer Whale
-*Source: Monster Manual p. 331. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 331, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules.*  
 
 ```ad-statblock
 title: Killer Whale

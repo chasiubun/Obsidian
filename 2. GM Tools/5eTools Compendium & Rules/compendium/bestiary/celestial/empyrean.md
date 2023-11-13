@@ -9,7 +9,7 @@ tags:
 aliases: ["Empyrean"]
 ---
 # Empyrean
-*Source: Monster Manual p. 130, Tales from the Yawning Portal*  
+*Source: Monster Manual p. 130, Tales from the Yawning Portal, Mythic Odysseys of Theros*  
 
 Empyreans are the celestial children of the gods of the Upper Planes. They are universally beautiful, statuesque, and self-assured.
 

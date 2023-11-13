@@ -7,7 +7,7 @@ tags:
 aliases: ["Enhanced Defense"]
 ---
 # Enhanced Defense
-*Source: Tasha's Cauldron of Everything p. 21*  
+*Source: Tasha's Cauldron of Everything p. 21, Eberron: Rising from the Last War p. 62*  
 
 **Prerequisite**: A suit of armor or a shield
 

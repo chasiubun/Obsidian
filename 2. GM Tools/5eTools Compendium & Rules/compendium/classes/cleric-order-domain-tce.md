@@ -9,7 +9,7 @@ aliases: ["Order Domain"]
 ---
 # Order Domain
 *[Cleric](cleric.md): Divine Domain*  
-*Source: Tasha's Cauldron of Everything p. 31*  
+*Source: Tasha's Cauldron of Everything p. 31, Guildmasters' Guide to Ravnica p. 25*  
 
 
 ## Class Features

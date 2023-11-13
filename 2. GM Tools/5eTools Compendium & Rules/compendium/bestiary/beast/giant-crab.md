@@ -10,7 +10,7 @@ tags:
 aliases: ["Giant Crab"]
 ---
 # Giant Crab
-*Source: Monster Manual p. 324, Tales from the Yawning Portal. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 324, Tales from the Yawning Portal, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules.*  
 
 ```ad-statblock
 title: Giant Crab

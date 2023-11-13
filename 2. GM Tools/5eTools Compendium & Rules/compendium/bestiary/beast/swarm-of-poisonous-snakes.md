@@ -11,7 +11,7 @@ tags:
 aliases: ["Swarm of Poisonous Snakes"]
 ---
 # Swarm of Poisonous Snakes
-*Source: Monster Manual p. 338, Tales from the Yawning Portal, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 338, Tales from the Yawning Portal, Mythic Odysseys of Theros, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  
 
 > [!note] The Nature of Swarms
 > 

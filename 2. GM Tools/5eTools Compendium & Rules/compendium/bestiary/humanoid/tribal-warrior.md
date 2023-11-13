@@ -18,7 +18,7 @@ tags:
 aliases: ["Tribal Warrior"]
 ---
 # Tribal Warrior
-*Source: Monster Manual p. 350, Tales from the Yawning Portal. Available in the SRD.*  
+*Source: Monster Manual p. 350, Tales from the Yawning Portal, Mythic Odysseys of Theros. Available in the SRD.*  
 
 Tribal warriors live beyond civilization, most often subsisting on fishing and hunting. Each tribe acts in accordance with the wishes of its chief, who is the greatest or oldest warrior of the tribe or a tribe member blessed by the gods.
 

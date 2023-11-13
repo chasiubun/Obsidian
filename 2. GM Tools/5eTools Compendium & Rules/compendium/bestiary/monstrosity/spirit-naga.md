@@ -10,7 +10,7 @@ tags:
 aliases: ["Spirit Naga"]
 ---
 # Spirit Naga
-*Source: Monster Manual p. 234, Tales from the Yawning Portal, Journeys through the Radiant Citadel. Available in the SRD.*  
+*Source: Monster Manual p. 234, Tales from the Yawning Portal, Mythic Odysseys of Theros, Journeys through the Radiant Citadel. Available in the SRD.*  
 
 Spirit nagas live in gloom and spitefulness, constantly plotting vengeance against creatures that have wronged them-or that they believe have wronged them. Lairing in dismal caverns and ruins, they devote their time to developing new spells and enslaving the mortals with which they surround themselves. A spirit naga likes to charm its foes, drawing them close so that it can sink its poisonous fangs into their flesh.
 

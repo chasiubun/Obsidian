@@ -4,6 +4,7 @@ cssclasses: json5e-note
 ---
 # Index of Plant
 
+- [Animated Tree](animated-tree-egw.md)
 - [Awakened Shrub](awakened-shrub.md)
 - [Awakened Tree](awakened-tree.md)
 - [Brackish Trudge](brackish-trudge-scc.md)

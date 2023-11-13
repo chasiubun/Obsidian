@@ -15,7 +15,7 @@ tags:
 aliases: ["Giant Poisonous Snake"]
 ---
 # Giant Poisonous Snake
-*Source: Monster Manual p. 327, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 327, Mythic Odysseys of Theros, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 ```ad-statblock
 title: Giant Poisonous Snake

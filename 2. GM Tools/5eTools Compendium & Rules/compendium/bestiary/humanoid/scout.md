@@ -18,7 +18,7 @@ tags:
 aliases: ["Scout"]
 ---
 # Scout
-*Source: Monster Manual p. 349, Tales from the Yawning Portal, Journeys through the Radiant Citadel. Available in the SRD.*  
+*Source: Monster Manual p. 349, Tales from the Yawning Portal, Mythic Odysseys of Theros, Journeys through the Radiant Citadel. Available in the SRD.*  
 
 Scouts are skilled hunters and trackers who offer their services for a fee. Most hunt wild game, but a few work as bounty hunters, serve as guides, or provide military reconnaissance.
 

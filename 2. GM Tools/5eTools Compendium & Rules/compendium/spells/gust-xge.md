@@ -30,4 +30,4 @@ You seize the air and compel it to create one of the following effects at a poin
 
 **Classes**: [Cleric (Nature Domain)](compendium/classes/cleric-nature-domain.md), [Druid (Circle of the Land)](compendium/classes/druid-circle-of-the-land.md), [Druid](compendium/classes/druid.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
 
-*Source: Xanathar's Guide to Everything p. 157, Tasha's Cauldron of Everything p. 50*
+*Source: Xanathar's Guide to Everything p. 157, Eberron: Rising from the Last War p. 50, Tasha's Cauldron of Everything p. 50*

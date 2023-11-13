@@ -147,6 +147,7 @@ cssclasses: json5e-note
 - [Eldritch Blast](eldritch-blast.md)
 - [Elemental Bane](elemental-bane-xge.md)
 - [Elemental Weapon](elemental-weapon.md)
+- [Encode Thoughts](encode-thoughts-ggr.md)
 - [Enemies Abound](enemies-abound-xge.md)
 - [Enervation](enervation-xge.md)
 - [Enhance Ability](enhance-ability.md)

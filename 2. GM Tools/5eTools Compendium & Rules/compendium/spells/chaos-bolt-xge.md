@@ -40,4 +40,4 @@ A creature can be targeted only once by each casting of this spell.
 
 **Classes**: [Sorcerer](compendium/classes/sorcerer.md)
 
-*Source: Xanathar's Guide to Everything p. 151*
+*Source: Xanathar's Guide to Everything p. 151, Guildmasters' Guide to Ravnica*

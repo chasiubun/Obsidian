@@ -9,7 +9,7 @@ tags:
 aliases: ["Siren"]
 ---
 # Siren
-*Source: Tales from the Yawning Portal p. 243*  
+*Source: Tales from the Yawning Portal p. 243, Mythic Odysseys of Theros*  
 
 Imprisoned inside a mist-filled chamber in the Tomb of Horrors, Siren serves as evidence of Acererak's heartless sense of humor. This mysterious fey creature yearns to be released, but an enchantment laid on her by the demilich prevents her from telling visitors how to accomplish that task. If anyone succeeds in freeing her, she vows to be a lifelong friend.
 

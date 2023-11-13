@@ -12,7 +12,7 @@ tags:
 aliases: ["Boar"]
 ---
 # Boar
-*Source: Monster Manual p. 319. Available in the SRD.*  
+*Source: Monster Manual p. 319, Mythic Odysseys of Theros. Available in the SRD.*  
 
 ```ad-statblock
 title: Boar

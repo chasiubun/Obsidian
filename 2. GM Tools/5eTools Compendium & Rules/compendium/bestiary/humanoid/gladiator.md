@@ -10,7 +10,7 @@ tags:
 aliases: ["Gladiator"]
 ---
 # Gladiator
-*Source: Monster Manual p. 346. Available in the SRD.*  
+*Source: Monster Manual p. 346, Mythic Odysseys of Theros. Available in the SRD.*  
 
 Gladiators battle for the entertainment of raucous crowds. Some gladiators are brutal pit fighters who treat each match as a life-or-death struggle, while others are professional duelists who command huge fees but rarely fight to the death.
 

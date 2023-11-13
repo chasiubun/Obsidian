@@ -10,7 +10,7 @@ tags:
 aliases: ["Treant"]
 ---
 # Treant
-*Source: Monster Manual p. 289, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel. Available in the SRD.*  
+*Source: Monster Manual p. 289, Eberron: Rising from the Last War, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel. Available in the SRD.*  
 
 Treants are awakened trees that dwell in ancient forests. Although treants prefer to while away the days, months, and years in quiet contemplation, they fiercely protect their woodland demesnes from outside threats.
 

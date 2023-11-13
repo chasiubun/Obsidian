@@ -11,7 +11,7 @@ tags:
 aliases: ["Ghost"]
 ---
 # Ghost
-*Source: Monster Manual p. 147, Tales from the Yawning Portal, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 147, Tales from the Yawning Portal, Eberron: Rising from the Last War, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  
 
 A ghost is the soul of a once-living creature, bound to haunt a specific location, creature, or object that held significance to it in its life.
 

@@ -13,7 +13,7 @@ tags:
 aliases: ["Goblin"]
 ---
 # Goblin
-*Source: Monster Manual p. 166, Lost Mine of Phandelver, Tales from the Yawning Portal, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 166, Lost Mine of Phandelver, Tales from the Yawning Portal, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 Goblins are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large-sometimes overwhelming-numbers. They crave power and regularly abuse whatever authority they obtain.
 

@@ -15,7 +15,7 @@ tags:
 aliases: ["Bandit"]
 ---
 # Bandit
-*Source: Monster Manual p. 343, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 343, Eberron: Rising from the Last War, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  
 
 Bandits rove in gangs and are sometimes led by thugs, veterans, or spellcasters. Not all bandits are evil. Oppression, drought, disease, or famine can often drive otherwise honest folk to a life of banditry.
 

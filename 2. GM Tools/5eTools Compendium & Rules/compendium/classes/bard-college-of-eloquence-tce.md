@@ -8,7 +8,7 @@ aliases: ["College of Eloquence"]
 ---
 # College of Eloquence
 *[Bard](bard.md): Bard College*  
-*Source: Tasha's Cauldron of Everything p. 29*  
+*Source: Tasha's Cauldron of Everything p. 29, Mythic Odysseys of Theros p. 28*  
 
 
 ## Class Features

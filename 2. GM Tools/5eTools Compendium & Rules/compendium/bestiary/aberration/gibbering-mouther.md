@@ -10,7 +10,7 @@ tags:
 aliases: ["Gibbering Mouther"]
 ---
 # Gibbering Mouther
-*Source: Monster Manual p. 157, Tales from the Yawning Portal, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel. Available in the SRD.*  
+*Source: Monster Manual p. 157, Tales from the Yawning Portal, Eberron: Rising from the Last War, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel. Available in the SRD.*  
 
 Of all the terrors created by foul sorcery, gibbering mouthers are among the most wicked and depraved. This creature is the composite eyes, mouths, and liquefied matter of its former victims. Driven to insanity by the destruction of their bodies and absorption into the mouther, those victims gibber incoherent madness, forced to consume everything in reach.
 

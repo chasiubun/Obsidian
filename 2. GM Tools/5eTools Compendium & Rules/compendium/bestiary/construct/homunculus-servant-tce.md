@@ -9,7 +9,7 @@ tags:
 aliases: ["Homunculus Servant"]
 ---
 # Homunculus Servant
-*Source: Tasha's Cauldron of Everything p. 22*  
+*Source: Tasha's Cauldron of Everything p. 22, Eberron: Rising from the Last War p. 62*  
 
 ```ad-statblock
 title: Homunculus Servant

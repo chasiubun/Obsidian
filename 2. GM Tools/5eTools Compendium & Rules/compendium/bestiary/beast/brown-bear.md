@@ -12,7 +12,7 @@ tags:
 aliases: ["Brown Bear"]
 ---
 # Brown Bear
-*Source: Monster Manual p. 319, Tales from the Yawning Portal. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 319, Tales from the Yawning Portal, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules.*  
 
 ```ad-statblock
 title: Brown Bear

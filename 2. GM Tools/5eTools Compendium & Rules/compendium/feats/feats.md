@@ -4,6 +4,7 @@ cssclasses: json5e-note
 ---
 # Index of Feats
 
+- [Aberrant Dragonmark](aberrant-dragonmark-erlw.md)
 - [Actor](actor.md)
 - [Alert](alert.md)
 - [Artificer Initiate](artificer-initiate-tce.md)
@@ -56,6 +57,7 @@ cssclasses: json5e-note
 - [Polearm Master](polearm-master.md)
 - [Prodigy](prodigy-xge.md)
 - [Resilient](resilient.md)
+- [Revenant Blade](revenant-blade-erlw.md)
 - [Ritual Caster](ritual-caster.md)
 - [Savage Attacker](savage-attacker.md)
 - [Second Chance](second-chance-xge.md)

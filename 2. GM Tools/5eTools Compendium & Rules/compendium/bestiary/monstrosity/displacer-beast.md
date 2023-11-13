@@ -10,7 +10,7 @@ tags:
 aliases: ["Displacer Beast"]
 ---
 # Displacer Beast
-*Source: Monster Manual p. 81, Tales from the Yawning Portal, Journeys through the Radiant Citadel*  
+*Source: Monster Manual p. 81, Tales from the Yawning Portal, Eberron: Rising from the Last War, Journeys through the Radiant Citadel*  
 
 This monstrous predator takes its name from its ability to displace light so that it appears to be several feet away from its actual location. A displacer beast resembles a sleek great cat covered in blue-black fur.
 

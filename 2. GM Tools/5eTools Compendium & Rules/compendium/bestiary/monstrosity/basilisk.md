@@ -10,7 +10,7 @@ tags:
 aliases: ["Basilisk"]
 ---
 # Basilisk
-*Source: Monster Manual p. 24. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 24, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules.*  
 
 Travelers sometimes find objects that look like pieces of remarkably lifelike stone carvings of wildlife. Missing parts appear to have been bitten off. Seasoned explorers regard such relics as warnings, knowing that the basilisk that created them is likely to be nearby.
 

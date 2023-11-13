@@ -11,7 +11,7 @@ tags:
 aliases: ["Fire Giant"]
 ---
 # Fire Giant
-*Source: Monster Manual p. 154, Tales from the Yawning Portal, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 154, Tales from the Yawning Portal, Mythic Odysseys of Theros, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  
 
 Master crafters and organized warriors, fire giants dwell among volcanoes, lava floes, and rocky mountains. They are ruthless militaristic brutes whose mastery of metalwork is legendary.
 

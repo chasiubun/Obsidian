@@ -14,7 +14,7 @@ tags:
 aliases: ["Hobgoblin"]
 ---
 # Hobgoblin
-*Source: Monster Manual p. 186, Lost Mine of Phandelver, Tales from the Yawning Portal. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 186, Lost Mine of Phandelver, Tales from the Yawning Portal, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
 
 War horns sound, stones fly from catapults, and the thunder of a thousand booted feet echoes across the land as hobgoblins march to battle. Across the borderlands of civilization, settlements and settlers must contend with these aggressive humanoids, whose thirst for conquest is never satisfied.
 

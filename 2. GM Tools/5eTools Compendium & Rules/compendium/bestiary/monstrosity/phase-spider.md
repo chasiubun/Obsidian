@@ -15,7 +15,7 @@ tags:
 aliases: ["Phase Spider"]
 ---
 # Phase Spider
-*Source: Monster Manual p. 334. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 334, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules.*  
 
 A phase spider possesses the magical ability to phase in and out of the Ethereal Plane. It seems to appear out of nowhere and quickly vanishes after attacking. Its movement on the Ethereal Plane before coming back to the Material Plane makes it seem like it can teleport.
 

@@ -15,7 +15,7 @@ tags:
 aliases: ["Cyclops"]
 ---
 # Cyclops
-*Source: Monster Manual p. 45. Available in the Basic Rules.*  
+*Source: Monster Manual p. 45, Mythic Odysseys of Theros. Available in the Basic Rules.*  
 
 Cyclopes are one-eyed giants that eke out a meager existence in wild lands. Isolationists by nature, they avoid contact with other races and try to drive away strangers in their territory.
 

@@ -10,7 +10,7 @@ tags:
 aliases: ["Lamia"]
 ---
 # Lamia
-*Source: Monster Manual p. 201. Available in the SRD.*  
+*Source: Monster Manual p. 201, Mythic Odysseys of Theros. Available in the SRD.*  
 
 Ruined desert cities and the tombs of forgotten monarchs make perfect lairs for the wicked lamias. These decadent monsters take what has been forgotten and make it the seat of their hedonistic rule, surrounding themselves with sycophants. Lamias rely on [jackalweres](compendium/bestiary/humanoid/jackalwere.md) to perform various tasks, sending them across the wastes to capture slaves or steal treasures from caravans, encampments, or villages, concealed by the lamia's magic as they attack.
 

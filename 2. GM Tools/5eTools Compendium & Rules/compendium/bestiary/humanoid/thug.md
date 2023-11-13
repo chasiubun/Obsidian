@@ -10,7 +10,7 @@ tags:
 aliases: ["Thug"]
 ---
 # Thug
-*Source: Monster Manual p. 350, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 350, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  
 
 Thugs are ruthless enforcers skilled at intimidation and violence. They work for money and have few scruples.
 

@@ -9,7 +9,7 @@ tags:
 aliases: ["Steel Defender"]
 ---
 # Steel Defender
-*Source: Tasha's Cauldron of Everything p. 19*  
+*Source: Tasha's Cauldron of Everything p. 19, Eberron: Rising from the Last War p. 61*  
 
 ```ad-statblock
 title: Steel Defender

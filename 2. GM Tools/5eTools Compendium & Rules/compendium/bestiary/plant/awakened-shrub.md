@@ -10,7 +10,7 @@ tags:
 aliases: ["Awakened Shrub"]
 ---
 # Awakened Shrub
-*Source: Monster Manual p. 317. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 317, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules.*  
 
 An awakened shrub is an ordinary shrub given sentience and mobility by the [awaken](compendium/spells/awaken.md) spell or similar magic.
 

@@ -10,7 +10,7 @@ tags:
 aliases: ["Ochre Jelly"]
 ---
 # Ochre Jelly
-*Source: Monster Manual p. 243, Lost Mine of Phandelver, Tales from the Yawning Portal, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 243, Lost Mine of Phandelver, Tales from the Yawning Portal, Eberron: Rising from the Last War, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  
 
 Ochre jellies are yellowish blobs that can slide under doors and through narrow cracks in pursuit of creatures to devour. They have enough bestial cunning to avoid large groups of enemies.
 

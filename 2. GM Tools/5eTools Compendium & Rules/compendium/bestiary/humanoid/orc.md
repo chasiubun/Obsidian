@@ -16,7 +16,7 @@ tags:
 aliases: ["Orc"]
 ---
 # Orc
-*Source: Monster Manual p. 246, Lost Mine of Phandelver, Tales from the Yawning Portal. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 246, Lost Mine of Phandelver, Tales from the Yawning Portal, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
 

@@ -11,7 +11,7 @@ tags:
 aliases: ["Tiger"]
 ---
 # Tiger
-*Source: Monster Manual p. 339, Tales from the Yawning Portal. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 339, Tales from the Yawning Portal, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules.*  
 
 ```ad-statblock
 title: Tiger

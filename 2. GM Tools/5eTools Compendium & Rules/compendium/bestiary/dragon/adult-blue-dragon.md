@@ -11,7 +11,7 @@ tags:
 aliases: ["Adult Blue Dragon"]
 ---
 # Adult Blue Dragon
-*Source: Monster Manual p. 91, Journeys through the Radiant Citadel. Available in the SRD.*  
+*Source: Monster Manual p. 91, Mythic Odysseys of Theros, Journeys through the Radiant Citadel. Available in the SRD.*  
 
 Vain and territorial, blue dragons soar through the skies over deserts, preying on caravans and plundering herds and settlements in the verdant lands beyond the desert's reach. These dragons can also be found in dry steppes, searing badlands, and rocky coasts. They guard their territories against all potential competitors, especially brass dragons.
 

@@ -10,7 +10,7 @@ tags:
 aliases: ["Cult Fanatic"]
 ---
 # Cult Fanatic
-*Source: Monster Manual p. 345, Tales from the Yawning Portal, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel. Available in the SRD.*  
+*Source: Monster Manual p. 345, Tales from the Yawning Portal, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel. Available in the SRD.*  
 
 Fanatics are often part of a cult's leadership, using their charisma and dogma to influence and prey on those of weak will. Most are interested in personal power above all else
 

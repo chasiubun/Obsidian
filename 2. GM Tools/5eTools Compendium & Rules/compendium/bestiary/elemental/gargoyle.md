@@ -11,7 +11,7 @@ tags:
 aliases: ["Gargoyle"]
 ---
 # Gargoyle
-*Source: Monster Manual p. 140, Tales from the Yawning Portal, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 140, Tales from the Yawning Portal, Eberron: Rising from the Last War, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  
 
 The inanimate gargoyles that perch atop great buildings are inspired by these malevolent creatures of elemental earth that resemble grotesque, fiendish statues. A gargoyle lurks among masonry and ruins, as still as any stone sculpture, and delights in the terror it creates when it breaks from its suspended pose, as well as the pain it inflicts on its victims.
 
