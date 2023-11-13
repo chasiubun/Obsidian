@@ -13,7 +13,7 @@ aliases: ["Goblin Commoner"]
 
 ```ad-statblock
 title: Goblin Commoner
-![](/compendium/bestiary/humanoid/token/goblin-commoner.png#token)
+![](compendium/bestiary/humanoid/token/goblin-commoner.png#token)
 *Small humanoid (goblinoid), Any alignment*
 
 - **Armor Class** 10 

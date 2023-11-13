@@ -25,10 +25,10 @@ Githyanki descend from an ancient people who were also the progenitors of githze
 
 ```ad-statblock
 title: Githyanki Gish
-![](/compendium/bestiary/humanoid/token/githyanki-gish.png#token)
+![](compendium/bestiary/humanoid/token/githyanki-gish.png#token)
 *Medium humanoid (gith, wizard), Any alignment*
 
-- **Armor Class** 17  ([half plate](/compendium/items/half-plate-armor.md))
+- **Armor Class** 17  ([half plate](compendium/items/half-plate-armor.md))
 - **Hit Points** 130 (`20d8 + 40`)
 - **Speed** 30 ft.
 
@@ -45,11 +45,11 @@ title: Githyanki Gish
 
 ***Spellcasting (Psionics).*** The githyanki casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 15):
 
-**At will**: [light](/compendium/spells/light.md), [mage hand](/compendium/spells/mage-hand.md) (the hand is invisible), [message](/compendium/spells/message.md)
+**At will**: [light](compendium/spells/light.md), [mage hand](compendium/spells/mage-hand.md) (the hand is invisible), [message](compendium/spells/message.md)
 
-**1/day each**: [dimension door](/compendium/spells/dimension-door.md), [plane shift](/compendium/spells/plane-shift.md), [telekinesis](/compendium/spells/telekinesis.md)
+**1/day each**: [dimension door](compendium/spells/dimension-door.md), [plane shift](compendium/spells/plane-shift.md), [telekinesis](compendium/spells/telekinesis.md)
 
-**3/day each**: [fireball](/compendium/spells/fireball.md), [invisibility](/compendium/spells/invisibility.md), [nondetection](/compendium/spells/nondetection.md) (self only)
+**3/day each**: [fireball](compendium/spells/fireball.md), [invisibility](compendium/spells/invisibility.md), [nondetection](compendium/spells/nondetection.md) (self only)
 
 ## Actions
 

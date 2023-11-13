@@ -29,11 +29,11 @@ Whenever you gain a sorcerer level, you can replace one spell you gained from th
 
 | Sorcerer Level | Spells |
 |----------------|--------|
-| 1st | [alarm](/compendium/spells/alarm.md), [protection from evil and good](/compendium/spells/protection-from-evil-and-good.md) |
-| 3rd | [aid](/compendium/spells/aid.md), [lesser restoration](/compendium/spells/lesser-restoration.md) |
-| 5th | [dispel magic](/compendium/spells/dispel-magic.md), [protection from energy](/compendium/spells/protection-from-energy.md) |
-| 7th | [freedom of movement](/compendium/spells/freedom-of-movement.md), [summon construct](/compendium/spells/summon-construct-tce.md) |
-| 9th | [greater restoration](/compendium/spells/greater-restoration.md), [wall of force](/compendium/spells/wall-of-force.md) |
+| 1st | [alarm](compendium/spells/alarm.md), [protection from evil and good](compendium/spells/protection-from-evil-and-good.md) |
+| 3rd | [aid](compendium/spells/aid.md), [lesser restoration](compendium/spells/lesser-restoration.md) |
+| 5th | [dispel magic](compendium/spells/dispel-magic.md), [protection from energy](compendium/spells/protection-from-energy.md) |
+| 7th | [freedom of movement](compendium/spells/freedom-of-movement.md), [summon construct](compendium/spells/summon-construct-tce.md) |
+| 9th | [greater restoration](compendium/spells/greater-restoration.md), [wall of force](compendium/spells/wall-of-force.md) |
 ^clockwork-spells
 
 In addition, consult the Manifestations of Order table and choose or randomly determine a way your connection to order manifests while you are casting any of your sorcerer spells.

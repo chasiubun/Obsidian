@@ -24,7 +24,7 @@ In service to its master, a boneclaw delights in causing horrific pain. It lurks
 
 ```ad-statblock
 title: Boneclaw
-![](/compendium/bestiary/undead/token/boneclaw.png#token)
+![](compendium/bestiary/undead/token/boneclaw.png#token)
 *Large undead, Typically  Chaotic Evil*
 
 - **Armor Class** 16  (natural armor)
@@ -52,7 +52,7 @@ title: Boneclaw
 
 ***Multiattack.*** The boneclaw makes two Piercing Claw attacks.
 
-***Piercing Claw.*** *Melee Weapon Attack:* +8 to hit, reach 15 ft., one target. *Hit:* 20 (`3d10 + 4`) piercing damage plus 11 (`2d10`) necrotic damage. If the target is a creature, the boneclaw can pull the target up to 10 feet toward itself, and the target is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 14). The boneclaw has two claws. While a claw grapples a target, the claw can attack only that target.
+***Piercing Claw.*** *Melee Weapon Attack:* +8 to hit, reach 15 ft., one target. *Hit:* 20 (`3d10 + 4`) piercing damage plus 11 (`2d10`) necrotic damage. If the target is a creature, the boneclaw can pull the target up to 10 feet toward itself, and the target is [grappled](rules/conditions.md#grappled) (escape DC 14). The boneclaw has two claws. While a claw grapples a target, the claw can attack only that target.
 
 ***Shadow Jump (Recharge 5-6).*** If the boneclaw is in dim light or darkness, each creature of the boneclaw's choice within 15 feet of it must succeed on a DC 14 Constitution saving throw or take 34 (`5d12 + 2`) necrotic damage.
 
@@ -60,7 +60,7 @@ The boneclaw then teleports up to 60 feet to an unoccupied space it can see. It 
 
 ## Bonus Actions
 
-***Shadow Stealth.*** While in dim light or darkness, the boneclaw takes the [Hide](/compendium/rules/actions.md#Hide) action.
+***Shadow Stealth.*** While in dim light or darkness, the boneclaw takes the [Hide](rules/actions.md#Hide) action.
 
 ## Reactions
 

@@ -13,7 +13,7 @@ aliases: ["Lamai Tyenmo"]
 
 ```ad-statblock
 title: Lamai Tyenmo
-![](/compendium/bestiary/npc/token/lamai-tyenmo.png#token)
+![](compendium/bestiary/npc/token/lamai-tyenmo.png#token)
 *Small humanoid (Rock gnome), Lawful Good*
 
 - **Armor Class** 10 

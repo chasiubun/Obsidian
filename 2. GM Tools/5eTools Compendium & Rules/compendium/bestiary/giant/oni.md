@@ -46,10 +46,10 @@ Oni are sometimes called ogre mages because of their innate magical ability. Tho
 
 ```ad-statblock
 title: Oni
-![](/compendium/bestiary/giant/token/oni.png#token)
+![](compendium/bestiary/giant/token/oni.png#token)
 *Large giant, Lawful Evil*
 
-- **Armor Class** 16  ([chain mail](/compendium/items/chain-mail.md))
+- **Armor Class** 16  ([chain mail](compendium/items/chain-mail.md))
 - **Hit Points** 110 (`13d10 + 39`)
 - **Speed** 30 ft., fly 30 ft.
 
@@ -72,9 +72,9 @@ title: Oni
 
 ***Innate Spellcasting.*** The oni's innate spellcasting ability is Charisma (spell save DC 13). The oni can innately cast the following spells, requiring no material components:
 
-**At will**: [darkness](/compendium/spells/darkness.md), [invisibility](/compendium/spells/invisibility.md)
+**At will**: [darkness](compendium/spells/darkness.md), [invisibility](compendium/spells/invisibility.md)
 
-**1/day each**: [charm person](/compendium/spells/charm-person.md), [cone of cold](/compendium/spells/cone-of-cold.md), [gaseous form](/compendium/spells/gaseous-form.md), [sleep](/compendium/spells/sleep.md)
+**1/day each**: [charm person](compendium/spells/charm-person.md), [cone of cold](compendium/spells/cone-of-cold.md), [gaseous form](compendium/spells/gaseous-form.md), [sleep](compendium/spells/sleep.md)
 
 ## Actions
 

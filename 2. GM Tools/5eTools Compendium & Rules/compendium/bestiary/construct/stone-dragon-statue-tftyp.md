@@ -13,7 +13,7 @@ aliases: ["Stone Dragon Statue"]
 
 ```ad-statblock
 title: Stone Dragon Statue
-![](/compendium/bestiary/construct/token/stone-dragon-statue.png#token)
+![](compendium/bestiary/construct/token/stone-dragon-statue.png#token)
 *Large construct, Unaligned*
 
 - **Armor Class** 17  (natural armor)

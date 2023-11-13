@@ -13,7 +13,7 @@ aliases: ["Young Troglodyte"]
 
 ```ad-statblock
 title: Young Troglodyte
-![](/compendium/bestiary/humanoid/token/young-troglodyte.png#token)
+![](compendium/bestiary/humanoid/token/young-troglodyte.png#token)
 *Small humanoid (troglodyte), Lawful Evil*
 
 - **Armor Class** 12 
@@ -33,9 +33,9 @@ title: Young Troglodyte
 
 ## Traits
 
-***Sunlight Sensitivity.*** While in sunlight, the troglodyte has disadvantage on attack rolls, as well as on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the troglodyte has disadvantage on attack rolls, as well as on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
-***Pack Tactics.*** The troglodyte has advantage on an attack roll against a creature if at least one of the troglodyte's allies is within 5 feet of the creature and the ally isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Pack Tactics.*** The troglodyte has advantage on an attack roll against a creature if at least one of the troglodyte's allies is within 5 feet of the creature and the ally isn't [incapacitated](rules/conditions.md#incapacitated).
 
 ## Actions
 

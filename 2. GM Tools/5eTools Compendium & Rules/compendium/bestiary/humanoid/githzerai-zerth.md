@@ -29,7 +29,7 @@ The social hierarchy of the githzerai is based on merit, and those githzerai who
 
 ## Disciples of Zerthimon
 
-Githzerai revere Zerthimon, the founder of their race. Although Gith won their people's freedom, Zerthimon saw her as unfit to lead. He believed that her warmongering would soon make her a tyrant no better than the [mind flayers](/compendium/bestiary/aberration/mind-flayer.md).
+Githzerai revere Zerthimon, the founder of their race. Although Gith won their people's freedom, Zerthimon saw her as unfit to lead. He believed that her warmongering would soon make her a tyrant no better than the [mind flayers](compendium/bestiary/aberration/mind-flayer.md).
 
 Skilled githzerai monks that best exemplify the teachings and principles of Zerthimon are called zerths.
 
@@ -45,13 +45,13 @@ As a special devotion, they organize a rrakkma—an illithid hunting party—to 
 
 ## Gith
 
-The warlike githyanki and the contemplative githzerai are a sundered people-two cultures that utterly despise one another. Before there were githyanki or githzerai, these creatures were a single race enslaved by the [mind flayers](/compendium/bestiary/aberration/mind-flayer.md). Although they attempted to overthrow their masters many times, their rebellions were repeatedly crushed until a great leader named Gith arose.
+The warlike githyanki and the contemplative githzerai are a sundered people-two cultures that utterly despise one another. Before there were githyanki or githzerai, these creatures were a single race enslaved by the [mind flayers](compendium/bestiary/aberration/mind-flayer.md). Although they attempted to overthrow their masters many times, their rebellions were repeatedly crushed until a great leader named Gith arose.
 
 After much bloodshed, Gith and her followers threw off the yoke of their illithid masters, but another leader named Zerthimon emerged in the aftermath of battle.
 
 Zerthimon challenged Gith's motives, claiming that her strict martial leadership and desire for vengeance amounted to little more than another form of slavery for her people. A rift erupted between followers of each leader, and they eventually became the two races whose enmity endures to this day.
 
-Whether these tall, gaunt creatures were peaceful or savage, cultured or primitive before the [mind flayers](/compendium/bestiary/aberration/mind-flayer.md) enslaved and changed them, none can say. Not even the original name of their race remains from that distant time.
+Whether these tall, gaunt creatures were peaceful or savage, cultured or primitive before the [mind flayers](compendium/bestiary/aberration/mind-flayer.md) enslaved and changed them, none can say. Not even the original name of their race remains from that distant time.
 
 > [!quote]- A quote from Aristul the Yellow, master of planar lore  
 > 
@@ -62,7 +62,7 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
 
 ```ad-statblock
 title: Githzerai Zerth
-![](/compendium/bestiary/humanoid/token/githzerai-zerth.png#token)
+![](compendium/bestiary/humanoid/token/githzerai-zerth.png#token)
 *Medium humanoid (gith), Lawful Neutral*
 
 - **Armor Class** 17 
@@ -86,11 +86,11 @@ title: Githzerai Zerth
 
 ***Innate Spellcasting (Psionics).*** The githzerai's innate spellcasting ability is Wisdom. It can innately cast the following spells, requiring no components:
 
-**At will**: [mage hand](/compendium/spells/mage-hand.md) (the hand is invisible)
+**At will**: [mage hand](compendium/spells/mage-hand.md) (the hand is invisible)
 
-**1/day each**: [phantasmal killer](/compendium/spells/phantasmal-killer.md), [plane shift](/compendium/spells/plane-shift.md)
+**1/day each**: [phantasmal killer](compendium/spells/phantasmal-killer.md), [plane shift](compendium/spells/plane-shift.md)
 
-**3/day each**: [feather fall](/compendium/spells/feather-fall.md), [jump](/compendium/spells/jump.md), [see invisibility](/compendium/spells/see-invisibility.md), [shield](/compendium/spells/shield.md)
+**3/day each**: [feather fall](compendium/spells/feather-fall.md), [jump](compendium/spells/jump.md), [see invisibility](compendium/spells/see-invisibility.md), [shield](compendium/spells/shield.md)
 
 ## Actions
 

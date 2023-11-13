@@ -17,7 +17,7 @@ Some of these spirit statues bond with and mentor a specific mage, but most serv
 
 ```ad-statblock
 title: Spirit Statue Mascot
-![](/compendium/bestiary/construct/token/spirit-statue-mascot.png#token)
+![](compendium/bestiary/construct/token/spirit-statue-mascot.png#token)
 *Medium construct, Any alignment*
 
 - **Armor Class** 14  (natural armor)

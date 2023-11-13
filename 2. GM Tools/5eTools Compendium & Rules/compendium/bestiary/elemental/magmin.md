@@ -27,7 +27,7 @@ If it has the opportunity while in service to its master, a magmin seeks out are
 
 ```ad-statblock
 title: Magmin
-![](/compendium/bestiary/elemental/token/magmin.png#token)
+![](compendium/bestiary/elemental/token/magmin.png#token)
 *Small elemental, Chaotic Neutral*
 
 - **Armor Class** 14  (natural armor)

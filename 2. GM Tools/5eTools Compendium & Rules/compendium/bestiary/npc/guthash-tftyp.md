@@ -15,7 +15,7 @@ Some giant rats carry vile diseases that they spread with their bites.
 
 ```ad-statblock
 title: Guthash
-![](/compendium/bestiary/npc/token/guthash.png#token)
+![](compendium/bestiary/npc/token/guthash.png#token)
 *Medium beast, Unaligned*
 
 - **Armor Class** 12 

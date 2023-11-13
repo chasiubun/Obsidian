@@ -24,10 +24,10 @@ Tribal warriors live beyond civilization, most often subsisting on fishing and h
 
 ```ad-statblock
 title: Tribal Warrior
-![](/compendium/bestiary/humanoid/token/tribal-warrior.png#token)
+![](compendium/bestiary/humanoid/token/tribal-warrior.png#token)
 *Medium humanoid (any race), Any alignment*
 
-- **Armor Class** 12  ([hide armor](/compendium/items/hide-armor.md))
+- **Armor Class** 12  ([hide armor](compendium/items/hide-armor.md))
 - **Hit Points** 11 (`2d8 + 2`)
 - **Speed** 30 ft.
 
@@ -44,7 +44,7 @@ title: Tribal Warrior
 
 ## Traits
 
-***Pack Tactics.*** The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Pack Tactics.*** The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally isn't [incapacitated](rules/conditions.md#incapacitated).
 
 ## Actions
 

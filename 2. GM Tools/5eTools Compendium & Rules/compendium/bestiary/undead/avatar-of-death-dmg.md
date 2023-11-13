@@ -11,11 +11,11 @@ aliases: ["Avatar of Death (DMG)"]
 # Avatar of Death (DMG)
 *Source: Dungeon Master's Guide p. 164, Tasha's Cauldron of Everything. Available in the SRD.*  
 
-Summoned by the "Skull" card from the [Deck of Many Things](/compendium/items/deck-of-many-things.md).
+Summoned by the "Skull" card from the [Deck of Many Things](compendium/items/deck-of-many-things.md).
 
 ```ad-statblock
 title: Avatar of Death (DMG)
-![](/compendium/bestiary/undead/token/avatar-of-death.png#token)
+![](compendium/bestiary/undead/token/avatar-of-death.png#token)
 *Medium undead, Neutral Evil*
 
 - **Armor Class** 20 

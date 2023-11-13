@@ -16,7 +16,7 @@ aliases:
 
 - **Damage**: 1d4 P
 - **Range**: 20/60
-- **Properties**: [Finesse](/compendium/rules/item-properties.md#Finesse), [Light](/compendium/rules/item-properties.md#Light), [Thrown](/compendium/rules/item-properties.md#Thrown)
+- **Properties**: [Finesse](rules/item-properties.md#Finesse), [Light](rules/item-properties.md#Light), [Thrown](rules/item-properties.md#Thrown)
 - **Weight**: 1.0 lbs.
 
 You have a +1 bonus to attack and damage rolls made with this dagger, which looks like junk. When it is used, its grip frays, its blade chips, and it flakes rust. If you get a natural 1 on an attack roll while wielding this weapon, it breaks and becomes nonmagical.

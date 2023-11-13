@@ -13,10 +13,10 @@ aliases: ["Young-Gi"]
 
 ```ad-statblock
 title: Young-Gi
-![](/compendium/bestiary/npc/token/young-gi.png#token)
+![](compendium/bestiary/npc/token/young-gi.png#token)
 *Medium humanoid (dragonborn), Neutral*
 
-- **Armor Class** 15  ([breastplate](/compendium/items/breastplate.md))
+- **Armor Class** 15  ([breastplate](compendium/items/breastplate.md))
 - **Hit Points** 9 (`2d8`)
 - **Speed** 30 ft.
 

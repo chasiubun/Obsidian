@@ -29,7 +29,7 @@ Possessed of the power of elemental earth, a xorn glides through stone and dirt 
 
 ```ad-statblock
 title: Xorn
-![](/compendium/bestiary/elemental/token/xorn.png#token)
+![](compendium/bestiary/elemental/token/xorn.png#token)
 *Medium elemental, Neutral*
 
 - **Armor Class** 19  (natural armor)

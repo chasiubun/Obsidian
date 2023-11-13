@@ -16,10 +16,10 @@ Cultists swear allegiance to dark powers such as elemental princes, demon lords,
 
 ```ad-statblock
 title: Cultist
-![](/compendium/bestiary/humanoid/token/cultist.png#token)
+![](compendium/bestiary/humanoid/token/cultist.png#token)
 *Medium humanoid (any race), Any Non-Good alignment*
 
-- **Armor Class** 12  ([leather armor](/compendium/items/leather-armor.md))
+- **Armor Class** 12  ([leather armor](compendium/items/leather-armor.md))
 - **Hit Points** 9 (`2d8`)
 - **Speed** 30 ft.
 
@@ -36,7 +36,7 @@ title: Cultist
 
 ## Traits
 
-***Dark Devotion.*** The cultist has advantage on saving throws against being [charmed](/compendium/rules/conditions.md#charmed) or [frightened](/compendium/rules/conditions.md#frightened).
+***Dark Devotion.*** The cultist has advantage on saving throws against being [charmed](rules/conditions.md#charmed) or [frightened](rules/conditions.md#frightened).
 
 ## Actions
 

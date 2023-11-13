@@ -15,7 +15,7 @@ Janya is populated by descendants of Djaynai who escaped into the sea during the
 
 ```ad-statblock
 title: Nightsea chil-liren
-![](/compendium/bestiary/humanoid/token/nightsea-chil-liren.png#token)
+![](compendium/bestiary/humanoid/token/nightsea-chil-liren.png#token)
 *Medium humanoid (merfolk), Neutral*
 
 - **Armor Class** 11 

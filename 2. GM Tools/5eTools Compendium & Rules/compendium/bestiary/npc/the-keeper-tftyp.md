@@ -13,10 +13,10 @@ aliases: ["The Keeper"]
 
 ```ad-statblock
 title: The Keeper
-![](/compendium/bestiary/npc/token/the-keeper.png#token)
+![](compendium/bestiary/npc/token/the-keeper.png#token)
 *Huge giant, Neutral*
 
-- **Armor Class** 17  ([chain mail](/compendium/items/chain-mail.md))
+- **Armor Class** 17  ([chain mail](compendium/items/chain-mail.md))
 - **Hit Points** 126 (`11d12 + 55`)
 - **Speed** 40 ft.
 
@@ -37,7 +37,7 @@ title: The Keeper
 
 ***Battleaxe +2.*** *Melee Weapon Attack:* +10 to hit, reach 15 ft., one target. *Hit:* 20 (`3d8 + 7`) slashing damage, or 23 (`3d10 + 7`) slashing damage if used with both hands.
 
-***Rock.*** *Ranged Weapon Attack:* +9 to hit, range 60/240 ft., one target. *Hit:* 28 (`4d10 + 6`) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked [prone](/compendium/rules/conditions.md#prone).
+***Rock.*** *Ranged Weapon Attack:* +9 to hit, range 60/240 ft., one target. *Hit:* 28 (`4d10 + 6`) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked [prone](rules/conditions.md#prone).
 
 ## Reactions
 

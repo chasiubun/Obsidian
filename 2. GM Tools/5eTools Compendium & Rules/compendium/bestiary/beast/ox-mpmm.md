@@ -23,7 +23,7 @@ Many kinds of cattle roam the multiverse, some of them domesticated and others f
 
 ```ad-statblock
 title: Ox
-![](/compendium/bestiary/beast/token/ox.png#token)
+![](compendium/bestiary/beast/token/ox.png#token)
 *Large beast (cattle), Unaligned*
 
 - **Armor Class** 10 

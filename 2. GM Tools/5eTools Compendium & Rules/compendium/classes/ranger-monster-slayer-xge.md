@@ -25,11 +25,11 @@ Starting at 3rd level, you learn an additional spell when you reach certain leve
 
 | Ranger Level | Spells |
 |--------------|--------|
-| 3rd | [protection from evil and good](/compendium/spells/protection-from-evil-and-good.md) |
-| 5th | [zone of truth](/compendium/spells/zone-of-truth.md) |
-| 9th | [magic circle](/compendium/spells/magic-circle.md) |
-| 13th | [banishment](/compendium/spells/banishment.md) |
-| 17th | [hold monster](/compendium/spells/hold-monster.md) |
+| 3rd | [protection from evil and good](compendium/spells/protection-from-evil-and-good.md) |
+| 5th | [zone of truth](compendium/spells/zone-of-truth.md) |
+| 9th | [magic circle](compendium/spells/magic-circle.md) |
+| 13th | [banishment](compendium/spells/banishment.md) |
+| 17th | [hold monster](compendium/spells/hold-monster.md) |
 ^monster-slayer-spells
 
 ### Hunter's Sense (Level 3)

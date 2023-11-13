@@ -11,4 +11,4 @@ aliases: ["Visions of Distant Realms"]
 
 **Prerequisite**: 15th-level Warlock
 
-You can cast [arcane eye](/compendium/spells/arcane-eye.md) at will, without expending a spell slot.
+You can cast [arcane eye](compendium/spells/arcane-eye.md) at will, without expending a spell slot.

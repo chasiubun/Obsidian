@@ -15,7 +15,7 @@ Grumpy, spiky, and generally irritating, pest mascots inhabit the muggy bayou of
 
 ```ad-statblock
 title: Pest Mascot
-![](/compendium/bestiary/monstrosity/token/pest-mascot.png#token)
+![](compendium/bestiary/monstrosity/token/pest-mascot.png#token)
 *Tiny monstrosity, Unaligned*
 
 - **Armor Class** 13  (natural armor)

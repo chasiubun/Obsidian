@@ -22,7 +22,7 @@ Anathemas don't age, allowing them to pursue their goals until the end of days. 
 
 ```ad-statblock
 title: Yuan-ti Anathema
-![](/compendium/bestiary/monstrosity/token/yuan-ti-anathema.png#token)
+![](compendium/bestiary/monstrosity/token/yuan-ti-anathema.png#token)
 *Huge monstrosity, Typically  Neutral Evil*
 
 - **Armor Class** 16  (natural armor)
@@ -44,15 +44,15 @@ title: Yuan-ti Anathema
 
 ***Magic Resistance.*** The anathema has advantage on saving throws against spells and other magical effects.
 
-***Ophidiophobia Aura.*** Any creature of the anathema's choice, other than a snake or a yuan-ti, that starts its turn within 30 feet of the anathema must succeed on a DC 17 Wisdom saving throw or become [frightened](/compendium/rules/conditions.md#frightened) of snakes and yuan-ti. A [frightened](/compendium/rules/conditions.md#frightened) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to this anathama's aura for the next 24 hours.
+***Ophidiophobia Aura.*** Any creature of the anathema's choice, other than a snake or a yuan-ti, that starts its turn within 30 feet of the anathema must succeed on a DC 17 Wisdom saving throw or become [frightened](rules/conditions.md#frightened) of snakes and yuan-ti. A [frightened](rules/conditions.md#frightened) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to this anathama's aura for the next 24 hours.
 
-***Six Heads.*** The anathema has advantage on saves against being [blinded](/compendium/rules/conditions.md#blinded), [charmed](/compendium/rules/conditions.md#charmed), [deafened](/compendium/rules/conditions.md#deafened), [frightened](/compendium/rules/conditions.md#frightened), [stunned](/compendium/rules/conditions.md#stunned), or knocked [unconscious](/compendium/rules/conditions.md#unconscious).
+***Six Heads.*** The anathema has advantage on saves against being [blinded](rules/conditions.md#blinded), [charmed](rules/conditions.md#charmed), [deafened](rules/conditions.md#deafened), [frightened](rules/conditions.md#frightened), [stunned](rules/conditions.md#stunned), or knocked [unconscious](rules/conditions.md#unconscious).
 
 ***Spellcasting (Anathema Form Only).*** The anathema casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 17):
 
-**At will**: [animal friendship](/compendium/spells/animal-friendship.md) (snakes only)
+**At will**: [animal friendship](compendium/spells/animal-friendship.md) (snakes only)
 
-**3/day each**: [darkness](/compendium/spells/darkness.md), [entangle](/compendium/spells/entangle.md), [fear](/compendium/spells/fear.md), [polymorph](/compendium/spells/polymorph.md), [suggestion](/compendium/spells/suggestion.md)
+**3/day each**: [darkness](compendium/spells/darkness.md), [entangle](compendium/spells/entangle.md), [fear](compendium/spells/fear.md), [polymorph](compendium/spells/polymorph.md), [suggestion](compendium/spells/suggestion.md)
 
 ## Actions
 
@@ -62,7 +62,7 @@ title: Yuan-ti Anathema
 
 ***Flurry of Bites (Anathema Form Only).*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one creature. *Hit:* 27 (`6d6 + 6`) piercing damage plus 14 (`4d6`) poison damage.
 
-***Constrict (Snake Form Only).*** *Melee Weapon Attack:* +10 to hit, reach 15 ft., one Large or smaller creature. *Hit:* 16 (`3d6 + 6`) bludgeoning damage plus 7 (`2d6`) acid damage, and the target is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 16). Until this grapple ends, the target is [restrained](/compendium/rules/conditions.md#restrained), and it takes 16 (`3d6 + 6`) bludgeoning damage plus 7 (`2d6`) acid damage at the start of each of its turns. The anathema can constrict only one creature at a time.
+***Constrict (Snake Form Only).*** *Melee Weapon Attack:* +10 to hit, reach 15 ft., one Large or smaller creature. *Hit:* 16 (`3d6 + 6`) bludgeoning damage plus 7 (`2d6`) acid damage, and the target is [grappled](rules/conditions.md#grappled) (escape DC 16). Until this grapple ends, the target is [restrained](rules/conditions.md#restrained), and it takes 16 (`3d6 + 6`) bludgeoning damage plus 7 (`2d6`) acid damage at the start of each of its turns. The anathema can constrict only one creature at a time.
 
 ## Bonus Actions
 

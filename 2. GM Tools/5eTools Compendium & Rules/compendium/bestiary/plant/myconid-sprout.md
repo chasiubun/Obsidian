@@ -28,7 +28,7 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
 
 ```ad-statblock
 title: Myconid Sprout
-![](/compendium/bestiary/plant/token/myconid-sprout.png#token)
+![](compendium/bestiary/plant/token/myconid-sprout.png#token)
 *Small plant, Lawful Neutral*
 
 - **Armor Class** 10 

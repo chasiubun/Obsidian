@@ -15,7 +15,7 @@ aliases: ["Giant Centipede"]
 
 ```ad-statblock
 title: Giant Centipede
-![](/compendium/bestiary/beast/token/giant-centipede.png#token)
+![](compendium/bestiary/beast/token/giant-centipede.png#token)
 *Small beast, Unaligned*
 
 - **Armor Class** 13  (natural armor)
@@ -35,7 +35,7 @@ title: Giant Centipede
 
 ## Actions
 
-***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4 (`1d4 + 2`) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or take 10 (`3d6`) poison damage. If the poison damage reduces the target to 0 hit points, the target is stable but [poisoned](/compendium/rules/conditions.md#poisoned) for 1 hour, even after regaining hit points, and is [paralyzed](/compendium/rules/conditions.md#paralyzed) while [poisoned](/compendium/rules/conditions.md#poisoned) in this way.
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4 (`1d4 + 2`) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or take 10 (`3d6`) poison damage. If the poison damage reduces the target to 0 hit points, the target is stable but [poisoned](rules/conditions.md#poisoned) for 1 hour, even after regaining hit points, and is [paralyzed](rules/conditions.md#paralyzed) while [poisoned](rules/conditions.md#poisoned) in this way.
 ```
 ^statblock
 

@@ -26,7 +26,7 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 
 ```ad-statblock
 title: Pteranodon
-![](/compendium/bestiary/beast/token/pteranodon.png#token)
+![](compendium/bestiary/beast/token/pteranodon.png#token)
 *Medium beast, Unaligned*
 
 - **Armor Class** 13  (natural armor)

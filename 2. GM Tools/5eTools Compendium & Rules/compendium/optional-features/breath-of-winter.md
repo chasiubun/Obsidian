@@ -11,4 +11,4 @@ aliases: ["Breath of Winter"]
 
 **Prerequisite**: 17th-level Monk
 
-You can spend 6 ki points to cast [cone of cold](/compendium/spells/cone-of-cold.md).
+You can spend 6 ki points to cast [cone of cold](compendium/spells/cone-of-cold.md).

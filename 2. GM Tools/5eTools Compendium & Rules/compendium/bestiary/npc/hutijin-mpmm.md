@@ -13,7 +13,7 @@ aliases: ["Hutijin"]
 
 Politics in the Nine Hells are anything but predictable. Alliances form all the time, but most wind up unraveling due to treachery. Nevertheless, for all their backbiting and betrayal, devils do occasionally display loyalty, offering unwavering service to their masters. One such example is Hutijin, a duke of Cania and loyal servant of Mephistopheles.
 
-Across the Hells, Hutijin's name fills lesser devils with fear and loathing, for this duke commands two companies of [pit fiends](/compendium/bestiary/fiend/pit-fiend.md). With such soldiers under his command, Hutijin can easily crush any rival who gets in his way while also defending Mephistopheles against armies seeking to contest his dominion. Hutijin has amassed enough power to challenge the lord of Cania, but he has never wavered in his support for his master—suggesting, perhaps, that Mephistopheles has some hold over him.
+Across the Hells, Hutijin's name fills lesser devils with fear and loathing, for this duke commands two companies of [pit fiends](compendium/bestiary/fiend/pit-fiend.md). With such soldiers under his command, Hutijin can easily crush any rival who gets in his way while also defending Mephistopheles against armies seeking to contest his dominion. Hutijin has amassed enough power to challenge the lord of Cania, but he has never wavered in his support for his master—suggesting, perhaps, that Mephistopheles has some hold over him.
 
 Outside the Nine Hells, Hutijin is a relatively obscure figure, known only to the most learned infernal scholars. He has no cults of his own, and his servants are few in number. The reason is simple: Hutijin hates mortals. When summoned from the Hells, he repays the instigator with a long and agonizing death.
 
@@ -21,7 +21,7 @@ Mephistopheles forbids Hutijin from making too many forays into the Material Pla
 
 ```ad-statblock
 title: Hutijin
-![](/compendium/bestiary/npc/token/hutijin.png#token)
+![](compendium/bestiary/npc/token/hutijin.png#token)
 *Large fiend (devil), Lawful Evil*
 
 - **Armor Class** 19  (natural armor)
@@ -51,15 +51,15 @@ title: Hutijin
 
 ***Spellcasting.*** Hutijin casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 22):
 
-**At will**: [alter self](/compendium/spells/alter-self.md) (can become Medium when changing his appearance), [detect magic](/compendium/spells/detect-magic.md), [hold monster](/compendium/spells/hold-monster.md), [invisibility](/compendium/spells/invisibility.md) (self only), [lightning bolt](/compendium/spells/lightning-bolt.md), [suggestion](/compendium/spells/suggestion.md), [wall of fire](/compendium/spells/wall-of-fire.md)
+**At will**: [alter self](compendium/spells/alter-self.md) (can become Medium when changing his appearance), [detect magic](compendium/spells/detect-magic.md), [hold monster](compendium/spells/hold-monster.md), [invisibility](compendium/spells/invisibility.md) (self only), [lightning bolt](compendium/spells/lightning-bolt.md), [suggestion](compendium/spells/suggestion.md), [wall of fire](compendium/spells/wall-of-fire.md)
 
-**3/day**: [dispel magic](/compendium/spells/dispel-magic.md)
+**3/day**: [dispel magic](compendium/spells/dispel-magic.md)
 
 ## Actions
 
 ***Multiattack.*** Hutijin makes one Bite attack, one Claw attack, one Mace attack, and one Tail attack.
 
-***Bite.*** *Melee Weapon Attack:* +15 to hit, reach 5 ft., one target. *Hit:* 15 (`2d6 + 8`) fire damage. The target must succeed on a DC 22 Constitution saving throw or become [poisoned](/compendium/rules/conditions.md#poisoned). While [poisoned](/compendium/rules/conditions.md#poisoned) in this way, the target can't regain hit points, and it takes 10 (`3d6`) poison damage at the start of each of its turns. The [poisoned](/compendium/rules/conditions.md#poisoned) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Bite.*** *Melee Weapon Attack:* +15 to hit, reach 5 ft., one target. *Hit:* 15 (`2d6 + 8`) fire damage. The target must succeed on a DC 22 Constitution saving throw or become [poisoned](rules/conditions.md#poisoned). While [poisoned](rules/conditions.md#poisoned) in this way, the target can't regain hit points, and it takes 10 (`3d6`) poison damage at the start of each of its turns. The [poisoned](rules/conditions.md#poisoned) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Claw.*** *Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 17 (`2d8 + 8`) cold damage.
 
@@ -71,7 +71,7 @@ title: Hutijin
 
 ## Reactions
 
-***Fearful Voice (Recharge 5-6).*** In response to taking damage, Hutijin utters a dreadful word of power. Each creature within 30 feet of him that isn't a devil must succeed on a DC 22 Wisdom saving throw or become [frightened](/compendium/rules/conditions.md#frightened) of him for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. A creature that saves against this effect is immune to his Fearful Voice for 24 hours.
+***Fearful Voice (Recharge 5-6).*** In response to taking damage, Hutijin utters a dreadful word of power. Each creature within 30 feet of him that isn't a devil must succeed on a DC 22 Wisdom saving throw or become [frightened](rules/conditions.md#frightened) of him for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. A creature that saves against this effect is immune to his Fearful Voice for 24 hours.
 
 ## Legendary Actions
 

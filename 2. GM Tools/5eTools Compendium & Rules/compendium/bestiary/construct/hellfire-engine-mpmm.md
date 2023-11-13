@@ -19,7 +19,7 @@ Mortal creatures slain by hellfire engines are doomed to join the infernal legio
 
 ```ad-statblock
 title: Hellfire Engine
-![](/compendium/bestiary/construct/token/hellfire-engine.png#token)
+![](compendium/bestiary/construct/token/hellfire-engine.png#token)
 *Huge construct, Typically  Lawful Evil*
 
 - **Armor Class** 18  (natural armor)
@@ -47,9 +47,9 @@ title: Hellfire Engine
 
 ## Actions
 
-***Flesh-Crushing Stride.*** The hellfire engine moves up to its speed in a straight line. During this move, it can enter Large or smaller creatures' spaces. A creature whose space the hellfire engine enters must make a DC 18 Dexterity saving throw. On a successful save, the creature is pushed to the nearest space out of the hellfire engine's path. On a failed save, the creature falls [prone](/compendium/rules/conditions.md#prone) and takes 28 (`8d6`) bludgeoning damage.
+***Flesh-Crushing Stride.*** The hellfire engine moves up to its speed in a straight line. During this move, it can enter Large or smaller creatures' spaces. A creature whose space the hellfire engine enters must make a DC 18 Dexterity saving throw. On a successful save, the creature is pushed to the nearest space out of the hellfire engine's path. On a failed save, the creature falls [prone](rules/conditions.md#prone) and takes 28 (`8d6`) bludgeoning damage.
 
-If the hellfire engine remains in the [prone](/compendium/rules/conditions.md#prone) creature's space, the creature is also [restrained](/compendium/rules/conditions.md#restrained) until it's no longer in the same space as the hellfire engine. While [restrained](/compendium/rules/conditions.md#restrained) in this way, the creature, or another creature within 5 feet of it, can make a DC 18 Strength check. On a success, the creature is shunted to an unoccupied space of its choice within 5 feet of the hellfire engine and is no longer [restrained](/compendium/rules/conditions.md#restrained).
+If the hellfire engine remains in the [prone](rules/conditions.md#prone) creature's space, the creature is also [restrained](rules/conditions.md#restrained) until it's no longer in the same space as the hellfire engine. While [restrained](rules/conditions.md#restrained) in this way, the creature, or another creature within 5 feet of it, can make a DC 18 Strength check. On a success, the creature is shunted to an unoccupied space of its choice within 5 feet of the hellfire engine and is no longer [restrained](rules/conditions.md#restrained).
 
 ***Hellfire Weapons.*** The hellfire engine uses one of the following options (choose one or roll a `d6`):
 
@@ -57,6 +57,6 @@ If the hellfire engine remains in the [prone](/compendium/rules/conditions.md#pr
 - **3–4 Lightning Flail.** *Melee Weapon Attack:* +10 to hit, reach 15 ft., one creature. *Hit:* 18 (`3d8 + 5`) bludgeoning damage plus 22 (`5d8`) lightning damage. Up to three other creatures of the hellfire engine's choice that it can see within 30 feet of the target must each make a DC 20 Dexterity saving throw, taking 22 (`5d8`) lightning damage on a failed save, or half as much damage on a successful one.  
 - **5–6 Thunder Cannon.** The hellfire engine targets a point within 120 feet of it that it can see. Each creature within 30 feet of that point must make a DC 20 Dexterity saving throw, taking 27 (`5d10`) bludgeoning damage plus 19 (`3d12`) thunder damage on a failed save, or half as much damage on a successful one.  
 
-    If the chosen option kills a creature, the creature's soul rises from the River Styx as a [lemure](/compendium/bestiary/fiend/lemure.md) in Avernus in `1d4` hours. If the creature isn't revived before then, only a [wish](/compendium/spells/wish.md) spell or killing the [lemure](/compendium/bestiary/fiend/lemure.md) and casting true resurrection on the creature's original body can restore it to life. Constructs and devils are immune to this effect.  
+    If the chosen option kills a creature, the creature's soul rises from the River Styx as a [lemure](compendium/bestiary/fiend/lemure.md) in Avernus in `1d4` hours. If the creature isn't revived before then, only a [wish](compendium/spells/wish.md) spell or killing the [lemure](compendium/bestiary/fiend/lemure.md) and casting true resurrection on the creature's original body can restore it to life. Constructs and devils are immune to this effect.  
 ```
 ^statblock

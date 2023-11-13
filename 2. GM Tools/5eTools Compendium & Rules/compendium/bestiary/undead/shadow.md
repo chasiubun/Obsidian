@@ -29,7 +29,7 @@ A shadow doesn't require air, food, drink, or sleep
 
 ```ad-statblock
 title: Shadow
-![](/compendium/bestiary/undead/token/shadow.png#token)
+![](compendium/bestiary/undead/token/shadow.png#token)
 *Medium undead, Chaotic Evil*
 
 - **Armor Class** 12 
@@ -47,7 +47,7 @@ title: Shadow
 - **Damage Vulnerabilities** radiant
 - **Damage Resistances** acid; cold; fire; lightning; thunder; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** necrotic, poison
-- **Condition Immunities** [exhaustion](/compendium/rules/conditions.md#exhaustion), [frightened](/compendium/rules/conditions.md#frightened), [grappled](/compendium/rules/conditions.md#grappled), [paralyzed](/compendium/rules/conditions.md#paralyzed), [petrified](/compendium/rules/conditions.md#petrified), [poisoned](/compendium/rules/conditions.md#poisoned), [prone](/compendium/rules/conditions.md#prone), [restrained](/compendium/rules/conditions.md#restrained)
+- **Condition Immunities** [exhaustion](rules/conditions.md#exhaustion), [frightened](rules/conditions.md#frightened), [grappled](rules/conditions.md#grappled), [paralyzed](rules/conditions.md#paralyzed), [petrified](rules/conditions.md#petrified), [poisoned](rules/conditions.md#poisoned), [prone](rules/conditions.md#prone), [restrained](rules/conditions.md#restrained)
 - **Languages** —
 - **Challenge** 1/2
 

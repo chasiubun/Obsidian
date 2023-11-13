@@ -13,7 +13,7 @@ aliases: ["Zisatta"]
 
 ```ad-statblock
 title: Zisatta
-![](/compendium/bestiary/npc/token/zisatta.png#token)
+![](compendium/bestiary/npc/token/zisatta.png#token)
 *Medium humanoid (merfolk), Lawful Neutral*
 
 - **Armor Class** 11 

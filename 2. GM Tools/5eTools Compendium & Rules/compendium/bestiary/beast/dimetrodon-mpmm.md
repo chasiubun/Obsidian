@@ -17,7 +17,7 @@ This sail-backed reptile is commonly found in areas where dinosaurs live. It hun
 
 ```ad-statblock
 title: Dimetrodon
-![](/compendium/bestiary/beast/token/dimetrodon.png#token)
+![](compendium/bestiary/beast/token/dimetrodon.png#token)
 *Medium beast (dinosaur), Unaligned*
 
 - **Armor Class** 12  (natural armor)

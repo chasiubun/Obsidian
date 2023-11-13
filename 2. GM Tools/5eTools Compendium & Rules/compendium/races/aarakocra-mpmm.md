@@ -27,9 +27,9 @@ You have talons that you can use to make unarmed strikes. When you hit with them
 
 ### Wind Caller
 
-Starting at 3rd level, you can cast the [gust of wind](/compendium/spells/gust-of-wind.md) spell with this trait, without requiring a material component. Once you cast the spell with this trait, you can't do so again until you finish a long rest. You can also cast the spell using any spell slots you have of 2nd level or higher.
+Starting at 3rd level, you can cast the [gust of wind](compendium/spells/gust-of-wind.md) spell with this trait, without requiring a material component. Once you cast the spell with this trait, you can't do so again until you finish a long rest. You can also cast the spell using any spell slots you have of 2nd level or higher.
 
-Intelligence, Wisdom, or Charisma is your spellcasting ability for when you cast [gust of wind](/compendium/spells/gust-of-wind.md) with this trait (choose when you select this race).
+Intelligence, Wisdom, or Charisma is your spellcasting ability for when you cast [gust of wind](compendium/spells/gust-of-wind.md) with this trait (choose when you select this race).
 
 ## Description
 

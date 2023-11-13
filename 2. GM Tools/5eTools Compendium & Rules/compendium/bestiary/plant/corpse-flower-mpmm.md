@@ -20,7 +20,7 @@ With or without corpses nested in its body, a corpse flower exudes a stench of d
 
 ```ad-statblock
 title: Corpse Flower
-![](/compendium/bestiary/plant/token/corpse-flower.png#token)
+![](compendium/bestiary/plant/token/corpse-flower.png#token)
 *Large plant, Typically  Chaotic Evil*
 
 - **Armor Class** 12 
@@ -44,7 +44,7 @@ title: Corpse Flower
 
 ***Spider Climb.*** The corpse flower can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-***Stench of Death.*** Each creature that starts its turn within 10 feet of the corpse flower or one of its zombies must make a DC 14 Constitution saving throw, unless the creature is a Construct or an Undead. On a failed save, the creature is [poisoned](/compendium/rules/conditions.md#poisoned) until the start of its next turn. On a successful save, the creature is immune to the Stench of Death of all corpse flowers for 24 hours.
+***Stench of Death.*** Each creature that starts its turn within 10 feet of the corpse flower or one of its zombies must make a DC 14 Constitution saving throw, unless the creature is a Construct or an Undead. On a failed save, the creature is [poisoned](rules/conditions.md#poisoned) until the start of its next turn. On a successful save, the creature is immune to the Stench of Death of all corpse flowers for 24 hours.
 
 ## Actions
 
@@ -58,7 +58,7 @@ title: Corpse Flower
 
 ***Digest.*** The corpse flower digests one corpse in its body and instantly regains 11 (`2d10`) hit points. Nothing of the digested corpse remains. Any equipment on the corpse is expelled from the corpse flower in its space.
 
-***Reanimate.*** The corpse flower animates one corpse in its body, turning it into a [zombie](/compendium/bestiary/undead/zombie.md). The zombie appears in an unoccupied space within 5 feet of the corpse flower and acts immediately after it in the initiative order. The zombie acts as an ally of the corpse flower but isn't under its control, and the flower's stench clings to it (see Stench of Death).
+***Reanimate.*** The corpse flower animates one corpse in its body, turning it into a [zombie](compendium/bestiary/undead/zombie.md). The zombie appears in an unoccupied space within 5 feet of the corpse flower and acts immediately after it in the initiative order. The zombie acts as an ally of the corpse flower but isn't under its control, and the flower's stench clings to it (see Stench of Death).
 ```
 ^statblock
 

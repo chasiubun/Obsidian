@@ -49,7 +49,7 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 
 ```ad-statblock
 title: Tridrone
-![](/compendium/bestiary/construct/token/tridrone.png#token)
+![](compendium/bestiary/construct/token/tridrone.png#token)
 *Medium construct, Lawful Neutral*
 
 - **Armor Class** 15  (natural armor)

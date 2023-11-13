@@ -25,7 +25,7 @@ A leucrotta's stench would normally warn away prey long before the creature coul
 
 ```ad-statblock
 title: Leucrotta
-![](/compendium/bestiary/monstrosity/token/leucrotta.png#token)
+![](compendium/bestiary/monstrosity/token/leucrotta.png#token)
 *Large monstrosity, Typically  Chaotic Evil*
 
 - **Armor Class** 14  (natural armor)
@@ -45,9 +45,9 @@ title: Leucrotta
 
 ## Traits
 
-***Mimicry.*** The leucrotta can mimic Beast sounds and Humanoid voices. A creature that hears the sounds can tell they are imitations only with a successful DC 14 Wisdom ([Insight](/compendium/rules/skills.md#Insight)) check.
+***Mimicry.*** The leucrotta can mimic Beast sounds and Humanoid voices. A creature that hears the sounds can tell they are imitations only with a successful DC 14 Wisdom ([Insight](rules/skills.md#Insight)) check.
 
-***Stench.*** Any creature other than a leucrotta or gnoll that starts its turn within 5 feet of the leucrotta must succeed on a DC 12 Constitution saving throw or be [poisoned](/compendium/rules/conditions.md#poisoned) until the start of the creature's next turn. On a successful saving throw, the creature is immune to the Stench of all leucrottas for 1 hour.
+***Stench.*** Any creature other than a leucrotta or gnoll that starts its turn within 5 feet of the leucrotta must succeed on a DC 12 Constitution saving throw or be [poisoned](rules/conditions.md#poisoned) until the start of the creature's next turn. On a successful saving throw, the creature is immune to the Stench of all leucrottas for 1 hour.
 
 ## Actions
 
@@ -59,7 +59,7 @@ title: Leucrotta
 
 ## Bonus Actions
 
-***Kicking Retreat.*** Immediately after the leucrotta makes a Hooves attack, it takes the [Disengage](/compendium/rules/actions.md#Disengage) action.
+***Kicking Retreat.*** Immediately after the leucrotta makes a Hooves attack, it takes the [Disengage](rules/actions.md#Disengage) action.
 ```
 ^statblock
 

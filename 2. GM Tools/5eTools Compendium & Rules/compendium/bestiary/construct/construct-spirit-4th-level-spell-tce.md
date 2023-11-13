@@ -13,7 +13,7 @@ aliases: ["Construct Spirit (4th-level Spell)"]
 
 ```ad-statblock
 title: Construct Spirit (4th-level Spell)
-![](/compendium/bestiary/construct/token/construct-spirit.png#token)
+![](compendium/bestiary/construct/token/construct-spirit.png#token)
 *Medium construct, Unaligned*
 
 - **Armor Class** 17  (natural armor)

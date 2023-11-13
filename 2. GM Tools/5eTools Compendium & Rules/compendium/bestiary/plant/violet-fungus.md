@@ -26,7 +26,7 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
 
 ```ad-statblock
 title: Violet Fungus
-![](/compendium/bestiary/plant/token/violet-fungus.png#token)
+![](compendium/bestiary/plant/token/violet-fungus.png#token)
 *Medium plant, Unaligned*
 
 - **Armor Class** 5 

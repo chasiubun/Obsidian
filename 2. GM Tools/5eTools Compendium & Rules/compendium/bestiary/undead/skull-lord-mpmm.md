@@ -20,10 +20,10 @@ Infighting and treachery brought skull lords into existence. The first of them a
 
 ```ad-statblock
 title: Skull Lord
-![](/compendium/bestiary/undead/token/skull-lord.png#token)
+![](compendium/bestiary/undead/token/skull-lord.png#token)
 *Medium undead (sorcerer), Typically  Lawful Evil*
 
-- **Armor Class** 18  ([plate](/compendium/items/plate-armor.md))
+- **Armor Class** 18  ([plate](compendium/items/plate-armor.md))
 - **Hit Points** 112 (`15d8 + 45`)
 - **Speed** 30 ft.
 
@@ -40,7 +40,7 @@ title: Skull Lord
 
 ## Traits
 
-***Evasion.*** If the skull lord is subjected to an effect that allows it to make a Dexterity saving throw to take only half the damage, the skull lord instead takes no damage if it succeeds on the saving throw and only half damage if it fails, provided it isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Evasion.*** If the skull lord is subjected to an effect that allows it to make a Dexterity saving throw to take only half the damage, the skull lord instead takes no damage if it succeeds on the saving throw and only half damage if it fails, provided it isn't [incapacitated](rules/conditions.md#incapacitated).
 
 ***Legendary Resistance (3/Day).*** If the skull lord fails a saving throw, it can choose to succeed instead.
 
@@ -50,11 +50,11 @@ title: Skull Lord
 
 ***Spellcasting.*** The skull, lord casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 18):
 
-**At will**: [mage hand](/compendium/spells/mage-hand.md), [message](/compendium/spells/message.md)
+**At will**: [mage hand](compendium/spells/mage-hand.md), [message](compendium/spells/message.md)
 
-**1/day each**: [cloudkill](/compendium/spells/cloudkill.md), [cone of cold](/compendium/spells/cone-of-cold.md)
+**1/day each**: [cloudkill](compendium/spells/cloudkill.md), [cone of cold](compendium/spells/cone-of-cold.md)
 
-**2/day each**: [dimension door](/compendium/spells/dimension-door.md), [fear](/compendium/spells/fear.md)
+**2/day each**: [dimension door](compendium/spells/dimension-door.md), [fear](compendium/spells/fear.md)
 
 ## Actions
 
@@ -70,7 +70,7 @@ title: Skull Lord
 
 ***Move.*** The skull lord moves up to its speed without provoking opportunity attacks.
 
-***Summon Undead (Costs 2 Actions).*** The skull lord summons up to five [skeletons](/compendium/bestiary/undead/skeleton.md) or [zombies](/compendium/bestiary/undead/zombie.md) in unoccupied spaces within 30 feet of it. They remain until destroyed. Undead summoned in this way roll initiative, act in the next available turn, and obey the skull lord. The skull lord can have no more than five Undead summoned by this ability at a time.
+***Summon Undead (Costs 2 Actions).*** The skull lord summons up to five [skeletons](compendium/bestiary/undead/skeleton.md) or [zombies](compendium/bestiary/undead/zombie.md) in unoccupied spaces within 30 feet of it. They remain until destroyed. Undead summoned in this way roll initiative, act in the next available turn, and obey the skull lord. The skull lord can have no more than five Undead summoned by this ability at a time.
 ```
 ^statblock
 

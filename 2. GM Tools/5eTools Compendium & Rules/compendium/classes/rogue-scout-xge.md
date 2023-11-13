@@ -23,7 +23,7 @@ Starting at 3rd level, you are difficult to pin down during a fight. You can mov
 
 ### Survivalist (Level 3)
 
-When you choose this archetype at 3rd level, you gain proficiency in the [Nature](/compendium/rules/skills.md#Nature) and [Survival](/compendium/rules/skills.md#Survival) skills if you don't already have it. Your proficiency bonus is doubled for any ability check you make that uses either of those proficiencies.
+When you choose this archetype at 3rd level, you gain proficiency in the [Nature](rules/skills.md#Nature) and [Survival](rules/skills.md#Survival) skills if you don't already have it. Your proficiency bonus is doubled for any ability check you make that uses either of those proficiencies.
 
 ### Superior Mobility (Level 9)
 
@@ -37,4 +37,4 @@ You have advantage on initiative rolls. In addition, the first creature you hit 
 
 ### Sudden Strike (Level 17)
 
-Starting at 17th level, you can strike with deadly speed. If you take the [Attack](/compendium/rules/actions.md#Attack) action on your turn, you can make one additional attack as a bonus action. This attack can benefit from your Sneak Attack even if you have already used it this turn, but you can't use your Sneak Attack against the same target more than once in a turn.
+Starting at 17th level, you can strike with deadly speed. If you take the [Attack](rules/actions.md#Attack) action on your turn, you can make one additional attack as a bonus action. This attack can benefit from your Sneak Attack even if you have already used it this turn, but you can't use your Sneak Attack against the same target more than once in a turn.

@@ -43,7 +43,7 @@ CR 1 (200 XP) For a red, orange, or yellow faerie dragon; 2 (450 XP) for a green
 
 ```ad-statblock
 title: Faerie Dragon (Green)
-![](/compendium/bestiary/dragon/token/faerie-dragon-green.png#token)
+![](compendium/bestiary/dragon/token/faerie-dragon-green.png#token)
 *Tiny dragon, Chaotic Good*
 
 - **Armor Class** 15 
@@ -81,7 +81,7 @@ Violet—51 years or more
 
 A green or older faerie dragon's CR increases to 2.
 
-***Superior Invisibility.*** As a bonus action, the dragon can magically turn [invisible](/compendium/rules/conditions.md#invisible) until its [concentration](/compendium/rules/conditions.md#concentration) ends (as if concentrating on a spell). Any equipment the dragon wears or carries is [invisible](/compendium/rules/conditions.md#invisible) with it.
+***Superior Invisibility.*** As a bonus action, the dragon can magically turn [invisible](rules/conditions.md#invisible) until its [concentration](rules/conditions.md#concentration) ends (as if concentrating on a spell). Any equipment the dragon wears or carries is [invisible](rules/conditions.md#invisible) with it.
 
 ***Limited Telepathy.*** Using telepathy, the dragon can magically communicate with any other faerie dragon within 60 feet of it.
 
@@ -89,7 +89,7 @@ A green or older faerie dragon's CR increases to 2.
 
 ***Innate Spellcasting.*** The dragon's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast a number of spells, requiring no material components:
 
-**1/day each**: [color spray](/compendium/spells/color-spray.md), [dancing lights](/compendium/spells/dancing-lights.md), [mage hand](/compendium/spells/mage-hand.md), [minor illusion](/compendium/spells/minor-illusion.md), [mirror image](/compendium/spells/mirror-image.md), [suggestion](/compendium/spells/suggestion.md)
+**1/day each**: [color spray](compendium/spells/color-spray.md), [dancing lights](compendium/spells/dancing-lights.md), [mage hand](compendium/spells/mage-hand.md), [minor illusion](compendium/spells/minor-illusion.md), [mirror image](compendium/spells/mirror-image.md), [suggestion](compendium/spells/suggestion.md)
 
 ## Actions
 

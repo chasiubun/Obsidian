@@ -32,7 +32,7 @@ Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a
 
 ```ad-statblock
 title: Ghoul
-![](/compendium/bestiary/undead/token/ghoul.png#token)
+![](compendium/bestiary/undead/token/ghoul.png#token)
 *Medium undead, Chaotic Evil*
 
 - **Armor Class** 12 
@@ -54,7 +54,7 @@ title: Ghoul
 
 ***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 9 (`2d6 + 2`) piercing damage.
 
-***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (`2d4 + 2`) slashing damage. If the target is a creature other than an elf or undead, it must succeed on a DC 10 Constitution saving throw or be [paralyzed](/compendium/rules/conditions.md#paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (`2d4 + 2`) slashing damage. If the target is a creature other than an elf or undead, it must succeed on a DC 10 Constitution saving throw or be [paralyzed](rules/conditions.md#paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ```
 ^statblock
 

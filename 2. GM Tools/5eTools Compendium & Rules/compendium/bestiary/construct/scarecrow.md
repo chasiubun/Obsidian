@@ -22,7 +22,7 @@ A scarecrow is animated by the bound spirit of a slain evil creature, granting i
 
 ```ad-statblock
 title: Scarecrow
-![](/compendium/bestiary/construct/token/scarecrow.png#token)
+![](compendium/bestiary/construct/token/scarecrow.png#token)
 *Medium construct, Chaotic Evil*
 
 - **Armor Class** 11 
@@ -40,7 +40,7 @@ title: Scarecrow
 - **Damage Vulnerabilities** fire
 - **Damage Resistances** bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** poison
-- **Condition Immunities** [charmed](/compendium/rules/conditions.md#charmed), [exhaustion](/compendium/rules/conditions.md#exhaustion), [frightened](/compendium/rules/conditions.md#frightened), [paralyzed](/compendium/rules/conditions.md#paralyzed), [poisoned](/compendium/rules/conditions.md#poisoned), [unconscious](/compendium/rules/conditions.md#unconscious)
+- **Condition Immunities** [charmed](rules/conditions.md#charmed), [exhaustion](rules/conditions.md#exhaustion), [frightened](rules/conditions.md#frightened), [paralyzed](rules/conditions.md#paralyzed), [poisoned](rules/conditions.md#poisoned), [unconscious](rules/conditions.md#unconscious)
 - **Languages** understands the languages of its creator but can't speak
 - **Challenge** 1
 
@@ -52,9 +52,9 @@ title: Scarecrow
 
 ***Multiattack.*** The scarecrow makes two claw attacks.
 
-***Claw.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (`2d4 + 1`) slashing damage. If the target is a creature, it must succeed on a DC 11 Wisdom saving throw or be [frightened](/compendium/rules/conditions.md#frightened) until the end of the scarecrow's next turn.
+***Claw.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (`2d4 + 1`) slashing damage. If the target is a creature, it must succeed on a DC 11 Wisdom saving throw or be [frightened](rules/conditions.md#frightened) until the end of the scarecrow's next turn.
 
-***Terrifying Glare.*** The scarecrow targets one creature it can see within 30 feet of it. If the target can see the scarecrow, the target must succeed on a DC 11 Wisdom saving throw or be magically [frightened](/compendium/rules/conditions.md#frightened) until the end of the scarecrow's next turn. The [frightened](/compendium/rules/conditions.md#frightened) target is [paralyzed](/compendium/rules/conditions.md#paralyzed).
+***Terrifying Glare.*** The scarecrow targets one creature it can see within 30 feet of it. If the target can see the scarecrow, the target must succeed on a DC 11 Wisdom saving throw or be magically [frightened](rules/conditions.md#frightened) until the end of the scarecrow's next turn. The [frightened](rules/conditions.md#frightened) target is [paralyzed](rules/conditions.md#paralyzed).
 ```
 ^statblock
 

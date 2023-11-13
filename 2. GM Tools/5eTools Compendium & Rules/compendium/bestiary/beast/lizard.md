@@ -13,7 +13,7 @@ aliases: ["Lizard"]
 
 ```ad-statblock
 title: Lizard
-![](/compendium/bestiary/beast/token/lizard.png#token)
+![](compendium/bestiary/beast/token/lizard.png#token)
 *Tiny beast, Unaligned*
 
 - **Armor Class** 10 

@@ -22,21 +22,21 @@ Each orb contains the essence of an evil dragon, a presence that resents any att
 
 An orb is an etched crystal globe about 10 inches in diameter. When used, it grows to about 20 inches in diameter, and mist swirls inside it.
 
-While attuned to an orb, you can use an action to peer into the orb's depths and speak its command word. You must then make a DC 15 Charisma check. On a successful check, you control the orb for as long as you remain attuned to it. On a failed check, you become [charmed](/compendium/rules/conditions.md#charmed) by the orb for as long as you remain attuned to it.
+While attuned to an orb, you can use an action to peer into the orb's depths and speak its command word. You must then make a DC 15 Charisma check. On a successful check, you control the orb for as long as you remain attuned to it. On a failed check, you become [charmed](rules/conditions.md#charmed) by the orb for as long as you remain attuned to it.
 
-While you are [charmed](/compendium/rules/conditions.md#charmed) by the orb, you can't voluntarily end your attunement to it, and the orb casts [suggestion](/compendium/spells/suggestion.md) on you at will (save DC 18), urging you to work toward the evil ends it desires. The dragon essence within the orb might want many things: the annihilation of a particular people, freedom from the orb, to spread suffering in the world, to advance the worship of Takhisis (Tiamat's name on Krynn), or something else the DM decides.
+While you are [charmed](rules/conditions.md#charmed) by the orb, you can't voluntarily end your attunement to it, and the orb casts [suggestion](compendium/spells/suggestion.md) on you at will (save DC 18), urging you to work toward the evil ends it desires. The dragon essence within the orb might want many things: the annihilation of a particular people, freedom from the orb, to spread suffering in the world, to advance the worship of Takhisis (Tiamat's name on Krynn), or something else the DM decides.
 
 ## Random Properties
 
 An Orb of Dragonkind has the following random properties:
 
-- 2 [minor beneficial properties](/compendium/tables/artifact-properties-minor-beneficial-properties.md)  
-- 1 [minor detrimental property](/compendium/tables/artifact-properties-minor-detrimental-properties.md)  
-- 1 [major detrimental property](/compendium/tables/artifact-properties-major-detrimental-properties.md)  
+- 2 [minor beneficial properties](compendium/tables/artifact-properties-minor-beneficial-properties.md)  
+- 1 [minor detrimental property](compendium/tables/artifact-properties-minor-detrimental-properties.md)  
+- 1 [major detrimental property](compendium/tables/artifact-properties-major-detrimental-properties.md)  
 
 ## Spells
 
-The orb has 7 charges and regains `1d4 + 3` expended charges daily at dawn. If you control the orb, you can use an action and expend 1 or more charges to cast one of the following spells (save DC 18) from it: [cure wounds](/compendium/spells/cure-wounds.md) (5th-level version, 3 charges), [daylight](/compendium/spells/daylight.md) (1 charge), [death ward](/compendium/spells/death-ward.md) (2 charges), or [scrying](/compendium/spells/scrying.md) (3 charges). You can also use an action to cast the [detect magic](/compendium/spells/detect-magic.md) spell from the orb without using any charges.
+The orb has 7 charges and regains `1d4 + 3` expended charges daily at dawn. If you control the orb, you can use an action and expend 1 or more charges to cast one of the following spells (save DC 18) from it: [cure wounds](compendium/spells/cure-wounds.md) (5th-level version, 3 charges), [daylight](compendium/spells/daylight.md) (1 charge), [death ward](compendium/spells/death-ward.md) (2 charges), or [scrying](compendium/spells/scrying.md) (3 charges). You can also use an action to cast the [detect magic](compendium/spells/detect-magic.md) spell from the orb without using any charges.
 
 ## Call Dragons
 
@@ -44,6 +44,6 @@ While you control the orb, you can use an action to cause the artifact to issue 
 
 ## Destroying an Orb
 
-An Orb of Dragonkind appears fragile but is impervious to most damage, including the attacks and breath weapons of dragons. A [disintegrate](/compendium/spells/disintegrate.md) spell or one good hit from a +3 magic weapon is sufficient to destroy an orb, however.
+An Orb of Dragonkind appears fragile but is impervious to most damage, including the attacks and breath weapons of dragons. A [disintegrate](compendium/spells/disintegrate.md) spell or one good hit from a +3 magic weapon is sufficient to destroy an orb, however.
 
 *Source: Dungeon Master's Guide p. 225. Available in the SRD.*

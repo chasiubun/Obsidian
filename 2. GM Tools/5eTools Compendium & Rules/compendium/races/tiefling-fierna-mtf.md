@@ -35,7 +35,7 @@ You have resistance to fire damage.
 
 ### Legacy of Phlegethos
 
-You know the [friends](/compendium/spells/friends.md) cantrip. When you reach 3rd level, you can cast the [charm person](/compendium/spells/charm-person.md) spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [suggestion](/compendium/spells/suggestion.md) spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [friends](compendium/spells/friends.md) cantrip. When you reach 3rd level, you can cast the [charm person](compendium/spells/charm-person.md) spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [suggestion](compendium/spells/suggestion.md) spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Languages
 

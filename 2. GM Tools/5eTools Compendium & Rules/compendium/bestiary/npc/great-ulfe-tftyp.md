@@ -13,10 +13,10 @@ aliases: ["Great Ulfe"]
 
 ```ad-statblock
 title: Great Ulfe
-![](/compendium/bestiary/npc/token/great-ulfe.png#token)
+![](compendium/bestiary/npc/token/great-ulfe.png#token)
 *Large giant, Chaotic Evil*
 
-- **Armor Class** 11  ([hide armor](/compendium/items/hide-armor.md))
+- **Armor Class** 11  ([hide armor](compendium/items/hide-armor.md))
 - **Hit Points** 59 (`7d10 + 21`)
 - **Speed** 40 ft.
 

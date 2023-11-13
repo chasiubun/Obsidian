@@ -13,7 +13,7 @@ aliases: ["Reduced-Threat Flesh Golem"]
 
 ```ad-statblock
 title: Reduced-Threat Flesh Golem
-![](/compendium/bestiary/construct/token/reduced-threat-flesh-golem.png#token)
+![](compendium/bestiary/construct/token/reduced-threat-flesh-golem.png#token)
 *Medium construct, Neutral*
 
 - **Armor Class** 9 

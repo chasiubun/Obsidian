@@ -14,7 +14,7 @@ aliases: ["Therzt"]
 
 ```ad-statblock
 title: Therzt
-![](/compendium/bestiary/npc/token/therzt.png#token)
+![](compendium/bestiary/npc/token/therzt.png#token)
 *Medium humanoid (drow, elf), Any alignment*
 
 - **Armor Class** 10 

@@ -18,7 +18,7 @@ aliases: ["Giant Toad"]
 
 ```ad-statblock
 title: Giant Toad
-![](/compendium/bestiary/beast/token/giant-toad.png#token)
+![](compendium/bestiary/beast/token/giant-toad.png#token)
 *Large beast, Unaligned*
 
 - **Armor Class** 11 
@@ -44,11 +44,11 @@ title: Giant Toad
 
 ## Actions
 
-***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (`1d10 + 2`) piercing damage plus 5 (`1d10`) poison damage, and the target is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 13). Until this grapple ends, the target is [restrained](/compendium/rules/conditions.md#restrained), and the toad can't bite another target.
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (`1d10 + 2`) piercing damage plus 5 (`1d10`) poison damage, and the target is [grappled](rules/conditions.md#grappled) (escape DC 13). Until this grapple ends, the target is [restrained](rules/conditions.md#restrained), and the toad can't bite another target.
 
-***Swallow.*** The toad makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is [blinded](/compendium/rules/conditions.md#blinded) and [restrained](/compendium/rules/conditions.md#restrained), it has total cover against attacks and other effects outside the toad, and it takes 10 (`3d6`) acid damage at the start of each of the toad's turns. The toad can have only one target swallowed at a time.
+***Swallow.*** The toad makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is [blinded](rules/conditions.md#blinded) and [restrained](rules/conditions.md#restrained), it has total cover against attacks and other effects outside the toad, and it takes 10 (`3d6`) acid damage at the start of each of the toad's turns. The toad can have only one target swallowed at a time.
 
-If the toad dies, a swallowed creature is no longer [restrained](/compendium/rules/conditions.md#restrained) by it and can escape from the corpse using 5 feet of movement, exiting [prone](/compendium/rules/conditions.md#prone).
+If the toad dies, a swallowed creature is no longer [restrained](rules/conditions.md#restrained) by it and can escape from the corpse using 5 feet of movement, exiting [prone](rules/conditions.md#prone).
 ```
 ^statblock
 

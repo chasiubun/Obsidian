@@ -38,7 +38,7 @@ Generations of hunting venomous subterranean creatures and perpetual exposure to
 
 ```ad-statblock
 title: Quaggoth Thonot
-![](/compendium/bestiary/humanoid/token/quaggoth-thonot.png#token)
+![](compendium/bestiary/humanoid/token/quaggoth-thonot.png#token)
 *Medium humanoid (quaggoth), Chaotic Neutral*
 
 - **Armor Class** 13  (natural armor)
@@ -62,9 +62,9 @@ title: Quaggoth Thonot
 
 ***Innate Spellcasting (Psionics).*** The quaggoth's innate spellcasting ability is Wisdom (spell save DC 11). The quaggoth can innately cast the following spells, requiring no components:
 
-**At will**: [feather fall](/compendium/spells/feather-fall.md), [mage hand](/compendium/spells/mage-hand.md) (the hand is invisible)
+**At will**: [feather fall](compendium/spells/feather-fall.md), [mage hand](compendium/spells/mage-hand.md) (the hand is invisible)
 
-**1/day each**: [cure wounds](/compendium/spells/cure-wounds.md), [enlarge/reduce](/compendium/spells/enlarge-reduce.md), [heat metal](/compendium/spells/heat-metal.md), [mirror image](/compendium/spells/mirror-image.md)
+**1/day each**: [cure wounds](compendium/spells/cure-wounds.md), [enlarge/reduce](compendium/spells/enlarge-reduce.md), [heat metal](compendium/spells/heat-metal.md), [mirror image](compendium/spells/mirror-image.md)
 
 ## Actions
 

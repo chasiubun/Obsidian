@@ -32,7 +32,7 @@ A stirge attacks by landing on a victim, finding a vulnerable spot, and plunging
 
 ```ad-statblock
 title: Stirge
-![](/compendium/bestiary/beast/token/stirge.png#token)
+![](compendium/bestiary/beast/token/stirge.png#token)
 *Tiny beast, Unaligned*
 
 - **Armor Class** 14  (natural armor)

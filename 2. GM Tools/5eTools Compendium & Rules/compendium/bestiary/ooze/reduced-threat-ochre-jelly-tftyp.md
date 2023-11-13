@@ -13,7 +13,7 @@ aliases: ["Reduced-Threat Ochre Jelly"]
 
 ```ad-statblock
 title: Reduced-Threat Ochre Jelly
-![](/compendium/bestiary/ooze/token/reduced-threat-ochre-jelly.png#token)
+![](compendium/bestiary/ooze/token/reduced-threat-ochre-jelly.png#token)
 *Large ooze, Unaligned*
 
 - **Armor Class** 8 

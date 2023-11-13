@@ -25,8 +25,8 @@ aliases: ["Gentle Repose"]
 
 You touch a corpse or other remains. For the duration, the target is protected from decay and can't become undead.
 
-The spell also effectively extends the time limit on raising the target from the dead, since days spent under the influence of this spell don't count against the time limit of spells such as [raise dead](/compendium/spells/raise-dead.md).
+The spell also effectively extends the time limit on raising the target from the dead, since days spent under the influence of this spell don't count against the time limit of spells such as [raise dead](compendium/spells/raise-dead.md).
 
-**Classes**: [Cleric (Grave Domain)](/compendium/classes/cleric-grave-domain-xge.md), [Cleric](/compendium/classes/cleric.md), [Druid (Circle of Spores)](/compendium/classes/druid-circle-of-spores-tce.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Sorcerer (Divine Soul)](/compendium/classes/sorcerer-divine-soul-xge.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Cleric (Grave Domain)](compendium/classes/cleric-grave-domain-xge.md), [Cleric](compendium/classes/cleric.md), [Druid (Circle of Spores)](compendium/classes/druid-circle-of-spores-tce.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Sorcerer (Divine Soul)](compendium/classes/sorcerer-divine-soul-xge.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 245. Available in the SRD.*

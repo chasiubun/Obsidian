@@ -19,7 +19,7 @@ In their natural form, dybbuks appear as translucent flying jellyfish, trailing 
 
 ```ad-statblock
 title: Dybbuk
-![](/compendium/bestiary/fiend/token/dybbuk.png#token)
+![](compendium/bestiary/fiend/token/dybbuk.png#token)
 *Medium fiend (demon), Typically  Chaotic Evil*
 
 - **Armor Class** 14 
@@ -45,9 +45,9 @@ title: Dybbuk
 
 ***Spellcasting.*** The dybbuk casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 12):
 
-**At will**: [dimension door](/compendium/spells/dimension-door.md)
+**At will**: [dimension door](compendium/spells/dimension-door.md)
 
-**3/day**: [phantasmal force](/compendium/spells/phantasmal-force.md)
+**3/day**: [phantasmal force](compendium/spells/phantasmal-force.md)
 
 ## Actions
 
@@ -57,7 +57,7 @@ title: Dybbuk
 
 ## Bonus Actions
 
-***Control Corpse.*** While Possess Corpse is active, the dybbuk makes the corpse do something unnatural, such as vomit blood, twist its head all the way around, or cause a quadruped to move as a biped. Any Beast or Humanoid that sees this behavior must succeed on a DC 12 Wisdom saving throw or become [frightened](/compendium/rules/conditions.md#frightened) of the dybbuk for 1 minute. The [frightened](/compendium/rules/conditions.md#frightened) creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. A creature that succeeds on a saving throw against this ability is immune to Control Corpse for 24 hours.
+***Control Corpse.*** While Possess Corpse is active, the dybbuk makes the corpse do something unnatural, such as vomit blood, twist its head all the way around, or cause a quadruped to move as a biped. Any Beast or Humanoid that sees this behavior must succeed on a DC 12 Wisdom saving throw or become [frightened](rules/conditions.md#frightened) of the dybbuk for 1 minute. The [frightened](rules/conditions.md#frightened) creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. A creature that succeeds on a saving throw against this ability is immune to Control Corpse for 24 hours.
 ```
 ^statblock
 

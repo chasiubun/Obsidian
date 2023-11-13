@@ -51,8 +51,8 @@ Starting at 6th level, your attacks in beast form count as magical for the purpo
 
 ### Elemental Wild Shape (Level 10)
 
-At 10th level, you can expend two uses of Wild Shape at the same time to transform into an [air elemental](/compendium/bestiary/elemental/air-elemental.md), an [earth elemental](/compendium/bestiary/elemental/earth-elemental.md), a [fire elemental](/compendium/bestiary/elemental/fire-elemental.md), or a [water elemental](/compendium/bestiary/elemental/water-elemental.md).
+At 10th level, you can expend two uses of Wild Shape at the same time to transform into an [air elemental](compendium/bestiary/elemental/air-elemental.md), an [earth elemental](compendium/bestiary/elemental/earth-elemental.md), a [fire elemental](compendium/bestiary/elemental/fire-elemental.md), or a [water elemental](compendium/bestiary/elemental/water-elemental.md).
 
 ### Thousand Forms (Level 14)
 
-By 14th level, you have learned to use magic to alter your physical form in more subtle ways. You can cast the [alter self](/compendium/spells/alter-self.md) spell at will.
+By 14th level, you have learned to use magic to alter your physical form in more subtle ways. You can cast the [alter self](compendium/spells/alter-self.md) spell at will.

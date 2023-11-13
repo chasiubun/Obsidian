@@ -25,10 +25,10 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 
 ```ad-statblock
 title: Booyahg Slave of the Fiend
-![](/compendium/bestiary/humanoid/token/booyahg-slave-of-the-fiend.png#token)
+![](compendium/bestiary/humanoid/token/booyahg-slave-of-the-fiend.png#token)
 *Small humanoid (goblinoid), Any alignment*
 
-- **Armor Class** 12  (15 with [mage armor](/compendium/spells/mage-armor.md))
+- **Armor Class** 12  (15 with [mage armor](compendium/spells/mage-armor.md))
 - **Hit Points** 78 (`12d8 + 24`)
 - **Speed** 30 ft.
 
@@ -49,15 +49,15 @@ title: Booyahg Slave of the Fiend
 
 ***Innate Spellcasting.*** The goblin's innate spellcasting ability is Charisma. It can innately cast the following spells (spell save DC 15), requiring no material components:
 
-**At will**: [alter self](/compendium/spells/alter-self.md), [false life](/compendium/spells/false-life.md), [levitate](/compendium/spells/levitate.md) (self only), [mage armor](/compendium/spells/mage-armor.md) (self only), [silent image](/compendium/spells/silent-image.md)
+**At will**: [alter self](compendium/spells/alter-self.md), [false life](compendium/spells/false-life.md), [levitate](compendium/spells/levitate.md) (self only), [mage armor](compendium/spells/mage-armor.md) (self only), [silent image](compendium/spells/silent-image.md)
 
-**1/day each**: [feeblemind](/compendium/spells/feeblemind.md), [finger of death](/compendium/spells/finger-of-death.md), [plane shift](/compendium/spells/plane-shift.md)
+**1/day each**: [feeblemind](compendium/spells/feeblemind.md), [finger of death](compendium/spells/finger-of-death.md), [plane shift](compendium/spells/plane-shift.md)
 
 ***Spellcasting.*** The goblin is a 17th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
 
-**Cantrips (at will)**: [eldritch blast](/compendium/spells/eldritch-blast.md), [fire bolt](/compendium/spells/fire-bolt.md), [friends](/compendium/spells/friends.md), [mage hand](/compendium/spells/mage-hand.md), [minor illusion](/compendium/spells/minor-illusion.md), [prestidigitation](/compendium/spells/prestidigitation.md), [shocking grasp](/compendium/spells/shocking-grasp.md)
+**Cantrips (at will)**: [eldritch blast](compendium/spells/eldritch-blast.md), [fire bolt](compendium/spells/fire-bolt.md), [friends](compendium/spells/friends.md), [mage hand](compendium/spells/mage-hand.md), [minor illusion](compendium/spells/minor-illusion.md), [prestidigitation](compendium/spells/prestidigitation.md), [shocking grasp](compendium/spells/shocking-grasp.md)
 
-**1st-5th level (4 slots)**: [banishment](/compendium/spells/banishment.md), [burning hands](/compendium/spells/burning-hands.md), [flame strike](/compendium/spells/flame-strike.md), [hellish rebuke](/compendium/spells/hellish-rebuke.md), [magic circle](/compendium/spells/magic-circle.md), [scorching ray](/compendium/spells/scorching-ray.md), [scrying](/compendium/spells/scrying.md), [stinking cloud](/compendium/spells/stinking-cloud.md), [suggestion](/compendium/spells/suggestion.md), [wall of fire](/compendium/spells/wall-of-fire.md)
+**1st-5th level (4 slots)**: [banishment](compendium/spells/banishment.md), [burning hands](compendium/spells/burning-hands.md), [flame strike](compendium/spells/flame-strike.md), [hellish rebuke](compendium/spells/hellish-rebuke.md), [magic circle](compendium/spells/magic-circle.md), [scorching ray](compendium/spells/scorching-ray.md), [scrying](compendium/spells/scrying.md), [stinking cloud](compendium/spells/stinking-cloud.md), [suggestion](compendium/spells/suggestion.md), [wall of fire](compendium/spells/wall-of-fire.md)
 
 ## Actions
 

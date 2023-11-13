@@ -30,6 +30,6 @@ If you chose a point on an object you are holding or one that isn't being worn o
 
 If any of this spell's area overlaps with an area of darkness created by a spell of 3rd level or lower, the spell that created the darkness is dispelled.
 
-**Classes**: [Cleric (Light Domain)](/compendium/classes/cleric-light-domain.md), [Cleric](/compendium/classes/cleric.md), [Druid (Circle of the Land)](/compendium/classes/druid-circle-of-the-land.md), [Druid](/compendium/classes/druid.md), [Paladin](/compendium/classes/paladin.md), [Ranger](/compendium/classes/ranger.md), [Sorcerer (Divine Soul)](/compendium/classes/sorcerer-divine-soul-xge.md), [Sorcerer](/compendium/classes/sorcerer.md), [Warlock (The Celestial)](/compendium/classes/warlock-the-celestial-xge.md)
+**Classes**: [Cleric (Light Domain)](compendium/classes/cleric-light-domain.md), [Cleric](compendium/classes/cleric.md), [Druid (Circle of the Land)](compendium/classes/druid-circle-of-the-land.md), [Druid](compendium/classes/druid.md), [Paladin](compendium/classes/paladin.md), [Ranger](compendium/classes/ranger.md), [Sorcerer (Divine Soul)](compendium/classes/sorcerer-divine-soul-xge.md), [Sorcerer](compendium/classes/sorcerer.md), [Warlock (The Celestial)](compendium/classes/warlock-the-celestial-xge.md)
 
 *Source: Player's Handbook p. 230. Available in the SRD.*

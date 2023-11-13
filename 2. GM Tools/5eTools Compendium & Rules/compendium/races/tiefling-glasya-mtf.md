@@ -35,7 +35,7 @@ You have resistance to fire damage.
 
 ### Legacy of Malbolge
 
-You know the [minor illusion](/compendium/spells/minor-illusion.md) cantrip. When you reach 3rd level, you can cast the [disguise self](/compendium/spells/disguise-self.md) spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [invisibility](/compendium/spells/invisibility.md) spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [minor illusion](compendium/spells/minor-illusion.md) cantrip. When you reach 3rd level, you can cast the [disguise self](compendium/spells/disguise-self.md) spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [invisibility](compendium/spells/invisibility.md) spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Languages
 

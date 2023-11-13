@@ -23,6 +23,6 @@ For the duration, you know if there is an aberration, celestial, elemental, fey,
 
 The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
-**Classes**: [Cleric](/compendium/classes/cleric.md), [Paladin](/compendium/classes/paladin.md), [Sorcerer (Divine Soul)](/compendium/classes/sorcerer-divine-soul-xge.md), [Warlock (The Genie)](/compendium/classes/warlock-the-genie-tce.md)
+**Classes**: [Cleric](compendium/classes/cleric.md), [Paladin](compendium/classes/paladin.md), [Sorcerer (Divine Soul)](compendium/classes/sorcerer-divine-soul-xge.md), [Warlock (The Genie)](compendium/classes/warlock-the-genie-tce.md)
 
 *Source: Player's Handbook p. 231. Available in the SRD.*

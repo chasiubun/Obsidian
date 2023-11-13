@@ -21,7 +21,7 @@ The training to which a deep scion is subjected rids it of empathy for those the
 
 ```ad-statblock
 title: Deep Scion
-![](/compendium/bestiary/monstrosity/token/deep-scion.png#token)
+![](compendium/bestiary/monstrosity/token/deep-scion.png#token)
 *Medium monstrosity, Typically  Chaotic Evil*
 
 - **Armor Class** 11 
@@ -53,7 +53,7 @@ title: Deep Scion
 
 ***Claw (Hybrid Form Only).*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (`1d6 + 4`) slashing damage.
 
-***Psychic Screech (Hybrid Form Only; Recharges after a Short or Long Rest).*** The deep scion emits a terrible scream audible within 300 feet. Creatures within 30 feet of the deep scion must succeed on a DC 13 Wisdom saving throw or be [stunned](/compendium/rules/conditions.md#stunned) until the end of the deep scion's next turn. In water, the psychic screech also telepathically transmits the deep scion's memories of the last 24 hours to its master, regardless of distance, so long as it and its master are in the same body of water.
+***Psychic Screech (Hybrid Form Only; Recharges after a Short or Long Rest).*** The deep scion emits a terrible scream audible within 300 feet. Creatures within 30 feet of the deep scion must succeed on a DC 13 Wisdom saving throw or be [stunned](rules/conditions.md#stunned) until the end of the deep scion's next turn. In water, the psychic screech also telepathically transmits the deep scion's memories of the last 24 hours to its master, regardless of distance, so long as it and its master are in the same body of water.
 
 ## Bonus Actions
 

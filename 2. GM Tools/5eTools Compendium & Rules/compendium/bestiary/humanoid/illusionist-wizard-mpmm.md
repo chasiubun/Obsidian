@@ -22,10 +22,10 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 
 ```ad-statblock
 title: Illusionist Wizard
-![](/compendium/bestiary/humanoid/token/illusionist-wizard.png#token)
+![](compendium/bestiary/humanoid/token/illusionist-wizard.png#token)
 *Medium humanoid, Any alignment*
 
-- **Armor Class** 12  (15 with [mage armor](/compendium/spells/mage-armor.md))
+- **Armor Class** 12  (15 with [mage armor](compendium/spells/mage-armor.md))
 - **Hit Points** 44 (`8d8 + 8`)
 - **Speed** 30 ft.
 
@@ -42,9 +42,9 @@ title: Illusionist Wizard
 
 ***Spellcasting.*** The illusionist casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 13):
 
-**At will**: [dancing lights](/compendium/spells/dancing-lights.md), [mage hand](/compendium/spells/mage-hand.md), [minor illusion](/compendium/spells/minor-illusion.md)
+**At will**: [dancing lights](compendium/spells/dancing-lights.md), [mage hand](compendium/spells/mage-hand.md), [minor illusion](compendium/spells/minor-illusion.md)
 
-**2/day each**: [disguise self](/compendium/spells/disguise-self.md), [invisibility](/compendium/spells/invisibility.md), [mage armor](/compendium/spells/mage-armor.md), [major image](/compendium/spells/major-image.md), [phantasmal force](/compendium/spells/phantasmal-force.md), [phantom steed](/compendium/spells/phantom-steed.md)
+**2/day each**: [disguise self](compendium/spells/disguise-self.md), [invisibility](compendium/spells/invisibility.md), [mage armor](compendium/spells/mage-armor.md), [major image](compendium/spells/major-image.md), [phantasmal force](compendium/spells/phantasmal-force.md), [phantom steed](compendium/spells/phantom-steed.md)
 
 ## Actions
 
@@ -54,7 +54,7 @@ title: Illusionist Wizard
 
 ## Bonus Actions
 
-***Displacement (Recharge 5-6).*** The illusionist projects an illusion that makes the illusionist appear to be standing in a place a few inches from its actual location, causing any creature to have disadvantage on attack rolls against the illusionist. The effect lasts for 1 minute, and it ends early if the illusionist takes damage, if it is [incapacitated](/compendium/rules/conditions.md#incapacitated), or if its speed becomes 0.
+***Displacement (Recharge 5-6).*** The illusionist projects an illusion that makes the illusionist appear to be standing in a place a few inches from its actual location, causing any creature to have disadvantage on attack rolls against the illusionist. The effect lasts for 1 minute, and it ends early if the illusionist takes damage, if it is [incapacitated](rules/conditions.md#incapacitated), or if its speed becomes 0.
 ```
 ^statblock
 

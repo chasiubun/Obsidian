@@ -13,7 +13,7 @@ aliases: ["Celestial Spirit (9th-level Spell)"]
 
 ```ad-statblock
 title: Celestial Spirit (9th-level Spell)
-![](/compendium/bestiary/celestial/token/celestial-spirit.png#token)
+![](compendium/bestiary/celestial/token/celestial-spirit.png#token)
 *Large celestial, Unaligned*
 
 - **Armor Class** 20  (natural armor)

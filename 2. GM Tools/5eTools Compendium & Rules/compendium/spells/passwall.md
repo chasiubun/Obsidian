@@ -22,6 +22,6 @@ A passage appears at a point of your choice that you can see on a wooden, plaste
 
 When the opening disappears, any creatures or objects still in the passage created by the spell are safely ejected to an unoccupied space nearest to the surface on which you cast the spell.
 
-**Classes**: [Artificer (Armorer)](/compendium/classes/artificer-armorer-tce.md), [Druid (Circle of the Land)](/compendium/classes/druid-circle-of-the-land.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Artificer (Armorer)](compendium/classes/artificer-armorer-tce.md), [Druid (Circle of the Land)](compendium/classes/druid-circle-of-the-land.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 264. Available in the SRD and the Basic Rules.*

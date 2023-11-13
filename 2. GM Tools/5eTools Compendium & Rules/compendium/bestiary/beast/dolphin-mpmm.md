@@ -23,7 +23,7 @@ Dolphins are clever, social marine mammals that feed on small fish and squid. An
 
 ```ad-statblock
 title: Dolphin
-![](/compendium/bestiary/beast/token/dolphin.png#token)
+![](compendium/bestiary/beast/token/dolphin.png#token)
 *Medium beast, Unaligned*
 
 - **Armor Class** 12  (natural armor)

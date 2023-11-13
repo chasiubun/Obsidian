@@ -18,7 +18,7 @@ aliases: ["Shifter"]
 
 ### Bestial Instincts
 
-Channeling the beast within, you have proficiency in one of the following skills of your choice: [Acrobatics](/compendium/rules/skills.md#Acrobatics), [Athletics](/compendium/rules/skills.md#Athletics), [Intimidation](/compendium/rules/skills.md#Intimidation), or [Survival](/compendium/rules/skills.md#Survival).
+Channeling the beast within, you have proficiency in one of the following skills of your choice: [Acrobatics](rules/skills.md#Acrobatics), [Athletics](rules/skills.md#Athletics), [Intimidation](rules/skills.md#Intimidation), or [Survival](rules/skills.md#Survival).
 
 ### Darkvision
 
@@ -33,7 +33,7 @@ Whenever you shift, you gain an additional benefit based on one of the following
 - **Beasthide.** You gain `1d6` additional temporary hit points. While shifted, you have a +1 bonus to your Armor Class.  
 - **Longtooth.** When you shift and as a bonus action on your other turns while shifted, you can use your elongated fangs to make an unarmed strike. If you hit with your fangs, you can deal piercing damage equal to `1d6` + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.  
 - **Swiftstride.** While shifted, your walking speed increases by 10 feet. Additionally, you can move up to 10 feet as a reaction when a creature ends its turn within 5 feet of you. This reactive movement doesn't provoke opportunity attacks.  
-- **Wildhunt.** While shifted, you have advantage on Wisdom checks, and no creature within 30 feet of you can make an attack roll with advantage against you unless you're [incapacitated](/compendium/rules/conditions.md#incapacitated).  
+- **Wildhunt.** While shifted, you have advantage on Wisdom checks, and no creature within 30 feet of you can make an attack roll with advantage against you unless you're [incapacitated](rules/conditions.md#incapacitated).  
 
 ## Description
 

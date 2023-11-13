@@ -31,6 +31,6 @@ The wind has the following effects:
 - The area is difficult terrain for creatures other than you.  
 - The attack rolls of ranged weapon attacks have disadvantage if the attacks pass in or out of the wind.  
 
-**Classes**: [Bard](/compendium/classes/bard.md), [Druid](/compendium/classes/druid.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Sorcerer](/compendium/classes/sorcerer.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Bard](compendium/classes/bard.md), [Druid](compendium/classes/druid.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 170*

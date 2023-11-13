@@ -45,7 +45,7 @@ Unlike their fey cousins, the sprites, pixies abhor weapons and would sooner fle
 
 ```ad-statblock
 title: Pixie
-![](/compendium/bestiary/fey/token/pixie.png#token)
+![](compendium/bestiary/fey/token/pixie.png#token)
 *Tiny fey, Neutral Good*
 
 - **Armor Class** 15 
@@ -69,13 +69,13 @@ title: Pixie
 
 ***Innate Spellcasting.*** The pixie's innate spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring only its pixie dust as a component:
 
-**At will**: [druidcraft](/compendium/spells/druidcraft.md)
+**At will**: [druidcraft](compendium/spells/druidcraft.md)
 
-**1/day each**: [confusion](/compendium/spells/confusion.md), [dancing lights](/compendium/spells/dancing-lights.md), [detect evil and good](/compendium/spells/detect-evil-and-good.md), [detect thoughts](/compendium/spells/detect-thoughts.md), [dispel magic](/compendium/spells/dispel-magic.md), [entangle](/compendium/spells/entangle.md), [fly](/compendium/spells/fly.md), [phantasmal force](/compendium/spells/phantasmal-force.md), [polymorph](/compendium/spells/polymorph.md), [sleep](/compendium/spells/sleep.md)
+**1/day each**: [confusion](compendium/spells/confusion.md), [dancing lights](compendium/spells/dancing-lights.md), [detect evil and good](compendium/spells/detect-evil-and-good.md), [detect thoughts](compendium/spells/detect-thoughts.md), [dispel magic](compendium/spells/dispel-magic.md), [entangle](compendium/spells/entangle.md), [fly](compendium/spells/fly.md), [phantasmal force](compendium/spells/phantasmal-force.md), [polymorph](compendium/spells/polymorph.md), [sleep](compendium/spells/sleep.md)
 
 ## Actions
 
-***Superior Invisibility.*** The pixie magically turns [invisible](/compendium/rules/conditions.md#invisible) until its [concentration](/compendium/rules/conditions.md#concentration) ends (as if concentrating on a spell). Any equipment the pixie wears or carries is [invisible](/compendium/rules/conditions.md#invisible) with it.
+***Superior Invisibility.*** The pixie magically turns [invisible](rules/conditions.md#invisible) until its [concentration](rules/conditions.md#concentration) ends (as if concentrating on a spell). Any equipment the pixie wears or carries is [invisible](rules/conditions.md#invisible) with it.
 ```
 ^statblock
 

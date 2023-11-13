@@ -24,6 +24,6 @@ aliases: ["Jump"]
 
 You touch a creature. The creature's "jump distance" is tripled until the spell ends.
 
-**Classes**: [Artificer](/compendium/classes/artificer-tce.md), [Druid](/compendium/classes/druid.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Ranger](/compendium/classes/ranger.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Sorcerer](/compendium/classes/sorcerer.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Artificer](compendium/classes/artificer-tce.md), [Druid](compendium/classes/druid.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Ranger](compendium/classes/ranger.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 254. Available in the SRD.*

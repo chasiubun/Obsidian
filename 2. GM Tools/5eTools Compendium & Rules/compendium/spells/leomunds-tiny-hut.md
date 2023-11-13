@@ -27,6 +27,6 @@ Nine creatures of Medium size or smaller can fit inside the dome with you. The s
 
 Until the spell ends, you can command the interior to become dimly lit or dark. The dome is opaque from the outside, of any color you choose, but it is transparent from the inside.
 
-**Classes**: [Bard](/compendium/classes/bard.md), [Cleric (Twilight Domain)](/compendium/classes/cleric-twilight-domain-tce.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Bard](compendium/classes/bard.md), [Cleric (Twilight Domain)](compendium/classes/cleric-twilight-domain-tce.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 255. Available in the SRD (as 'Tiny Hut').*

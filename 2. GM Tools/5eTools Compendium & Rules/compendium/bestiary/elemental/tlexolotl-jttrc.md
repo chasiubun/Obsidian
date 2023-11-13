@@ -17,7 +17,7 @@ Despite a tlexolotl's destructive prowess, the land around its volcano is often 
 
 ```ad-statblock
 title: Tlexolotl
-![](/compendium/bestiary/elemental/token/tlexolotl.png#token)
+![](compendium/bestiary/elemental/token/tlexolotl.png#token)
 *Huge elemental, typically  Neutral*
 
 - **Armor Class** 15  (natural armor)
@@ -49,7 +49,7 @@ title: Tlexolotl
 
 ***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 12 (`1d10 + 7`) piercing damage plus 18 (`4d8`) fire damage.
 
-***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 11 (`1d8 + 7`) bludgeoning damage plus 14 (`4d6`) fire damage. If the target is a Large or smaller creature, it must succeed on a DC 19 Strength saving throw or be pushed up to 10 feet away from the tlexolotl and knocked [prone](/compendium/rules/conditions.md#prone).
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 11 (`1d8 + 7`) bludgeoning damage plus 14 (`4d6`) fire damage. If the target is a Large or smaller creature, it must succeed on a DC 19 Strength saving throw or be pushed up to 10 feet away from the tlexolotl and knocked [prone](rules/conditions.md#prone).
 
 ***Pyroclasm (Recharge 5-6).*** Gouts of molten lava erupt from the tlexolotl's body. Each creature in a 30-foot-radius sphere centered on the tlexolotl must make a DC 15 Dexterity saving throw. On a failed saving throw, a creature takes 21 (`6d6`) fire damage and 21 (`6d6`) bludgeoning damage. On a successful saving throw, a creature takes half as much damage.
 ```

@@ -13,7 +13,7 @@ aliases: ["Reduced-Threat Vrock"]
 
 ```ad-statblock
 title: Reduced-Threat Vrock
-![](/compendium/bestiary/fiend/token/reduced-threat-vrock.png#token)
+![](compendium/bestiary/fiend/token/reduced-threat-vrock.png#token)
 *Large fiend (demon), Chaotic Evil*
 
 - **Armor Class** 15  (natural armor)
@@ -45,8 +45,8 @@ title: Reduced-Threat Vrock
 
 ***Talons.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 14 (`2d10 + 3`) slashing damage.
 
-***Spores (Recharge 6).*** A 15-foot-radius cloud of toxic spores extends out from the vrock. The spores spread around corners. Each creature in that area must succeed on a DC 12 Constitution saving throw or become [poisoned](/compendium/rules/conditions.md#poisoned). While [poisoned](/compendium/rules/conditions.md#poisoned) in this way, a target takes 5 (`1d10`) poison damage at the start of each of its turns. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Emptying a vial of holy water on the target also ends the effect on it.
+***Spores (Recharge 6).*** A 15-foot-radius cloud of toxic spores extends out from the vrock. The spores spread around corners. Each creature in that area must succeed on a DC 12 Constitution saving throw or become [poisoned](rules/conditions.md#poisoned). While [poisoned](rules/conditions.md#poisoned) in this way, a target takes 5 (`1d10`) poison damage at the start of each of its turns. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Emptying a vial of holy water on the target also ends the effect on it.
 
-***Stunning Screech (1/Day).*** The vrock emits a horrific screech. Each creature within 20 feet of it that can hear it and that isn't a demon must succeed on a DC 12 Constitution saving throw or be [stunned](/compendium/rules/conditions.md#stunned) until the end of the vrock's next turn.
+***Stunning Screech (1/Day).*** The vrock emits a horrific screech. Each creature within 20 feet of it that can hear it and that isn't a demon must succeed on a DC 12 Constitution saving throw or be [stunned](rules/conditions.md#stunned) until the end of the vrock's next turn.
 ```
 ^statblock

@@ -23,10 +23,10 @@ Witherbloom College studies the magic inherent in the natural cycle of life and 
 
 ```ad-statblock
 title: Witherbloom Professor of Growth
-![](/compendium/bestiary/humanoid/token/witherbloom-professor-of-growth.png#token)
+![](compendium/bestiary/humanoid/token/witherbloom-professor-of-growth.png#token)
 *Small or Medium humanoid (druid), Any alignment*
 
-- **Armor Class** 13  ([hide armor](/compendium/items/hide-armor.md))
+- **Armor Class** 13  ([hide armor](compendium/items/hide-armor.md))
 - **Hit Points** 112 (`15d8 + 45`)
 - **Speed** 30 ft.
 
@@ -43,9 +43,9 @@ title: Witherbloom Professor of Growth
 
 ***Spellcasting.*** The professor casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability:
 
-**At will**: [druidcraft](/compendium/spells/druidcraft.md), [spare the dying](/compendium/spells/spare-the-dying.md)
+**At will**: [druidcraft](compendium/spells/druidcraft.md), [spare the dying](compendium/spells/spare-the-dying.md)
 
-**1/day each**: [greater restoration](/compendium/spells/greater-restoration.md), [lesser restoration](/compendium/spells/lesser-restoration.md), [mass cure wounds](/compendium/spells/mass-cure-wounds.md), [pass without trace](/compendium/spells/pass-without-trace.md), [plant growth](/compendium/spells/plant-growth.md), [revivify](/compendium/spells/revivify.md)
+**1/day each**: [greater restoration](compendium/spells/greater-restoration.md), [lesser restoration](compendium/spells/lesser-restoration.md), [mass cure wounds](compendium/spells/mass-cure-wounds.md), [pass without trace](compendium/spells/pass-without-trace.md), [plant growth](compendium/spells/plant-growth.md), [revivify](compendium/spells/revivify.md)
 
 ## Actions
 

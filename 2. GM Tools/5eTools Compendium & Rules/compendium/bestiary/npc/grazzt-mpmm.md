@@ -34,7 +34,7 @@ Graz'zt's lair is a den of ostentation and hedonism. It is adorned with finery a
 
 ```ad-statblock
 title: Graz'zt
-![](/compendium/bestiary/npc/token/grazzt.png#token)
+![](compendium/bestiary/npc/token/grazzt.png#token)
 *Large fiend (demon), Chaotic Evil*
 
 - **Armor Class** 20  (natural armor)
@@ -60,11 +60,11 @@ title: Graz'zt
 
 ***Spellcasting.*** Graz'zt casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 23):
 
-**At will**: [charm person](/compendium/spells/charm-person.md), [detect magic](/compendium/spells/detect-magic.md), [dispel magic](/compendium/spells/dispel-magic.md)
+**At will**: [charm person](compendium/spells/charm-person.md), [detect magic](compendium/spells/detect-magic.md), [dispel magic](compendium/spells/dispel-magic.md)
 
-**1/day each**: [dominate monster](/compendium/spells/dominate-monster.md), [greater invisibility](/compendium/spells/greater-invisibility.md)
+**1/day each**: [dominate monster](compendium/spells/dominate-monster.md), [greater invisibility](compendium/spells/greater-invisibility.md)
 
-**3/day each**: [darkness](/compendium/spells/darkness.md), [dominate person](/compendium/spells/dominate-person.md), [telekinesis](/compendium/spells/telekinesis.md), [teleport](/compendium/spells/teleport.md)
+**3/day each**: [darkness](compendium/spells/darkness.md), [dominate person](compendium/spells/dominate-person.md), [telekinesis](compendium/spells/telekinesis.md), [teleport](compendium/spells/teleport.md)
 
 ## Actions
 
@@ -88,8 +88,8 @@ title: Graz'zt
 
 ***Attack.*** Graz'zt makes one Wave of Sorrow attack.
 
-***Dance, My Puppet!.*** One creature [charmed](/compendium/rules/conditions.md#charmed) by Graz'zt that Graz'zt can see must use its reaction to move up to its speed as Graz'zt directs.
+***Dance, My Puppet!.*** One creature [charmed](rules/conditions.md#charmed) by Graz'zt that Graz'zt can see must use its reaction to move up to its speed as Graz'zt directs.
 
-![Graz'zt](/compendium/bestiary/legendary-group/grazzt-mpmm.md)
+![Graz'zt](compendium/bestiary/legendary-group/grazzt-mpmm.md)
 ```
 ^statblock

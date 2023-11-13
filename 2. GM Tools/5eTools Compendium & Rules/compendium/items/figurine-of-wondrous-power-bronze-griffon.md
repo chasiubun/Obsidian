@@ -21,6 +21,6 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 ## Bronze Griffon
 
-This bronze statuette is of a [griffon](/compendium/bestiary/monstrosity/griffon.md) rampant. It can become a [griffon](/compendium/bestiary/monstrosity/griffon.md) for up to 6 hours. Once it has been used, it can't be used again until 5 days have passed.
+This bronze statuette is of a [griffon](compendium/bestiary/monstrosity/griffon.md) rampant. It can become a [griffon](compendium/bestiary/monstrosity/griffon.md) for up to 6 hours. Once it has been used, it can't be used again until 5 days have passed.
 
 *Source: Dungeon Master's Guide p. 169. Available in the SRD.*

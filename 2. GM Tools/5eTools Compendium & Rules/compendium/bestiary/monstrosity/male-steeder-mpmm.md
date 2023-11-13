@@ -28,7 +28,7 @@ Rather than spinning webs, steeders excrete a viscous substance from their legs.
 
 ```ad-statblock
 title: Male Steeder
-![](/compendium/bestiary/monstrosity/token/male-steeder.png#token)
+![](compendium/bestiary/monstrosity/token/male-steeder.png#token)
 *Medium monstrosity, Unaligned*
 
 - **Armor Class** 12  (natural armor)
@@ -56,7 +56,7 @@ title: Male Steeder
 
 ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (`1d8 + 2`) piercing damage plus 4 (`1d8`) poison damage.
 
-***Sticky Leg.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one Small or Tiny creature. *Hit:* The target is stuck to the steeder's leg and [grappled](/compendium/rules/conditions.md#grappled) (escape DC 12). The steeder can have only one creature [grappled](/compendium/rules/conditions.md#grappled) at a time.
+***Sticky Leg.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one Small or Tiny creature. *Hit:* The target is stuck to the steeder's leg and [grappled](rules/conditions.md#grappled) (escape DC 12). The steeder can have only one creature [grappled](rules/conditions.md#grappled) at a time.
 ```
 ^statblock
 

@@ -13,7 +13,7 @@ aliases: ["Reduced-Threat Hook Horror"]
 
 ```ad-statblock
 title: Reduced-Threat Hook Horror
-![](/compendium/bestiary/monstrosity/token/reduced-threat-hook-horror.png#token)
+![](compendium/bestiary/monstrosity/token/reduced-threat-hook-horror.png#token)
 *Large monstrosity, Neutral*
 
 - **Armor Class** 15  (natural armor)
@@ -35,9 +35,9 @@ title: Reduced-Threat Hook Horror
 
 ***Reduced Threat.*** A reduced-threat monster takes a −2 penalty on attack rolls (included in the stat block), ability checks (included in the stat block for skill proficiencies), saving throws (included in the stat block for saving throw proficiencies), and saving throw DCs (included in the stat block).
 
-***Echolocation.*** The hook horror can't use its blindsight while [deafened](/compendium/rules/conditions.md#deafened).
+***Echolocation.*** The hook horror can't use its blindsight while [deafened](rules/conditions.md#deafened).
 
-***Keen Hearing.*** The hook horror has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on hearing.
+***Keen Hearing.*** The hook horror has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on hearing.
 
 ## Actions
 

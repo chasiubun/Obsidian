@@ -26,11 +26,11 @@ You can add your proficiency bonus to your initiative rolls.
 
 ### Leporine Senses
 
-You have proficiency in the [Perception](/compendium/rules/skills.md#Perception) skill.
+You have proficiency in the [Perception](rules/skills.md#Perception) skill.
 
 ### Lucky Footwork
 
-When you fail a Dexterity saving throw, you can use your reaction to roll a `d4` and add it to the save, potentially turning the failure into a success. You can't use this reaction if you're [prone](/compendium/rules/conditions.md#prone) or your speed is 0.
+When you fail a Dexterity saving throw, you can use your reaction to roll a `d4` and add it to the save, potentially turning the failure into a success. You can't use this reaction if you're [prone](rules/conditions.md#prone) or your speed is 0.
 
 ### Rabbit Hop
 

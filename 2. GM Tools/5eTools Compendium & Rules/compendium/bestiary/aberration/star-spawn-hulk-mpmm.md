@@ -41,7 +41,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 
 ```ad-statblock
 title: Star Spawn Hulk
-![](/compendium/bestiary/aberration/token/star-spawn-hulk.png#token)
+![](compendium/bestiary/aberration/token/star-spawn-hulk.png#token)
 *Large aberration, Typically  Chaotic Evil*
 
 - **Armor Class** 16  (natural armor)
@@ -65,10 +65,10 @@ title: Star Spawn Hulk
 
 ## Actions
 
-***Multiattack.*** The hulk makes two Slam attacks. If both attacks hit the same target, the target also takes 9 (`2d8`) psychic damage and must succeed on a DC 17 Constitution saving throw or be [stunned](/compendium/rules/conditions.md#stunned) until the end of the target's next turn.
+***Multiattack.*** The hulk makes two Slam attacks. If both attacks hit the same target, the target also takes 9 (`2d8`) psychic damage and must succeed on a DC 17 Constitution saving throw or be [stunned](rules/conditions.md#stunned) until the end of the target's next turn.
 
 ***Slam.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 14 (`2d8 + 5`) bludgeoning damage.
 
-***Reaping Arms (Recharge 5-6).*** The hulk makes a separate Slam attack against each creature within 10 feet of it. Each creature that is hit must also succeed on a DC 17 Dexterity saving throw or be knocked [prone](/compendium/rules/conditions.md#prone).
+***Reaping Arms (Recharge 5-6).*** The hulk makes a separate Slam attack against each creature within 10 feet of it. Each creature that is hit must also succeed on a DC 17 Dexterity saving throw or be knocked [prone](rules/conditions.md#prone).
 ```
 ^statblock

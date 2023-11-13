@@ -26,7 +26,7 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 
 ```ad-statblock
 title: Green Abishai
-![](/compendium/bestiary/fiend/token/green-abishai.png#token)
+![](compendium/bestiary/fiend/token/green-abishai.png#token)
 *Medium fiend (devil), Typically  Lawful Evil*
 
 - **Armor Class** 18  (natural armor)
@@ -46,23 +46,23 @@ title: Green Abishai
 
 ## Traits
 
-***Devil's Sight.*** Magical darkness doesn't impede the abishai's [darkvision](/compendium/rules/senses.md#darkvision).
+***Devil's Sight.*** Magical darkness doesn't impede the abishai's [darkvision](rules/senses.md#darkvision).
 
 ***Magic Resistance.*** The abishai has advantage on saving throws against spells and other magical effects.
 
 ***Spellcasting.*** The abishai casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 17):
 
-**At will**: [alter self](/compendium/spells/alter-self.md), [major image](/compendium/spells/major-image.md)
+**At will**: [alter self](compendium/spells/alter-self.md), [major image](compendium/spells/major-image.md)
 
-**1/day each**: [confusion](/compendium/spells/confusion.md), [dominate person](/compendium/spells/dominate-person.md), [mass suggestion](/compendium/spells/mass-suggestion.md)
+**1/day each**: [confusion](compendium/spells/confusion.md), [dominate person](compendium/spells/dominate-person.md), [mass suggestion](compendium/spells/mass-suggestion.md)
 
-**3/day each**: [charm person](/compendium/spells/charm-person.md), [detect thoughts](/compendium/spells/detect-thoughts.md), [fear](/compendium/spells/fear.md)
+**3/day each**: [charm person](compendium/spells/charm-person.md), [detect thoughts](compendium/spells/detect-thoughts.md), [fear](compendium/spells/fear.md)
 
 ## Actions
 
 ***Multiattack.*** The abishai makes two Fiendish Claw attacks, or it makes one Fiendish Claw attack and uses Spellcasting.
 
-***Fiendish Claw.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 12 (`2d8 + 3`) force damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or take 16 (`3d10`) poison damage and become [poisoned](/compendium/rules/conditions.md#poisoned) for 1 minute. The [poisoned](/compendium/rules/conditions.md#poisoned) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Fiendish Claw.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 12 (`2d8 + 3`) force damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or take 16 (`3d10`) poison damage and become [poisoned](rules/conditions.md#poisoned) for 1 minute. The [poisoned](rules/conditions.md#poisoned) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ```
 ^statblock
 

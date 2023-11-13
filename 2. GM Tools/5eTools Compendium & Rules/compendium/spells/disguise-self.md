@@ -27,8 +27,8 @@ You make yourself—including your clothing, armor, weapons, and other belonging
 
 The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel your head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair.
 
-To discern that you are disguised, a creature can use its action to inspect your appearance and must succeed on an Intelligence ([Investigation](/compendium/rules/skills.md#Investigation)) check against your spell save DC.
+To discern that you are disguised, a creature can use its action to inspect your appearance and must succeed on an Intelligence ([Investigation](rules/skills.md#Investigation)) check against your spell save DC.
 
-**Classes**: [Artificer](/compendium/classes/artificer-tce.md), [Bard](/compendium/classes/bard.md), [Cleric (Trickery Domain)](/compendium/classes/cleric-trickery-domain.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Ranger (Gloom Stalker)](/compendium/classes/ranger-gloom-stalker-xge.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Sorcerer](/compendium/classes/sorcerer.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Artificer](compendium/classes/artificer-tce.md), [Bard](compendium/classes/bard.md), [Cleric (Trickery Domain)](compendium/classes/cleric-trickery-domain.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Ranger (Gloom Stalker)](compendium/classes/ranger-gloom-stalker-xge.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 233. Available in the SRD and the Basic Rules.*

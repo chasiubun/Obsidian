@@ -24,6 +24,6 @@ You magically distract the triggering creature and turn its momentary uncertaint
 
 You can then choose a different creature you can see within range (you can choose yourself). The chosen creature has advantage on the next attack roll, ability check, or saving throw it makes within 1 minute. A creature can be empowered by only one use of this spell at a time.
 
-**Classes**: [Bard](/compendium/classes/bard.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Sorcerer](/compendium/classes/sorcerer.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Bard](compendium/classes/bard.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Strixhaven: A Curriculum of Chaos p. 38*

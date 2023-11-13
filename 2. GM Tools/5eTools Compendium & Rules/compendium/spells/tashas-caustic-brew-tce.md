@@ -22,6 +22,6 @@ A stream of acid emanates from you in a line 30 feet long and 5 feet wide in a d
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 2d4 for each slot level above 1st.
 
-**Classes**: [Artificer](/compendium/classes/artificer-tce.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md)
+**Classes**: [Artificer](compendium/classes/artificer-tce.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md)
 
 *Source: Tasha's Cauldron of Everything p. 115*

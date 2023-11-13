@@ -24,7 +24,7 @@ A bodak retains vague impressions of its past life. It seeks out its former alli
 
 ```ad-statblock
 title: Bodak
-![](/compendium/bestiary/undead/token/bodak.png#token)
+![](compendium/bestiary/undead/token/bodak.png#token)
 *Medium undead, Typically  Chaotic Evil*
 
 - **Armor Class** 15  (natural armor)
@@ -44,7 +44,7 @@ title: Bodak
 
 ## Traits
 
-***Death Gaze.*** When a creature that can see the bodak's eyes starts its turn within 30 feet of the bodak, the bodak can force it to make a DC 13 Constitution saving throw if the bodak isn't [incapacitated](/compendium/rules/conditions.md#incapacitated) and can see the creature. If the saving throw fails by 5 or more, the creature is reduced to 0 hit points unless it is immune to the [frightened](/compendium/rules/conditions.md#frightened) condition. Otherwise, a creature takes 16 (`3d10`) psychic damage on a failed save.
+***Death Gaze.*** When a creature that can see the bodak's eyes starts its turn within 30 feet of the bodak, the bodak can force it to make a DC 13 Constitution saving throw if the bodak isn't [incapacitated](rules/conditions.md#incapacitated) and can see the creature. If the saving throw fails by 5 or more, the creature is reduced to 0 hit points unless it is immune to the [frightened](rules/conditions.md#frightened) condition. Otherwise, a creature takes 16 (`3d10`) psychic damage on a failed save.
 
 Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it has disadvantage on attack rolls against the bodak until the start of its next turn. If the creature looks at the bodak in the meantime, that creature must immediately make the saving throw.
 

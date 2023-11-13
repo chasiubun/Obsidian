@@ -40,7 +40,7 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 
 ```ad-statblock
 title: Young Kruthik
-![](/compendium/bestiary/monstrosity/token/young-kruthik.png#token)
+![](compendium/bestiary/monstrosity/token/young-kruthik.png#token)
 *Small monstrosity, Unaligned*
 
 - **Armor Class** 16  (natural armor)
@@ -60,7 +60,7 @@ title: Young Kruthik
 
 ## Traits
 
-***Pack Tactics.*** The kruthik has advantage on an attack roll against a creature if at least one of the kruthik's allies is within 5 feet of the creature and the ally isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Pack Tactics.*** The kruthik has advantage on an attack roll against a creature if at least one of the kruthik's allies is within 5 feet of the creature and the ally isn't [incapacitated](rules/conditions.md#incapacitated).
 
 ***Tunneler.*** The kruthik can burrow through solid rock at half its burrowing speed and leaves a 2½-foot-diameter tunnel in its wake.
 

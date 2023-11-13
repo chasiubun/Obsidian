@@ -13,7 +13,7 @@ aliases: ["Juvenile Mimic"]
 
 ```ad-statblock
 title: Juvenile Mimic
-![](/compendium/bestiary/monstrosity/token/juvenile-mimic.png#token)
+![](compendium/bestiary/monstrosity/token/juvenile-mimic.png#token)
 *Tiny monstrosity (shapechanger), Unaligned*
 
 - **Armor Class** 11 

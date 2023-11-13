@@ -30,7 +30,7 @@ Composed of fire and water, steam mephits leave trails of hot water wherever the
 
 ```ad-statblock
 title: Steam Mephit
-![](/compendium/bestiary/elemental/token/steam-mephit.png#token)
+![](compendium/bestiary/elemental/token/steam-mephit.png#token)
 *Small elemental, Neutral Evil*
 
 - **Armor Class** 10 
@@ -52,9 +52,9 @@ title: Steam Mephit
 
 ***Death Burst.*** When the mephit dies, it explodes in a cloud of steam. Each creature within 5 feet of the mephit must succeed on a DC 10 Dexterity saving throw or take 4 (`1d8`) fire damage.
 
-***Innate Spellcasting (1/Day).*** The mephit can innately cast [blur](/compendium/spells/blur.md), requiring no material components. Its innate spellcasting ability is Charisma.
+***Innate Spellcasting (1/Day).*** The mephit can innately cast [blur](compendium/spells/blur.md), requiring no material components. Its innate spellcasting ability is Charisma.
 
-**At will**: [blur](/compendium/spells/blur.md)
+**At will**: [blur](compendium/spells/blur.md)
 
 ## Actions
 

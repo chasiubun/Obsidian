@@ -35,10 +35,10 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
 
 ```ad-statblock
 title: Gnoll
-![](/compendium/bestiary/humanoid/token/gnoll.png#token)
+![](compendium/bestiary/humanoid/token/gnoll.png#token)
 *Medium humanoid (gnoll), Chaotic Evil*
 
-- **Armor Class** 15  ([hide armor](/compendium/items/hide-armor.md), [shield](/compendium/items/shield.md))
+- **Armor Class** 15  ([hide armor](compendium/items/hide-armor.md), [shield](compendium/items/shield.md))
 - **Hit Points** 22 (`5d8`)
 - **Speed** 30 ft.
 

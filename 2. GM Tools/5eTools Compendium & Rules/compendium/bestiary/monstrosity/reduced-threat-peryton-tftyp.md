@@ -13,7 +13,7 @@ aliases: ["Reduced-Threat Peryton"]
 
 ```ad-statblock
 title: Reduced-Threat Peryton
-![](/compendium/bestiary/monstrosity/token/reduced-threat-peryton.png#token)
+![](compendium/bestiary/monstrosity/token/reduced-threat-peryton.png#token)
 *Medium monstrosity, Chaotic Evil*
 
 - **Armor Class** 13  (natural armor)
@@ -39,7 +39,7 @@ title: Reduced-Threat Peryton
 
 ***Flyby.*** The peryton doesn't provoke an opportunity attack when it flies out of an enemy's reach.
 
-***Keen Sight and Smell.*** The peryton has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight or smell.
+***Keen Sight and Smell.*** The peryton has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight or smell.
 
 ## Actions
 

@@ -24,6 +24,6 @@ You create a shard of ice and fling it at one creature within range. Make a rang
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the cold damage increases by 1d6 for each slot level above 1st.
 
-**Classes**: [Druid](/compendium/classes/druid.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Sorcerer](/compendium/classes/sorcerer.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Druid](compendium/classes/druid.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 157*

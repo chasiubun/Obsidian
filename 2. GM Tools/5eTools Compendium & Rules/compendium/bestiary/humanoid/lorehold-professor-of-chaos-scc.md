@@ -21,7 +21,7 @@ The archaeomancers of Lorehold College draw their magical might from the flow of
 
 ```ad-statblock
 title: Lorehold Professor of Chaos
-![](/compendium/bestiary/humanoid/token/lorehold-professor-of-chaos.png#token)
+![](compendium/bestiary/humanoid/token/lorehold-professor-of-chaos.png#token)
 *Small or Medium humanoid (wizard), Any alignment*
 
 - **Armor Class** 12 
@@ -41,20 +41,20 @@ title: Lorehold Professor of Chaos
 
 ## Traits
 
-***Voice from the Past (1/Day).*** The professor can cast the [contact other plane](/compendium/spells/contact-other-plane.md) spell to contact a long-dead spirit, using Intelligence as the spellcasting ability.
+***Voice from the Past (1/Day).*** The professor can cast the [contact other plane](compendium/spells/contact-other-plane.md) spell to contact a long-dead spirit, using Intelligence as the spellcasting ability.
 
 ***Spellcasting.*** The professor casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability:
 
-**At will**: [comprehend languages](/compendium/spells/comprehend-languages.md), [dancing lights](/compendium/spells/dancing-lights.md), [guidance](/compendium/spells/guidance.md)
+**At will**: [comprehend languages](compendium/spells/comprehend-languages.md), [dancing lights](compendium/spells/dancing-lights.md), [guidance](compendium/spells/guidance.md)
 
-**2/day each**: [locate object](/compendium/spells/locate-object.md), [mage armor](/compendium/spells/mage-armor.md), [passwall](/compendium/spells/passwall.md)
+**2/day each**: [locate object](compendium/spells/locate-object.md), [mage armor](compendium/spells/mage-armor.md), [passwall](compendium/spells/passwall.md)
 
 ## Actions
 
 ***Multiattack.*** The professor makes two Spectral Scroll attacks. It can also use Weight of History, if available.
 
-***Spectral Scroll.*** *Melee Spell Attack:* +7 to hit, reach 30 ft., one target. *Hit:* 15 (`2d10 + 4`) force damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked [prone](/compendium/rules/conditions.md#prone).
+***Spectral Scroll.*** *Melee Spell Attack:* +7 to hit, reach 30 ft., one target. *Hit:* 15 (`2d10 + 4`) force damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked [prone](rules/conditions.md#prone).
 
-***Weight of History (Recharge 5-6).*** The professor magically compresses time around up to six creatures of its choice that it can see within 30 feet of itself. Each target must succeed on a DC 15 Wisdom saving throw or be [restrained](/compendium/rules/conditions.md#restrained) for 1 minute, but the [restrained](/compendium/rules/conditions.md#restrained) target's speed is halved instead of being reduced to 0. At the start of each of its turns, the [restrained](/compendium/rules/conditions.md#restrained) target takes 4 (`1d8`) force damage. A [restrained](/compendium/rules/conditions.md#restrained) target can repeat the save at the end of each of its turns, ending the effect on itself on a success.
+***Weight of History (Recharge 5-6).*** The professor magically compresses time around up to six creatures of its choice that it can see within 30 feet of itself. Each target must succeed on a DC 15 Wisdom saving throw or be [restrained](rules/conditions.md#restrained) for 1 minute, but the [restrained](rules/conditions.md#restrained) target's speed is halved instead of being reduced to 0. At the start of each of its turns, the [restrained](rules/conditions.md#restrained) target takes 4 (`1d8`) force damage. A [restrained](rules/conditions.md#restrained) target can repeat the save at the end of each of its turns, ending the effect on itself on a success.
 ```
 ^statblock

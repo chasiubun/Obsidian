@@ -13,10 +13,10 @@ aliases: ["Farmer"]
 
 ```ad-statblock
 title: Farmer
-![](/compendium/bestiary/npc/token/farmer.png#token)
+![](compendium/bestiary/npc/token/farmer.png#token)
 *Medium humanoid (any race), Any Non-Good alignment*
 
-- **Armor Class** 12  ([leather armor](/compendium/items/leather-armor.md))
+- **Armor Class** 12  ([leather armor](compendium/items/leather-armor.md))
 - **Hit Points** 9 (`2d8`)
 - **Speed** 30 ft.
 
@@ -33,7 +33,7 @@ title: Farmer
 
 ## Traits
 
-***Dark Devotion.*** The farmer has advantage on saving throws against being [charmed](/compendium/rules/conditions.md#charmed) or [frightened](/compendium/rules/conditions.md#frightened).
+***Dark Devotion.*** The farmer has advantage on saving throws against being [charmed](rules/conditions.md#charmed) or [frightened](rules/conditions.md#frightened).
 
 ## Actions
 

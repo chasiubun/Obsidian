@@ -13,7 +13,7 @@ aliases: ["Orc Commoner"]
 
 ```ad-statblock
 title: Orc Commoner
-![](/compendium/bestiary/humanoid/token/orc-commoner.png#token)
+![](compendium/bestiary/humanoid/token/orc-commoner.png#token)
 *Medium humanoid (orc), Any alignment*
 
 - **Armor Class** 10 

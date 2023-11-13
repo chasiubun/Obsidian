@@ -21,6 +21,6 @@ aliases: ["Power Word Kill"]
 
 You utter a word of power that can compel one creature you can see within range to die instantly. If the creature you choose has 100 hit points or fewer, it dies. Otherwise, the spell has no effect.
 
-**Classes**: [Bard](/compendium/classes/bard.md), [Sorcerer](/compendium/classes/sorcerer.md), [Warlock](/compendium/classes/warlock.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Bard](compendium/classes/bard.md), [Sorcerer](compendium/classes/sorcerer.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 266. Available in the SRD and the Basic Rules.*

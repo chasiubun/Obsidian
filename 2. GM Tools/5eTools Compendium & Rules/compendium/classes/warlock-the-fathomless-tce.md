@@ -32,11 +32,11 @@ The Fathomless lets you choose from an expanded list of spells when you learn a 
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [create or destroy water](/compendium/spells/create-or-destroy-water.md), [thunderwave](/compendium/spells/thunderwave.md) |
-| 2nd | [gust of wind](/compendium/spells/gust-of-wind.md), [silence](/compendium/spells/silence.md) |
-| 3rd | [lightning bolt](/compendium/spells/lightning-bolt.md), [sleet storm](/compendium/spells/sleet-storm.md) |
-| 4th | [control water](/compendium/spells/control-water.md), [summon elemental](/compendium/spells/summon-elemental-tce.md) (water only) |
-| 5th | [Bigby's hand](/compendium/spells/bigbys-hand.md) (appears as a tentacle), [cone of cold](/compendium/spells/cone-of-cold.md) |
+| 1st | [create or destroy water](compendium/spells/create-or-destroy-water.md), [thunderwave](compendium/spells/thunderwave.md) |
+| 2nd | [gust of wind](compendium/spells/gust-of-wind.md), [silence](compendium/spells/silence.md) |
+| 3rd | [lightning bolt](compendium/spells/lightning-bolt.md), [sleet storm](compendium/spells/sleet-storm.md) |
+| 4th | [control water](compendium/spells/control-water.md), [summon elemental](compendium/spells/summon-elemental-tce.md) (water only) |
+| 5th | [Bigby's hand](compendium/spells/bigbys-hand.md) (appears as a tentacle), [cone of cold](compendium/spells/cone-of-cold.md) |
 ^fathomless-expanded-spells
 
 ### Tentacle of the Deeps (Level 1)
@@ -73,9 +73,9 @@ Your Tentacle of the Deeps can defend you and others, interposing itself between
 
 *10th-level Fathomless feature*
 
-You learn the spell [Evard's black tentacles](/compendium/spells/evards-black-tentacles.md). It counts as a warlock spell for you, but it doesn't count against the number of spells you know. You can also cast it once without a spell slot, and you regain the ability to do so when you finish a long rest.
+You learn the spell [Evard's black tentacles](compendium/spells/evards-black-tentacles.md). It counts as a warlock spell for you, but it doesn't count against the number of spells you know. You can also cast it once without a spell slot, and you regain the ability to do so when you finish a long rest.
 
-Whenever you cast this spell, your patron's magic bolsters you, granting you a number of temporary hit points equal to your warlock level. Moreover, damage can't break your [concentration](/compendium/rules/conditions.md#concentration) on this spell.
+Whenever you cast this spell, your patron's magic bolsters you, granting you a number of temporary hit points equal to your warlock level. Moreover, damage can't break your [concentration](rules/conditions.md#concentration) on this spell.
 
 ### Fathomless Plunge (Level 14)
 

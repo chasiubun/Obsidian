@@ -32,7 +32,7 @@ Some martial artists adorn themselves with tattoos to honor inspirations or inst
 
 ```ad-statblock
 title: Martial Arts Adept
-![](/compendium/bestiary/humanoid/token/martial-arts-adept.png#token)
+![](compendium/bestiary/humanoid/token/martial-arts-adept.png#token)
 *Medium humanoid, Any alignment*
 
 - **Armor Class** 16  (Unarmored Defense)
@@ -60,7 +60,7 @@ title: Martial Arts Adept
 
 ***Unarmed Strike.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (`1d8 + 3`) bludgeoning damage. Once per turn, the adept can cause one of the following additional effects (choose one or roll a `d4`):
 
-- **1–2 Knock Down..** The target must succeed on a DC 13 Dexterity saving throw or be knocked [prone](/compendium/rules/conditions.md#prone).  
+- **1–2 Knock Down..** The target must succeed on a DC 13 Dexterity saving throw or be knocked [prone](rules/conditions.md#prone).  
 - **3–4 Push..** The target must succeed on a DC 13 Strength saving throw or be pushed up to 10 feet directly away from the adept.  
 
 ***Dart.*** *Ranged Weapon Attack:* +5 to hit, range 20/60 ft., one target. *Hit:* 5 (`1d4 + 3`) piercing damage.

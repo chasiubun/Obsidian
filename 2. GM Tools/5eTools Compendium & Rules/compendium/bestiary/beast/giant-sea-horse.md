@@ -16,7 +16,7 @@ Like their smaller kin, giant sea horses are shy, colorful fish with elongated b
 
 ```ad-statblock
 title: Giant Sea Horse
-![](/compendium/bestiary/beast/token/giant-sea-horse.png#token)
+![](compendium/bestiary/beast/token/giant-sea-horse.png#token)
 *Large beast, Unaligned*
 
 - **Armor Class** 13  (natural armor)
@@ -36,7 +36,7 @@ title: Giant Sea Horse
 
 ## Traits
 
-***Charge.*** If the sea horse moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (`2d6`) bludgeoning damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked [prone](/compendium/rules/conditions.md#prone).
+***Charge.*** If the sea horse moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (`2d6`) bludgeoning damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked [prone](rules/conditions.md#prone).
 
 ***Water Breathing.*** The sea horse can breathe only underwater.
 

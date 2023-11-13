@@ -155,7 +155,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](/compendium/rules/conditions.md#charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](rules/conditions.md#charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -186,7 +186,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 ```ad-statblock
 title: Barlgura
-![](/compendium/bestiary/fiend/token/barlgura.png#token)
+![](compendium/bestiary/fiend/token/barlgura.png#token)
 *Large fiend (demon), Chaotic Evil*
 
 - **Armor Class** 15  (natural armor)
@@ -212,9 +212,9 @@ title: Barlgura
 
 ***Innate Spellcasting.*** The barlgura's spellcasting ability is Wisdom (spell save DC 13). The barlgura can innately cast the following spells, requiring no material components:
 
-**1/day each**: [entangle](/compendium/spells/entangle.md), [phantasmal force](/compendium/spells/phantasmal-force.md)
+**1/day each**: [entangle](compendium/spells/entangle.md), [phantasmal force](compendium/spells/phantasmal-force.md)
 
-**2/day each**: [disguise self](/compendium/spells/disguise-self.md), [invisibility](/compendium/spells/invisibility.md) (self only)
+**2/day each**: [disguise self](compendium/spells/disguise-self.md), [invisibility](compendium/spells/invisibility.md) (self only)
 
 ## Actions
 

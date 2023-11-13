@@ -23,7 +23,7 @@ The scholars of Silverquill College study the power of magic shaped through spok
 
 ```ad-statblock
 title: Silverquill Apprentice
-![](/compendium/bestiary/humanoid/token/silverquill-apprentice.png#token)
+![](compendium/bestiary/humanoid/token/silverquill-apprentice.png#token)
 *Small or Medium humanoid (bard), Any alignment*
 
 - **Armor Class** 12 
@@ -43,9 +43,9 @@ title: Silverquill Apprentice
 
 ***Spellcasting.*** The apprentice casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 12):
 
-**At will**: [dancing lights](/compendium/spells/dancing-lights.md), [friends](/compendium/spells/friends.md)
+**At will**: [dancing lights](compendium/spells/dancing-lights.md), [friends](compendium/spells/friends.md)
 
-**1/day each**: [command](/compendium/spells/command.md), [mage armor](/compendium/spells/mage-armor.md)
+**1/day each**: [command](compendium/spells/command.md), [mage armor](compendium/spells/mage-armor.md)
 
 ## Actions
 

@@ -14,7 +14,7 @@ aliases: ["Githyanki Kith'rak"]
 # Githyanki Kith'rak
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 140, Mordenkainen's Tome of Foes p. 205*  
 
-Militarized githyanki cultures assign ranks and responsibilities to citizens. Groups of ten warriors follow the commands of sarths ([githyanki warriors](/compendium/bestiary/humanoid/githyanki-warrior.md)), while ten sarths obey the commands of a mighty kith'rak. These champions undergo torturous training and psionic testing until they can command the respect of their underlings.
+Militarized githyanki cultures assign ranks and responsibilities to citizens. Groups of ten warriors follow the commands of sarths ([githyanki warriors](compendium/bestiary/humanoid/githyanki-warrior.md)), while ten sarths obey the commands of a mighty kith'rak. These champions undergo torturous training and psionic testing until they can command the respect of their underlings.
 
 ## Githyanki
 
@@ -24,10 +24,10 @@ Githyanki descend from an ancient people who were also the progenitors of githze
 
 ```ad-statblock
 title: Githyanki Kith'rak
-![](/compendium/bestiary/humanoid/token/githyanki-kithrak.png#token)
+![](compendium/bestiary/humanoid/token/githyanki-kithrak.png#token)
 *Medium humanoid (gith), Any alignment*
 
-- **Armor Class** 18  ([plate](/compendium/items/plate-armor.md))
+- **Armor Class** 18  ([plate](compendium/items/plate-armor.md))
 - **Hit Points** 180 (`24d8 + 72`)
 - **Speed** 30 ft.
 
@@ -44,11 +44,11 @@ title: Githyanki Kith'rak
 
 ***Spellcasting (Psionics).*** The githyanki casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 15):
 
-**At will**: [mage hand](/compendium/spells/mage-hand.md) (the hand is invisible)
+**At will**: [mage hand](compendium/spells/mage-hand.md) (the hand is invisible)
 
-**1/day each**: [plane shift](/compendium/spells/plane-shift.md), [telekinesis](/compendium/spells/telekinesis.md)
+**1/day each**: [plane shift](compendium/spells/plane-shift.md), [telekinesis](compendium/spells/telekinesis.md)
 
-**3/day each**: [blur](/compendium/spells/blur.md), [nondetection](/compendium/spells/nondetection.md) (self only)
+**3/day each**: [blur](compendium/spells/blur.md), [nondetection](compendium/spells/nondetection.md) (self only)
 
 ## Actions
 
@@ -60,7 +60,7 @@ title: Githyanki Kith'rak
 
 ***Astral Step (Recharge 4-6).*** The githyanki teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see.
 
-***Rally the Troops.*** The githyanki magically ends the [charmed](/compendium/rules/conditions.md#charmed) and [frightened](/compendium/rules/conditions.md#frightened) conditions on itself and each creature of its choice that it can see within 30 feet of it.
+***Rally the Troops.*** The githyanki magically ends the [charmed](rules/conditions.md#charmed) and [frightened](rules/conditions.md#frightened) conditions on itself and each creature of its choice that it can see within 30 feet of it.
 
 ## Reactions
 

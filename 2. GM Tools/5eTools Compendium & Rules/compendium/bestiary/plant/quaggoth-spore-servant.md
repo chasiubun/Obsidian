@@ -40,11 +40,11 @@ The servant's ability scores change as follows: Int 2 (-4), Wis 6 (-2), Cha 1 (-
 
 ## Senses
 
-The servant has [blindsight](/compendium/rules/senses.md#blindsight) with a radius of 30 feet, and it is blind beyond this radius.
+The servant has [blindsight](rules/senses.md#blindsight) with a radius of 30 feet, and it is blind beyond this radius.
 
 ## Condition Immunities
 
-The servant can't be [blinded](/compendium/rules/conditions.md#blinded), [charmed](/compendium/rules/conditions.md#charmed), [frightened](/compendium/rules/conditions.md#frightened), or [paralyzed](/compendium/rules/conditions.md#paralyzed).
+The servant can't be [blinded](rules/conditions.md#blinded), [charmed](rules/conditions.md#charmed), [frightened](rules/conditions.md#frightened), or [paralyzed](rules/conditions.md#paralyzed).
 
 ## Languages
 
@@ -58,7 +58,7 @@ If the servant has no other means of dealing damage, it can use its fists or lim
 
 ```ad-statblock
 title: Quaggoth Spore Servant
-![](/compendium/bestiary/plant/token/quaggoth-spore-servant.png#token)
+![](compendium/bestiary/plant/token/quaggoth-spore-servant.png#token)
 *Medium plant, Unaligned*
 
 - **Armor Class** 13  (natural armor)

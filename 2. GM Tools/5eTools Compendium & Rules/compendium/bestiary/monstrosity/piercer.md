@@ -26,7 +26,7 @@ Piercers gather in colonies to maximize the effectiveness of their attacks, drop
 
 ```ad-statblock
 title: Piercer
-![](/compendium/bestiary/monstrosity/token/piercer.png#token)
+![](compendium/bestiary/monstrosity/token/piercer.png#token)
 *Medium monstrosity, Unaligned*
 
 - **Armor Class** 15  (natural armor)

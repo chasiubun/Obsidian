@@ -28,7 +28,7 @@ In any case, if a redcap works with another being, the redcap demands to be paid
 
 ```ad-statblock
 title: Redcap
-![](/compendium/bestiary/fey/token/redcap.png#token)
+![](compendium/bestiary/fey/token/redcap.png#token)
 *Small fey, Typically  Chaotic Evil*
 
 - **Armor Class** 14  (natural armor)
@@ -48,7 +48,7 @@ title: Redcap
 
 ## Traits
 
-***Iron Boots.*** The redcap has disadvantage on Dexterity ([Stealth](/compendium/rules/skills.md#Stealth)) checks.
+***Iron Boots.*** The redcap has disadvantage on Dexterity ([Stealth](rules/skills.md#Stealth)) checks.
 
 ***Outsize Strength.*** While grappling, the redcap is considered to be Medium. Also, wielding a heavy weapon doesn't impose disadvantage on its attack rolls.
 
@@ -58,7 +58,7 @@ title: Redcap
 
 ***Wicked Sickle.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (`2d4 + 4`) slashing damage.
 
-***Ironbound Pursuit.*** The redcap moves up to its speed to a creature it can see and kicks with its iron boots. The target must succeed on a DC 14 Dexterity saving throw or take 20 (`3d10 + 4`) bludgeoning damage and be knocked [prone](/compendium/rules/conditions.md#prone).
+***Ironbound Pursuit.*** The redcap moves up to its speed to a creature it can see and kicks with its iron boots. The target must succeed on a DC 14 Dexterity saving throw or take 20 (`3d10 + 4`) bludgeoning damage and be knocked [prone](rules/conditions.md#prone).
 ```
 ^statblock
 

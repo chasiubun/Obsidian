@@ -23,7 +23,7 @@ The scholars of Silverquill College study the power of magic shaped through spok
 
 ```ad-statblock
 title: Silverquill Professor of Shadow
-![](/compendium/bestiary/humanoid/token/silverquill-professor-of-shadow.png#token)
+![](compendium/bestiary/humanoid/token/silverquill-professor-of-shadow.png#token)
 *Small or Medium humanoid (bard), Any alignment*
 
 - **Armor Class** 12 
@@ -47,16 +47,16 @@ title: Silverquill Professor of Shadow
 
 ***Spellcasting.*** The professor casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 15):
 
-**At will**: [dancing lights](/compendium/spells/dancing-lights.md), [friends](/compendium/spells/friends.md)
+**At will**: [dancing lights](compendium/spells/dancing-lights.md), [friends](compendium/spells/friends.md)
 
-**1/day each**: [tongues](/compendium/spells/tongues.md)
+**1/day each**: [tongues](compendium/spells/tongues.md)
 
-**2/day each**: [bane](/compendium/spells/bane.md), [command](/compendium/spells/command.md), [darkness](/compendium/spells/darkness.md), [mage armor](/compendium/spells/mage-armor.md)
+**2/day each**: [bane](compendium/spells/bane.md), [command](compendium/spells/command.md), [darkness](compendium/spells/darkness.md), [mage armor](compendium/spells/mage-armor.md)
 
 ## Actions
 
 ***Multiattack.*** The professor makes two Ink Lance attacks. The professor can replace one of the attacks with a use of Spellcasting.
 
-***Ink Lance.*** *Melee or Ranged Spell Attack:* +7 to hit, reach 5 ft. or range 120 ft., one target. *Hit:* 17 (`3d8 + 4`) necrotic damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw be [blinded](/compendium/rules/conditions.md#blinded) until the end of its next turn.
+***Ink Lance.*** *Melee or Ranged Spell Attack:* +7 to hit, reach 5 ft. or range 120 ft., one target. *Hit:* 17 (`3d8 + 4`) necrotic damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw be [blinded](rules/conditions.md#blinded) until the end of its next turn.
 ```
 ^statblock

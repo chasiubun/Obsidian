@@ -81,7 +81,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ```ad-statblock
 title: Copper Dragon Wyrmling
-![](/compendium/bestiary/dragon/token/copper-dragon-wyrmling.png#token)
+![](compendium/bestiary/dragon/token/copper-dragon-wyrmling.png#token)
 *Medium dragon, Chaotic Good*
 
 - **Armor Class** 16  (natural armor)

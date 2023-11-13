@@ -21,7 +21,7 @@ A skeleton doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Giant Skeleton
-![](/compendium/bestiary/undead/token/giant-skeleton.png#token)
+![](compendium/bestiary/undead/token/giant-skeleton.png#token)
 *Huge undead, Neutral Evil*
 
 - **Armor Class** 17  (natural armor)

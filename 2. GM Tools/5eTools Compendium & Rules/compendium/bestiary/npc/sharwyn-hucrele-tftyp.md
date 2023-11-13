@@ -13,7 +13,7 @@ aliases: ["Sharwyn Hucrele"]
 
 ```ad-statblock
 title: Sharwyn Hucrele
-![](/compendium/bestiary/npc/token/sharwyn-hucrele.png#token)
+![](compendium/bestiary/npc/token/sharwyn-hucrele.png#token)
 *Medium humanoid (human), Neutral Evil*
 
 - **Armor Class** 16  (Barkskin trait)
@@ -35,15 +35,15 @@ title: Sharwyn Hucrele
 
 ***Barkskin.*** Sharwyn's AC can't be lower than 16.
 
-***Special Equipment.*** Sharwyn has a [spellbook](/compendium/items/spellbook.md) that contains the spells listed in her Spellcasting trait, plus [detect magic](/compendium/spells/detect-magic.md) and [silent image](/compendium/spells/silent-image.md).
+***Special Equipment.*** Sharwyn has a [spellbook](compendium/items/spellbook.md) that contains the spells listed in her Spellcasting trait, plus [detect magic](compendium/spells/detect-magic.md) and [silent image](compendium/spells/silent-image.md).
 
 ***Tree Thrall.*** If the Gulthias Tree dies, Sharwyn dies 24 hours later.
 
 ***Spellcasting.*** Sharwyn is a 1st-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). She has the following wizard spells prepared:
 
-**Cantrips (at will)**: [light](/compendium/spells/light.md), [prestidigitation](/compendium/spells/prestidigitation.md), [ray of frost](/compendium/spells/ray-of-frost.md)
+**Cantrips (at will)**: [light](compendium/spells/light.md), [prestidigitation](compendium/spells/prestidigitation.md), [ray of frost](compendium/spells/ray-of-frost.md)
 
-**1st level (2 slots)**: [color spray](/compendium/spells/color-spray.md), [magic missile](/compendium/spells/magic-missile.md), [shield](/compendium/spells/shield.md), [sleep](/compendium/spells/sleep.md)
+**1st level (2 slots)**: [color spray](compendium/spells/color-spray.md), [magic missile](compendium/spells/magic-missile.md), [shield](compendium/spells/shield.md), [sleep](compendium/spells/sleep.md)
 
 ## Actions
 

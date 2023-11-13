@@ -35,7 +35,7 @@ The mating ritual of couatls is a beautiful and elaborate dance of magic and lig
 
 ```ad-statblock
 title: Couatl
-![](/compendium/bestiary/celestial/token/couatl.png#token)
+![](compendium/bestiary/celestial/token/couatl.png#token)
 *Medium celestial, Lawful Good*
 
 - **Armor Class** 19  (natural armor)
@@ -61,17 +61,17 @@ title: Couatl
 
 ***Innate Spellcasting.*** The couatl's spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring only verbal components:
 
-**At will**: [detect evil and good](/compendium/spells/detect-evil-and-good.md), [detect magic](/compendium/spells/detect-magic.md), [detect thoughts](/compendium/spells/detect-thoughts.md)
+**At will**: [detect evil and good](compendium/spells/detect-evil-and-good.md), [detect magic](compendium/spells/detect-magic.md), [detect thoughts](compendium/spells/detect-thoughts.md)
 
-**1/day each**: [dream](/compendium/spells/dream.md), [greater restoration](/compendium/spells/greater-restoration.md), [scrying](/compendium/spells/scrying.md)
+**1/day each**: [dream](compendium/spells/dream.md), [greater restoration](compendium/spells/greater-restoration.md), [scrying](compendium/spells/scrying.md)
 
-**3/day each**: [bless](/compendium/spells/bless.md), [create food and water](/compendium/spells/create-food-and-water.md), [cure wounds](/compendium/spells/cure-wounds.md), [lesser restoration](/compendium/spells/lesser-restoration.md), [protection from poison](/compendium/spells/protection-from-poison.md), [sanctuary](/compendium/spells/sanctuary.md), [shield](/compendium/spells/shield.md)
+**3/day each**: [bless](compendium/spells/bless.md), [create food and water](compendium/spells/create-food-and-water.md), [cure wounds](compendium/spells/cure-wounds.md), [lesser restoration](compendium/spells/lesser-restoration.md), [protection from poison](compendium/spells/protection-from-poison.md), [sanctuary](compendium/spells/sanctuary.md), [shield](compendium/spells/shield.md)
 
 ## Actions
 
-***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one creature. *Hit:* 8 (`1d6 + 5`) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be [poisoned](/compendium/rules/conditions.md#poisoned) for 24 hours. Until this poison ends, the target is [unconscious](/compendium/rules/conditions.md#unconscious). Another creature can use an action to shake the target awake.
+***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one creature. *Hit:* 8 (`1d6 + 5`) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be [poisoned](rules/conditions.md#poisoned) for 24 hours. Until this poison ends, the target is [unconscious](rules/conditions.md#unconscious). Another creature can use an action to shake the target awake.
 
-***Constrict.*** *Melee Weapon Attack:* +6 to hit, reach 10 ft., one Medium or smaller creature. *Hit:* 10 (`2d6 + 3`) bludgeoning damage, and the target is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 15). Until this grapple ends, the target is [restrained](/compendium/rules/conditions.md#restrained), and the couatl can't constrict another target.
+***Constrict.*** *Melee Weapon Attack:* +6 to hit, reach 10 ft., one Medium or smaller creature. *Hit:* 10 (`2d6 + 3`) bludgeoning damage, and the target is [grappled](rules/conditions.md#grappled) (escape DC 15). Until this grapple ends, the target is [restrained](rules/conditions.md#restrained), and the couatl can't constrict another target.
 
 ***Change Shape.*** The couatl magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the couatl's choice).
 

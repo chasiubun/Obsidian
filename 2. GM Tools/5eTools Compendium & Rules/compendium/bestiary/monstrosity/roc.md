@@ -36,7 +36,7 @@ Sometimes a roc's nest contains treasures from the caravans or ships they raid, 
 
 ```ad-statblock
 title: Roc
-![](/compendium/bestiary/monstrosity/token/roc.png#token)
+![](compendium/bestiary/monstrosity/token/roc.png#token)
 *Gargantuan monstrosity, Unaligned*
 
 - **Armor Class** 15  (natural armor)
@@ -56,7 +56,7 @@ title: Roc
 
 ## Traits
 
-***Keen Sight.*** The roc has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Keen Sight.*** The roc has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
@@ -64,7 +64,7 @@ title: Roc
 
 ***Beak.*** *Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 27 (`4d8 + 9`) piercing damage.
 
-***Talons.*** *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 23 (`4d6 + 9`) slashing damage, and the target is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 19). Until this grapple ends, the target is [restrained](/compendium/rules/conditions.md#restrained), and the roc can't use its talons on another target.
+***Talons.*** *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 23 (`4d6 + 9`) slashing damage, and the target is [grappled](rules/conditions.md#grappled) (escape DC 19). Until this grapple ends, the target is [restrained](rules/conditions.md#restrained), and the roc can't use its talons on another target.
 ```
 ^statblock
 

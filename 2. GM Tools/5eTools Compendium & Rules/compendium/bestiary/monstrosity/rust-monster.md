@@ -37,7 +37,7 @@ Rust monsters are rarely found in large numbers, preferring to hunt alone or in 
 
 ```ad-statblock
 title: Rust Monster
-![](/compendium/bestiary/monstrosity/token/rust-monster.png#token)
+![](compendium/bestiary/monstrosity/token/rust-monster.png#token)
 *Medium monstrosity, Unaligned*
 
 - **Armor Class** 14  (natural armor)

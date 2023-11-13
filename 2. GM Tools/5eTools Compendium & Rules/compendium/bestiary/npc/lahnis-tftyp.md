@@ -13,10 +13,10 @@ aliases: ["Lahnis"]
 
 ```ad-statblock
 title: Lahnis
-![](/compendium/bestiary/npc/token/lahnis.png#token)
+![](compendium/bestiary/npc/token/lahnis.png#token)
 *Medium humanoid (any race), Any alignment*
 
-- **Armor Class** 12  (15 with [mage armor](/compendium/spells/mage-armor.md))
+- **Armor Class** 12  (15 with [mage armor](compendium/spells/mage-armor.md))
 - **Hit Points** 66 (`12d8 + 12`)
 - **Speed** 30 ft.
 
@@ -37,19 +37,19 @@ title: Lahnis
 
 ***Spellcasting.*** Lahnis is a 12th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). Lahnis has the following wizard spells prepared:
 
-**Cantrips (at will)**: [fire bolt](/compendium/spells/fire-bolt.md)*, [light](/compendium/spells/light.md)*, [prestidigitation](/compendium/spells/prestidigitation.md), [ray of frost](/compendium/spells/ray-of-frost.md)*
+**Cantrips (at will)**: [fire bolt](compendium/spells/fire-bolt.md)*, [light](compendium/spells/light.md)*, [prestidigitation](compendium/spells/prestidigitation.md), [ray of frost](compendium/spells/ray-of-frost.md)*
 
-**1st level (4 slots)**: [burning hands](/compendium/spells/burning-hands.md)*, [mage armor](/compendium/spells/mage-armor.md), [magic missile](/compendium/spells/magic-missile.md)*
+**1st level (4 slots)**: [burning hands](compendium/spells/burning-hands.md)*, [mage armor](compendium/spells/mage-armor.md), [magic missile](compendium/spells/magic-missile.md)*
 
-**2nd level (3 slots)**: [mirror image](/compendium/spells/mirror-image.md), [misty step](/compendium/spells/misty-step.md), [shatter](/compendium/spells/shatter.md)*
+**2nd level (3 slots)**: [mirror image](compendium/spells/mirror-image.md), [misty step](compendium/spells/misty-step.md), [shatter](compendium/spells/shatter.md)*
 
-**3rd level (3 slots)**: [counterspell](/compendium/spells/counterspell.md), [fireball](/compendium/spells/fireball.md)*, [lightning bolt](/compendium/spells/lightning-bolt.md)*
+**3rd level (3 slots)**: [counterspell](compendium/spells/counterspell.md), [fireball](compendium/spells/fireball.md)*, [lightning bolt](compendium/spells/lightning-bolt.md)*
 
-**4th level (3 slots)**: [ice storm](/compendium/spells/ice-storm.md)*, [stoneskin](/compendium/spells/stoneskin.md)
+**4th level (3 slots)**: [ice storm](compendium/spells/ice-storm.md)*, [stoneskin](compendium/spells/stoneskin.md)
 
-**5th level (2 slots)**: [Bigby's hand](/compendium/spells/bigbys-hand.md)*, [cone of cold](/compendium/spells/cone-of-cold.md)*
+**5th level (2 slots)**: [Bigby's hand](compendium/spells/bigbys-hand.md)*, [cone of cold](compendium/spells/cone-of-cold.md)*
 
-**6th level (1 slots)**: [chain lightning](/compendium/spells/chain-lightning.md)*, [wall of ice](/compendium/spells/wall-of-ice.md)*
+**6th level (1 slots)**: [chain lightning](compendium/spells/chain-lightning.md)*, [wall of ice](compendium/spells/wall-of-ice.md)*
 
 *Evocation spell
 

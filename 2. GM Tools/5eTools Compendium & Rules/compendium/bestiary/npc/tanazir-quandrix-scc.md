@@ -19,7 +19,7 @@ Tanazir's spells, legendary actions, and breath weapon manifest luminous pattern
 
 ```ad-statblock
 title: Tanazir Quandrix
-![](/compendium/bestiary/npc/token/tanazir-quandrix.png#token)
+![](compendium/bestiary/npc/token/tanazir-quandrix.png#token)
 *Gargantuan dragon (wizard), Lawful Neutral*
 
 - **Armor Class** 21  (natural armor)
@@ -43,7 +43,7 @@ title: Tanazir Quandrix
 
 ***Spellcasting.*** Tanazir casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 24):
 
-**1/day each**: [divination](/compendium/spells/divination.md), [enlarge/reduce](/compendium/spells/enlarge-reduce.md), [mirage arcane](/compendium/spells/mirage-arcane.md) (as an action), [polymorph](/compendium/spells/polymorph.md), [scrying](/compendium/spells/scrying.md) (as an action), [seeming](/compendium/spells/seeming.md)
+**1/day each**: [divination](compendium/spells/divination.md), [enlarge/reduce](compendium/spells/enlarge-reduce.md), [mirage arcane](compendium/spells/mirage-arcane.md) (as an action), [polymorph](compendium/spells/polymorph.md), [scrying](compendium/spells/scrying.md) (as an action), [seeming](compendium/spells/seeming.md)
 
 ## Actions
 
@@ -63,6 +63,6 @@ title: Tanazir Quandrix
 
 ***Fold Space (Costs 2 Actions).*** Tanazir uses Teleport, and each other creature within 20 feet of the space she left must succeed on a DC 24 Strength saving throw or be pulled up to 30 feet closer to the center of that space and take 16 (`3d10`) force damage.
 
-***Fractal Refraction (Costs 3 Actions).*** Tanazir magically summons `1d4` [fractal mascots](/compendium/bestiary/construct/fractal-mascot-scc.md) in unoccupied spaces she can see within 120 feet of herself. The fractals obey her commands and take their turns immediately after hers. While any of these fractals remain, attack rolls made against Tanazir have disadvantage. A summoned fractal disappears after 1 minute, when it or Tanazir dies, or when she uses this action again.
+***Fractal Refraction (Costs 3 Actions).*** Tanazir magically summons `1d4` [fractal mascots](compendium/bestiary/construct/fractal-mascot-scc.md) in unoccupied spaces she can see within 120 feet of herself. The fractals obey her commands and take their turns immediately after hers. While any of these fractals remain, attack rolls made against Tanazir have disadvantage. A summoned fractal disappears after 1 minute, when it or Tanazir dies, or when she uses this action again.
 ```
 ^statblock

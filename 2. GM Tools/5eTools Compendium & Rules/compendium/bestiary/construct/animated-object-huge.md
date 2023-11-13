@@ -13,7 +13,7 @@ aliases: ["Animated Object (Huge)"]
 
 ```ad-statblock
 title: Animated Object (Huge)
-![](/compendium/bestiary/construct/token/animated-object-huge.png#token)
+![](compendium/bestiary/construct/token/animated-object-huge.png#token)
 *Huge construct, Unaligned*
 
 - **Armor Class** 10  (natural armor)

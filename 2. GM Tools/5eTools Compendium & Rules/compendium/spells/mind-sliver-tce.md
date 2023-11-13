@@ -22,6 +22,6 @@ You drive a disorienting spike of psychic energy into the mind of one creature y
 
 This spell's damage increases by `1d6` when you reach certain levels: 5th level (`2d6`), 11th level (`3d6`), and 17th level (`4d6`).
 
-**Classes**: [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Sorcerer (Aberrant Mind)](/compendium/classes/sorcerer-aberrant-mind-tce.md)
+**Classes**: [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Sorcerer (Aberrant Mind)](compendium/classes/sorcerer-aberrant-mind-tce.md)
 
 *Source: Tasha's Cauldron of Everything p. 108*

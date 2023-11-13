@@ -37,10 +37,10 @@ Some renowned archers and groups of archers are known for the special fletching 
 
 ```ad-statblock
 title: Archer
-![](/compendium/bestiary/humanoid/token/archer.png#token)
+![](compendium/bestiary/humanoid/token/archer.png#token)
 *Medium humanoid, Any alignment*
 
-- **Armor Class** 16  ([studded leather](/compendium/items/studded-leather-armor.md))
+- **Armor Class** 16  ([studded leather](compendium/items/studded-leather-armor.md))
 - **Hit Points** 75 (`10d8 + 30`)
 - **Speed** 30 ft.
 

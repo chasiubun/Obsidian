@@ -49,7 +49,7 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 
 ```ad-statblock
 title: Pentadrone
-![](/compendium/bestiary/construct/token/pentadrone.png#token)
+![](compendium/bestiary/construct/token/pentadrone.png#token)
 *Large construct, Lawful Neutral*
 
 - **Armor Class** 16  (natural armor)
@@ -79,6 +79,6 @@ title: Pentadrone
 
 ***Arm.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (`1d6 + 2`) bludgeoning damage.
 
-***Paralysis Gas (Recharge 5-6).*** The pentadrone exhales a 30-foot cone of gas. Each creature in that area must succeed on a DC 11 Constitution saving throw or be [paralyzed](/compendium/rules/conditions.md#paralyzed) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Paralysis Gas (Recharge 5-6).*** The pentadrone exhales a 30-foot cone of gas. Each creature in that area must succeed on a DC 11 Constitution saving throw or be [paralyzed](rules/conditions.md#paralyzed) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ```
 ^statblock

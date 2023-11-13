@@ -23,7 +23,7 @@ The scholars of Prismari College believe that art is the truest form of spellcra
 
 ```ad-statblock
 title: Prismari Apprentice
-![](/compendium/bestiary/humanoid/token/prismari-apprentice.png#token)
+![](compendium/bestiary/humanoid/token/prismari-apprentice.png#token)
 *Small or Medium humanoid (sorcerer), Any alignment*
 
 - **Armor Class** 12 
@@ -43,9 +43,9 @@ title: Prismari Apprentice
 
 ***Spellcasting.*** The apprentice casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 12):
 
-**At will**: [minor illusion](/compendium/spells/minor-illusion.md)
+**At will**: [minor illusion](compendium/spells/minor-illusion.md)
 
-**1/day each**: [gust of wind](/compendium/spells/gust-of-wind.md), [mage armor](/compendium/spells/mage-armor.md), [silent image](/compendium/spells/silent-image.md)
+**1/day each**: [gust of wind](compendium/spells/gust-of-wind.md), [mage armor](compendium/spells/mage-armor.md), [silent image](compendium/spells/silent-image.md)
 
 ## Actions
 
@@ -53,6 +53,6 @@ title: Prismari Apprentice
 
 ## Bonus Actions
 
-***Surge of Artistry (Recharge 4-6).*** The apprentice moves up to its speed, surrounding itself with elemental magic as it moves. Until the end of its turn, the apprentice can move through the space of other creatures. The first time the apprentice enters a creature's space on a turn, that creature must succeed on a DC 12 Dexterity saving throw or be knocked [prone](/compendium/rules/conditions.md#prone). If the apprentice ends its turn in another creature's space, the apprentice takes 5 (`1d10`) force damage and is pushed into the nearest unoccupied space.
+***Surge of Artistry (Recharge 4-6).*** The apprentice moves up to its speed, surrounding itself with elemental magic as it moves. Until the end of its turn, the apprentice can move through the space of other creatures. The first time the apprentice enters a creature's space on a turn, that creature must succeed on a DC 12 Dexterity saving throw or be knocked [prone](rules/conditions.md#prone). If the apprentice ends its turn in another creature's space, the apprentice takes 5 (`1d10`) force damage and is pushed into the nearest unoccupied space.
 ```
 ^statblock

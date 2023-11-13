@@ -22,7 +22,7 @@ Many kinds of cattle roam the multiverse, some of them domesticated and others f
 
 ```ad-statblock
 title: Deep Rothé
-![](/compendium/bestiary/beast/token/deep-rothe.png#token)
+![](compendium/bestiary/beast/token/deep-rothe.png#token)
 *Medium beast (cattle), Unaligned*
 
 - **Armor Class** 10 
@@ -44,9 +44,9 @@ title: Deep Rothé
 
 ***Beast of Burden.*** The rothé is considered to be one size larger for the purpose of determining its carrying capacity.
 
-***Dancing Lights.*** The rothé casts [dancing lights](/compendium/spells/dancing-lights.md), requiring no spell components and using Wisdom as the spellcasting ability.
+***Dancing Lights.*** The rothé casts [dancing lights](compendium/spells/dancing-lights.md), requiring no spell components and using Wisdom as the spellcasting ability.
 
-**At will**: [dancing lights](/compendium/spells/dancing-lights.md)
+**At will**: [dancing lights](compendium/spells/dancing-lights.md)
 
 ## Actions
 

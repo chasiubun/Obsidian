@@ -39,10 +39,10 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 
 ```ad-statblock
 title: Duergar Stone Guard
-![](/compendium/bestiary/humanoid/token/duergar-stone-guard.png#token)
+![](compendium/bestiary/humanoid/token/duergar-stone-guard.png#token)
 *Medium humanoid (dwarf), Any alignment*
 
-- **Armor Class** 18  ([chain mail](/compendium/items/chain-mail.md), [shield](/compendium/items/shield.md))
+- **Armor Class** 18  ([chain mail](compendium/items/chain-mail.md), [shield](compendium/items/shield.md))
 - **Hit Points** 39 (`6d8 + 12`)
 - **Speed** 25 ft.
 
@@ -59,11 +59,11 @@ title: Duergar Stone Guard
 
 ## Traits
 
-***Duergar Resilience.*** The duergar has advantage on saving throws against spells and the [charmed](/compendium/rules/conditions.md#charmed), [paralyzed](/compendium/rules/conditions.md#paralyzed), and [poisoned](/compendium/rules/conditions.md#poisoned) conditions.
+***Duergar Resilience.*** The duergar has advantage on saving throws against spells and the [charmed](rules/conditions.md#charmed), [paralyzed](rules/conditions.md#paralyzed), and [poisoned](rules/conditions.md#poisoned) conditions.
 
-***Phalanx Formation.*** The duergar has advantage on attack rolls and Dexterity saving throws while standing within 5 feet of an ally wielding a [shield](/compendium/items/shield.md).
+***Phalanx Formation.*** The duergar has advantage on attack rolls and Dexterity saving throws while standing within 5 feet of an ally wielding a [shield](compendium/items/shield.md).
 
-***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
@@ -73,7 +73,7 @@ title: Duergar Stone Guard
 
 ***Javelin.*** *Melee or Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 7 (`1d6 + 4`) piercing damage, or 11 (`2d6 + 4`) piercing damage while under the effect of Enlarge.
 
-***Invisibility (Recharges after a Short or Long Rest).*** The duergar magically turns [invisible](/compendium/rules/conditions.md#invisible) for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its [concentration](/compendium/rules/conditions.md#concentration) is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is [invisible](/compendium/rules/conditions.md#invisible) with it.
+***Invisibility (Recharges after a Short or Long Rest).*** The duergar magically turns [invisible](rules/conditions.md#invisible) for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its [concentration](rules/conditions.md#concentration) is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is [invisible](rules/conditions.md#invisible) with it.
 
 ## Bonus Actions
 

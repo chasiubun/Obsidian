@@ -24,6 +24,6 @@ When the cylinder appears, each creature in it must make a Constitution saving t
 
 If you're within 60 feet of the cylinder, you can move it up to 60 feet as a bonus action on your turn.
 
-**Classes**: [Cleric](/compendium/classes/cleric.md), [Sorcerer (Divine Soul)](/compendium/classes/sorcerer-divine-soul-xge.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Cleric](compendium/classes/cleric.md), [Sorcerer (Divine Soul)](compendium/classes/sorcerer-divine-soul-xge.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 153*

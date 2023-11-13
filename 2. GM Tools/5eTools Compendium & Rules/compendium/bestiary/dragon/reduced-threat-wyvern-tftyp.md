@@ -13,7 +13,7 @@ aliases: ["Reduced-Threat Wyvern"]
 
 ```ad-statblock
 title: Reduced-Threat Wyvern
-![](/compendium/bestiary/dragon/token/reduced-threat-wyvern.png#token)
+![](compendium/bestiary/dragon/token/reduced-threat-wyvern.png#token)
 *Large dragon, Unaligned*
 
 - **Armor Class** 13  (natural armor)

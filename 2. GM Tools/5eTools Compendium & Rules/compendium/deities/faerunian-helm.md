@@ -11,7 +11,7 @@ aliases: ["Helm", "The Watcher", "He of the Unsleeping Eyes", "The Vigilant One"
 ---
 # Helm
 *Source: Sword Coast Adventurer's Guide p. 21, Tasha's Cauldron of Everything p. 34* 
-![](/compendium/deities/img/scag-symbol-of-helm.webp#symbol)
+![](compendium/deities/img/scag-symbol-of-helm.webp#symbol)
 
 - **Alternate Names**: The Watcher, He of the Unsleeping Eyes, The Vigilant One
 - **Alignment**: Lawful Neutral

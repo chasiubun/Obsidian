@@ -63,7 +63,7 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 
 ```ad-statblock
 title: Yuan-ti Malison (Type 1)
-![](/compendium/bestiary/monstrosity/token/yuan-ti-malison-type-1.png#token)
+![](compendium/bestiary/monstrosity/token/yuan-ti-malison-type-1.png#token)
 *Medium monstrosity (shapechanger, yuan-ti), Neutral Evil*
 
 - **Armor Class** 12 
@@ -95,9 +95,9 @@ title: Yuan-ti Malison (Type 1)
 
 ***Innate Spellcasting (Yuan-ti Form Only).*** The yuan-ti's innate spellcasting ability is Charisma (spell save DC 13). The yuan-ti can innately cast the following spells, requiring no material components:
 
-**At will**: [animal friendship](/compendium/spells/animal-friendship.md) (snakes only)
+**At will**: [animal friendship](compendium/spells/animal-friendship.md) (snakes only)
 
-**3/day**: [suggestion](/compendium/spells/suggestion.md)
+**3/day**: [suggestion](compendium/spells/suggestion.md)
 
 ## Actions
 

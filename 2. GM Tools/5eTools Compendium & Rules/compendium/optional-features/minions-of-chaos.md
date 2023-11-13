@@ -11,4 +11,4 @@ aliases: ["Minions of Chaos"]
 
 **Prerequisite**: 9th-level Warlock
 
-You can cast [conjure elemental](/compendium/spells/conjure-elemental.md) once using a warlock spell slot. You can't do so again until you finish a long rest.
+You can cast [conjure elemental](compendium/spells/conjure-elemental.md) once using a warlock spell slot. You can't do so again until you finish a long rest.

@@ -14,7 +14,7 @@ aliases: ["Crab"]
 
 ```ad-statblock
 title: Crab
-![](/compendium/bestiary/beast/token/crab.png#token)
+![](compendium/bestiary/beast/token/crab.png#token)
 *Tiny beast, Unaligned*
 
 - **Armor Class** 11  (natural armor)

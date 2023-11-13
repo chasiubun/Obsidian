@@ -38,7 +38,7 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
 
 ```ad-statblock
 title: Gas Spore
-![](/compendium/bestiary/plant/token/gas-spore.png#token)
+![](compendium/bestiary/plant/token/gas-spore.png#token)
 *Large plant, Unaligned*
 
 - **Armor Class** 5 
@@ -58,9 +58,9 @@ title: Gas Spore
 
 ## Traits
 
-***Death Burst.*** The gas spore explodes when it drops to 0 hit points. Each creature within 20 feet of it must succeed on a DC 15 Constitution saving throw or take 10 (`3d6`) poison damage and become infected with a disease on a failed save. Creatures immune to the [poisoned](/compendium/rules/conditions.md#poisoned) condition are immune to this disease.
+***Death Burst.*** The gas spore explodes when it drops to 0 hit points. Each creature within 20 feet of it must succeed on a DC 15 Constitution saving throw or take 10 (`3d6`) poison damage and become infected with a disease on a failed save. Creatures immune to the [poisoned](rules/conditions.md#poisoned) condition are immune to this disease.
 
-Spores invade an infected creature's system, killing the creature in a number of hours equal to `1d12` + the creature's Constitution score, unless the disease is removed. In half that time, the creature becomes [poisoned](/compendium/rules/conditions.md#poisoned) for the rest of the duration. After the creature dies, it sprouts `2d4` Tiny gas spores that grow to full size in 7 days.
+Spores invade an infected creature's system, killing the creature in a number of hours equal to `1d12` + the creature's Constitution score, unless the disease is removed. In half that time, the creature becomes [poisoned](rules/conditions.md#poisoned) for the rest of the duration. After the creature dies, it sprouts `2d4` Tiny gas spores that grow to full size in 7 days.
 
 ***Eerie Resemblance.*** The gas spore resembles a beholder. A creature that can see the gas spore can discern its true nature with a successful DC 15 Intelligence (Nature) check.
 

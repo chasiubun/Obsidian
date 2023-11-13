@@ -11,4 +11,4 @@ aliases: ["Shroud of Shadow"]
 
 **Prerequisite**: 15th-level Warlock
 
-You can cast [invisibility](/compendium/spells/invisibility.md) at will, without expending a spell slot.
+You can cast [invisibility](compendium/spells/invisibility.md) at will, without expending a spell slot.

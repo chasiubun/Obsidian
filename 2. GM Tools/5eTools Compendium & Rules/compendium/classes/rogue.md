@@ -77,16 +77,16 @@ You are proficient with the following items, in addition to any proficiencies pr
 
 - **Saving Throws**: Dexterity, Intelligence
 - **Armor**: light
-- **Weapons**: simple, [hand crossbows](/compendium/items/hand-crossbow.md), [longswords](/compendium/items/longsword.md), [rapiers](/compendium/items/rapier.md), [shortswords](/compendium/items/shortsword.md)
-- **Tools**: [thieves' tools](/compendium/items/thieves-tools.md)
+- **Weapons**: simple, [hand crossbows](compendium/items/hand-crossbow.md), [longswords](compendium/items/longsword.md), [rapiers](compendium/items/rapier.md), [shortswords](compendium/items/shortsword.md)
+- **Tools**: [thieves' tools](compendium/items/thieves-tools.md)
 - **Skills**: Choose 4 from *Acrobatics*, *Athletics*, *Deception*, *Insight*, *Intimidation*, *Investigation*, *Perception*, *Performance*, *Persuasion*, *Sleight of Hand*, *Stealth*
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-- (a) a [rapier](/compendium/items/rapier.md) or (b) a [shortsword](/compendium/items/shortsword.md)  
-- (a) a [shortbow](/compendium/items/shortbow.md) and [quiver](/compendium/items/quiver.md) of [20 arrows](/compendium/items/arrows-20.md) or (b) a [shortsword](/compendium/items/shortsword.md)  
-- (a) a [burglar's pack](/compendium/items/burglars-pack.md), (b) a [dungeoneer's pack](/compendium/items/dungeoneers-pack.md), or (c) an [explorer's pack](/compendium/items/explorers-pack.md)  
-- [Leather armor](/compendium/items/leather-armor.md), two [daggers](/compendium/items/dagger.md), and [thieves' tools](/compendium/items/thieves-tools.md)  
+- (a) a [rapier](compendium/items/rapier.md) or (b) a [shortsword](compendium/items/shortsword.md)  
+- (a) a [shortbow](compendium/items/shortbow.md) and [quiver](compendium/items/quiver.md) of [20 arrows](compendium/items/arrows-20.md) or (b) a [shortsword](compendium/items/shortsword.md)  
+- (a) a [burglar's pack](compendium/items/burglars-pack.md), (b) a [dungeoneer's pack](compendium/items/dungeoneers-pack.md), or (c) an [explorer's pack](compendium/items/explorers-pack.md)  
+- [Leather armor](compendium/items/leather-armor.md), two [daggers](compendium/items/dagger.md), and [thieves' tools](compendium/items/thieves-tools.md)  
 
 Alternatively, you may start with 4d4 × 10 gp and choose your own equipment.
 
@@ -100,7 +100,7 @@ You gain the following proficiencies:
 
 - **Armor**: light
 - **Weapons**: none
-- **Tools**: [thieves' tools](/compendium/items/thieves-tools.md)
+- **Tools**: [thieves' tools](compendium/items/thieves-tools.md)
 - **Skills**: Choose 1 from *Acrobatics*, *Athletics*, *Deception*, *Insight*, *Intimidation*, *Investigation*, *Perception*, *Performance*, *Persuasion*, *Sleight of Hand*, *Stealth*
 
 ## Rogue
@@ -133,7 +133,7 @@ What was the trigger that led you away from your previous life? Did a great con 
 
 #### Quick Build
 
-You can make a rogue quickly by following these suggestions. First, Dexterity should be your highest ability score. Make Intelligence your next-highest if you want to excel at Investigation or plan to take up the Arcane Trickster archetype. Choose Charisma instead if you plan to emphasize deception and social interaction. Second, choose the [charlatan](/compendium/backgrounds/charlatan.md) background.
+You can make a rogue quickly by following these suggestions. First, Dexterity should be your highest ability score. Make Intelligence your next-highest if you want to excel at Investigation or plan to take up the Arcane Trickster archetype. Choose Charisma instead if you plan to emphasize deception and social interaction. Second, choose the [charlatan](compendium/backgrounds/charlatan.md) background.
 
 > [!quote]- A quote from Barnabas Bladecutter  
 > 
@@ -212,15 +212,15 @@ If your character's backstory doesn't already include a personage of this sort, 
 
 ### Expertise (Level 1)
 
-At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with [thieves' tools](/compendium/items/thieves-tools.md). Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
+At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with [thieves' tools](compendium/items/thieves-tools.md). Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
 
-At 6th level, you can choose two more of your proficiencies (in skills or with [thieves' tools](/compendium/items/thieves-tools.md)) to gain this benefit.
+At 6th level, you can choose two more of your proficiencies (in skills or with [thieves' tools](compendium/items/thieves-tools.md)) to gain this benefit.
 
 ### Sneak Attack (Level 1)
 
 Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra `1d6` damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
 
-You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't [incapacitated](/compendium/rules/conditions.md#incapacitated), and you don't have disadvantage on the attack roll.
+You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't [incapacitated](rules/conditions.md#incapacitated), and you don't have disadvantage on the attack roll.
 
 The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.
 
@@ -232,7 +232,7 @@ In addition, you understand a set of secret signs and symbols used to convey sho
 
 ### Cunning Action (Level 2)
 
-Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the [Dash](/compendium/rules/actions.md#Dash), [Disengage](/compendium/rules/actions.md#Disengage), or [Hide](/compendium/rules/actions.md#Hide) action.
+Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the [Dash](rules/actions.md#Dash), [Disengage](rules/actions.md#Disengage), or [Hide](rules/actions.md#Hide) action.
 
 ### Roguish Archetype (Level 3)
 
@@ -241,7 +241,7 @@ At 3rd level, you choose an archetype that you emulate in the exercise of your r
 ### Steady Aim (Level 3)
 _Source: Tasha's Cauldron of Everything p. 62_
 
-*3rd-level rogue [optional class features](/compendium/rules/variant-rules/optional-class-features-tce.md)*
+*3rd-level rogue [optional class features](rules/variant-rules/optional-class-features-tce.md)*
 
 As a bonus action, you give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.
 
@@ -257,11 +257,11 @@ Starting at 5th level, when an attacker that you can see hits you with an attack
 
 ### Expertise (Level 6)
 
-At 6th level, you can choose two more of your proficiencies (in skills or with [thieves' tools](/compendium/items/thieves-tools.md)) to gain the benefit of Expertise.
+At 6th level, you can choose two more of your proficiencies (in skills or with [thieves' tools](compendium/items/thieves-tools.md)) to gain the benefit of Expertise.
 
 ### Evasion (Level 7)
 
-Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an [ice storm](/compendium/spells/ice-storm.md) spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an [ice storm](compendium/spells/ice-storm.md) spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 ### Ability Score Improvement (Level 8)
 
@@ -295,7 +295,7 @@ At 13th level, you gain a feature granted by your Roguish Archetype.
 
 ### Blindsense (Level 14)
 
-Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or [invisible](/compendium/rules/conditions.md#invisible) creature within 10 feet of you.
+Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or [invisible](rules/conditions.md#invisible) creature within 10 feet of you.
 
 ### Slippery Mind (Level 15)
 
@@ -313,7 +313,7 @@ At 17th level, you gain a feature granted by your Roguish Archetype.
 
 ### Elusive (Level 18)
 
-Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't [incapacitated](rules/conditions.md#incapacitated).
 
 ### Ability Score Improvement (Level 19)
 

@@ -17,7 +17,7 @@ A molydeus's demon lord bestows on it a powerful weapon that dissolves if the mo
 
 ```ad-statblock
 title: Molydeus
-![](/compendium/bestiary/fiend/token/molydeus.png#token)
+![](compendium/bestiary/fiend/token/molydeus.png#token)
 *Huge fiend (demon), Typically  Chaotic Evil*
 
 - **Armor Class** 19  (natural armor)
@@ -43,9 +43,9 @@ title: Molydeus
 
 ***Spellcasting.*** The molydeus casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 22):
 
-**At will**: [dispel magic](/compendium/spells/dispel-magic.md), [polymorph](/compendium/spells/polymorph.md), [telekinesis](/compendium/spells/telekinesis.md), [teleport](/compendium/spells/teleport.md)
+**At will**: [dispel magic](compendium/spells/dispel-magic.md), [polymorph](compendium/spells/polymorph.md), [telekinesis](compendium/spells/telekinesis.md), [teleport](compendium/spells/teleport.md)
 
-**3/day**: [lightning bolt](/compendium/spells/lightning-bolt.md)
+**3/day**: [lightning bolt](compendium/spells/lightning-bolt.md)
 
 ## Actions
 
@@ -53,7 +53,7 @@ title: Molydeus
 
 ***Demonic Weapon.*** *Melee Weapon Attack:* +16 to hit, reach 15 ft., one target. *Hit:* 35 (`4d12 + 9`) force damage. If the target has at least one head and the molydeus rolled a 20 on the attack roll, the target is decapitated and dies if it can't survive without that head. A target is immune to this effect if it takes none of the damage, has legendary actions, or is Huge or larger. Such a creature takes an extra 27 (`6d8`) force damage from the hit.
 
-***Snakebite.*** *Melee Weapon Attack:* +16 to hit, reach 15 ft., one creature. *Hit:* 16 (`2d6 + 9`) poison damage. The target must succeed on a DC 22 Constitution saving throw, or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target transforms into a [manes](/compendium/bestiary/fiend/manes.md) if this reduces its hit point maximum to 0. This transformation can be ended only by a [wish](/compendium/spells/wish.md) spell.
+***Snakebite.*** *Melee Weapon Attack:* +16 to hit, reach 15 ft., one creature. *Hit:* 16 (`2d6 + 9`) poison damage. The target must succeed on a DC 22 Constitution saving throw, or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target transforms into a [manes](compendium/bestiary/fiend/manes.md) if this reduces its hit point maximum to 0. This transformation can be ended only by a [wish](compendium/spells/wish.md) spell.
 
 ***Wolf Bite.*** *Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:* 25 (`3d10 + 9`) necrotic damage.
 

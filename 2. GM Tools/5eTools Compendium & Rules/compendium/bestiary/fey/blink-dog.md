@@ -16,7 +16,7 @@ A blink dog takes its name from its ability to blink in and out of existence, a 
 
 ```ad-statblock
 title: Blink Dog
-![](/compendium/bestiary/fey/token/blink-dog.png#token)
+![](compendium/bestiary/fey/token/blink-dog.png#token)
 *Medium fey, Lawful Good*
 
 - **Armor Class** 13 
@@ -36,7 +36,7 @@ title: Blink Dog
 
 ## Traits
 
-***Keen Hearing and Smell.*** The dog has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on hearing or smell.
+***Keen Hearing and Smell.*** The dog has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on hearing or smell.
 
 ## Actions
 

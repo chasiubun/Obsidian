@@ -14,7 +14,7 @@ aliases:
 
 - **Weight**: 3.0 lbs.
 
-This thick book is bound in dark leather, crisscrossed with inlaid silver lines suggesting a map or chart. When found, the book contains the following spells, which are wizard spells for you while you are attuned to the book: [arcane gate](/compendium/spells/arcane-gate.md), [dimension door](/compendium/spells/dimension-door.md), [gate](/compendium/spells/gate.md), [misty step](/compendium/spells/misty-step.md), [plane shift](/compendium/spells/plane-shift.md), [teleportation circle](/compendium/spells/teleportation-circle.md), and [word of recall](/compendium/spells/word-of-recall.md). It functions as a spellbook for you.
+This thick book is bound in dark leather, crisscrossed with inlaid silver lines suggesting a map or chart. When found, the book contains the following spells, which are wizard spells for you while you are attuned to the book: [arcane gate](compendium/spells/arcane-gate.md), [dimension door](compendium/spells/dimension-door.md), [gate](compendium/spells/gate.md), [misty step](compendium/spells/misty-step.md), [plane shift](compendium/spells/plane-shift.md), [teleportation circle](compendium/spells/teleportation-circle.md), and [word of recall](compendium/spells/word-of-recall.md). It functions as a spellbook for you.
 
 While you are holding the book, you can use it as a spellcasting focus for your wizard spells.
 

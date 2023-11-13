@@ -28,7 +28,7 @@ A newly hatched guard drake imprints upon the first creature that feeds it (usua
 
 ```ad-statblock
 title: Guard Drake
-![](/compendium/bestiary/dragon/token/guard-drake.png#token)
+![](compendium/bestiary/dragon/token/guard-drake.png#token)
 *Medium dragon, Unaligned*
 
 - **Armor Class** 14  (natural armor)

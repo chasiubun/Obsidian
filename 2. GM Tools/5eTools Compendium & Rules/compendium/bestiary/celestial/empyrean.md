@@ -29,7 +29,7 @@ Empyreans don't age but can be slain. Because few empyreans can imagine their ow
 
 ```ad-statblock
 title: Empyrean
-![](/compendium/bestiary/celestial/token/empyrean.png#token)
+![](compendium/bestiary/celestial/token/empyrean.png#token)
 *Huge celestial (titan), Chaotic Good or Neutral Evil*
 
 - **Armor Class** 22  (natural armor)
@@ -57,13 +57,13 @@ title: Empyrean
 
 ***Innate Spellcasting.*** The empyrean's innate spellcasting ability is Charisma (spell save DC 23, +15 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
-**At will**: [greater restoration](/compendium/spells/greater-restoration.md), [pass without trace](/compendium/spells/pass-without-trace.md), [water breathing](/compendium/spells/water-breathing.md), [water walk](/compendium/spells/water-walk.md)
+**At will**: [greater restoration](compendium/spells/greater-restoration.md), [pass without trace](compendium/spells/pass-without-trace.md), [water breathing](compendium/spells/water-breathing.md), [water walk](compendium/spells/water-walk.md)
 
-**1/day each**: [commune](/compendium/spells/commune.md), [dispel evil and good](/compendium/spells/dispel-evil-and-good.md), [earthquake](/compendium/spells/earthquake.md), [fire storm](/compendium/spells/fire-storm.md), [plane shift](/compendium/spells/plane-shift.md) (self only)
+**1/day each**: [commune](compendium/spells/commune.md), [dispel evil and good](compendium/spells/dispel-evil-and-good.md), [earthquake](compendium/spells/earthquake.md), [fire storm](compendium/spells/fire-storm.md), [plane shift](compendium/spells/plane-shift.md) (self only)
 
 ## Actions
 
-***Maul.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 31 (`6d6 + 10`) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw or be [stunned](/compendium/rules/conditions.md#stunned) until the end of the empyrean's next turn.
+***Maul.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 31 (`6d6 + 10`) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw or be [stunned](rules/conditions.md#stunned) until the end of the empyrean's next turn.
 
 ***Bolt.*** *Ranged Spell Attack:* +15 to hit, range 600 ft., one target. *Hit:* 24 (`7d6`) damage of one of the following types (empyrean's choice): acid, cold, fire, force, lightning, radiant, or thunder.
 
@@ -71,8 +71,8 @@ title: Empyrean
 
 ***Attack.*** The empyrean makes one attack.
 
-***Bolster.*** The empyrean bolsters all nonhostile creatures within 120 feet of it until the end of its next turn. Bolstered creatures can't be [charmed](/compendium/rules/conditions.md#charmed) or [frightened](/compendium/rules/conditions.md#frightened), and they gain advantage on ability checks and saving throws until the end of the empyrean's next turn.
+***Bolster.*** The empyrean bolsters all nonhostile creatures within 120 feet of it until the end of its next turn. Bolstered creatures can't be [charmed](rules/conditions.md#charmed) or [frightened](rules/conditions.md#frightened), and they gain advantage on ability checks and saving throws until the end of the empyrean's next turn.
 
-***Trembling Strike (Costs 2 Actions).*** The empyrean strikes the ground with its maul, triggering an earth tremor. All other creatures on the ground within 60 feet of the empyrean must succeed on a DC 25 Strength saving throw or be knocked [prone](/compendium/rules/conditions.md#prone).
+***Trembling Strike (Costs 2 Actions).*** The empyrean strikes the ground with its maul, triggering an earth tremor. All other creatures on the ground within 60 feet of the empyrean must succeed on a DC 25 Strength saving throw or be knocked [prone](rules/conditions.md#prone).
 ```
 ^statblock

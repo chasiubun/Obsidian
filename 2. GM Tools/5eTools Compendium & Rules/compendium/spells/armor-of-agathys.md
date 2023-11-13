@@ -21,6 +21,6 @@ A protective magical force surrounds you, manifesting as a spectral frost that c
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, both the temporary hit points and the cold damage increase by 5 for each slot level above 1st.
 
-**Classes**: [Paladin (Oath of Conquest)](/compendium/classes/paladin-oath-of-conquest-xge.md), [Warlock](/compendium/classes/warlock.md)
+**Classes**: [Paladin (Oath of Conquest)](compendium/classes/paladin-oath-of-conquest-xge.md), [Warlock](compendium/classes/warlock.md)
 
 *Source: Player's Handbook p. 215*

@@ -155,7 +155,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](/compendium/rules/conditions.md#charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](rules/conditions.md#charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -186,7 +186,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 ```ad-statblock
 title: Chasme
-![](/compendium/bestiary/fiend/token/chasme.png#token)
+![](compendium/bestiary/fiend/token/chasme.png#token)
 *Large fiend (demon), Chaotic Evil*
 
 - **Armor Class** 15  (natural armor)
@@ -206,7 +206,7 @@ title: Chasme
 
 ## Traits
 
-***Drone.*** The chasme produces a horrid droning sound to which demons are immune. Any other creature that starts its turn with in 30 feet of the chasme must succeed on a DC 12 Constitution saving throw or fall [unconscious](/compendium/rules/conditions.md#unconscious) for 10 minutes. A creature that can't hear the drone automatically succeeds on the save. The effect on the creature ends if it takes damage or if another creature takes an action to splash it with holy water. If a creature's saving throw is successful or the effect ends for it, it is immune to the drone for the next 24 hours.
+***Drone.*** The chasme produces a horrid droning sound to which demons are immune. Any other creature that starts its turn with in 30 feet of the chasme must succeed on a DC 12 Constitution saving throw or fall [unconscious](rules/conditions.md#unconscious) for 10 minutes. A creature that can't hear the drone automatically succeeds on the save. The effect on the creature ends if it takes damage or if another creature takes an action to splash it with holy water. If a creature's saving throw is successful or the effect ends for it, it is immune to the drone for the next 24 hours.
 
 ***Magic Resistance.*** The chasme has advantage on saving throws against spells and other magical effects.
 
@@ -214,6 +214,6 @@ title: Chasme
 
 ## Actions
 
-***Proboscis.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 16 (`4d6 + 2`) piercing damage plus 24 (`7d6`) necrotic damage, and the target's hit point maximum is reduced by an amount equal to the necrotic damage taken. If this effect reduces a creature's hit point maximum to 0, the creature dies. This reduction to a creature's hit point maximum lasts until the creature finishes a long rest or until it is affected by a spell like  [greater restoration](/compendium/spells/greater-restoration.md).
+***Proboscis.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 16 (`4d6 + 2`) piercing damage plus 24 (`7d6`) necrotic damage, and the target's hit point maximum is reduced by an amount equal to the necrotic damage taken. If this effect reduces a creature's hit point maximum to 0, the creature dies. This reduction to a creature's hit point maximum lasts until the creature finishes a long rest or until it is affected by a spell like  [greater restoration](compendium/spells/greater-restoration.md).
 ```
 ^statblock

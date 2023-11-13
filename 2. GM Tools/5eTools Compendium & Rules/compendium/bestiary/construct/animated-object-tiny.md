@@ -13,7 +13,7 @@ aliases: ["Animated Object (Tiny)"]
 
 ```ad-statblock
 title: Animated Object (Tiny)
-![](/compendium/bestiary/construct/token/animated-object-tiny.png#token)
+![](compendium/bestiary/construct/token/animated-object-tiny.png#token)
 *Tiny construct, Unaligned*
 
 - **Armor Class** 18  (natural armor)

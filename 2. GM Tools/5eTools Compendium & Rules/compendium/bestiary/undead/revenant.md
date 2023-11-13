@@ -35,10 +35,10 @@ A revenant doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Revenant
-![](/compendium/bestiary/undead/token/revenant.png#token)
+![](compendium/bestiary/undead/token/revenant.png#token)
 *Medium undead, Neutral*
 
-- **Armor Class** 13  ([leather armor](/compendium/items/leather-armor.md))
+- **Armor Class** 13  ([leather armor](compendium/items/leather-armor.md))
 - **Hit Points** 136 (`16d8 + 64`)
 - **Speed** 30 ft.
 
@@ -57,7 +57,7 @@ title: Revenant
 
 ***Regeneration.*** The revenant regains 10 hit points at the start of its turn. If the revenant takes fire or radiant damage, this trait doesn't function at the start of the revenant's next turn. The revenant's body is destroyed only if it starts its turn with 0 hit points and doesn't regenerate.
 
-***Rejuvenation.*** When the revenant's body is destroyed, its soul lingers. After 24 hours, the soul inhabits and animates another humanoid corpse on the same plane of existence and regains all its hit points. While the soul is bodiless, a [wish](/compendium/spells/wish.md) spell can be used to force the soul to go to the afterlife and not return.
+***Rejuvenation.*** When the revenant's body is destroyed, its soul lingers. After 24 hours, the soul inhabits and animates another humanoid corpse on the same plane of existence and regains all its hit points. While the soul is bodiless, a [wish](compendium/spells/wish.md) spell can be used to force the soul to go to the afterlife and not return.
 
 ***Turn Immunity.*** The revenant is immune to effects that turn undead.
 
@@ -69,7 +69,7 @@ title: Revenant
 
 ***Fist.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (`2d6 + 4`) bludgeoning damage. If the target is a creature against which the revenant has sworn vengeance, the target takes an extra 14 (`4d6`) bludgeoning damage. Instead of dealing damage, the revenant can grapple the target (escape DC 14) provided the target is Large or smaller.
 
-***Vengeful Glare.*** The revenant targets one creature it can see within 30 feet of it and against which it has sworn vengeance. The target must make a DC 15 Wisdom saving throw. On a failure, the target is [paralyzed](/compendium/rules/conditions.md#paralyzed) until the revenant deals damage to it, or until the end of the revenant's next turn. When the paralysis ends, the target is [frightened](/compendium/rules/conditions.md#frightened) of the revenant for 1 minute. The [frightened](/compendium/rules/conditions.md#frightened) target can repeat the saving throw at the end of each of its turns, with disadvantage if it can see the revenant, ending the [frightened](/compendium/rules/conditions.md#frightened) condition on itself on a success.
+***Vengeful Glare.*** The revenant targets one creature it can see within 30 feet of it and against which it has sworn vengeance. The target must make a DC 15 Wisdom saving throw. On a failure, the target is [paralyzed](rules/conditions.md#paralyzed) until the revenant deals damage to it, or until the end of the revenant's next turn. When the paralysis ends, the target is [frightened](rules/conditions.md#frightened) of the revenant for 1 minute. The [frightened](rules/conditions.md#frightened) target can repeat the saving throw at the end of each of its turns, with disadvantage if it can see the revenant, ending the [frightened](rules/conditions.md#frightened) condition on itself on a success.
 ```
 ^statblock
 

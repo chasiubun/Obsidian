@@ -14,8 +14,8 @@ Rot grubs recoil from flames, and fire is the main weapon against rot grubs once
 
 ## Single Rot Grub
 
-Rot grubs pose a threat both singly and as a swarm. See the [stat block](/compendium/bestiary/beast/swarm-of-rot-grubs-mpmm.md) for the mechanics of a swarm of rot grubs. A single rot grub has no stat block.
+Rot grubs pose a threat both singly and as a swarm. See the [stat block](compendium/bestiary/beast/swarm-of-rot-grubs-mpmm.md) for the mechanics of a swarm of rot grubs. A single rot grub has no stat block.
 
-Any creature that comes into contact with a single rot grub must succeed on a DC 10 Constitution saving throw or be [poisoned](/compendium/rules/conditions.md#poisoned), as the rot grub burrows into the creature. The [poisoned](/compendium/rules/conditions.md#poisoned) creature takes 3 (`1d6`) poison damage at the end of each of its turns. Whenever the [poisoned](/compendium/rules/conditions.md#poisoned) creature takes fire damage, the creature can repeat the saving throw, ending the effect on itself on a success. If the [poisoned](/compendium/rules/conditions.md#poisoned) creature ends its turn with 0 hit points, it dies, as the rot grub kills it.
+Any creature that comes into contact with a single rot grub must succeed on a DC 10 Constitution saving throw or be [poisoned](rules/conditions.md#poisoned), as the rot grub burrows into the creature. The [poisoned](rules/conditions.md#poisoned) creature takes 3 (`1d6`) poison damage at the end of each of its turns. Whenever the [poisoned](rules/conditions.md#poisoned) creature takes fire damage, the creature can repeat the saving throw, ending the effect on itself on a success. If the [poisoned](rules/conditions.md#poisoned) creature ends its turn with 0 hit points, it dies, as the rot grub kills it.
 
 *Source: Volo's Guide to Monsters p. 208, Mordenkainen Presents: Monsters of the Multiverse p. 237*

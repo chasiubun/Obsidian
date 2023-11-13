@@ -38,7 +38,7 @@ A naga doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Bone Naga (Guardian)
-![](/compendium/bestiary/undead/token/bone-naga-guardian.png#token)
+![](compendium/bestiary/undead/token/bone-naga-guardian.png#token)
 *Large undead, Lawful Evil*
 
 - **Armor Class** 15  (natural armor)
@@ -58,13 +58,13 @@ title: Bone Naga (Guardian)
 
 ***Spellcasting.*** The naga is a 5th-level spellcaster (spell save DC 12, +4 to hit with spell attacks) that needs only verbal components to cast its spells. Its spellcasting ability is Wisdom, and it has the following cleric spells prepared:
 
-**Cantrips (at will)**: [mending](/compendium/spells/mending.md), [sacred flame](/compendium/spells/sacred-flame.md), [thaumaturgy](/compendium/spells/thaumaturgy.md)
+**Cantrips (at will)**: [mending](compendium/spells/mending.md), [sacred flame](compendium/spells/sacred-flame.md), [thaumaturgy](compendium/spells/thaumaturgy.md)
 
-**1st level (4 slots)**: [command](/compendium/spells/command.md), [shield of faith](/compendium/spells/shield-of-faith.md)
+**1st level (4 slots)**: [command](compendium/spells/command.md), [shield of faith](compendium/spells/shield-of-faith.md)
 
-**2nd level (3 slots)**: [calm emotions](/compendium/spells/calm-emotions.md), [hold person](/compendium/spells/hold-person.md)
+**2nd level (3 slots)**: [calm emotions](compendium/spells/calm-emotions.md), [hold person](compendium/spells/hold-person.md)
 
-**3rd level (2 slots)**: [bestow curse](/compendium/spells/bestow-curse.md)
+**3rd level (2 slots)**: [bestow curse](compendium/spells/bestow-curse.md)
 
 ## Actions
 

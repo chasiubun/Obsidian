@@ -32,7 +32,7 @@ Displacer beasts hunt alone or in small prides that demonstrate skill at setting
 
 ```ad-statblock
 title: Displacer Beast
-![](/compendium/bestiary/monstrosity/token/displacer-beast.png#token)
+![](compendium/bestiary/monstrosity/token/displacer-beast.png#token)
 *Large monstrosity, Lawful Evil*
 
 - **Armor Class** 13  (natural armor)
@@ -54,7 +54,7 @@ title: Displacer Beast
 
 ***Avoidance.*** If the displacer beast is subjected to an effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
 
-***Displacement.*** The displacer beast projects a magical illusion that makes it appear to be standing near its actual location, causing attack rolls against it to have disadvantage. If it is hit by an attack, this trait is disrupted until the end of its next turn. This trait is also disrupted while the displacer beast is [incapacitated](/compendium/rules/conditions.md#incapacitated) or has a speed of 0.
+***Displacement.*** The displacer beast projects a magical illusion that makes it appear to be standing near its actual location, causing attack rolls against it to have disadvantage. If it is hit by an attack, this trait is disrupted until the end of its next turn. This trait is also disrupted while the displacer beast is [incapacitated](rules/conditions.md#incapacitated) or has a speed of 0.
 
 ## Actions
 

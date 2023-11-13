@@ -21,7 +21,7 @@ The archaeomancers of Lorehold College draw their magical might from the flow of
 
 ```ad-statblock
 title: Lorehold Professor of Order
-![](/compendium/bestiary/humanoid/token/lorehold-professor-of-order.png#token)
+![](compendium/bestiary/humanoid/token/lorehold-professor-of-order.png#token)
 *Small or Medium humanoid (wizard), Any alignment*
 
 - **Armor Class** 12 
@@ -41,19 +41,19 @@ title: Lorehold Professor of Order
 
 ## Traits
 
-***Voice from the Past (1/Day).*** The professor can cast the [contact other plane](/compendium/spells/contact-other-plane.md) spell to contact a long-dead spirit, using Intelligence as the spellcasting ability.
+***Voice from the Past (1/Day).*** The professor can cast the [contact other plane](compendium/spells/contact-other-plane.md) spell to contact a long-dead spirit, using Intelligence as the spellcasting ability.
 
 ***Spellcasting.*** The professor casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 15):
 
-**At will**: [comprehend languages](/compendium/spells/comprehend-languages.md), [guidance](/compendium/spells/guidance.md), [light](/compendium/spells/light.md)
+**At will**: [comprehend languages](compendium/spells/comprehend-languages.md), [guidance](compendium/spells/guidance.md), [light](compendium/spells/light.md)
 
-**2/day each**: [dimension door](/compendium/spells/dimension-door.md), [locate object](/compendium/spells/locate-object.md), [mage armor](/compendium/spells/mage-armor.md), [stone shape](/compendium/spells/stone-shape.md)
+**2/day each**: [dimension door](compendium/spells/dimension-door.md), [locate object](compendium/spells/locate-object.md), [mage armor](compendium/spells/mage-armor.md), [stone shape](compendium/spells/stone-shape.md)
 
 ## Actions
 
 ***Multiattack.*** The professor makes two Repelling Burst attacks. It can also use Force Barrier, if available.
 
-***Repelling Burst.*** *Melee Spell Attack:* +7 to hit, reach 30 ft., one target. *Hit:* 13 (`2d8 + 4`) force damage. If the target is a Large or smaller creature, it must succeed on a DC 15 Strength saving throw or be pushed up to 10 feet directly away from the professor and become [restrained](/compendium/rules/conditions.md#restrained) until the start of professor's next turn.
+***Repelling Burst.*** *Melee Spell Attack:* +7 to hit, reach 30 ft., one target. *Hit:* 13 (`2d8 + 4`) force damage. If the target is a Large or smaller creature, it must succeed on a DC 15 Strength saving throw or be pushed up to 10 feet directly away from the professor and become [restrained](rules/conditions.md#restrained) until the start of professor's next turn.
 
 ***Force Barrier (Recharge 5-6).*** The professor magically creates a wall of translucent, golden force within 90 feet of itself. The wall lasts for 1 minute or until the professor uses this action again. The barrier can be a vertical or horizontal plane up to 30 feet on a side or a 10-foot-radius hemispherical dome with a floor. The wall provides total cover. It has AC 17, 30 hit points, and immunity to poison and psychic damage.
 

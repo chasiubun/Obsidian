@@ -16,7 +16,7 @@ As deadly as they are ravishing, the serpent-haired medusas suffer an immortal c
 
 ## Immortal Splendor
 
-Men and women who desire eternal youth, beauty, and adoration might pray to malicious gods, beg dragons for ancient magic, or seek out powerful archmages to fulfill their wishes. Others make sacrifices to demon lords or archdevils, offering all in exchange for this gift, oblivious to the curse that accompanies it. Those who strike such bargains gain physical beauty, restored youth, immortality, and the adoration of all who behold them, granting them the influence and power they so desire. However, after years of the living like a demigod among mortals, the price for their vanity and hubris is exacted, and they are forever transformed into medusas. A medusa's hair turns into a nest of venomous serpents, and all who gaze upon the medusa are [petrified](/compendium/rules/conditions.md#petrified), becoming stone monuments to its corruption.
+Men and women who desire eternal youth, beauty, and adoration might pray to malicious gods, beg dragons for ancient magic, or seek out powerful archmages to fulfill their wishes. Others make sacrifices to demon lords or archdevils, offering all in exchange for this gift, oblivious to the curse that accompanies it. Those who strike such bargains gain physical beauty, restored youth, immortality, and the adoration of all who behold them, granting them the influence and power they so desire. However, after years of the living like a demigod among mortals, the price for their vanity and hubris is exacted, and they are forever transformed into medusas. A medusa's hair turns into a nest of venomous serpents, and all who gaze upon the medusa are [petrified](rules/conditions.md#petrified), becoming stone monuments to its corruption.
 
 ## Medusa Lairs
 
@@ -28,7 +28,7 @@ A medusa is subject to its own curse. By looking vainly on its reflection, it tu
 
 ```ad-statblock
 title: Medusa
-![](/compendium/bestiary/monstrosity/token/medusa.png#token)
+![](compendium/bestiary/monstrosity/token/medusa.png#token)
 *Medium monstrosity, Lawful Evil*
 
 - **Armor Class** 15  (natural armor)
@@ -48,7 +48,7 @@ title: Medusa
 
 ## Traits
 
-***Petrifying Gaze.*** When a creature that can see the medusa's eyes starts its turn within 30 feet of the medusa, the medusa can force it to make a DC 14 Constitution saving throw if the medusa isn't [incapacitated](/compendium/rules/conditions.md#incapacitated) and can see the creature. If the saving throw fails by 5 or more, the creature is instantly [petrified](/compendium/rules/conditions.md#petrified). Otherwise, a creature that fails the save begins to turn to stone and is [restrained](/compendium/rules/conditions.md#restrained). The [restrained](/compendium/rules/conditions.md#restrained) creature must repeat the saving throw at the end of its next turn, becoming [petrified](/compendium/rules/conditions.md#petrified) on a failure or ending the effect on a success. The petrification lasts until the creature is freed by the  [greater restoration](/compendium/spells/greater-restoration.md) spell or other magic.
+***Petrifying Gaze.*** When a creature that can see the medusa's eyes starts its turn within 30 feet of the medusa, the medusa can force it to make a DC 14 Constitution saving throw if the medusa isn't [incapacitated](rules/conditions.md#incapacitated) and can see the creature. If the saving throw fails by 5 or more, the creature is instantly [petrified](rules/conditions.md#petrified). Otherwise, a creature that fails the save begins to turn to stone and is [restrained](rules/conditions.md#restrained). The [restrained](rules/conditions.md#restrained) creature must repeat the saving throw at the end of its next turn, becoming [petrified](rules/conditions.md#petrified) on a failure or ending the effect on a success. The petrification lasts until the creature is freed by the  [greater restoration](compendium/spells/greater-restoration.md) spell or other magic.
 
 Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it can't see the medusa until the start of its next turn, when it can avert its eyes again. If the creature looks at the medusa in the meantime, it must immediately make the save.
 

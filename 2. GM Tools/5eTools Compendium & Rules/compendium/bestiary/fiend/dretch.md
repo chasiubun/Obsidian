@@ -153,7 +153,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](/compendium/rules/conditions.md#charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](rules/conditions.md#charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -184,7 +184,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 ```ad-statblock
 title: Dretch
-![](/compendium/bestiary/fiend/token/dretch.png#token)
+![](compendium/bestiary/fiend/token/dretch.png#token)
 *Small fiend (demon), Chaotic Evil*
 
 - **Armor Class** 11  (natural armor)
@@ -210,6 +210,6 @@ title: Dretch
 
 ***Claws.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 5 (`2d4`) slashing damage.
 
-***Fetid Cloud (1/Day).*** A 10-foot radius of disgusting green gas extends out from the dretch. The gas spreads around corners, and its area is lightly obscured. It lasts for 1 minute or until a strong wind disperses it. Any creature that starts its turn in that area must succeed on a DC 11 Constitution saving throw or be [poisoned](/compendium/rules/conditions.md#poisoned) until the start of its next turn. While [poisoned](/compendium/rules/conditions.md#poisoned) in this way, the target can take either an action or a bonus action on its turn, not both, and can't take reactions.
+***Fetid Cloud (1/Day).*** A 10-foot radius of disgusting green gas extends out from the dretch. The gas spreads around corners, and its area is lightly obscured. It lasts for 1 minute or until a strong wind disperses it. Any creature that starts its turn in that area must succeed on a DC 11 Constitution saving throw or be [poisoned](rules/conditions.md#poisoned) until the start of its next turn. While [poisoned](rules/conditions.md#poisoned) in this way, the target can take either an action or a bonus action on its turn, not both, and can't take reactions.
 ```
 ^statblock

@@ -30,7 +30,7 @@ When plague strikes a tribe, the hands of Yurtrus isolate the sick. The priests 
 
 ```ad-statblock
 title: Orc Nurtured One of Yurtrus
-![](/compendium/bestiary/humanoid/token/orc-nurtured-one-of-yurtrus.png#token)
+![](compendium/bestiary/humanoid/token/orc-nurtured-one-of-yurtrus.png#token)
 *Medium humanoid (orc), Chaotic Evil*
 
 - **Armor Class** 9 
@@ -52,7 +52,7 @@ title: Orc Nurtured One of Yurtrus
 
 ***Aggressive.*** As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
 
-***Corrupted Carrier.*** When the orc is reduced to 0 hit points, it explodes, and any creature within 10 feet of it must make a DC 13 Constitution saving throw. On a failed save, the creature takes 14 (`4d6`) poison damage and becomes [poisoned](/compendium/rules/conditions.md#poisoned). On a success, the creature takes half as much damage and isn't [poisoned](/compendium/rules/conditions.md#poisoned). A creature [poisoned](/compendium/rules/conditions.md#poisoned) by this effect can repeat the save at the end of each of its turn, ending the effect on itself on a success. While [poisoned](/compendium/rules/conditions.md#poisoned) by this effect, a creature can't regain hit points.
+***Corrupted Carrier.*** When the orc is reduced to 0 hit points, it explodes, and any creature within 10 feet of it must make a DC 13 Constitution saving throw. On a failed save, the creature takes 14 (`4d6`) poison damage and becomes [poisoned](rules/conditions.md#poisoned). On a success, the creature takes half as much damage and isn't [poisoned](rules/conditions.md#poisoned). A creature [poisoned](rules/conditions.md#poisoned) by this effect can repeat the save at the end of each of its turn, ending the effect on itself on a success. While [poisoned](rules/conditions.md#poisoned) by this effect, a creature can't regain hit points.
 
 ***Nurtured One of Yurtrus.*** The orc has advantage on saving throws against poison and disease.
 

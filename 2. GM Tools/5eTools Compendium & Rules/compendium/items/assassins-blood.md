@@ -13,6 +13,6 @@ aliases:
 
 - **Cost**: 150 gp
 
-A creature subjected to this poison must make a DC 10 Constitution saving throw. On a failed save, it takes 6 (`1d12`) poison damage and is [poisoned](/compendium/rules/conditions.md#poisoned) for 24 hours. On a successful save, the creature takes half damage and isn't [poisoned](/compendium/rules/conditions.md#poisoned).
+A creature subjected to this poison must make a DC 10 Constitution saving throw. On a failed save, it takes 6 (`1d12`) poison damage and is [poisoned](rules/conditions.md#poisoned) for 24 hours. On a successful save, the creature takes half damage and isn't [poisoned](rules/conditions.md#poisoned).
 
 *Source: Dungeon Master's Guide p. 258. Available in the SRD.*

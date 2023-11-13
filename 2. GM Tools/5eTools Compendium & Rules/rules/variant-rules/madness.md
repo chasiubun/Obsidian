@@ -6,7 +6,7 @@ tags:
 aliases: ["Madness"]
 ---
 # Madness
-*Source: SRD / Basic Rules* 
+*Source: Dungeon Master's Guide p. 258. Available in the SRD.* 
 
 In a typical campaign, characters aren't driven mad by the horrors they face and the carnage they inflict day after day, but sometimes the stress of being an adventurer can be too much to bear. If your campaign has a strong horror theme, you might want to use madness as a way to reinforce that theme, emphasizing the extraordinarily horrific nature of the threats the adventurers face.
 

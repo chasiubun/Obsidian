@@ -23,7 +23,7 @@ A homunculus knows everything its creator knows, including all the languages the
 
 ```ad-statblock
 title: Homunculus
-![](/compendium/bestiary/construct/token/homunculus.png#token)
+![](compendium/bestiary/construct/token/homunculus.png#token)
 *Tiny construct, Neutral*
 
 - **Armor Class** 13  (natural armor)
@@ -47,6 +47,6 @@ title: Homunculus
 
 ## Actions
 
-***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or be [poisoned](/compendium/rules/conditions.md#poisoned) for 1 minute. If the saving throw fails by 5 or more, the target is instead [poisoned](/compendium/rules/conditions.md#poisoned) for 5 (`1d10`) minutes and [unconscious](/compendium/rules/conditions.md#unconscious) while [poisoned](/compendium/rules/conditions.md#poisoned) in this way.
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or be [poisoned](rules/conditions.md#poisoned) for 1 minute. If the saving throw fails by 5 or more, the target is instead [poisoned](rules/conditions.md#poisoned) for 5 (`1d10`) minutes and [unconscious](rules/conditions.md#unconscious) while [poisoned](rules/conditions.md#poisoned) in this way.
 ```
 ^statblock

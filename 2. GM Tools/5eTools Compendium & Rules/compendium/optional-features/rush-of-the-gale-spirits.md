@@ -9,4 +9,4 @@ aliases: ["Rush of the Gale Spirits"]
 # Rush of the Gale Spirits
 *Source: Player's Handbook p. 81*  
 
-You can spend 2 ki points to cast [gust of wind](/compendium/spells/gust-of-wind.md).
+You can spend 2 ki points to cast [gust of wind](compendium/spells/gust-of-wind.md).

@@ -19,10 +19,10 @@ aliases:
 - **Damage**:
   - One-handed: 1d8 R
   - Two-handed: 1d10 R
-- **Properties**: [Finesse](/compendium/rules/item-properties.md#Finesse), Martial, [Versatile](/compendium/rules/item-properties.md#Versatile)
+- **Properties**: [Finesse](rules/item-properties.md#Finesse), Martial, [Versatile](rules/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
-This item appears to be a longsword hilt. While grasping the hilt, you can use a bonus action to cause a blade of pure radiance to spring into existence, or make the blade disappear. While the blade exists, this magic longsword has the finesse property. If you are proficient with [shortswords](/compendium/items/shortsword.md) or [longswords](/compendium/items/longsword.md), you are proficient with the sun blade.
+This item appears to be a longsword hilt. While grasping the hilt, you can use a bonus action to cause a blade of pure radiance to spring into existence, or make the blade disappear. While the blade exists, this magic longsword has the finesse property. If you are proficient with [shortswords](compendium/items/shortsword.md) or [longswords](compendium/items/longsword.md), you are proficient with the sun blade.
 
 You gain a +2 bonus to attack and damage rolls made with this weapon, which deals radiant damage instead of slashing damage. When you hit an undead with it, that target takes an extra `1d8` radiant damage.
 

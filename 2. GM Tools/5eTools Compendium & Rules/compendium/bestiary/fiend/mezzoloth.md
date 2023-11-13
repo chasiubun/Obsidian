@@ -70,7 +70,7 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 
 ```ad-statblock
 title: Mezzoloth
-![](/compendium/bestiary/fiend/token/mezzoloth.png#token)
+![](compendium/bestiary/fiend/token/mezzoloth.png#token)
 *Medium fiend (yugoloth), Neutral Evil*
 
 - **Armor Class** 18  (natural armor)
@@ -96,9 +96,9 @@ title: Mezzoloth
 
 ***Innate Spellcasting.*** The mezzoloth's innate spellcasting ability is Charisma (spell save DC 11). The mezzoloth can innately cast the following spells, requiring no material components:
 
-**1/day**: [cloudkill](/compendium/spells/cloudkill.md)
+**1/day**: [cloudkill](compendium/spells/cloudkill.md)
 
-**2/day each**: [darkness](/compendium/spells/darkness.md), [dispel magic](/compendium/spells/dispel-magic.md)
+**2/day each**: [darkness](compendium/spells/darkness.md), [dispel magic](compendium/spells/dispel-magic.md)
 
 ## Actions
 

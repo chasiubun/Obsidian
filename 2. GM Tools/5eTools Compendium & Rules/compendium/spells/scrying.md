@@ -48,10 +48,10 @@ You can see and hear a particular creature you choose that is on the same plane 
 
 On a successful save, the target isn't affected, and you can't use this spell against it again for 24 hours.
 
-On a failed save, the spell creates an invisible sensor within 10 feet of the target. You can see and hear through the sensor as if you were there. The sensor moves with the target, remaining within 10 feet of it for the duration. A creature that can see [invisible](/compendium/rules/conditions.md#invisible) objects sees the sensor as a luminous orb about the size of your fist.
+On a failed save, the spell creates an invisible sensor within 10 feet of the target. You can see and hear through the sensor as if you were there. The sensor moves with the target, remaining within 10 feet of it for the duration. A creature that can see [invisible](rules/conditions.md#invisible) objects sees the sensor as a luminous orb about the size of your fist.
 
 Instead of targeting a creature, you can choose a location you have seen before as the target of this spell. When you do, the sensor appears at that location and doesn't move.
 
-**Classes**: [Bard](/compendium/classes/bard.md), [Cleric (Knowledge Domain)](/compendium/classes/cleric-knowledge-domain.md), [Cleric (Light Domain)](/compendium/classes/cleric-light-domain.md), [Cleric](/compendium/classes/cleric.md), [Druid (Circle of the Land)](/compendium/classes/druid-circle-of-the-land.md), [Druid](/compendium/classes/druid.md), [Paladin (Oath of Vengeance)](/compendium/classes/paladin-oath-of-vengeance.md), [Paladin (Oath of the Watchers)](/compendium/classes/paladin-oath-of-the-watchers-tce.md), [Sorcerer (Divine Soul)](/compendium/classes/sorcerer-divine-soul-xge.md), [Warlock](/compendium/classes/warlock.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Bard](compendium/classes/bard.md), [Cleric (Knowledge Domain)](compendium/classes/cleric-knowledge-domain.md), [Cleric (Light Domain)](compendium/classes/cleric-light-domain.md), [Cleric](compendium/classes/cleric.md), [Druid (Circle of the Land)](compendium/classes/druid-circle-of-the-land.md), [Druid](compendium/classes/druid.md), [Paladin (Oath of Vengeance)](compendium/classes/paladin-oath-of-vengeance.md), [Paladin (Oath of the Watchers)](compendium/classes/paladin-oath-of-the-watchers-tce.md), [Sorcerer (Divine Soul)](compendium/classes/sorcerer-divine-soul-xge.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 273. Available in the SRD.*

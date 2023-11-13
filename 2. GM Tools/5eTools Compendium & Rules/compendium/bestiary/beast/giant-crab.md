@@ -14,7 +14,7 @@ aliases: ["Giant Crab"]
 
 ```ad-statblock
 title: Giant Crab
-![](/compendium/bestiary/beast/token/giant-crab.png#token)
+![](compendium/bestiary/beast/token/giant-crab.png#token)
 *Medium beast, Unaligned*
 
 - **Armor Class** 15  (natural armor)
@@ -38,7 +38,7 @@ title: Giant Crab
 
 ## Actions
 
-***Claw.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (`1d6 + 1`) bludgeoning damage, and the target is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 11). The crab has two claws, each of which can grapple only one target.
+***Claw.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (`1d6 + 1`) bludgeoning damage, and the target is [grappled](rules/conditions.md#grappled) (escape DC 11). The crab has two claws, each of which can grapple only one target.
 ```
 ^statblock
 

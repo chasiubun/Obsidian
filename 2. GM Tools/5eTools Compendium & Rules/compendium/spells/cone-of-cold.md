@@ -28,6 +28,6 @@ A creature killed by this spell becomes a frozen statue until it thaws.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
 
-**Classes**: [Artificer (Artillerist)](/compendium/classes/artificer-artillerist-tce.md), [Druid (Circle of the Land)](/compendium/classes/druid-circle-of-the-land.md), [Sorcerer](/compendium/classes/sorcerer.md), [Warlock (The Fathomless)](/compendium/classes/warlock-the-fathomless-tce.md), [Warlock (The Genie)](/compendium/classes/warlock-the-genie-tce.md), [Warlock (The Hexblade)](/compendium/classes/warlock-the-hexblade-xge.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Artificer (Artillerist)](compendium/classes/artificer-artillerist-tce.md), [Druid (Circle of the Land)](compendium/classes/druid-circle-of-the-land.md), [Sorcerer](compendium/classes/sorcerer.md), [Warlock (The Fathomless)](compendium/classes/warlock-the-fathomless-tce.md), [Warlock (The Genie)](compendium/classes/warlock-the-genie-tce.md), [Warlock (The Hexblade)](compendium/classes/warlock-the-hexblade-xge.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 224. Available in the SRD and the Basic Rules.*

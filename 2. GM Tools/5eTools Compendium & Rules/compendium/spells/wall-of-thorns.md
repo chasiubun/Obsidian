@@ -24,6 +24,6 @@ A creature can move through the wall, albeit slowly and painfully. For every 1 f
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, both types of damage increase by 1d8 for each slot level above 6th.
 
-**Classes**: [Druid](/compendium/classes/druid.md)
+**Classes**: [Druid](compendium/classes/druid.md)
 
 *Source: Player's Handbook p. 287. Available in the SRD.*

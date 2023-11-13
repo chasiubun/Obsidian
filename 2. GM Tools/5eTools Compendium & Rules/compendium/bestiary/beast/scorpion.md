@@ -14,7 +14,7 @@ aliases: ["Scorpion"]
 
 ```ad-statblock
 title: Scorpion
-![](/compendium/bestiary/beast/token/scorpion.png#token)
+![](compendium/bestiary/beast/token/scorpion.png#token)
 *Tiny beast, Unaligned*
 
 - **Armor Class** 11  (natural armor)

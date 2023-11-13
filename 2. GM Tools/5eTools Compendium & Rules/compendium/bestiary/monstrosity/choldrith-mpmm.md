@@ -22,7 +22,7 @@ Choldriths are born with a mystical connection to Lolth, which gives them divine
 
 ```ad-statblock
 title: Choldrith
-![](/compendium/bestiary/monstrosity/token/choldrith.png#token)
+![](compendium/bestiary/monstrosity/token/choldrith.png#token)
 *Medium monstrosity (cleric), Typically  Chaotic Evil*
 
 - **Armor Class** 15  (natural armor)
@@ -42,11 +42,11 @@ title: Choldrith
 
 ## Traits
 
-***Fey Ancestry.*** The choldrith has advantage on saving throws against being [charmed](/compendium/rules/conditions.md#charmed), and magic can't put the choldrith to sleep.
+***Fey Ancestry.*** The choldrith has advantage on saving throws against being [charmed](rules/conditions.md#charmed), and magic can't put the choldrith to sleep.
 
 ***Spider Climb.*** The choldrith can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-***Sunlight Sensitivity.*** While in sunlight, the choldrith has disadvantage on attack rolls, as well as on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the choldrith has disadvantage on attack rolls, as well as on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ***Web Sense.*** While in contact with a web, the choldrith knows the exact location of any other creature in contact with the same web.
 
@@ -54,15 +54,15 @@ title: Choldrith
 
 ***Spellcasting.*** The choldrith casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 12):
 
-**At will**: [guidance](/compendium/spells/guidance.md), [thaumaturgy](/compendium/spells/thaumaturgy.md)
+**At will**: [guidance](compendium/spells/guidance.md), [thaumaturgy](compendium/spells/thaumaturgy.md)
 
-**1/day each**: [bane](/compendium/spells/bane.md), [hold person](/compendium/spells/hold-person.md)
+**1/day each**: [bane](compendium/spells/bane.md), [hold person](compendium/spells/hold-person.md)
 
 ## Actions
 
 ***Dagger.*** *Melee or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 5 (`1d4 + 3`) piercing damage plus 10 (`3d6`) poison damage.
 
-***Web (Recharge 5-6).*** *Ranged Weapon Attack:* +5 to hit, range 30/60 ft., one Large or smaller creature. *Hit:* The target is [restrained](/compendium/rules/conditions.md#restrained) by webbing. As an action, the [restrained](/compendium/rules/conditions.md#restrained) target can make a DC 11 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; 5 hit points; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).
+***Web (Recharge 5-6).*** *Ranged Weapon Attack:* +5 to hit, range 30/60 ft., one Large or smaller creature. *Hit:* The target is [restrained](rules/conditions.md#restrained) by webbing. As an action, the [restrained](rules/conditions.md#restrained) target can make a DC 11 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; 5 hit points; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).
 
 ## Bonus Actions
 

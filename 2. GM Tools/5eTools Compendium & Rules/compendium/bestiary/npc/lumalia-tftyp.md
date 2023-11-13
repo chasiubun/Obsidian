@@ -13,7 +13,7 @@ aliases: ["Lumalia"]
 
 ```ad-statblock
 title: Lumalia
-![](/compendium/bestiary/npc/token/lumalia.png#token)
+![](compendium/bestiary/npc/token/lumalia.png#token)
 *Medium celestial, Lawful Good*
 
 - **Armor Class** 17  (natural armor)
@@ -39,9 +39,9 @@ title: Lumalia
 
 ***Innate Spellcasting.*** Lumalia's spellcasting ability is Charisma (spell save DC 17). Lumalia can innately cast the following spells, requiring only verbal components:
 
-**At will**: [detect evil and good](/compendium/spells/detect-evil-and-good.md)
+**At will**: [detect evil and good](compendium/spells/detect-evil-and-good.md)
 
-**1/day each**: [commune](/compendium/spells/commune.md), [raise dead](/compendium/spells/raise-dead.md)
+**1/day each**: [commune](compendium/spells/commune.md), [raise dead](compendium/spells/raise-dead.md)
 
 ## Actions
 

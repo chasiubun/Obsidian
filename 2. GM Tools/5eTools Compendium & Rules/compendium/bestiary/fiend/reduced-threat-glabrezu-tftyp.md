@@ -13,7 +13,7 @@ aliases: ["Reduced-Threat Glabrezu"]
 
 ```ad-statblock
 title: Reduced-Threat Glabrezu
-![](/compendium/bestiary/fiend/token/reduced-threat-glabrezu.png#token)
+![](compendium/bestiary/fiend/token/reduced-threat-glabrezu.png#token)
 *Large fiend (demon), Chaotic Evil*
 
 - **Armor Class** 17  (natural armor)
@@ -39,15 +39,15 @@ title: Reduced-Threat Glabrezu
 
 ***Innate Spellcasting.*** The glabrezu's spellcasting ability is Intelligence (spell save DC 14). The glabrezu can innately cast the following spells, requiring no material components:
 
-**At will**: [darkness](/compendium/spells/darkness.md), [detect magic](/compendium/spells/detect-magic.md), [dispel magic](/compendium/spells/dispel-magic.md)
+**At will**: [darkness](compendium/spells/darkness.md), [detect magic](compendium/spells/detect-magic.md), [dispel magic](compendium/spells/dispel-magic.md)
 
-**1/day each**: [confusion](/compendium/spells/confusion.md), [fly](/compendium/spells/fly.md), [power word stun](/compendium/spells/power-word-stun.md)
+**1/day each**: [confusion](compendium/spells/confusion.md), [fly](compendium/spells/fly.md), [power word stun](compendium/spells/power-word-stun.md)
 
 ## Actions
 
 ***Multiattack.*** The glabrezu makes four attacks: two with its pincers and two with its fists. Alternatively, it makes two attacks with its pincers and casts one spell.
 
-***Pincer.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 16 (`2d10 + 5`) bludgeoning damage. If the target is a Medium or smaller creature, it is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 13). The glabrezu has two pincers, each of which can grapple only one target.
+***Pincer.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 16 (`2d10 + 5`) bludgeoning damage. If the target is a Medium or smaller creature, it is [grappled](rules/conditions.md#grappled) (escape DC 13). The glabrezu has two pincers, each of which can grapple only one target.
 
 ***Fist.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (`2d4 + 2`) bludgeoning damage.
 ```

@@ -19,9 +19,9 @@ aliases: ["Vampiric Mist"]
 # Vampiric Mist
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 250, Mordenkainen's Tome of Foes p. 246*  
 
-In billowing clouds of fog lurk vampiric mists, the wretched remnants of [vampires](/compendium/bestiary/undead/vampire.md) that were prevented from finding rest. Indistinguishable from the mists they lurk within, they strike unseen and undetected to bleed their victims dry.
+In billowing clouds of fog lurk vampiric mists, the wretched remnants of [vampires](compendium/bestiary/undead/vampire.md) that were prevented from finding rest. Indistinguishable from the mists they lurk within, they strike unseen and undetected to bleed their victims dry.
 
-Vampiric mists, sometimes called crimson mists, are all that remain of [vampires](/compendium/bestiary/undead/vampire.md) who couldn't return to their burial places after being defeated or suffering some mishap. Denied the restorative power of these places, the [vampires'](/compendium/bestiary/undead/vampire.md) bodies dissolve into mist. The transformation strips the intelligence and personality from them until only an unholy, insatiable thirst for blood remains.
+Vampiric mists, sometimes called crimson mists, are all that remain of [vampires](compendium/bestiary/undead/vampire.md) who couldn't return to their burial places after being defeated or suffering some mishap. Denied the restorative power of these places, the [vampires'](compendium/bestiary/undead/vampire.md) bodies dissolve into mist. The transformation strips the intelligence and personality from them until only an unholy, insatiable thirst for blood remains.
 
 Indistinguishable from fog aside from the charnel reek it exudes, a vampiric mist descends on a creature and causes the blood in the creature's body to ooze through its pores or spill out from its eyes, nose, and mouth. This blood wafts out from the victim like crimson smoke, which the mist then consumes. The feeding causes no pain or discomfort to the victim, so vampiric mists can feed on sleepers without waking them. The more a mist feeds, the redder it gets, such that it turns pink, then red, and finally a deep scarlet hue; when sated, it rains blood droplets wherever it goes.
 
@@ -29,7 +29,7 @@ Like sharks in water, vampiric mists can scent blood from up to a mile away. Any
 
 ```ad-statblock
 title: Vampiric Mist
-![](/compendium/bestiary/undead/token/vampiric-mist.png#token)
+![](compendium/bestiary/undead/token/vampiric-mist.png#token)
 *Medium undead, Typically  Chaotic Evil*
 
 - **Armor Class** 13 

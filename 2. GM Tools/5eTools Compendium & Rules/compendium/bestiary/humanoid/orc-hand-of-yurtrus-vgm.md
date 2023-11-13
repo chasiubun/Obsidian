@@ -36,10 +36,10 @@ As befits followers of a god who doesn't speak, hands of Yurtrus remove their to
 
 ```ad-statblock
 title: Orc Hand of Yurtrus
-![](/compendium/bestiary/humanoid/token/orc-hand-of-yurtrus.png#token)
+![](compendium/bestiary/humanoid/token/orc-hand-of-yurtrus.png#token)
 *Medium humanoid (orc), Chaotic Evil*
 
-- **Armor Class** 12  ([hide armor](/compendium/items/hide-armor.md))
+- **Armor Class** 12  ([hide armor](compendium/items/hide-armor.md))
 - **Hit Points** 30 (`4d8 + 12`)
 - **Speed** 30 ft.
 
@@ -60,11 +60,11 @@ title: Orc Hand of Yurtrus
 
 ***Spellcasting.*** The orc is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It requires no verbal components to cast its spells. The orc has the following cleric spells prepared:
 
-**Cantrips (at will)**: [guidance](/compendium/spells/guidance.md), [mending](/compendium/spells/mending.md), [resistance](/compendium/spells/resistance.md), [thaumaturgy](/compendium/spells/thaumaturgy.md)
+**Cantrips (at will)**: [guidance](compendium/spells/guidance.md), [mending](compendium/spells/mending.md), [resistance](compendium/spells/resistance.md), [thaumaturgy](compendium/spells/thaumaturgy.md)
 
-**1st level (4 slots)**: [bane](/compendium/spells/bane.md), [detect magic](/compendium/spells/detect-magic.md), [inflict wounds](/compendium/spells/inflict-wounds.md), [protection from evil and good](/compendium/spells/protection-from-evil-and-good.md)
+**1st level (4 slots)**: [bane](compendium/spells/bane.md), [detect magic](compendium/spells/detect-magic.md), [inflict wounds](compendium/spells/inflict-wounds.md), [protection from evil and good](compendium/spells/protection-from-evil-and-good.md)
 
-**2nd level (3 slots)**: [blindness/deafness](/compendium/spells/blindness-deafness.md), [silence](/compendium/spells/silence.md)
+**2nd level (3 slots)**: [blindness/deafness](compendium/spells/blindness-deafness.md), [silence](compendium/spells/silence.md)
 
 ## Actions
 

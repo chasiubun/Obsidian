@@ -39,7 +39,7 @@ You can speak, read, and write Common and Gnomish. The Gnomish language, which u
 
 ### Natural Illusionist
 
-You know the [minor illusion](/compendium/spells/minor-illusion.md) cantrip. Intelligence is your spellcasting ability for it.
+You know the [minor illusion](compendium/spells/minor-illusion.md) cantrip. Intelligence is your spellcasting ability for it.
 
 ### Speak with Small Beasts
 

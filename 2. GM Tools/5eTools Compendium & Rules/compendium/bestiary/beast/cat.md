@@ -17,7 +17,7 @@ aliases: ["Cat"]
 
 ```ad-statblock
 title: Cat
-![](/compendium/bestiary/beast/token/cat.png#token)
+![](compendium/bestiary/beast/token/cat.png#token)
 *Tiny beast, Unaligned*
 
 - **Armor Class** 12 
@@ -37,7 +37,7 @@ title: Cat
 
 ## Traits
 
-***Keen Smell.*** The cat has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on smell.
+***Keen Smell.*** The cat has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on smell.
 
 ## Actions
 

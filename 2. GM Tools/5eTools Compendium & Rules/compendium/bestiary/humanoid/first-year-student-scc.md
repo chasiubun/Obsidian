@@ -15,7 +15,7 @@ A student who has not yet chosen one of Strixhaven's five mystic colleges is ref
 
 ```ad-statblock
 title: First-Year Student
-![](/compendium/bestiary/humanoid/token/first-year-student.png#token)
+![](compendium/bestiary/humanoid/token/first-year-student.png#token)
 *Small or Medium humanoid (wizard), Any alignment*
 
 - **Armor Class** 11 
@@ -39,9 +39,9 @@ title: First-Year Student
 
 ***Spellcasting.*** The student casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 11):
 
-**At will**: [mage hand](/compendium/spells/mage-hand.md), [prestidigitation](/compendium/spells/prestidigitation.md)
+**At will**: [mage hand](compendium/spells/mage-hand.md), [prestidigitation](compendium/spells/prestidigitation.md)
 
-**1/day**: [detect magic](/compendium/spells/detect-magic.md)
+**1/day**: [detect magic](compendium/spells/detect-magic.md)
 
 ## Actions
 

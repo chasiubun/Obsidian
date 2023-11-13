@@ -15,7 +15,7 @@ Programmed with knowledge of Strixhaven's extensive lore catalog, cogwork archiv
 
 ```ad-statblock
 title: Cogwork Archivist
-![](/compendium/bestiary/construct/token/cogwork-archivist.png#token)
+![](compendium/bestiary/construct/token/cogwork-archivist.png#token)
 *Large construct, typically  Lawful Neutral*
 
 - **Armor Class** 17  (natural armor)
@@ -39,14 +39,14 @@ title: Cogwork Archivist
 
 ***Spellcasting.*** The archivist casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability:
 
-**At will**: [dancing lights](/compendium/spells/dancing-lights.md), [prestidigitation](/compendium/spells/prestidigitation.md)
+**At will**: [dancing lights](compendium/spells/dancing-lights.md), [prestidigitation](compendium/spells/prestidigitation.md)
 
-**2/day**: [silence](/compendium/spells/silence.md)
+**2/day**: [silence](compendium/spells/silence.md)
 
 ## Actions
 
 ***Multiattack.*** The archivist makes two Grasping Limb attacks.
 
-***Grasping Limb.*** *Melee Weapon Attack:* +6 to hit, reach 15 ft., one target. *Hit:* 13 (`2d8 + 4`) bludgeoning damage, and the target is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 14). The archivist can have no more than two targets [grappled](/compendium/rules/conditions.md#grappled) at a time.
+***Grasping Limb.*** *Melee Weapon Attack:* +6 to hit, reach 15 ft., one target. *Hit:* 13 (`2d8 + 4`) bludgeoning damage, and the target is [grappled](rules/conditions.md#grappled) (escape DC 14). The archivist can have no more than two targets [grappled](rules/conditions.md#grappled) at a time.
 ```
 ^statblock

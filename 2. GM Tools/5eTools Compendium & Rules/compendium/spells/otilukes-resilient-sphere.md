@@ -27,8 +27,8 @@ Nothing—not physical objects, energy, or other spell effects—can pass throug
 
 The sphere is weightless and just large enough to contain the creature or object inside. An enclosed creature can use its action to push against the sphere's walls and thus roll the sphere at up to half the creature's speed. Similarly, the globe can be picked up and moved by other creatures.
 
-A [disintegrate](/compendium/spells/disintegrate.md) spell targeting the globe destroys it without harming anything inside it.
+A [disintegrate](compendium/spells/disintegrate.md) spell targeting the globe destroys it without harming anything inside it.
 
-**Classes**: [Artificer](/compendium/classes/artificer-tce.md), [Cleric (Peace Domain)](/compendium/classes/cleric-peace-domain-tce.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Paladin (Oath of Redemption)](/compendium/classes/paladin-oath-of-redemption-xge.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Artificer](compendium/classes/artificer-tce.md), [Cleric (Peace Domain)](compendium/classes/cleric-peace-domain-tce.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Paladin (Oath of Redemption)](compendium/classes/paladin-oath-of-redemption-xge.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 264. Available in the SRD (as 'Resilient Sphere').*

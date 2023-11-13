@@ -11,4 +11,4 @@ aliases: ["Master of Myriad Forms"]
 
 **Prerequisite**: 15th-level Warlock
 
-You can cast [alter self](/compendium/spells/alter-self.md) at will, without expending a spell slot.
+You can cast [alter self](compendium/spells/alter-self.md) at will, without expending a spell slot.

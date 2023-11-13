@@ -16,7 +16,7 @@ A giant shark is 30 feet long and normally found in deep oceans. Utterly fearles
 
 ```ad-statblock
 title: Giant Shark
-![](/compendium/bestiary/beast/token/giant-shark.png#token)
+![](compendium/bestiary/beast/token/giant-shark.png#token)
 *Huge beast, Unaligned*
 
 - **Armor Class** 13  (natural armor)

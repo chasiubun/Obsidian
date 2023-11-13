@@ -45,7 +45,7 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
 
 ```ad-statblock
 title: Twig Blight
-![](/compendium/bestiary/plant/token/twig-blight.png#token)
+![](compendium/bestiary/plant/token/twig-blight.png#token)
 *Small plant, Neutral Evil*
 
 - **Armor Class** 13  (natural armor)

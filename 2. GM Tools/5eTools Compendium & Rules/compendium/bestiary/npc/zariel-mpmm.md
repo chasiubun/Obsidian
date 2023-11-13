@@ -34,7 +34,7 @@ Zariel makes her lair in a basalt citadel that rises up in Avernus. From nearly 
 
 ```ad-statblock
 title: Zariel
-![](/compendium/bestiary/npc/token/zariel.png#token)
+![](compendium/bestiary/npc/token/zariel.png#token)
 *Large fiend (devil), Lawful Evil*
 
 - **Armor Class** 21  (natural armor)
@@ -54,7 +54,7 @@ title: Zariel
 
 ## Traits
 
-***Devil's Sight.*** Magical darkness doesn't impede Zariel's [darkvision](/compendium/rules/senses.md#darkvision).
+***Devil's Sight.*** Magical darkness doesn't impede Zariel's [darkvision](rules/senses.md#darkvision).
 
 ***Legendary Resistance (3/Day).*** If Zariel fails a saving throw, she can choose to succeed instead.
 
@@ -64,9 +64,9 @@ title: Zariel
 
 ***Spellcasting.*** Zariel casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 26):
 
-**At will**: [alter self](/compendium/spells/alter-self.md) (can become Medium when changing her appearance), [detect evil and good](/compendium/spells/detect-evil-and-good.md), [fireball](/compendium/spells/fireball.md), [invisibility](/compendium/spells/invisibility.md) (self only), [major image](/compendium/spells/major-image.md), [wall of fire](/compendium/spells/wall-of-fire.md)
+**At will**: [alter self](compendium/spells/alter-self.md) (can become Medium when changing her appearance), [detect evil and good](compendium/spells/detect-evil-and-good.md), [fireball](compendium/spells/fireball.md), [invisibility](compendium/spells/invisibility.md) (self only), [major image](compendium/spells/major-image.md), [wall of fire](compendium/spells/wall-of-fire.md)
 
-**3/day each**: [blade barrier](/compendium/spells/blade-barrier.md), [dispel evil and good](/compendium/spells/dispel-evil-and-good.md), [finger of death](/compendium/spells/finger-of-death.md)
+**3/day each**: [blade barrier](compendium/spells/blade-barrier.md), [dispel evil and good](compendium/spells/dispel-evil-and-good.md), [finger of death](compendium/spells/finger-of-death.md)
 
 ## Actions
 
@@ -76,7 +76,7 @@ title: Zariel
 
 ***Longsword.*** *Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:* 17 (`2d8 + 8`) radiant damage, or 19 (`2d10 + 8`) radiant damage when used with two hands, plus 36 (`8d8`) fire damage.
 
-***Horrid Touch (Recharge 5-6).*** Zariel touches one creature within 10 feet of her. The target must succeed on a DC 26 Constitution saving throw or take 44 (`8d10`) necrotic damage and be [poisoned](/compendium/rules/conditions.md#poisoned) for 1 minute. While [poisoned](/compendium/rules/conditions.md#poisoned) in this way, the target is [blinded](/compendium/rules/conditions.md#blinded) and [deafened](/compendium/rules/conditions.md#deafened). The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Horrid Touch (Recharge 5-6).*** Zariel touches one creature within 10 feet of her. The target must succeed on a DC 26 Constitution saving throw or take 44 (`8d10`) necrotic damage and be [poisoned](rules/conditions.md#poisoned) for 1 minute. While [poisoned](rules/conditions.md#poisoned) in this way, the target is [blinded](rules/conditions.md#blinded) and [deafened](rules/conditions.md#deafened). The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Teleport.*** Zariel teleports, along with any equipment she is wearing or carrying, up to 120 feet to an unoccupied space she can see.
 
@@ -86,6 +86,6 @@ title: Zariel
 
 ***Immolating Gaze (Costs 2 Actions).*** Zariel turns her magical gaze toward one creature she can see within 120 feet of her and commands it to burn. The target must succeed on a DC 26 Wisdom saving throw or take 22 (`4d10`) fire damage.
 
-![Zariel](/compendium/bestiary/legendary-group/zariel-mpmm.md)
+![Zariel](compendium/bestiary/legendary-group/zariel-mpmm.md)
 ```
 ^statblock

@@ -14,8 +14,8 @@ aliases: ["Githyanki Raiding Parties; Raiding Party Leader"]
 
 | dice: d6 | Leader |
 |----------|--------|
-| 1 | [Githyanki Supreme Commander](/compendium/bestiary/humanoid/githyanki-supreme-commander-mpmm.md) |
-| 2-3 | [Githyanki Knight](/compendium/bestiary/humanoid/githyanki-knight.md) |
-| 4-5 | [Githyanki Kith'rak](/compendium/bestiary/humanoid/githyanki-kithrak-mpmm.md) |
-| 6 | [Githyanki Gish](/compendium/bestiary/humanoid/githyanki-gish-mpmm.md) |
+| 1 | [Githyanki Supreme Commander](compendium/bestiary/humanoid/githyanki-supreme-commander-mpmm.md) |
+| 2-3 | [Githyanki Knight](compendium/bestiary/humanoid/githyanki-knight.md) |
+| 4-5 | [Githyanki Kith'rak](compendium/bestiary/humanoid/githyanki-kithrak-mpmm.md) |
+| 6 | [Githyanki Gish](compendium/bestiary/humanoid/githyanki-gish-mpmm.md) |
 ^raiding-party-leader

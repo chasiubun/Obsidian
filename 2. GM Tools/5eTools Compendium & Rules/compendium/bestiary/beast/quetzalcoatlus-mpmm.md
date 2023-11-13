@@ -18,7 +18,7 @@ This giant relative of the pteranodon has a wingspan exceeding 30 feet. Although
 
 ```ad-statblock
 title: Quetzalcoatlus
-![](/compendium/bestiary/beast/token/quetzalcoatlus.png#token)
+![](compendium/bestiary/beast/token/quetzalcoatlus.png#token)
 *Huge beast (dinosaur), Unaligned*
 
 - **Armor Class** 13  (natural armor)
@@ -38,7 +38,7 @@ title: Quetzalcoatlus
 
 ## Traits
 
-***Flyby.*** The quetzalcoatlus doesn't provoke an [opportunity attack](/compendium/rules/actions.md#opportunity%20attack) when it flies out of an enemy's reach.
+***Flyby.*** The quetzalcoatlus doesn't provoke an [opportunity attack](rules/actions.md#opportunity%20attack) when it flies out of an enemy's reach.
 
 ## Actions
 

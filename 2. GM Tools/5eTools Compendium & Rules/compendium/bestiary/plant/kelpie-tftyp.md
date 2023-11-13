@@ -13,7 +13,7 @@ aliases: ["Kelpie"]
 
 ```ad-statblock
 title: Kelpie
-![](/compendium/bestiary/plant/token/kelpie.png#token)
+![](compendium/bestiary/plant/token/kelpie.png#token)
 *Medium plant, Neutral Evil*
 
 - **Armor Class** 14  (natural armor)
@@ -43,11 +43,11 @@ title: Kelpie
 
 ***Multiattack.*** The kelpie makes two slam attacks.
 
-***Slam.*** *Melee Weapon Attack:* +4 to hit, reach 10 ft., one target. *Hit:* 11 (`2d8 + 2`) piercing damage. If the target is a Medium or smaller creature, it is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 12).
+***Slam.*** *Melee Weapon Attack:* +4 to hit, reach 10 ft., one target. *Hit:* 11 (`2d8 + 2`) piercing damage. If the target is a Medium or smaller creature, it is [grappled](rules/conditions.md#grappled) (escape DC 12).
 
-***Drowning Hypnosis.*** The kelpie chooses one humanoid it can see within 150 feet of it. If the target can see the kelpie, the target must succeed on a DC 11 Wisdom saving throw or be magically [charmed](/compendium/rules/conditions.md#charmed) while the kelpie maintains [concentration](/compendium/rules/conditions.md#concentration), up to 10 minutes (as if concentrating on a spell). The [charmed](/compendium/rules/conditions.md#charmed) target is [incapacitated](/compendium/rules/conditions.md#incapacitated), and instead of holding its breath underwater, it tries to breathe normally and immediately runs out of breath, unless it can breathe water. If the [charmed](/compendium/rules/conditions.md#charmed) target is more than 5 feet away from the kelpie, the target must move on its turn toward the kelpie by the most direct route, trying to get within 5 feet. It doesn't avoid opportunity attacks.
+***Drowning Hypnosis.*** The kelpie chooses one humanoid it can see within 150 feet of it. If the target can see the kelpie, the target must succeed on a DC 11 Wisdom saving throw or be magically [charmed](rules/conditions.md#charmed) while the kelpie maintains [concentration](rules/conditions.md#concentration), up to 10 minutes (as if concentrating on a spell). The [charmed](rules/conditions.md#charmed) target is [incapacitated](rules/conditions.md#incapacitated), and instead of holding its breath underwater, it tries to breathe normally and immediately runs out of breath, unless it can breathe water. If the [charmed](rules/conditions.md#charmed) target is more than 5 feet away from the kelpie, the target must move on its turn toward the kelpie by the most direct route, trying to get within 5 feet. It doesn't avoid opportunity attacks.
 
-Before moving into damaging terrain, such as lava or a pit, and whenever it takes damage from a source other than the kelpie or drowning, the target can repeat the saving throw. A [charmed](/compendium/rules/conditions.md#charmed) target can also repeat the saving throw at the end of each of its turns. If the saving throw is successful, the effect ends on it.
+Before moving into damaging terrain, such as lava or a pit, and whenever it takes damage from a source other than the kelpie or drowning, the target can repeat the saving throw. A [charmed](rules/conditions.md#charmed) target can also repeat the saving throw at the end of each of its turns. If the saving throw is successful, the effect ends on it.
 
 A target that successfully saves is immune to this kelpie's hypnosis for the next 24 hours.
 ```

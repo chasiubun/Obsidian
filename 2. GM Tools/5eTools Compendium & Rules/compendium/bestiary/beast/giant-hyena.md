@@ -17,7 +17,7 @@ aliases: ["Giant Hyena"]
 
 ```ad-statblock
 title: Giant Hyena
-![](/compendium/bestiary/beast/token/giant-hyena.png#token)
+![](compendium/bestiary/beast/token/giant-hyena.png#token)
 *Large beast, Unaligned*
 
 - **Armor Class** 12 

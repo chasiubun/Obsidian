@@ -20,7 +20,7 @@ aliases:
 *Generic Variant, minor, common*  
 
 
- This ammunition packs a wallop. A creature hit by the ammunition must succeed on a DC 10 Strength saving throw or be knocked [prone](/compendium/rules/conditions.md#prone).
+ This ammunition packs a wallop. A creature hit by the ammunition must succeed on a DC 10 Strength saving throw or be knocked [prone](rules/conditions.md#prone).
 
 **Variants**:
 - [Walloping Sling Bullet](#Walloping%20Sling%20Bullet)

@@ -38,6 +38,6 @@ A creature can be targeted only once by each casting of this spell.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
 
-**Classes**: [Sorcerer](/compendium/classes/sorcerer.md)
+**Classes**: [Sorcerer](compendium/classes/sorcerer.md)
 
 *Source: Xanathar's Guide to Everything p. 151*

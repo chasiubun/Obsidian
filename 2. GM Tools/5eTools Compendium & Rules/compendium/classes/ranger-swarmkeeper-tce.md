@@ -41,7 +41,7 @@ Once on each of your turns, you can cause the swarm to assist you in one of the 
 
 > [!note] It's Your Swarm
 > 
-> A Swarmkeeper's swarm and spells are reflections of the character's bond with nature spirits. Take the opportunity to describe the swarm and the ranger's magic in play. For example, when your ranger casts gaseous form, they might appear to melt into the swarm, instead of a cloud of mist, or the [arcane eye](/compendium/spells/arcane-eye.md) spell could create an extension of your swarm that spies for you. Such descriptions don't change the effects of spells, but they are an exciting opportunity to explore your character's narrative through their class abilities. For more guidance on customizing spells, see the "Personalizing Spells" section in chapter 3.
+> A Swarmkeeper's swarm and spells are reflections of the character's bond with nature spirits. Take the opportunity to describe the swarm and the ranger's magic in play. For example, when your ranger casts gaseous form, they might appear to melt into the swarm, instead of a cloud of mist, or the [arcane eye](compendium/spells/arcane-eye.md) spell could create an extension of your swarm that spies for you. Such descriptions don't change the effects of spells, but they are an exciting opportunity to explore your character's narrative through their class abilities. For more guidance on customizing spells, see the "Personalizing Spells" section in chapter 3.
 > 
 > Also, remember that the swarm's appearance is yours to customize, and don't feel confined to a single appearance. Perhaps the spirits' look changes with the ranger's mood or with the seasons. You decide!
 ^its-your-swarm
@@ -50,7 +50,7 @@ Once on each of your turns, you can cause the swarm to assist you in one of the 
 
 *3rd-level Swarmkeeper feature*
 
-You learn the [mage hand](/compendium/spells/mage-hand.md) cantrip if you don't already know it. When you cast it, the hand takes the form of your swarming nature spirits.
+You learn the [mage hand](compendium/spells/mage-hand.md) cantrip if you don't already know it. When you cast it, the hand takes the form of your swarming nature spirits.
 
 You also learn an additional spell of 1st level or higher when you reach certain levels in this class, as shown in the Swarmkeeper Spells table. Each spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.
 
@@ -58,18 +58,18 @@ You also learn an additional spell of 1st level or higher when you reach certain
 
 | Ranger Level | Spells |
 |--------------|--------|
-| 3rd | [faerie fire](/compendium/spells/faerie-fire.md) |
-| 5th | [web](/compendium/spells/web.md) |
-| 9th | [gaseous form](/compendium/spells/gaseous-form.md) |
-| 13th | [arcane eye](/compendium/spells/arcane-eye.md) |
-| 17th | [insect plague](/compendium/spells/insect-plague.md) |
+| 3rd | [faerie fire](compendium/spells/faerie-fire.md) |
+| 5th | [web](compendium/spells/web.md) |
+| 9th | [gaseous form](compendium/spells/gaseous-form.md) |
+| 13th | [arcane eye](compendium/spells/arcane-eye.md) |
+| 17th | [insect plague](compendium/spells/insect-plague.md) |
 ^swarmkeeper-spells
 
 ### Writhing Tide (Level 7)
 
 *7th-level Swarmkeeper feature*
 
-You can condense part of your swarm into a focused mass that lifts you up. As a bonus action, you gain a flying speed of 10 feet and can hover. This effect lasts for 1 minute or until you are [incapacitated](/compendium/rules/conditions.md#incapacitated).
+You can condense part of your swarm into a focused mass that lifts you up. As a bonus action, you gain a flying speed of 10 feet and can hover. This effect lasts for 1 minute or until you are [incapacitated](rules/conditions.md#incapacitated).
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
@@ -80,7 +80,7 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 Your Gathered Swarm grows mightier in the following ways:
 
 - The damage of Gathered Swarm increases to `1d8`.  
-- If a creature fails its saving throw against being moved by Gathered Swarm, you can also cause the swarm to knock the creature [prone](/compendium/rules/conditions.md#prone).  
+- If a creature fails its saving throw against being moved by Gathered Swarm, you can also cause the swarm to knock the creature [prone](rules/conditions.md#prone).  
 - When you are moved by Gathered Swarm, it gives you half cover until the start of your next turn.  
 
 ### Swarming Dispersal (Level 15)

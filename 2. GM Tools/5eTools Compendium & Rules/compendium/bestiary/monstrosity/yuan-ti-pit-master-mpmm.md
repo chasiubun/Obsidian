@@ -20,7 +20,7 @@ Pit masters are deeply involved in yuan-ti's longterm plan to take over Humanoid
 
 ```ad-statblock
 title: Yuan-ti Pit Master
-![](/compendium/bestiary/monstrosity/token/yuan-ti-pit-master.png#token)
+![](compendium/bestiary/monstrosity/token/yuan-ti-pit-master.png#token)
 *Medium monstrosity (warlock), Typically  Neutral Evil*
 
 - **Armor Class** 14  (natural armor)
@@ -40,17 +40,17 @@ title: Yuan-ti Pit Master
 
 ## Traits
 
-***Devil's Sight.*** Magical darkness doesn't impede the yuan-ti's [darkvision](/compendium/rules/senses.md#darkvision).
+***Devil's Sight.*** Magical darkness doesn't impede the yuan-ti's [darkvision](rules/senses.md#darkvision).
 
 ***Magic Resistance.*** The yuan-ti has advantage on saving throws against spells and other magical effects.
 
 ***Spellcasting (Yuan-ti Form Only).*** The yuan-ti casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 14):
 
-**At will**: [animal friendship](/compendium/spells/animal-friendship.md) (snakes only), [guidance](/compendium/spells/guidance.md), [mage hand](/compendium/spells/mage-hand.md), [message](/compendium/spells/message.md)
+**At will**: [animal friendship](compendium/spells/animal-friendship.md) (snakes only), [guidance](compendium/spells/guidance.md), [mage hand](compendium/spells/mage-hand.md), [message](compendium/spells/message.md)
 
-**2/day each**: [hold person](/compendium/spells/hold-person.md), [invisibility](/compendium/spells/invisibility.md)
+**2/day each**: [hold person](compendium/spells/hold-person.md), [invisibility](compendium/spells/invisibility.md)
 
-**3/day**: [suggestion](/compendium/spells/suggestion.md)
+**3/day**: [suggestion](compendium/spells/suggestion.md)
 
 ## Actions
 
@@ -60,7 +60,7 @@ title: Yuan-ti Pit Master
 
 ***Spectral Fangs.*** *Ranged Spell Attack:* +6 to hit, range 120 ft., one target. *Hit:* 16 (`3d8 + 3`) poison damage.
 
-***Merrshaulk's Slumber (1/Day).*** The yuan-ti targets up to five creatures that it can see within 60 feet of it. Each target must succeed on a DC 13 Constitution saving throw or fall into a magical sleep and be [unconscious](/compendium/rules/conditions.md#unconscious) for 10 minutes. A sleeping target awakens if it takes damage or if someone uses an action to shake or slap it awake. This magical sleep has no effect on a creature immune to being [charmed](/compendium/rules/conditions.md#charmed).
+***Merrshaulk's Slumber (1/Day).*** The yuan-ti targets up to five creatures that it can see within 60 feet of it. Each target must succeed on a DC 13 Constitution saving throw or fall into a magical sleep and be [unconscious](rules/conditions.md#unconscious) for 10 minutes. A sleeping target awakens if it takes damage or if someone uses an action to shake or slap it awake. This magical sleep has no effect on a creature immune to being [charmed](rules/conditions.md#charmed).
 
 ## Bonus Actions
 

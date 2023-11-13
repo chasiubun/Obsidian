@@ -24,11 +24,11 @@ At each indicated cleric level, add the listed spells to your spells prepared.
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [divine favor](/compendium/spells/divine-favor.md), [shield of faith](/compendium/spells/shield-of-faith.md) |
-| 3rd | [magic weapon](/compendium/spells/magic-weapon.md), [spiritual weapon](/compendium/spells/spiritual-weapon.md) |
-| 5th | [crusader's mantle](/compendium/spells/crusaders-mantle.md), [spirit guardians](/compendium/spells/spirit-guardians.md) |
-| 7th | [freedom of movement](/compendium/spells/freedom-of-movement.md), [stoneskin](/compendium/spells/stoneskin.md) |
-| 9th | [flame strike](/compendium/spells/flame-strike.md), [hold monster](/compendium/spells/hold-monster.md) |
+| 1st | [divine favor](compendium/spells/divine-favor.md), [shield of faith](compendium/spells/shield-of-faith.md) |
+| 3rd | [magic weapon](compendium/spells/magic-weapon.md), [spiritual weapon](compendium/spells/spiritual-weapon.md) |
+| 5th | [crusader's mantle](compendium/spells/crusaders-mantle.md), [spirit guardians](compendium/spells/spirit-guardians.md) |
+| 7th | [freedom of movement](compendium/spells/freedom-of-movement.md), [stoneskin](compendium/spells/stoneskin.md) |
+| 9th | [flame strike](compendium/spells/flame-strike.md), [hold monster](compendium/spells/hold-monster.md) |
 ^war-domain-spells
 
 ### Bonus Proficiencies (Level 1)
@@ -37,7 +37,7 @@ At 1st level, you gain proficiency with martial weapons and heavy armor.
 
 ### War Priest (Level 1)
 
-From 1st level, your god delivers bolts of inspiration to you while you are engaged in battle. When you use the [Attack](/compendium/rules/actions.md#Attack) action, you can make one weapon attack as a bonus action. You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
+From 1st level, your god delivers bolts of inspiration to you while you are engaged in battle. When you use the [Attack](rules/actions.md#Attack) action, you can make one weapon attack as a bonus action. You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
 ### Channel Divinity: Guided Strike (Level 2)
 
@@ -54,7 +54,7 @@ At 8th level, you gain the ability to infuse your weapon strikes with divine ene
 ### Blessed Strikes (Level 8)
 _Source: Tasha's Cauldron of Everything p. 30_
 
-*8th-level cleric [optional class features](/compendium/rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*
+*8th-level cleric [optional class features](rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*
 
 You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `1d8` radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 

@@ -13,7 +13,7 @@ aliases: ["Rooster"]
 
 ```ad-statblock
 title: Rooster
-![](/compendium/bestiary/beast/token/rooster.png#token)
+![](compendium/bestiary/beast/token/rooster.png#token)
 *Tiny beast, Unaligned*
 
 - **Armor Class** 13 
@@ -33,7 +33,7 @@ title: Rooster
 
 ## Traits
 
-***Keen Sight.*** The rooster has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Keen Sight.*** The rooster has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 

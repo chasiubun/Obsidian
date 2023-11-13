@@ -76,17 +76,17 @@ aliases: ["Paladin"]
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
 
 - **Saving Throws**: Wisdom, Charisma
-- **Armor**: light, medium, heavy, [shields](/compendium/items/shield.md)
+- **Armor**: light, medium, heavy, [shields](compendium/items/shield.md)
 - **Weapons**: simple, martial
 - **Tools**: none
 - **Skills**: Choose 2 from *Athletics*, *Insight*, *Intimidation*, *Medicine*, *Persuasion*, *Religion*
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-- (a) a martial weapon and a [shield](/compendium/items/shield.md) or (b) two martial weapons  
-- (a) five [javelins](/compendium/items/javelin.md) or (b) any simple melee weapon  
-- (a) a [priest's pack](/compendium/items/priests-pack.md) or (b) an [explorer's pack](/compendium/items/explorers-pack.md)  
-- [Chain mail](/compendium/items/chain-mail.md) and a [holy symbol](/compendium/items/holy-symbol.md)  
+- (a) a martial weapon and a [shield](compendium/items/shield.md) or (b) two martial weapons  
+- (a) five [javelins](compendium/items/javelin.md) or (b) any simple melee weapon  
+- (a) a [priest's pack](compendium/items/priests-pack.md) or (b) an [explorer's pack](compendium/items/explorers-pack.md)  
+- [Chain mail](compendium/items/chain-mail.md) and a [holy symbol](compendium/items/holy-symbol.md)  
 
 Alternatively, you may start with 5d4 × 10 gp and choose your own equipment.
 
@@ -99,7 +99,7 @@ To multiclass as a Paladin, you must meet the following prerequisites:
 
 You gain the following proficiencies:
 
-- **Armor**: light, medium, [shields](/compendium/items/shield.md)
+- **Armor**: light, medium, [shields](compendium/items/shield.md)
 - **Weapons**: simple, martial
 - **Tools**: none
 
@@ -135,7 +135,7 @@ As guardians against the forces of wickedness, paladins are rarely of any evil a
 
 #### Quick Build
 
-You can make a paladin quickly by following these suggestions. First, Strength should be your highest ability score, followed by Charisma. Second, choose the [noble](/compendium/backgrounds/noble.md) background.
+You can make a paladin quickly by following these suggestions. First, Strength should be your highest ability score, followed by Charisma. Second, choose the [noble](compendium/backgrounds/noble.md) background.
 
 > [!quote]- A quote from Isteval  
 > 
@@ -227,7 +227,7 @@ What is the temptation that your character succumbs to or finds it difficult to 
 
 ### Divine Sense (Level 1)
 
-The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [hallow](/compendium/spells/hallow.md) spell.
+The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [hallow](compendium/spells/hallow.md) spell.
 
 You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
 
@@ -249,10 +249,10 @@ Starting at 2nd level, when you hit a creature with a melee weapon attack, you c
 
 At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take the same Fighting Style option more than once, even if you get to choose again.
 
-- [Defense](/compendium/optional-features/defense.md)  
-- [Dueling](/compendium/optional-features/dueling.md)  
-- [Great Weapon Fighting](/compendium/optional-features/great-weapon-fighting.md)  
-- [Protection](/compendium/optional-features/protection.md)  
+- [Defense](compendium/optional-features/defense.md)  
+- [Dueling](compendium/optional-features/dueling.md)  
+- [Great Weapon Fighting](compendium/optional-features/great-weapon-fighting.md)  
+- [Protection](compendium/optional-features/protection.md)  
 
 ### Spellcasting (Level 2)
 
@@ -264,7 +264,7 @@ The Paladin table shows how many spell slots you have to cast your paladin spell
 
 You prepare the list of paladin spells that are available for you to cast, choosing from the paladin spell list. When you do so, choose a number of paladin spells equal to your Charisma modifier + half your paladin level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you are a 5th-level paladin, you have four 1st-level and two 2nd-level spell slots. With a Charisma of 14, your list of prepared spells can include four spells of 1st or 2nd-level, in any combination. If you prepare the 1st-level spell [cure wounds](/compendium/spells/cure-wounds.md), you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you are a 5th-level paladin, you have four 1st-level and two 2nd-level spell slots. With a Charisma of 14, your list of prepared spells can include four spells of 1st or 2nd-level, in any combination. If you prepare the 1st-level spell [cure wounds](compendium/spells/cure-wounds.md), you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of paladin spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
@@ -278,7 +278,7 @@ Charisma is your spellcasting ability for your paladin spells, since their power
 
 #### Spellcasting Focus
 
-You can use a [holy symbol](/compendium/items/holy-symbol.md) as a spellcasting focus for your paladin spells.
+You can use a [holy symbol](compendium/items/holy-symbol.md) as a spellcasting focus for your paladin spells.
 
 ### Divine Health (Level 3)
 
@@ -307,7 +307,7 @@ Some Channel Divinity effects require saving throws. When you use such an effect
 ### Channel Divinity: Harness Divine Power (Level 3)
 _Source: Tasha's Cauldron of Everything p. 52_
 
-*3rd-level paladin [optional class features](/compendium/rules/variant-rules/optional-class-features-tce.md)*
+*3rd-level paladin [optional class features](rules/variant-rules/optional-class-features-tce.md)*
 
 You can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended spell slot, the level of which can be no higher than half your proficiency bonus (rounded up). The number of times you can use this feature is based on the level you've reached in this class: 3rd level, once; 7th level, twice; and 15th level, thrice. You regain all expended uses when you finish a long rest.
 
@@ -329,13 +329,13 @@ If your DM allows the use of feats, you may instead take a feat.
 ### Martial Versatility (Level 4)
 _Source: Tasha's Cauldron of Everything p. 52_
 
-*4th-level paladin [optional class features](/compendium/rules/variant-rules/optional-class-features-tce.md)*
+*4th-level paladin [optional class features](rules/variant-rules/optional-class-features-tce.md)*
 
-Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a [fighting style](/compendium/optional-features/list-fighting-style-paladin.md) you know with another fighting style available to paladins. This replacement represents a shift of focus in your martial practice.
+Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a [fighting style](compendium/optional-features/list-fighting-style-paladin.md) you know with another fighting style available to paladins. This replacement represents a shift of focus in your martial practice.
 
 ### Extra Attack (Level 5)
 
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack](/compendium/rules/actions.md#Attack) action on your turn.
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack](rules/actions.md#Attack) action on your turn.
 
 ### Aura of Protection (Level 6)
 
@@ -355,7 +355,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Aura of Courage (Level 10)
 
-Starting at 10th level, you and friendly creatures within 10 feet of you can't be [frightened](/compendium/rules/conditions.md#frightened) while you are conscious.
+Starting at 10th level, you and friendly creatures within 10 feet of you can't be [frightened](rules/conditions.md#frightened) while you are conscious.
 
 At 18th level, the range of this aura increases to 30 feet.
 
@@ -402,5 +402,5 @@ At 20th level, you gain a feature granted to you by your Sacred Oath.
 ## Optional Features
 
 > [!example]- Fighting Style, Paladin
-> ![Fighting Style, Paladin](/compendium/optional-features/list-fighting-style-paladin.md#Fighting%20Style,%20Paladin)
+> ![Fighting Style, Paladin](compendium/optional-features/list-fighting-style-paladin.md#Fighting%20Style,%20Paladin)
 ^list-fighting-style-paladin

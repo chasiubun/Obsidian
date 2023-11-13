@@ -32,6 +32,6 @@ The DM has the creatures' statistics.
 
 **At Higher Levels.** When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 6th-level slot and three times as many with an 8th-level slot.
 
-**Classes**: [Druid](/compendium/classes/druid.md), [Ranger](/compendium/classes/ranger.md)
+**Classes**: [Druid](compendium/classes/druid.md), [Ranger](compendium/classes/ranger.md)
 
 *Source: Player's Handbook p. 226. Available in the SRD.*

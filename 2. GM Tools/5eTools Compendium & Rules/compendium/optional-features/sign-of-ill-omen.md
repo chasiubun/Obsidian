@@ -11,4 +11,4 @@ aliases: ["Sign of Ill Omen"]
 
 **Prerequisite**: 5th-level Warlock
 
-You can cast [bestow curse](/compendium/spells/bestow-curse.md) once using a warlock spell slot. You can't do so again until you finish a long rest.
+You can cast [bestow curse](compendium/spells/bestow-curse.md) once using a warlock spell slot. You can't do so again until you finish a long rest.

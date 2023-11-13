@@ -25,10 +25,10 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 
 ```ad-statblock
 title: Booyahg Caster
-![](/compendium/bestiary/humanoid/token/booyahg-caster.png#token)
+![](compendium/bestiary/humanoid/token/booyahg-caster.png#token)
 *Small humanoid (goblinoid), Neutral Evil*
 
-- **Armor Class** 15  ([leather armor](/compendium/items/leather-armor.md), [shield](/compendium/items/shield.md))
+- **Armor Class** 15  ([leather armor](compendium/items/leather-armor.md), [shield](compendium/items/shield.md))
 - **Hit Points** 7 (`2d6`)
 - **Speed** 30 ft.
 

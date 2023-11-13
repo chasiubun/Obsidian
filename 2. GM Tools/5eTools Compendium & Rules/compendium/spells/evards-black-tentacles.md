@@ -23,10 +23,10 @@ aliases: ["Evard's Black Tentacles"]
 
 Squirming, ebony tentacles fill a 20-foot square on ground that you can see within range. For the duration, these tentacles turn the ground in the area into difficult terrain.
 
-When a creature enters the affected area for the first time on a turn or starts its turn there, the creature must succeed on a Dexterity saving throw or take `3d6` bludgeoning damage and be [restrained](/compendium/rules/conditions.md#restrained) by the tentacles until the spell ends. A creature that starts its turn in the area and is already [restrained](/compendium/rules/conditions.md#restrained) by the tentacles takes `3d6` bludgeoning damage.
+When a creature enters the affected area for the first time on a turn or starts its turn there, the creature must succeed on a Dexterity saving throw or take `3d6` bludgeoning damage and be [restrained](rules/conditions.md#restrained) by the tentacles until the spell ends. A creature that starts its turn in the area and is already [restrained](rules/conditions.md#restrained) by the tentacles takes `3d6` bludgeoning damage.
 
-A creature [restrained](/compendium/rules/conditions.md#restrained) by the tentacles can use its action to make a Strength or Dexterity check (its choice) against your spell save DC. On a success, it frees itself.
+A creature [restrained](rules/conditions.md#restrained) by the tentacles can use its action to make a Strength or Dexterity check (its choice) against your spell save DC. On a success, it frees itself.
 
-**Classes**: [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Sorcerer (Aberrant Mind)](/compendium/classes/sorcerer-aberrant-mind-tce.md), [Warlock (The Fathomless)](/compendium/classes/warlock-the-fathomless-tce.md), [Warlock (The Great Old One)](/compendium/classes/warlock-the-great-old-one.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Sorcerer (Aberrant Mind)](compendium/classes/sorcerer-aberrant-mind-tce.md), [Warlock (The Fathomless)](compendium/classes/warlock-the-fathomless-tce.md), [Warlock (The Great Old One)](compendium/classes/warlock-the-great-old-one.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 238. Available in the SRD (as 'Black Tentacles').*

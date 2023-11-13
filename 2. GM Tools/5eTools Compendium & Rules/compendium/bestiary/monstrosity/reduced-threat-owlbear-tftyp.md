@@ -13,7 +13,7 @@ aliases: ["Reduced-Threat Owlbear"]
 
 ```ad-statblock
 title: Reduced-Threat Owlbear
-![](/compendium/bestiary/monstrosity/token/reduced-threat-owlbear.png#token)
+![](compendium/bestiary/monstrosity/token/reduced-threat-owlbear.png#token)
 *Large monstrosity, Unaligned*
 
 - **Armor Class** 13  (natural armor)
@@ -35,7 +35,7 @@ title: Reduced-Threat Owlbear
 
 ***Reduced Threat.*** A reduced-threat monster takes a −2 penalty on attack rolls (included in the stat block), ability checks (included in the stat block for skill proficiencies), saving throws (included in the stat block for saving throw proficiencies), and saving throw DCs (included in the stat block).
 
-***Keen Sight and Smell.*** The owlbear has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight or smell.
+***Keen Sight and Smell.*** The owlbear has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight or smell.
 
 ## Actions
 

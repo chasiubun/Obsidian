@@ -15,7 +15,7 @@ aliases:
 
 - **Damage**: 2d6 P
 - **Range**: 50/150
-- **Properties**: [Ammunition (Firearm)](/compendium/rules/item-properties.md#Ammunition%20(Firearm)), Martial, [Reload](/compendium/rules/item-properties.md#Reload)
+- **Properties**: [Ammunition (Firearm)](rules/item-properties.md#Ammunition%20(Firearm)), Martial, [Reload](rules/item-properties.md#Reload)
 - **Weight**: 3.0 lbs.
 
 *Source: Dungeon Master's Guide p. 268*

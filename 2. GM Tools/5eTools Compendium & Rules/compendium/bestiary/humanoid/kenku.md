@@ -40,7 +40,7 @@ All kenku pine for the ability to fly, and thus the punishments they mete out to
 
 ```ad-statblock
 title: Kenku
-![](/compendium/bestiary/humanoid/token/kenku.png#token)
+![](compendium/bestiary/humanoid/token/kenku.png#token)
 *Medium humanoid (kenku), Chaotic Neutral*
 
 - **Armor Class** 13 

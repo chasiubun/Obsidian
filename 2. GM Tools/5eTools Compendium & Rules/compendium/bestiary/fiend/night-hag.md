@@ -17,7 +17,7 @@ Night hags were once creatures of the Feywild, but their foulness saw them exile
 
 ## Soulmongers
 
-While a humanoid sleeps, a night hag can straddle the person ethereally and intrude upon its dreams. Any creature with [truesight](/compendium/rules/senses.md#truesight) can see the hag's spectral form straddling its prey. The ethereal hag fills her victim's head with doubts and fears, in the hope of tricking it into performing evil acts in the waking world. The hag continues her nightly visitations until the victim finally expires in its sleep. If the hag has driven her victim to commit evil deeds, she traps its corrupted soul in her soul bag (see the "Night Hag Items" sidebar) for transport to Hades.
+While a humanoid sleeps, a night hag can straddle the person ethereally and intrude upon its dreams. Any creature with [truesight](rules/senses.md#truesight) can see the hag's spectral form straddling its prey. The ethereal hag fills her victim's head with doubts and fears, in the hope of tricking it into performing evil acts in the waking world. The hag continues her nightly visitations until the victim finally expires in its sleep. If the hag has driven her victim to commit evil deeds, she traps its corrupted soul in her soul bag (see the "Night Hag Items" sidebar) for transport to Hades.
 
 ## Covens
 
@@ -80,25 +80,25 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 > 
 > **Shared Spellcasting.** While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard's spell list but must share the spell slots among themselves:
 > 
-> 1st level (4 slots): [identify](/compendium/spells/identify.md), [ray of sickness](/compendium/spells/ray-of-sickness.md)  
-> 2nd level (3 slots): [hold person](/compendium/spells/hold-person.md), [locate object](/compendium/spells/locate-object.md)  
-> 3rd level (3 slots): [bestow curse](/compendium/spells/bestow-curse.md), [counterspell](/compendium/spells/counterspell.md), [lightning bolt](/compendium/spells/lightning-bolt.md)  
-> 4th level (3 slots): [phantasmal killer](/compendium/spells/phantasmal-killer.md), [polymorph](/compendium/spells/polymorph.md)  
-> 5th level (2 slots): [contact other plane](/compendium/spells/contact-other-plane.md), [scrying](/compendium/spells/scrying.md)  
-> 6th level (1 slot): [eyebite](/compendium/spells/eyebite.md)  
+> 1st level (4 slots): [identify](compendium/spells/identify.md), [ray of sickness](compendium/spells/ray-of-sickness.md)  
+> 2nd level (3 slots): [hold person](compendium/spells/hold-person.md), [locate object](compendium/spells/locate-object.md)  
+> 3rd level (3 slots): [bestow curse](compendium/spells/bestow-curse.md), [counterspell](compendium/spells/counterspell.md), [lightning bolt](compendium/spells/lightning-bolt.md)  
+> 4th level (3 slots): [phantasmal killer](compendium/spells/phantasmal-killer.md), [polymorph](compendium/spells/polymorph.md)  
+> 5th level (2 slots): [contact other plane](compendium/spells/contact-other-plane.md), [scrying](compendium/spells/scrying.md)  
+> 6th level (1 slot): [eyebite](compendium/spells/eyebite.md)  
 > 
 > For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12 + the hag's Intelligence modifier, and the spell attack bonus is 4 + the hag's Intelligence modifier.
 > 
-> **Hag Eye.** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and [darkvision](/compendium/rules/senses.md#darkvision) with a radius of 60 feet. If it is destroyed, each coven member takes `3d10` psychic damage and is [blinded](/compendium/rules/conditions.md#blinded) for 24 hours.
+> **Hag Eye.** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and [darkvision](rules/senses.md#darkvision) with a radius of 60 feet. If it is destroyed, each coven member takes `3d10` psychic damage and is [blinded](rules/conditions.md#blinded) for 24 hours.
 > 
-> A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while [blinded](/compendium/rules/conditions.md#blinded). During the ritual, if the hags take any action other than performing the ritual, they must start over.
+> A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while [blinded](rules/conditions.md#blinded). During the ritual, if the hags take any action other than performing the ritual, they must start over.
 ^hag-covens
 
 ## Statblock
 
 ```ad-statblock
 title: Night Hag
-![](/compendium/bestiary/fiend/token/night-hag.png#token)
+![](compendium/bestiary/fiend/token/night-hag.png#token)
 *Medium fiend, Neutral Evil*
 
 - **Armor Class** 17  (natural armor)
@@ -128,9 +128,9 @@ Soul Bag: When an evil humanoid dies as a result of a night hag's Nightmare Haun
 
 ***Innate Spellcasting.*** The hag's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
 
-**At will**: [detect magic](/compendium/spells/detect-magic.md), [magic missile](/compendium/spells/magic-missile.md)
+**At will**: [detect magic](compendium/spells/detect-magic.md), [magic missile](compendium/spells/magic-missile.md)
 
-**2/day each**: [plane shift](/compendium/spells/plane-shift.md) (self only), [ray of enfeeblement](/compendium/spells/ray-of-enfeeblement.md), [sleep](/compendium/spells/sleep.md)
+**2/day each**: [plane shift](compendium/spells/plane-shift.md) (self only), [ray of enfeeblement](compendium/spells/ray-of-enfeeblement.md), [sleep](compendium/spells/sleep.md)
 
 ## Actions
 
@@ -140,8 +140,8 @@ Soul Bag: When an evil humanoid dies as a result of a night hag's Nightmare Haun
 
 ***Etherealness.*** The hag magically enters the Ethereal Plane from the Material Plane, or vice versa. To do so, the hag must have a heartstone in her possession.
 
-***Nightmare Haunting (1/Day).*** While on the Ethereal Plane, the hag magically touches a sleeping humanoid on the Material Plane. A [protection from evil and good](/compendium/spells/protection-from-evil-and-good.md) spell cast on the target prevents this contact, as does a magic circle. As long as the contact persists, the target has dreadful visions. If these visions last for at least 1 hour, the target gains no benefit from its rest, and its hit point maximum is reduced by 5 (`1d10`). If this effect reduces the target's hit point maximum to 0, the target dies, and if the target was evil, its soul is trapped in the hag's soul bag. The reduction to the target's hit point maximum lasts until removed by the  [greater restoration](/compendium/spells/greater-restoration.md) spell or similar magic.
+***Nightmare Haunting (1/Day).*** While on the Ethereal Plane, the hag magically touches a sleeping humanoid on the Material Plane. A [protection from evil and good](compendium/spells/protection-from-evil-and-good.md) spell cast on the target prevents this contact, as does a magic circle. As long as the contact persists, the target has dreadful visions. If these visions last for at least 1 hour, the target gains no benefit from its rest, and its hit point maximum is reduced by 5 (`1d10`). If this effect reduces the target's hit point maximum to 0, the target dies, and if the target was evil, its soul is trapped in the hag's soul bag. The reduction to the target's hit point maximum lasts until removed by the  [greater restoration](compendium/spells/greater-restoration.md) spell or similar magic.
 
-![Night Hag](/compendium/bestiary/legendary-group/night-hag.md)
+![Night Hag](compendium/bestiary/legendary-group/night-hag.md)
 ```
 ^statblock

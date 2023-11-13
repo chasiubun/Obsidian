@@ -28,7 +28,7 @@ While some folk hunt cave fishers to kill them to harvest their filaments, shell
 
 ```ad-statblock
 title: Cave Fisher
-![](/compendium/bestiary/monstrosity/token/cave-fisher.png#token)
+![](compendium/bestiary/monstrosity/token/cave-fisher.png#token)
 *Medium monstrosity, Unaligned*
 
 - **Armor Class** 16  (natural armor)
@@ -58,11 +58,11 @@ title: Cave Fisher
 
 ***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) slashing damage.
 
-***Retract Filament.*** One Large or smaller creature [grappled](/compendium/rules/conditions.md#grappled) by the cave fisher's Adhesive Filament must make a DC 13 Strength saving throw. On a failed save, the target is pulled into an unoccupied space within 5 feet of the cave fisher, and the cave fisher makes one Claw attack against it. Anyone else who was attached to the filament is released. Until the grapple ends on the target, the cave fisher can't use Adhesive Filament.
+***Retract Filament.*** One Large or smaller creature [grappled](rules/conditions.md#grappled) by the cave fisher's Adhesive Filament must make a DC 13 Strength saving throw. On a failed save, the target is pulled into an unoccupied space within 5 feet of the cave fisher, and the cave fisher makes one Claw attack against it. Anyone else who was attached to the filament is released. Until the grapple ends on the target, the cave fisher can't use Adhesive Filament.
 
 ## Bonus Actions
 
-***Adhesive Filament.*** The cave fisher extends a sticky filament up to 60 feet, and the filament adheres to anything that touches it. A creature the filament adheres to is [grappled](/compendium/rules/conditions.md#grappled) by the cave fisher (escape DC 13), and ability checks made to escape this grapple have disadvantage. The filament can be attacked (AC 15; 5 hit points; immunity to poison and psychic damage). A weapon that fails to sever it becomes stuck to it, requiring an action and a successful DC 13 Strength check to pull free. Destroying the filament deals no damage to the cave fisher. The filament crumbles away if the cave fisher takes this bonus action again.
+***Adhesive Filament.*** The cave fisher extends a sticky filament up to 60 feet, and the filament adheres to anything that touches it. A creature the filament adheres to is [grappled](rules/conditions.md#grappled) by the cave fisher (escape DC 13), and ability checks made to escape this grapple have disadvantage. The filament can be attacked (AC 15; 5 hit points; immunity to poison and psychic damage). A weapon that fails to sever it becomes stuck to it, requiring an action and a successful DC 13 Strength check to pull free. Destroying the filament deals no damage to the cave fisher. The filament crumbles away if the cave fisher takes this bonus action again.
 ```
 ^statblock
 

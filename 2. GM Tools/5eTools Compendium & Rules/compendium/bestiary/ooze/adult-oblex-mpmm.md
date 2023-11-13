@@ -34,7 +34,7 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
 
 ```ad-statblock
 title: Adult Oblex
-![](/compendium/bestiary/ooze/token/adult-oblex.png#token)
+![](compendium/bestiary/ooze/token/adult-oblex.png#token)
 *Medium ooze, Typically  Lawful Evil*
 
 - **Armor Class** 14 
@@ -62,7 +62,7 @@ title: Adult Oblex
 
 ***Spellcasting (Psionics).*** The oblex casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 15):
 
-**3/day each**: [charm person](/compendium/spells/charm-person.md) (as 5th-level spell), [detect thoughts](/compendium/spells/detect-thoughts.md), [hypnotic pattern](/compendium/spells/hypnotic-pattern.md)
+**3/day each**: [charm person](compendium/spells/charm-person.md) (as 5th-level spell), [detect thoughts](compendium/spells/detect-thoughts.md), [hypnotic pattern](compendium/spells/hypnotic-pattern.md)
 
 ## Actions
 
@@ -70,9 +70,9 @@ title: Adult Oblex
 
 ***Pseudopod.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (`2d6 + 4`) bludgeoning damage plus 7 (`2d6`) psychic damage.
 
-***Eat Memories.*** The oblex targets one creature it can see within 5 feet of it. The target must succeed on a DC 15 Wisdom saving throw or take 18 (`4d8`) psychic damage and become memory drained until it finishes a short or long rest or until it benefits from the [greater restoration](/compendium/spells/greater-restoration.md) or [heal](/compendium/spells/heal.md) spell. Constructs, Oozes, Plants, and Undead succeed on the save automatically.
+***Eat Memories.*** The oblex targets one creature it can see within 5 feet of it. The target must succeed on a DC 15 Wisdom saving throw or take 18 (`4d8`) psychic damage and become memory drained until it finishes a short or long rest or until it benefits from the [greater restoration](compendium/spells/greater-restoration.md) or [heal](compendium/spells/heal.md) spell. Constructs, Oozes, Plants, and Undead succeed on the save automatically.
 
-While memory drained, the target must roll a `d4` and subtract the number rolled from its ability checks and attack rolls. Each time the target is memory drained beyond the first, the die size increases by one: the `d4` becomes a `d6`, the `d6` becomes a `d8`, and so on until the die becomes a `d20`, at which point the target becomes [unconscious](/compendium/rules/conditions.md#unconscious) for 1 hour. The effect then ends.
+While memory drained, the target must roll a `d4` and subtract the number rolled from its ability checks and attack rolls. Each time the target is memory drained beyond the first, the die size increases by one: the `d4` becomes a `d6`, the `d6` becomes a `d8`, and so on until the die becomes a `d20`, at which point the target becomes [unconscious](rules/conditions.md#unconscious) for 1 hour. The effect then ends.
 
 The oblex learns all the languages a memory-drained target knows and gains all its skill proficiencies.
 

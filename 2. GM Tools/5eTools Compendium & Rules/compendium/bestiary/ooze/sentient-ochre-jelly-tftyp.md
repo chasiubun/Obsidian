@@ -13,7 +13,7 @@ aliases: ["Sentient Ochre Jelly"]
 
 ```ad-statblock
 title: Sentient Ochre Jelly
-![](/compendium/bestiary/ooze/token/sentient-ochre-jelly.png#token)
+![](compendium/bestiary/ooze/token/sentient-ochre-jelly.png#token)
 *Large ooze, Unaligned*
 
 - **Armor Class** 8 

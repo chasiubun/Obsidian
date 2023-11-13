@@ -20,12 +20,12 @@ aliases: ["Swarm of Centipedes"]
 
 > [!note] The Nature of Swarms
 > 
-> The swarms presented here aren't ordinary or benign assemblies of little creatures. They form as a result of some sinister or unwholesome influence. A vampire can summon swarms of bats and rats from the darkest corners of the night, while the very presence of a mummy lord can cause scarab beetles to boil up from the sand-filled depths of its tomb. A hag might have the power to turn swarms of ravens against her enemies, while a [yuan-ti abomination](/compendium/bestiary/monstrosity/yuan-ti-abomination.md) might have [swarms of poisonous snakes](/compendium/bestiary/beast/swarm-of-poisonous-snakes.md) slithering in its wake. Even druids can't charm these swarms, and their aggressiveness is borderline unnatural.
+> The swarms presented here aren't ordinary or benign assemblies of little creatures. They form as a result of some sinister or unwholesome influence. A vampire can summon swarms of bats and rats from the darkest corners of the night, while the very presence of a mummy lord can cause scarab beetles to boil up from the sand-filled depths of its tomb. A hag might have the power to turn swarms of ravens against her enemies, while a [yuan-ti abomination](compendium/bestiary/monstrosity/yuan-ti-abomination.md) might have [swarms of poisonous snakes](compendium/bestiary/beast/swarm-of-poisonous-snakes.md) slithering in its wake. Even druids can't charm these swarms, and their aggressiveness is borderline unnatural.
 ^the-nature-of-swarms
 
 ```ad-statblock
 title: Swarm of Centipedes
-![](/compendium/bestiary/beast/token/swarm-of-centipedes.png#token)
+![](compendium/bestiary/beast/token/swarm-of-centipedes.png#token)
 *Medium beast, Unaligned*
 
 - **Armor Class** 12  (natural armor)
@@ -51,7 +51,7 @@ title: Swarm of Centipedes
 
 ***Bites.*** *Melee Weapon Attack:* +3 to hit, reach 0 ft., one target in the swarm's space. *Hit:* 10 (`4d4`) piercing damage, or 5 (`2d4`) piercing damage if the swarm has half of its hit points or fewer.
 
-A creature reduced to 0 hit points by a swarm of centipedes is stable but [poisoned](/compendium/rules/conditions.md#poisoned) for 1 hour, even after regaining hit points, and [paralyzed](/compendium/rules/conditions.md#paralyzed) while [poisoned](/compendium/rules/conditions.md#poisoned) in this way.
+A creature reduced to 0 hit points by a swarm of centipedes is stable but [poisoned](rules/conditions.md#poisoned) for 1 hour, even after regaining hit points, and [paralyzed](rules/conditions.md#paralyzed) while [poisoned](rules/conditions.md#poisoned) in this way.
 ```
 ^statblock
 

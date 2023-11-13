@@ -17,7 +17,7 @@ This heavily built dinosaur has rows of plates on its back and a flexible, spike
 
 ```ad-statblock
 title: Stegosaurus
-![](/compendium/bestiary/beast/token/stegosaurus.png#token)
+![](compendium/bestiary/beast/token/stegosaurus.png#token)
 *Huge beast (dinosaur), Unaligned*
 
 - **Armor Class** 13  (natural armor)

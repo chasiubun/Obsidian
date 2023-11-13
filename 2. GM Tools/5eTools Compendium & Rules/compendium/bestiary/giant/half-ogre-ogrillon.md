@@ -62,10 +62,10 @@ The half-ogre offspring of an ogre and an orc is also called an ogrillon. An adu
 
 ```ad-statblock
 title: Half-Ogre (Ogrillon)
-![](/compendium/bestiary/giant/token/half-ogre-ogrillon.png#token)
+![](compendium/bestiary/giant/token/half-ogre-ogrillon.png#token)
 *Large giant, Any Chaotic alignment*
 
-- **Armor Class** 12  ([hide armor](/compendium/items/hide-armor.md))
+- **Armor Class** 12  ([hide armor](compendium/items/hide-armor.md))
 - **Hit Points** 30 (`4d10 + 8`)
 - **Speed** 30 ft.
 

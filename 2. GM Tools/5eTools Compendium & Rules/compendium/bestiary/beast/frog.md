@@ -15,7 +15,7 @@ A frog has no effective attacks. It feeds on small insects and typically dwells 
 
 ```ad-statblock
 title: Frog
-![](/compendium/bestiary/beast/token/frog.png#token)
+![](compendium/bestiary/beast/token/frog.png#token)
 *Tiny beast, Unaligned*
 
 - **Armor Class** 11 

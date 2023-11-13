@@ -48,7 +48,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 
 ```ad-statblock
 title: Star Spawn Seer
-![](/compendium/bestiary/aberration/token/star-spawn-seer.png#token)
+![](compendium/bestiary/aberration/token/star-spawn-seer.png#token)
 *Medium aberration, Typically  Neutral Evil*
 
 - **Armor Class** 17  (natural armor)
@@ -78,7 +78,7 @@ The seer takes 5 (`1d10`) force damage if it ends its turn inside an object.
 
 ***Multiattack.*** The seer makes two Comet Staff or Psychic Orb attacks.
 
-***Comet Staff.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 10 (`1d8 + 6`) bludgeoning damage plus 18 (`4d8`) psychic damage, and if the target is a creature, it must succeed on a DC 19 Constitution saving throw or be [incapacitated](/compendium/rules/conditions.md#incapacitated) until the end of its next turn.
+***Comet Staff.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 10 (`1d8 + 6`) bludgeoning damage plus 18 (`4d8`) psychic damage, and if the target is a creature, it must succeed on a DC 19 Constitution saving throw or be [incapacitated](rules/conditions.md#incapacitated) until the end of its next turn.
 
 ***Psychic Orb.*** *Ranged Spell Attack:* +11 to hit, range 120 feet, one creature. *Hit:* 27 (`5d10`) psychic damage.
 

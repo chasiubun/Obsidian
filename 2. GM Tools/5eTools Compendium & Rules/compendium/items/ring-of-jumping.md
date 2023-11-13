@@ -14,6 +14,6 @@ aliases:
 *Ring, major, uncommon (requires attunement)*  
 
 
-While wearing this ring, you can cast the [jump](/compendium/spells/jump.md) spell from it as a bonus action at will, but can target only yourself when you do so.
+While wearing this ring, you can cast the [jump](compendium/spells/jump.md) spell from it as a bonus action at will, but can target only yourself when you do so.
 
 *Source: Dungeon Master's Guide p. 191. Available in the SRD.*

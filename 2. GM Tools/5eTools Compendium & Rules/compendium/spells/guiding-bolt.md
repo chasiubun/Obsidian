@@ -24,6 +24,6 @@ A flash of light streaks toward a creature of your choice within range. Make a r
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
 
-**Classes**: [Cleric](/compendium/classes/cleric.md), [Druid (Circle of Stars)](/compendium/classes/druid-circle-of-stars-tce.md), [Paladin (Oath of Glory)](/compendium/classes/paladin-oath-of-glory-tce.md), [Sorcerer (Divine Soul)](/compendium/classes/sorcerer-divine-soul-xge.md), [Warlock (The Celestial)](/compendium/classes/warlock-the-celestial-xge.md)
+**Classes**: [Cleric](compendium/classes/cleric.md), [Druid (Circle of Stars)](compendium/classes/druid-circle-of-stars-tce.md), [Paladin (Oath of Glory)](compendium/classes/paladin-oath-of-glory-tce.md), [Sorcerer (Divine Soul)](compendium/classes/sorcerer-divine-soul-xge.md), [Warlock (The Celestial)](compendium/classes/warlock-the-celestial-xge.md)
 
 *Source: Player's Handbook p. 248. Available in the SRD and the Basic Rules.*

@@ -27,7 +27,7 @@ Like dwarves, duergar have strong constitutions. Adding to their physical stamin
 
 ## Born of Darkness
 
-The Underdark is saturated with strange magical power, which the duergar absorbed over generations of imprisonment. A duergar can increase its size and strength for a short time, becoming a powerful ogre-sized warrior. If it faces a foe it can't fight, or when spying on creatures approaching its territory, it can just as easily become [invisible](/compendium/rules/conditions.md#invisible) to slip away into the darkness. Eons spent in the Underdark also sharpened their [darkvision](/compendium/rules/senses.md#darkvision), allowing them to see twice as far as other dwarves. This keen eyesight comes at a cost, however, as a duergar's vision is compromised by sunlight.
+The Underdark is saturated with strange magical power, which the duergar absorbed over generations of imprisonment. A duergar can increase its size and strength for a short time, becoming a powerful ogre-sized warrior. If it faces a foe it can't fight, or when spying on creatures approaching its territory, it can just as easily become [invisible](rules/conditions.md#invisible) to slip away into the darkness. Eons spent in the Underdark also sharpened their [darkvision](rules/senses.md#darkvision), allowing them to see twice as far as other dwarves. This keen eyesight comes at a cost, however, as a duergar's vision is compromised by sunlight.
 
 ## Infernal Master
 
@@ -37,10 +37,10 @@ Asmodeus, Lord of the Nine Hells, has been known to impersonate duergar gods in 
 
 ```ad-statblock
 title: Duergar Spy
-![](/compendium/bestiary/humanoid/token/duergar-spy.png#token)
+![](compendium/bestiary/humanoid/token/duergar-spy.png#token)
 *Medium humanoid (dwarf), Lawful Evil*
 
-- **Armor Class** 15  ([studded leather](/compendium/items/studded-leather-armor.md))
+- **Armor Class** 15  ([studded leather](compendium/items/studded-leather-armor.md))
 - **Hit Points** 33 (`6d8 + 6`)
 - **Speed** 25 ft.
 
@@ -59,11 +59,11 @@ title: Duergar Spy
 
 ***Cunning Action.*** On each of its turns, the spy can use a bonus action to take the Dash, Disengage, or Hide action.
 
-***Duergar Resilience.*** The spy has advantage on saving throws against poison, spells, and illusions, as well as to resist being [charmed](/compendium/rules/conditions.md#charmed) or [paralyzed](/compendium/rules/conditions.md#paralyzed).
+***Duergar Resilience.*** The spy has advantage on saving throws against poison, spells, and illusions, as well as to resist being [charmed](rules/conditions.md#charmed) or [paralyzed](rules/conditions.md#paralyzed).
 
-***Sneak Attack.*** Once per turn, the spy can deal an extra 7 (`2d6`) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the spy that isn't [incapacitated](/compendium/rules/conditions.md#incapacitated) and the spy doesn't have disadvantage on the attack roll.
+***Sneak Attack.*** Once per turn, the spy can deal an extra 7 (`2d6`) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the spy that isn't [incapacitated](rules/conditions.md#incapacitated) and the spy doesn't have disadvantage on the attack roll.
 
-***Sunlight Sensitivity.*** While in sunlight, the spy has disadvantage on attack rolls, as well as on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the spy has disadvantage on attack rolls, as well as on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
@@ -75,6 +75,6 @@ title: Duergar Spy
 
 ***Hand Crossbow.*** *Ranged Weapon Attack:* +5 to hit, range 30/120 ft., one target. *Hit:* 6 (`1d6 + 3`) piercing damage.
 
-***Invisibility (Recharges after a Short or Long Rest).*** The spy magically turns [invisible](/compendium/rules/conditions.md#invisible) until it attacks, deals damage, casts a spell, or uses its Enlarge, or until its [concentration](/compendium/rules/conditions.md#concentration) is broken, up to 1 hour (as if concentrating on a spell). Any equipment the spy wears or carries is [invisible](/compendium/rules/conditions.md#invisible) with it.
+***Invisibility (Recharges after a Short or Long Rest).*** The spy magically turns [invisible](rules/conditions.md#invisible) until it attacks, deals damage, casts a spell, or uses its Enlarge, or until its [concentration](rules/conditions.md#concentration) is broken, up to 1 hour (as if concentrating on a spell). Any equipment the spy wears or carries is [invisible](rules/conditions.md#invisible) with it.
 ```
 ^statblock

@@ -28,10 +28,10 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 
 ```ad-statblock
 title: Derro Savant
-![](/compendium/bestiary/aberration/token/derro-savant.png#token)
+![](compendium/bestiary/aberration/token/derro-savant.png#token)
 *Small aberration (sorcerer), Typically  Chaotic Evil*
 
-- **Armor Class** 13  ([leather armor](/compendium/items/leather-armor.md))
+- **Armor Class** 13  ([leather armor](compendium/items/leather-armor.md))
 - **Hit Points** 36 (`8d6 + 8`)
 - **Speed** 30 ft.
 
@@ -50,13 +50,13 @@ title: Derro Savant
 
 ***Magic Resistance.*** The derro has advantage on saving throws against spells and other magical effects.
 
-***Sunlight Sensitivity.*** While in sunlight, the derro has disadvantage on attack rolls, as well as on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the derro has disadvantage on attack rolls, as well as on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ***Spellcasting.*** The derro casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 12):
 
-**At will**: [mage hand](/compendium/spells/mage-hand.md), [message](/compendium/spells/message.md), [prestidigitation](/compendium/spells/prestidigitation.md)
+**At will**: [mage hand](compendium/spells/mage-hand.md), [message](compendium/spells/message.md), [prestidigitation](compendium/spells/prestidigitation.md)
 
-**1/day each**: [invisibility](/compendium/spells/invisibility.md), [sleep](/compendium/spells/sleep.md), [spider climb](/compendium/spells/spider-climb.md)
+**1/day each**: [invisibility](compendium/spells/invisibility.md), [sleep](compendium/spells/sleep.md), [spider climb](compendium/spells/spider-climb.md)
 
 ## Actions
 

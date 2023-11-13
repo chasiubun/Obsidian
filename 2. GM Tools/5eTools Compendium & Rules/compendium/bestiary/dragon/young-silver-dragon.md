@@ -89,7 +89,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ```ad-statblock
 title: Young Silver Dragon
-![](/compendium/bestiary/dragon/token/young-silver-dragon.png#token)
+![](compendium/bestiary/dragon/token/young-silver-dragon.png#token)
 *Large dragon, Lawful Good*
 
 - **Armor Class** 18  (natural armor)
@@ -118,7 +118,7 @@ title: Young Silver Dragon
 ***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
 
 - **Cold Breath.** The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 54 (`12d8`) cold damage on a failed save, or half as much damage on a successful one.  
-- **Paralyzing Breath.** The dragon exhales paralyzing gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or be [paralyzed](/compendium/rules/conditions.md#paralyzed) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
+- **Paralyzing Breath.** The dragon exhales paralyzing gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or be [paralyzed](rules/conditions.md#paralyzed) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 ```
 ^statblock
 

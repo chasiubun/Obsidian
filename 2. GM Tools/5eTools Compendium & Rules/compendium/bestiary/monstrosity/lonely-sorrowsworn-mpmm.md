@@ -26,7 +26,7 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 
 ```ad-statblock
 title: Lonely Sorrowsworn
-![](/compendium/bestiary/monstrosity/token/lonely-sorrowsworn.png#token)
+![](compendium/bestiary/monstrosity/token/lonely-sorrowsworn.png#token)
 *Medium monstrosity, Typically  Neutral Evil*
 
 - **Armor Class** 16  (natural armor)
@@ -54,9 +54,9 @@ title: Lonely Sorrowsworn
 
 ***Multiattack.*** The sorrowsworn makes one Harpoon Arm attack, and it uses Sorrowful Embrace.
 
-***Harpoon Arm.*** *Melee Weapon Attack:* +7 to hit, reach 60 ft., one target. *Hit:* 21 (`4d8 + 3`) piercing damage, and the target is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 15) if it is a Large or smaller creature. The sorrowsworn has two harpoon arms and can grapple up to two creatures at once.
+***Harpoon Arm.*** *Melee Weapon Attack:* +7 to hit, reach 60 ft., one target. *Hit:* 21 (`4d8 + 3`) piercing damage, and the target is [grappled](rules/conditions.md#grappled) (escape DC 15) if it is a Large or smaller creature. The sorrowsworn has two harpoon arms and can grapple up to two creatures at once.
 
-***Sorrowful Embrace.*** Each creature [grappled](/compendium/rules/conditions.md#grappled) by the sorrowsworn must make a DC 15 Wisdom saving throw, taking 18 (`4d8`) psychic damage on a failed save, or half as much damage on a successful one. In either case, the sorrowsworn pulls each of those creatures up to 30 feet straight toward it.
+***Sorrowful Embrace.*** Each creature [grappled](rules/conditions.md#grappled) by the sorrowsworn must make a DC 15 Wisdom saving throw, taking 18 (`4d8`) psychic damage on a failed save, or half as much damage on a successful one. In either case, the sorrowsworn pulls each of those creatures up to 30 feet straight toward it.
 ```
 ^statblock
 

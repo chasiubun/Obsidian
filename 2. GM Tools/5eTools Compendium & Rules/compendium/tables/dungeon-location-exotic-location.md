@@ -33,5 +33,5 @@ aliases: ["Dungeon Location; Exotic Location"]
 | 17 | In a volcano |
 | 18 | On the back of a Gargantuan living creature |
 | 19 | Sealed inside a magical dome of force |
-| 20 | Inside a [Mordenkainen's magnificent mansion](/compendium/spells/mordenkainens-magnificent-mansion.md) |
+| 20 | Inside a [Mordenkainen's magnificent mansion](compendium/spells/mordenkainens-magnificent-mansion.md) |
 ^exotic-location

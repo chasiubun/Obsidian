@@ -11,4 +11,4 @@ aliases: ["Mire the Mind"]
 
 **Prerequisite**: 5th-level Warlock
 
-You can cast [slow](/compendium/spells/slow.md) once using a warlock spell slot. You can't do so again until you finish a long rest.
+You can cast [slow](compendium/spells/slow.md) once using a warlock spell slot. You can't do so again until you finish a long rest.

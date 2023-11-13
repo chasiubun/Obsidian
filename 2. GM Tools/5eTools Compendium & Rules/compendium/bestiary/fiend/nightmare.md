@@ -25,7 +25,7 @@ Nightmares don't appear naturally in the multiverse. They must be created from p
 
 ```ad-statblock
 title: Nightmare
-![](/compendium/bestiary/fiend/token/nightmare.png#token)
+![](compendium/bestiary/fiend/token/nightmare.png#token)
 *Large fiend, Neutral Evil*
 
 - **Armor Class** 13  (natural armor)

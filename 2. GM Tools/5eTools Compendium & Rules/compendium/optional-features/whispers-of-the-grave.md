@@ -11,4 +11,4 @@ aliases: ["Whispers of the Grave"]
 
 **Prerequisite**: 9th-level Warlock
 
-You can cast [speak with dead](/compendium/spells/speak-with-dead.md) at will, without expending a spell slot.
+You can cast [speak with dead](compendium/spells/speak-with-dead.md) at will, without expending a spell slot.

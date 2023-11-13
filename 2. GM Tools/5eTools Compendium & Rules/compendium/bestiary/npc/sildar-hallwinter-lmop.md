@@ -15,10 +15,10 @@ Sildar Hallwinter is a retired soldier and sellsword who hails from the city of 
 
 ```ad-statblock
 title: Sildar Hallwinter
-![](/compendium/bestiary/npc/token/sildar-hallwinter.png#token)
+![](compendium/bestiary/npc/token/sildar-hallwinter.png#token)
 *Medium humanoid (human), Neutral Good*
 
-- **Armor Class** 16  ([chain mail](/compendium/items/chain-mail.md))
+- **Armor Class** 16  ([chain mail](compendium/items/chain-mail.md))
 - **Hit Points** 27 (`5d8 + 5`)
 - **Speed** 30 ft.
 

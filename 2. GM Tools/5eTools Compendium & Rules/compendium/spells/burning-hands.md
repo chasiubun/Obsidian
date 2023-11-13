@@ -30,6 +30,6 @@ The fire ignites any flammable objects in the area that aren't being worn or car
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
 
-**Classes**: [Cleric (Light Domain)](/compendium/classes/cleric-light-domain.md), [Druid (Circle of Wildfire)](/compendium/classes/druid-circle-of-wildfire-tce.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Monk (Way of the Sun Soul)](/compendium/classes/monk-way-of-the-sun-soul-xge.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Sorcerer](/compendium/classes/sorcerer.md), [Warlock (The Fiend)](/compendium/classes/warlock-the-fiend.md), [Warlock (The Genie)](/compendium/classes/warlock-the-genie-tce.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Cleric (Light Domain)](compendium/classes/cleric-light-domain.md), [Druid (Circle of Wildfire)](compendium/classes/druid-circle-of-wildfire-tce.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Monk (Way of the Sun Soul)](compendium/classes/monk-way-of-the-sun-soul-xge.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Sorcerer](compendium/classes/sorcerer.md), [Warlock (The Fiend)](compendium/classes/warlock-the-fiend.md), [Warlock (The Genie)](compendium/classes/warlock-the-genie-tce.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 220. Available in the SRD and the Basic Rules.*

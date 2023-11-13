@@ -17,7 +17,7 @@ aliases: ["Hyena"]
 
 ```ad-statblock
 title: Hyena
-![](/compendium/bestiary/beast/token/hyena.png#token)
+![](compendium/bestiary/beast/token/hyena.png#token)
 *Medium beast, Unaligned*
 
 - **Armor Class** 11 
@@ -37,7 +37,7 @@ title: Hyena
 
 ## Traits
 
-***Pack Tactics.*** The hyena has advantage on an attack roll against a creature if at least one of the hyena's allies is within 5 feet of the creature and the ally isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Pack Tactics.*** The hyena has advantage on an attack roll against a creature if at least one of the hyena's allies is within 5 feet of the creature and the ally isn't [incapacitated](rules/conditions.md#incapacitated).
 
 ## Actions
 

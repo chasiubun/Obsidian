@@ -29,6 +29,6 @@ A mental alarm alerts you with a ping in your mind if you are within 1 mile of t
 
 An audible alarm produces the sound of a hand bell for 10 seconds within 60 feet.
 
-**Classes**: [Artificer](/compendium/classes/artificer-tce.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Paladin (Oath of the Watchers)](/compendium/classes/paladin-oath-of-the-watchers-tce.md), [Ranger](/compendium/classes/ranger.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Sorcerer (Clockwork Soul)](/compendium/classes/sorcerer-clockwork-soul-tce.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Artificer](compendium/classes/artificer-tce.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Paladin (Oath of the Watchers)](compendium/classes/paladin-oath-of-the-watchers-tce.md), [Ranger](compendium/classes/ranger.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Sorcerer (Clockwork Soul)](compendium/classes/sorcerer-clockwork-soul-tce.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 211. Available in the SRD.*

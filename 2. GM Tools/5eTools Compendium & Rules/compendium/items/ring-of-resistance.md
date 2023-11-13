@@ -18,16 +18,16 @@ You have resistance to one damage type while wearing this ring. The gem in the r
 
 | dice: d10 | Damage Type | Gem |
 |-----------|-------------|-----|
-| 1 | [Acid](/compendium/items/ring-of-acid-resistance.md) | Pearl |
-| 2 | [Cold](/compendium/items/ring-of-cold-resistance.md) | Tourmaline |
-| 3 | [Fire](/compendium/items/ring-of-fire-resistance.md) | Garnet |
-| 4 | [Force](/compendium/items/ring-of-force-resistance.md) | Sapphire |
-| 5 | [Lightning](/compendium/items/ring-of-lightning-resistance.md) | Citrine |
-| 6 | [Necrotic](/compendium/items/ring-of-necrotic-resistance.md) | Jet |
-| 7 | [Poison](/compendium/items/ring-of-poison-resistance.md) | Amethyst |
-| 8 | [Psychic](/compendium/items/ring-of-psychic-resistance.md) | Jade |
-| 9 | [Radiant](/compendium/items/ring-of-radiant-resistance.md) | Topaz |
-| 10 | [Thunder](/compendium/items/ring-of-thunder-resistance.md) | Spinel |
+| 1 | [Acid](compendium/items/ring-of-acid-resistance.md) | Pearl |
+| 2 | [Cold](compendium/items/ring-of-cold-resistance.md) | Tourmaline |
+| 3 | [Fire](compendium/items/ring-of-fire-resistance.md) | Garnet |
+| 4 | [Force](compendium/items/ring-of-force-resistance.md) | Sapphire |
+| 5 | [Lightning](compendium/items/ring-of-lightning-resistance.md) | Citrine |
+| 6 | [Necrotic](compendium/items/ring-of-necrotic-resistance.md) | Jet |
+| 7 | [Poison](compendium/items/ring-of-poison-resistance.md) | Amethyst |
+| 8 | [Psychic](compendium/items/ring-of-psychic-resistance.md) | Jade |
+| 9 | [Radiant](compendium/items/ring-of-radiant-resistance.md) | Topaz |
+| 10 | [Thunder](compendium/items/ring-of-thunder-resistance.md) | Spinel |
 ^damage-type-gem
 
 *Source: Dungeon Master's Guide p. 192*

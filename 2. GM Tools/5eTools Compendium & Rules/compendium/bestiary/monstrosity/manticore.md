@@ -39,7 +39,7 @@ The manticores' greatest territorial rivals include chimeras, griffons, perytons
 
 ```ad-statblock
 title: Manticore
-![](/compendium/bestiary/monstrosity/token/manticore.png#token)
+![](compendium/bestiary/monstrosity/token/manticore.png#token)
 *Large monstrosity, Lawful Evil*
 
 - **Armor Class** 14  (natural armor)

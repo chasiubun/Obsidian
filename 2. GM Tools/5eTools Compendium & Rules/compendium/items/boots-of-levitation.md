@@ -14,6 +14,6 @@ aliases:
 *Wondrous Item, major, rare (requires attunement)*  
 
 
-While you wear these boots, you can use an action to cast the [levitate](/compendium/spells/levitate.md) spell on yourself at will.
+While you wear these boots, you can use an action to cast the [levitate](compendium/spells/levitate.md) spell on yourself at will.
 
 *Source: Dungeon Master's Guide p. 155. Available in the SRD.*

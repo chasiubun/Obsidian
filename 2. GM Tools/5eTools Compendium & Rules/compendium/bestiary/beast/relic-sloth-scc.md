@@ -15,7 +15,7 @@ For long expeditions, Lorehold mages often employ relic sloths to haul adventuri
 
 ```ad-statblock
 title: Relic Sloth
-![](/compendium/bestiary/beast/token/relic-sloth.png#token)
+![](compendium/bestiary/beast/token/relic-sloth.png#token)
 *Huge beast, Unaligned*
 
 - **Armor Class** 13  (natural armor)
@@ -35,10 +35,10 @@ title: Relic Sloth
 
 ## Actions
 
-***Claws.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 14 (`2d8 + 5`) slashing damage, and the target is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 15). The relic sloth can grapple no more than two targets at a time.
+***Claws.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 14 (`2d8 + 5`) slashing damage, and the target is [grappled](rules/conditions.md#grappled) (escape DC 15). The relic sloth can grapple no more than two targets at a time.
 
 ## Reactions
 
-***Slow but Sturdy.*** When the relic sloth is subjected to an effect that would move it out of its current space or knock it [prone](/compendium/rules/conditions.md#prone), it is neither moved nor knocked [prone](/compendium/rules/conditions.md#prone).
+***Slow but Sturdy.*** When the relic sloth is subjected to an effect that would move it out of its current space or knock it [prone](rules/conditions.md#prone), it is neither moved nor knocked [prone](rules/conditions.md#prone).
 ```
 ^statblock

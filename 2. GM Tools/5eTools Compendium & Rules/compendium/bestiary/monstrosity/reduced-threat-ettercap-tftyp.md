@@ -13,7 +13,7 @@ aliases: ["Reduced-Threat Ettercap"]
 
 ```ad-statblock
 title: Reduced-Threat Ettercap
-![](/compendium/bestiary/monstrosity/token/reduced-threat-ettercap.png#token)
+![](compendium/bestiary/monstrosity/token/reduced-threat-ettercap.png#token)
 *Medium monstrosity, Neutral Evil*
 
 - **Armor Class** 13  (natural armor)
@@ -45,10 +45,10 @@ title: Reduced-Threat Ettercap
 
 ***Multiattack.*** The ettercap makes two attacks: one with its bite and one with its claws.
 
-***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 6 (`1d8 + 2`) piercing damage plus 4 (`1d8`) poison damage. The target must succeed on a DC 9 Constitution saving throw or be [poisoned](/compendium/rules/conditions.md#poisoned) for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 6 (`1d8 + 2`) piercing damage plus 4 (`1d8`) poison damage. The target must succeed on a DC 9 Constitution saving throw or be [poisoned](rules/conditions.md#poisoned) for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Claws.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 7 (`2d4 + 2`) slashing damage.
 
-***Web (Recharge 5-6).*** *Ranged Weapon Attack:* +2 to hit, range 30/60 ft., one Large or smaller creature. *Hit:* The creature is [restrained](/compendium/rules/conditions.md#restrained) by webbing. As an action, the [restrained](/compendium/rules/conditions.md#restrained) creature can make a DC 9 Strength check, escaping from the webbing on a success. The effect ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, is vulnerable to fire damage and immune to bludgeoning, poison and psychic damage.
+***Web (Recharge 5-6).*** *Ranged Weapon Attack:* +2 to hit, range 30/60 ft., one Large or smaller creature. *Hit:* The creature is [restrained](rules/conditions.md#restrained) by webbing. As an action, the [restrained](rules/conditions.md#restrained) creature can make a DC 9 Strength check, escaping from the webbing on a success. The effect ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, is vulnerable to fire damage and immune to bludgeoning, poison and psychic damage.
 ```
 ^statblock

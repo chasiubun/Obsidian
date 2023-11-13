@@ -25,11 +25,11 @@ The Fiend lets you choose from an expanded list of spells when you learn a warlo
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [burning hands](/compendium/spells/burning-hands.md), [command](/compendium/spells/command.md) |
-| 2nd | [blindness/deafness](/compendium/spells/blindness-deafness.md), [scorching ray](/compendium/spells/scorching-ray.md) |
-| 3rd | [fireball](/compendium/spells/fireball.md), [stinking cloud](/compendium/spells/stinking-cloud.md) |
-| 4th | [fire shield](/compendium/spells/fire-shield.md), [wall of fire](/compendium/spells/wall-of-fire.md) |
-| 5th | [flame strike](/compendium/spells/flame-strike.md), [hallow](/compendium/spells/hallow.md) |
+| 1st | [burning hands](compendium/spells/burning-hands.md), [command](compendium/spells/command.md) |
+| 2nd | [blindness/deafness](compendium/spells/blindness-deafness.md), [scorching ray](compendium/spells/scorching-ray.md) |
+| 3rd | [fireball](compendium/spells/fireball.md), [stinking cloud](compendium/spells/stinking-cloud.md) |
+| 4th | [fire shield](compendium/spells/fire-shield.md), [wall of fire](compendium/spells/wall-of-fire.md) |
+| 5th | [flame strike](compendium/spells/flame-strike.md), [hallow](compendium/spells/hallow.md) |
 ^fiend-expanded-spells
 
 ### Dark One's Blessing (Level 1)

@@ -24,10 +24,10 @@ Druids dwell in forests and other secluded wilderness locations, where they prot
 
 ```ad-statblock
 title: Druid
-![](/compendium/bestiary/humanoid/token/druid.png#token)
+![](compendium/bestiary/humanoid/token/druid.png#token)
 *Medium humanoid (any race), Any alignment*
 
-- **Armor Class** 11  (16 with [barkskin](/compendium/spells/barkskin.md))
+- **Armor Class** 11  (16 with [barkskin](compendium/spells/barkskin.md))
 - **Hit Points** 27 (`5d8 + 5`)
 - **Speed** 30 ft.
 
@@ -44,15 +44,15 @@ title: Druid
 
 ***Spellcasting.*** The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:
 
-**Cantrips (at will)**: [druidcraft](/compendium/spells/druidcraft.md), [produce flame](/compendium/spells/produce-flame.md), [shillelagh](/compendium/spells/shillelagh.md)
+**Cantrips (at will)**: [druidcraft](compendium/spells/druidcraft.md), [produce flame](compendium/spells/produce-flame.md), [shillelagh](compendium/spells/shillelagh.md)
 
-**1st level (4 slots)**: [entangle](/compendium/spells/entangle.md), [longstrider](/compendium/spells/longstrider.md), [speak with animals](/compendium/spells/speak-with-animals.md), [thunderwave](/compendium/spells/thunderwave.md)
+**1st level (4 slots)**: [entangle](compendium/spells/entangle.md), [longstrider](compendium/spells/longstrider.md), [speak with animals](compendium/spells/speak-with-animals.md), [thunderwave](compendium/spells/thunderwave.md)
 
-**2nd level (3 slots)**: [animal messenger](/compendium/spells/animal-messenger.md), [barkskin](/compendium/spells/barkskin.md)
+**2nd level (3 slots)**: [animal messenger](compendium/spells/animal-messenger.md), [barkskin](compendium/spells/barkskin.md)
 
 ## Actions
 
-***Quarterstaff.*** *Melee Weapon Attack:* +2 to hit (+4 to hit with shillelagh), reach 5 ft., one target. *Hit:* 3 (`1d6`) bludgeoning damage, 4 (`1d8`) bludgeoning damage if wielded with two hands, or 6 (`1d8 + 2`) bludgeoning damage with [shillelagh](/compendium/spells/shillelagh.md).
+***Quarterstaff.*** *Melee Weapon Attack:* +2 to hit (+4 to hit with shillelagh), reach 5 ft., one target. *Hit:* 3 (`1d6`) bludgeoning damage, 4 (`1d8`) bludgeoning damage if wielded with two hands, or 6 (`1d8 + 2`) bludgeoning damage with [shillelagh](compendium/spells/shillelagh.md).
 ```
 ^statblock
 

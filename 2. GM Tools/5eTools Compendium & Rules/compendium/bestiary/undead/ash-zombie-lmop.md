@@ -25,7 +25,7 @@ The first time the zombie takes damage, any living creature within 5 feet of the
 
 ```ad-statblock
 title: Ash Zombie
-![](/compendium/bestiary/undead/token/ash-zombie.png#token)
+![](compendium/bestiary/undead/token/ash-zombie.png#token)
 *Medium undead, Neutral Evil*
 
 - **Armor Class** 8 

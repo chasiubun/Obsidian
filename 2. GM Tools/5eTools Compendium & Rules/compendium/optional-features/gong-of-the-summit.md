@@ -11,4 +11,4 @@ aliases: ["Gong of the Summit"]
 
 **Prerequisite**: 6th-level Monk
 
-You can spend 3 ki points to cast [shatter](/compendium/spells/shatter.md).
+You can spend 3 ki points to cast [shatter](compendium/spells/shatter.md).

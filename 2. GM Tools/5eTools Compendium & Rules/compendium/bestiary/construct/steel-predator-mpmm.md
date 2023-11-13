@@ -24,7 +24,7 @@ If all goes according to plan, a steel predator slays its target and then volunt
 
 ```ad-statblock
 title: Steel Predator
-![](/compendium/bestiary/construct/token/steel-predator.png#token)
+![](compendium/bestiary/construct/token/steel-predator.png#token)
 *Large construct, Typically  Lawful Neutral*
 
 - **Armor Class** 20  (natural armor)
@@ -50,7 +50,7 @@ title: Steel Predator
 
 ***Spellcasting.*** The steel predator casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability:
 
-**3/day each**: [dimension door](/compendium/spells/dimension-door.md) (self only), [plane shift](/compendium/spells/plane-shift.md) (self only)
+**3/day each**: [dimension door](compendium/spells/dimension-door.md) (self only), [plane shift](compendium/spells/plane-shift.md) (self only)
 
 ## Actions
 
@@ -60,7 +60,7 @@ title: Steel Predator
 
 ***Claw.*** *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 16 (`2d8 + 7`) force damage.
 
-***Stunning Roar (Recharge 5-6).*** The steel predator emits a roar in a 60-foot cone. Each creature in that area must make a DC 19 Constitution saving throw. On a failed save, a creature takes 33 (`6d10`) thunder damage, drops everything it's holding, and is [stunned](/compendium/rules/conditions.md#stunned) for 1 minute. The [stunned](/compendium/rules/conditions.md#stunned) creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. On a successful save, a creature takes half as much damage and isn't [stunned](/compendium/rules/conditions.md#stunned).
+***Stunning Roar (Recharge 5-6).*** The steel predator emits a roar in a 60-foot cone. Each creature in that area must make a DC 19 Constitution saving throw. On a failed save, a creature takes 33 (`6d10`) thunder damage, drops everything it's holding, and is [stunned](rules/conditions.md#stunned) for 1 minute. The [stunned](rules/conditions.md#stunned) creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. On a successful save, a creature takes half as much damage and isn't [stunned](rules/conditions.md#stunned).
 ```
 ^statblock
 

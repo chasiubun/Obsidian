@@ -15,7 +15,7 @@ In a cavern within the glacial rift (Against the Giants), a group of ice toads v
 
 ```ad-statblock
 title: Giant Ice Toad
-![](/compendium/bestiary/monstrosity/token/giant-ice-toad.png#token)
+![](compendium/bestiary/monstrosity/token/giant-ice-toad.png#token)
 *Large monstrosity, Neutral*
 
 - **Armor Class** 14  (natural armor)
@@ -43,10 +43,10 @@ title: Giant Ice Toad
 
 ## Actions
 
-***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) piercing damage, and the target is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 13). Until this grapple ends, the target is [restrained](/compendium/rules/conditions.md#restrained), and the toad can't bite another target.
+***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) piercing damage, and the target is [grappled](rules/conditions.md#grappled) (escape DC 13). Until this grapple ends, the target is [restrained](rules/conditions.md#restrained), and the toad can't bite another target.
 
-***Swallow.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one Medium or smaller creature the toad is grappling. *Hit:* 10 (`2d6 + 3`) piercing damage, the target is swallowed, and the grapple ends. The swallowed target is [blinded](/compendium/rules/conditions.md#blinded) and [restrained](/compendium/rules/conditions.md#restrained), it has total cover against attacks and other effects outside the toad, and it takes 10 (`3d6`) acid damage and 11 (`2d10`) cold damage at the start of each of the toad's turns. The toad can have only one target swallowed at a time.
+***Swallow.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one Medium or smaller creature the toad is grappling. *Hit:* 10 (`2d6 + 3`) piercing damage, the target is swallowed, and the grapple ends. The swallowed target is [blinded](rules/conditions.md#blinded) and [restrained](rules/conditions.md#restrained), it has total cover against attacks and other effects outside the toad, and it takes 10 (`3d6`) acid damage and 11 (`2d10`) cold damage at the start of each of the toad's turns. The toad can have only one target swallowed at a time.
 
-If the toad dies, a swallowed creature is no longer [restrained](/compendium/rules/conditions.md#restrained) by it and can escape from the corpse using 5 feet of movement, exiting [prone](/compendium/rules/conditions.md#prone).
+If the toad dies, a swallowed creature is no longer [restrained](rules/conditions.md#restrained) by it and can escape from the corpse using 5 feet of movement, exiting [prone](rules/conditions.md#prone).
 ```
 ^statblock

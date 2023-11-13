@@ -13,7 +13,7 @@ aliases: ["Prince Kirina"]
 
 ```ad-statblock
 title: Prince Kirina
-![](/compendium/bestiary/npc/token/prince-kirina.png#token)
+![](compendium/bestiary/npc/token/prince-kirina.png#token)
 *Medium humanoid (any race), Any alignment*
 
 - **Armor Class** 11 
@@ -33,7 +33,7 @@ title: Prince Kirina
 
 ## Traits
 
-***Royal Blood.*** If Kirina is reduced to half of his hit points or fewer, he uses the [Dodge](/compendium/rules/actions.md#Dodge) action to avoid taking further damage.
+***Royal Blood.*** If Kirina is reduced to half of his hit points or fewer, he uses the [Dodge](rules/actions.md#Dodge) action to avoid taking further damage.
 
 ## Actions
 

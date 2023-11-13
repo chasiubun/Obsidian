@@ -38,7 +38,7 @@ The dragon has resistance to necrotic damage.
 
 ### Skill Proficiency: Stealth
 
-The dragon's proficiency bonus is doubled for its Dexterity ([Stealth](/compendium/rules/skills.md#Stealth)) checks.
+The dragon's proficiency bonus is doubled for its Dexterity ([Stealth](rules/skills.md#Stealth)) checks.
 
 ### Living Shadow
 
@@ -46,11 +46,11 @@ While in dim light or darkness, the dragon has resistance to damage that isn't f
 
 ### Shadow Stealth
 
-While in dim light or darkness, the dragon can take the [Hide](/compendium/rules/actions.md#Hide) action as a bonus action.
+While in dim light or darkness, the dragon can take the [Hide](rules/actions.md#Hide) action as a bonus action.
 
 ### Sunlight Sensitivity
 
-While in sunlight, the dragon has disadvantage on attack rolls, as well as on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+While in sunlight, the dragon has disadvantage on attack rolls, as well as on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ### New Action: Bite
 
@@ -64,7 +64,7 @@ Any damage-dealing breath weapon possessed by the dragon deals necrotic damage i
 
 ```ad-statblock
 title: Young Red Shadow Dragon
-![](/compendium/bestiary/dragon/token/young-red-shadow-dragon.png#token)
+![](compendium/bestiary/dragon/token/young-red-shadow-dragon.png#token)
 *Large dragon, Chaotic Evil*
 
 - **Armor Class** 18  (natural armor)
@@ -88,7 +88,7 @@ title: Young Red Shadow Dragon
 
 ***Shadow Stealth.*** While in dim light or darkness, the dragon can take the Hide action as a bonus action.
 
-***Sunlight Sensitivity.*** While in sunlight, the dragon has disadvantage on attack rolls, as well as on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the dragon has disadvantage on attack rolls, as well as on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
@@ -98,7 +98,7 @@ title: Young Red Shadow Dragon
 
 ***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (`2d6 + 6`) slashing damage.
 
-***Shadow Breath (Recharge 5-6).*** The dragon exhales shadowy fire in a 30-foot cone. Each creature in that area must make a DC 18 Dexterity saving throw, taking 56 (`16d6`) necrotic damage on a failed save, or half as much damage on a successful one. A humanoid reduced to 0 hit points by this damage dies, and an undead [shadow](/compendium/bestiary/undead/shadow.md) rises from its corpse and acts immediately after the dragon in the initiative count. The shadow is under the dragon's control.
+***Shadow Breath (Recharge 5-6).*** The dragon exhales shadowy fire in a 30-foot cone. Each creature in that area must make a DC 18 Dexterity saving throw, taking 56 (`16d6`) necrotic damage on a failed save, or half as much damage on a successful one. A humanoid reduced to 0 hit points by this damage dies, and an undead [shadow](compendium/bestiary/undead/shadow.md) rises from its corpse and acts immediately after the dragon in the initiative count. The shadow is under the dragon's control.
 ```
 ^statblock
 

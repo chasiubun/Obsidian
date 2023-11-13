@@ -15,7 +15,7 @@ These large marine mammals live along coastal regions and around islands at sea
 
 ```ad-statblock
 title: Sea Lion
-![](/compendium/bestiary/monstrosity/token/sea-lion.png#token)
+![](compendium/bestiary/monstrosity/token/sea-lion.png#token)
 *Large monstrosity, Unaligned*
 
 - **Armor Class** 15  (natural armor)
@@ -37,9 +37,9 @@ title: Sea Lion
 
 ***Amphibious.*** The sea lion can breathe air and water.
 
-***Keen Smell.*** The sea lion has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on smell.
+***Keen Smell.*** The sea lion has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on smell.
 
-***Pack Tactics.*** The sea lion has advantage on an attack roll against a creature if at least one of the sea lion's allies is within 5 feet of the creature and the ally isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Pack Tactics.*** The sea lion has advantage on an attack roll against a creature if at least one of the sea lion's allies is within 5 feet of the creature and the ally isn't [incapacitated](rules/conditions.md#incapacitated).
 
 ***Swimming Leap.*** With a 10-foot swimming start, the sea lion can long jump out of or across the water up to 25 feet.
 

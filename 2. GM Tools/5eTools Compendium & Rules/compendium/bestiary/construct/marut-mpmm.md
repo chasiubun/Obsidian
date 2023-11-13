@@ -19,7 +19,7 @@ Inevitables care nothing for the spirit of an agreement, only the letter. A maru
 
 ```ad-statblock
 title: Marut
-![](/compendium/bestiary/construct/token/marut.png#token)
+![](compendium/bestiary/construct/token/marut.png#token)
 *Large construct (inevitable), Typically  Lawful Neutral*
 
 - **Armor Class** 22  (natural armor)
@@ -47,9 +47,9 @@ title: Marut
 
 ***Unusual Nature.*** The marut doesn't require air, food, drink, or sleep.
 
-***Plane Shift (3/Day).*** The marut casts [plane shift](/compendium/spells/plane-shift.md), requiring no material components and using Intelligence as the spellcasting ability. The marut can cast the spell normally, or it can cast the spell on an unwilling creature it can see within 60 feet of it. If it uses the latter option, the targeted creature must succeed on a DC 20 Charisma saving throw or be banished to a teleportation circle in the Hall of Concordance in Sigil.
+***Plane Shift (3/Day).*** The marut casts [plane shift](compendium/spells/plane-shift.md), requiring no material components and using Intelligence as the spellcasting ability. The marut can cast the spell normally, or it can cast the spell on an unwilling creature it can see within 60 feet of it. If it uses the latter option, the targeted creature must succeed on a DC 20 Charisma saving throw or be banished to a teleportation circle in the Hall of Concordance in Sigil.
 
-**3/day**: [plane shift](/compendium/spells/plane-shift.md)
+**3/day**: [plane shift](compendium/spells/plane-shift.md)
 
 ## Actions
 
@@ -57,6 +57,6 @@ title: Marut
 
 ***Unerring Slam.*** *Melee Weapon Attack:* automatic hit, reach 5 ft., one target. *Hit:* 60 force damage, and the target is pushed up to 5 feet away from the marut if it is Huge or smaller.
 
-***Blazing Edict (Recharge 5-6).*** Arcane energy emanates from the marut's chest in a 60-foot cube. Every creature in that area takes 45 radiant damage. Each creature that takes any of this damage must succeed on a DC 20 Wisdom saving throw or be [stunned](/compendium/rules/conditions.md#stunned) until the end of the marut's next turn.
+***Blazing Edict (Recharge 5-6).*** Arcane energy emanates from the marut's chest in a 60-foot cube. Every creature in that area takes 45 radiant damage. Each creature that takes any of this damage must succeed on a DC 20 Wisdom saving throw or be [stunned](rules/conditions.md#stunned) until the end of the marut's next turn.
 ```
 ^statblock

@@ -35,7 +35,7 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
 
 ```ad-statblock
 title: Shadar-kai Gloom Weaver
-![](/compendium/bestiary/humanoid/token/shadar-kai-gloom-weaver.png#token)
+![](compendium/bestiary/humanoid/token/shadar-kai-gloom-weaver.png#token)
 *Medium humanoid (elf), Typically  Neutral Evil*
 
 - **Armor Class** 14 
@@ -57,13 +57,13 @@ title: Shadar-kai Gloom Weaver
 
 ***Burden of Time.*** Beasts and Humanoids (except elves) have disadvantage on saving throws while within 10 feet of the shadar-kai.
 
-***Fey Ancestry.*** The shadar-kai has advantage on saving throws against being [charmed](/compendium/rules/conditions.md#charmed), and magic can't put it to sleep.
+***Fey Ancestry.*** The shadar-kai has advantage on saving throws against being [charmed](rules/conditions.md#charmed), and magic can't put it to sleep.
 
 ***Spellcasting.*** The shadar-kai casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16):
 
-**At will**: [arcane eye](/compendium/spells/arcane-eye.md), [mage armor](/compendium/spells/mage-armor.md), [minor illusion](/compendium/spells/minor-illusion.md), [prestidigitation](/compendium/spells/prestidigitation.md), [speak with dead](/compendium/spells/speak-with-dead.md)
+**At will**: [arcane eye](compendium/spells/arcane-eye.md), [mage armor](compendium/spells/mage-armor.md), [minor illusion](compendium/spells/minor-illusion.md), [prestidigitation](compendium/spells/prestidigitation.md), [speak with dead](compendium/spells/speak-with-dead.md)
 
-**1/day each**: [arcane gate](/compendium/spells/arcane-gate.md), [bane](/compendium/spells/bane.md), [confusion](/compendium/spells/confusion.md), [darkness](/compendium/spells/darkness.md), [fear](/compendium/spells/fear.md), [major image](/compendium/spells/major-image.md), [true seeing](/compendium/spells/true-seeing.md)
+**1/day each**: [arcane gate](compendium/spells/arcane-gate.md), [bane](compendium/spells/bane.md), [confusion](compendium/spells/confusion.md), [darkness](compendium/spells/darkness.md), [fear](compendium/spells/fear.md), [major image](compendium/spells/major-image.md), [true seeing](compendium/spells/true-seeing.md)
 
 ## Actions
 
@@ -73,7 +73,7 @@ title: Shadar-kai Gloom Weaver
 
 ## Reactions
 
-***Misty Escape (Recharge 6-6).*** When the shadar-kai takes damage, it turns [invisible](/compendium/rules/conditions.md#invisible) and teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see. It remains [invisible](/compendium/rules/conditions.md#invisible) until the start of its next turn or until it attacks or casts a spell.
+***Misty Escape (Recharge 6-6).*** When the shadar-kai takes damage, it turns [invisible](rules/conditions.md#invisible) and teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see. It remains [invisible](rules/conditions.md#invisible) until the start of its next turn or until it attacks or casts a spell.
 ```
 ^statblock
 

@@ -25,7 +25,7 @@ Disfiguring ailments plague bulezaus: crusted eyes, maggots wriggling in open so
 
 ```ad-statblock
 title: Bulezau
-![](/compendium/bestiary/fiend/token/bulezau.png#token)
+![](compendium/bestiary/fiend/token/bulezau.png#token)
 *Medium fiend (demon), Typically  Chaotic Evil*
 
 - **Armor Class** 14  (natural armor)
@@ -49,10 +49,10 @@ title: Bulezau
 
 ***Standing Leap.*** The bulezau's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
 
-***Sure-Footed.*** The bulezau has advantage on Strength and Dexterity saving throws made against effects that would knock it [prone](/compendium/rules/conditions.md#prone).
+***Sure-Footed.*** The bulezau has advantage on Strength and Dexterity saving throws made against effects that would knock it [prone](rules/conditions.md#prone).
 
 ## Actions
 
-***Barbed Tail.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 8 (`1d12 + 2`) piercing damage plus 4 (`1d8`) necrotic damage. If the target is a creature, it must succeed on a DC 13 Constitution saving throw against disease or become [poisoned](/compendium/rules/conditions.md#poisoned) until the disease ends. While [poisoned](/compendium/rules/conditions.md#poisoned) in this way, the target sports festering boils, coughs up flies, and sheds rotting skin, and the target must repeat the saving throw after every 24 hours that elapse. On a successful save, the disease ends. On a failed save, the target's hit point maximum is reduced by 4 (`1d8`). The target dies if its hit point maximum is reduced to 0.
+***Barbed Tail.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 8 (`1d12 + 2`) piercing damage plus 4 (`1d8`) necrotic damage. If the target is a creature, it must succeed on a DC 13 Constitution saving throw against disease or become [poisoned](rules/conditions.md#poisoned) until the disease ends. While [poisoned](rules/conditions.md#poisoned) in this way, the target sports festering boils, coughs up flies, and sheds rotting skin, and the target must repeat the saving throw after every 24 hours that elapse. On a successful save, the disease ends. On a failed save, the target's hit point maximum is reduced by 4 (`1d8`). The target dies if its hit point maximum is reduced to 0.
 ```
 ^statblock

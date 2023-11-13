@@ -34,7 +34,7 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
 
 ```ad-statblock
 title: Elder Oblex
-![](/compendium/bestiary/ooze/token/elder-oblex.png#token)
+![](compendium/bestiary/ooze/token/elder-oblex.png#token)
 *Huge ooze, Typically  Lawful Evil*
 
 - **Armor Class** 16 
@@ -62,9 +62,9 @@ title: Elder Oblex
 
 ***Spellcasting (Psionics).*** The oblex casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 18):
 
-**At will**: [charm person](/compendium/spells/charm-person.md) (as 5th-level spell), [detect thoughts](/compendium/spells/detect-thoughts.md)
+**At will**: [charm person](compendium/spells/charm-person.md) (as 5th-level spell), [detect thoughts](compendium/spells/detect-thoughts.md)
 
-**3/day each**: [dimension door](/compendium/spells/dimension-door.md), [dominate person](/compendium/spells/dominate-person.md), [hypnotic pattern](/compendium/spells/hypnotic-pattern.md), [telekinesis](/compendium/spells/telekinesis.md)
+**3/day each**: [dimension door](compendium/spells/dimension-door.md), [dominate person](compendium/spells/dominate-person.md), [hypnotic pattern](compendium/spells/hypnotic-pattern.md), [telekinesis](compendium/spells/telekinesis.md)
 
 ## Actions
 
@@ -72,9 +72,9 @@ title: Elder Oblex
 
 ***Pseudopod.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 17 (`4d6 + 3`) bludgeoning damage plus 14 (`4d6`) psychic damage.
 
-***Eat Memories.*** The oblex targets one creature it can see within 5 feet of it. The target must succeed on a DC 18 Wisdom saving throw or take 44 (`8d10`) psychic damage and become memory drained until it finishes a short or long rest or until it benefits from the [greater restoration](/compendium/spells/greater-restoration.md) or [heal](/compendium/spells/heal.md) spell. Constructs, Oozes, Plants, and Undead succeed on the save automatically.
+***Eat Memories.*** The oblex targets one creature it can see within 5 feet of it. The target must succeed on a DC 18 Wisdom saving throw or take 44 (`8d10`) psychic damage and become memory drained until it finishes a short or long rest or until it benefits from the [greater restoration](compendium/spells/greater-restoration.md) or [heal](compendium/spells/heal.md) spell. Constructs, Oozes, Plants, and Undead succeed on the save automatically.
 
-While memory drained, the target must roll a `d4` and subtract the number rolled from any ability check or attack roll it makes. Each time the target is memory drained beyond the first, the die size increases by one: the `d4` becomes a `d6`, the `d6` becomes a `d8`, and so on until the die becomes a `d20`, at which point the target becomes [unconscious](/compendium/rules/conditions.md#unconscious) for 1 hour. The effect then ends.
+While memory drained, the target must roll a `d4` and subtract the number rolled from any ability check or attack roll it makes. Each time the target is memory drained beyond the first, the die size increases by one: the `d4` becomes a `d6`, the `d6` becomes a `d8`, and so on until the die becomes a `d20`, at which point the target becomes [unconscious](rules/conditions.md#unconscious) for 1 hour. The effect then ends.
 
 The oblex learns all the languages a memory-drained target knows and gains all its skill proficiencies.
 

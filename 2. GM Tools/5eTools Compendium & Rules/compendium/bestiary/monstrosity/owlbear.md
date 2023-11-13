@@ -45,7 +45,7 @@ Scholars have long debated the origins of the owlbear. The most common theory is
 
 ```ad-statblock
 title: Owlbear
-![](/compendium/bestiary/monstrosity/token/owlbear.png#token)
+![](compendium/bestiary/monstrosity/token/owlbear.png#token)
 *Large monstrosity, Unaligned*
 
 - **Armor Class** 13  (natural armor)
@@ -65,7 +65,7 @@ title: Owlbear
 
 ## Traits
 
-***Keen Sight and Smell.*** The owlbear has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight or smell.
+***Keen Sight and Smell.*** The owlbear has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight or smell.
 
 ## Actions
 

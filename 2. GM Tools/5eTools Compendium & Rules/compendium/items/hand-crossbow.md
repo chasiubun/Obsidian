@@ -16,7 +16,7 @@ aliases:
 
 - **Damage**: 1d6 P
 - **Range**: 30/120
-- **Properties**: [Ammunition](/compendium/rules/item-properties.md#Ammunition), [Light](/compendium/rules/item-properties.md#Light), [Loading](/compendium/rules/item-properties.md#Loading), Martial
+- **Properties**: [Ammunition](rules/item-properties.md#Ammunition), [Light](rules/item-properties.md#Light), [Loading](rules/item-properties.md#Loading), Martial
 - **Cost**: 75 gp
 - **Weight**: 3.0 lbs.
 

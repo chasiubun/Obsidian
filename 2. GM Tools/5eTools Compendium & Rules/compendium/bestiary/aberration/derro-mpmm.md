@@ -29,10 +29,10 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 
 ```ad-statblock
 title: Derro
-![](/compendium/bestiary/aberration/token/derro.png#token)
+![](compendium/bestiary/aberration/token/derro.png#token)
 *Small aberration, Typically  Chaotic Evil*
 
-- **Armor Class** 13  ([leather armor](/compendium/items/leather-armor.md))
+- **Armor Class** 13  ([leather armor](compendium/items/leather-armor.md))
 - **Hit Points** 13 (`3d6 + 3`)
 - **Speed** 30 ft.
 
@@ -51,11 +51,11 @@ title: Derro
 
 ***Magic Resistance.*** The derro has advantage on saving throws against spells and other magical effects.
 
-***Sunlight Sensitivity.*** While in sunlight, the derro has disadvantage on attack rolls, as well as on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the derro has disadvantage on attack rolls, as well as on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
-***Hooked Spear.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3 (`1d6`) piercing damage. If the target is Medium or smaller, the derro can choose to deal no damage and knock it [prone](/compendium/rules/conditions.md#prone).
+***Hooked Spear.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3 (`1d6`) piercing damage. If the target is Medium or smaller, the derro can choose to deal no damage and knock it [prone](rules/conditions.md#prone).
 
 ***Light Crossbow.*** *Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one target. *Hit:* 6 (`1d8 + 2`) piercing damage.
 ```

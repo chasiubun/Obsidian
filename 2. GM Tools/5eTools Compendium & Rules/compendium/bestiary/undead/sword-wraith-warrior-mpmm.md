@@ -23,10 +23,10 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 
 ```ad-statblock
 title: Sword Wraith Warrior
-![](/compendium/bestiary/undead/token/sword-wraith-warrior.png#token)
+![](compendium/bestiary/undead/token/sword-wraith-warrior.png#token)
 *Medium undead, Typically  Lawful Evil*
 
-- **Armor Class** 16  ([chain shirt](/compendium/items/chain-shirt.md), [shield](/compendium/items/shield.md))
+- **Armor Class** 16  ([chain shirt](compendium/items/chain-shirt.md), [shield](compendium/items/shield.md))
 - **Hit Points** 45 (`6d8 + 18`)
 - **Speed** 30 ft.
 

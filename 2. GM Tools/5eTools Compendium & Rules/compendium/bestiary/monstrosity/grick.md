@@ -31,7 +31,7 @@ Over time, grick lairs accumulate the cast-off possessions of intelligent prey, 
 
 ```ad-statblock
 title: Grick
-![](/compendium/bestiary/monstrosity/token/grick.png#token)
+![](compendium/bestiary/monstrosity/token/grick.png#token)
 *Medium monstrosity, Neutral*
 
 - **Armor Class** 14  (natural armor)

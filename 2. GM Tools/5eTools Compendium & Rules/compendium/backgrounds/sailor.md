@@ -9,9 +9,9 @@ aliases: ["Sailor"]
 # Sailor
 *Source: Player's Handbook p. 139*  
 
-- **Skill Proficiencies.** [Athletics](/compendium/rules/skills.md#Athletics), [Perception](/compendium/rules/skills.md#Perception)  
-- **Tool Proficiencies.** [Navigator's tools](/compendium/items/navigators-tools.md), vehicles (water)  
-- **Equipment.** A belaying pin ([club](/compendium/items/club.md)), [silk rope (50 feet)](/compendium/items/silk-rope-50-feet.md), a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random [trinket](/compendium/items/trinket.md) on the Trinkets table in chapter 5), a set of [common clothes](/compendium/items/common-clothes.md), and a belt [pouch](/compendium/items/pouch.md) containing 10 gp  
+- **Skill Proficiencies.** [Athletics](rules/skills.md#Athletics), [Perception](rules/skills.md#Perception)  
+- **Tool Proficiencies.** [Navigator's tools](compendium/items/navigators-tools.md), vehicles (water)  
+- **Equipment.** A belaying pin ([club](compendium/items/club.md)), [silk rope (50 feet)](compendium/items/silk-rope-50-feet.md), a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random [trinket](compendium/items/trinket.md) on the Trinkets table in chapter 5), a set of [common clothes](compendium/items/common-clothes.md), and a belt [pouch](compendium/items/pouch.md) containing 10 gp  
 
 You sailed on a seagoing vessel for years. In that time, you faced down mighty storms, monsters of the deep, and those who wanted to sink your craft to the bottomless depths. Your first love is the distant line of the horizon, but the time has come to try your hand at something new.
 

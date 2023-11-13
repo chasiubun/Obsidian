@@ -29,7 +29,7 @@ To avoid recalculating the creature's challenge rating, apply the template only 
 
 ### Senses
 
-The half-dragon gains [blindsight](/compendium/rules/senses.md#blindsight) with a radius of 10 feet and [darkvision](/compendium/rules/senses.md#darkvision) with a radius of 60 feet.
+The half-dragon gains [blindsight](rules/senses.md#blindsight) with a radius of 10 feet and [darkvision](rules/senses.md#darkvision) with a radius of 60 feet.
 
 ### Resistances
 
@@ -61,16 +61,16 @@ The half-dragon has the breath weapon of its dragon half. The half-dragon's size
 
 ### Sample Half-Dragon
 
-Here the half-dragon template has been applied to a human [veteran](/compendium/bestiary/humanoid/veteran.md) to create a half-red dragon veteran. [Splint armor](/compendium/items/splint-armor.md) has been replaced with [plate](/compendium/items/plate-armor.md).
+Here the half-dragon template has been applied to a human [veteran](compendium/bestiary/humanoid/veteran.md) to create a half-red dragon veteran. [Splint armor](compendium/items/splint-armor.md) has been replaced with [plate](compendium/items/plate-armor.md).
 
 ## Statblock
 
 ```ad-statblock
 title: Half-Red Dragon Veteran
-![](/compendium/bestiary/humanoid/token/half-red-dragon-veteran.png#token)
+![](compendium/bestiary/humanoid/token/half-red-dragon-veteran.png#token)
 *Medium humanoid (human), Any alignment*
 
-- **Armor Class** 18  ([plate armor](/compendium/items/plate-armor.md))
+- **Armor Class** 18  ([plate armor](compendium/items/plate-armor.md))
 - **Hit Points** 65 (`10d8 + 20`)
 - **Speed** 30 ft.
 

@@ -22,10 +22,10 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 
 ```ad-statblock
 title: Apprentice Wizard
-![](/compendium/bestiary/humanoid/token/apprentice-wizard.png#token)
+![](compendium/bestiary/humanoid/token/apprentice-wizard.png#token)
 *Medium humanoid, Any alignment*
 
-- **Armor Class** 10  (13 with [mage armor](/compendium/spells/mage-armor.md))
+- **Armor Class** 10  (13 with [mage armor](compendium/spells/mage-armor.md))
 - **Hit Points** 13 (`3d8`)
 - **Speed** 30 ft.
 
@@ -42,9 +42,9 @@ title: Apprentice Wizard
 
 ***Spellcasting.*** The apprentice casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 12)
 
-**At will**: [mage hand](/compendium/spells/mage-hand.md), [prestidigitation](/compendium/spells/prestidigitation.md)
+**At will**: [mage hand](compendium/spells/mage-hand.md), [prestidigitation](compendium/spells/prestidigitation.md)
 
-**1/day each**: [burning hands](/compendium/spells/burning-hands.md), [disguise self](/compendium/spells/disguise-self.md), [mage armor](/compendium/spells/mage-armor.md)
+**1/day each**: [burning hands](compendium/spells/burning-hands.md), [disguise self](compendium/spells/disguise-self.md), [mage armor](compendium/spells/mage-armor.md)
 
 ## Actions
 

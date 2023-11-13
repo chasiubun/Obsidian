@@ -23,10 +23,10 @@ Witherbloom College studies the magic inherent in the natural cycle of life and 
 
 ```ad-statblock
 title: Witherbloom Professor of Decay
-![](/compendium/bestiary/humanoid/token/witherbloom-professor-of-decay.png#token)
+![](compendium/bestiary/humanoid/token/witherbloom-professor-of-decay.png#token)
 *Small or Medium humanoid (druid), Any alignment*
 
-- **Armor Class** 14  ([hide armor](/compendium/items/hide-armor.md))
+- **Armor Class** 14  ([hide armor](compendium/items/hide-armor.md))
 - **Hit Points** 105 (`14d8 + 42`)
 - **Speed** 30 ft.
 
@@ -43,13 +43,13 @@ title: Witherbloom Professor of Decay
 
 ## Traits
 
-***Essence Transfer (1/Day).*** The professor can cast the [animate dead](/compendium/spells/animate-dead.md) spell, using Wisdom as the spellcasting ability.
+***Essence Transfer (1/Day).*** The professor can cast the [animate dead](compendium/spells/animate-dead.md) spell, using Wisdom as the spellcasting ability.
 
 ***Spellcasting.*** The professor casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 15):
 
-**At will**: [druidcraft](/compendium/spells/druidcraft.md), [spare the dying](/compendium/spells/spare-the-dying.md)
+**At will**: [druidcraft](compendium/spells/druidcraft.md), [spare the dying](compendium/spells/spare-the-dying.md)
 
-**1/day each**: [antilife shell](/compendium/spells/antilife-shell.md), [bane](/compendium/spells/bane.md), [feign death](/compendium/spells/feign-death.md), [speak with dead](/compendium/spells/speak-with-dead.md)
+**1/day each**: [antilife shell](compendium/spells/antilife-shell.md), [bane](compendium/spells/bane.md), [feign death](compendium/spells/feign-death.md), [speak with dead](compendium/spells/speak-with-dead.md)
 
 ## Actions
 

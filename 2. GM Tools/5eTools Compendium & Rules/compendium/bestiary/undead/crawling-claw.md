@@ -48,7 +48,7 @@ A crawling claw doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Crawling Claw
-![](/compendium/bestiary/undead/token/crawling-claw.png#token)
+![](compendium/bestiary/undead/token/crawling-claw.png#token)
 *Tiny undead, Neutral Evil*
 
 - **Armor Class** 12 

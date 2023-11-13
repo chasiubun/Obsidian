@@ -117,7 +117,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!note] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](/compendium/rules/conditions.md#charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](rules/conditions.md#charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -145,7 +145,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 ```ad-statblock
 title: Pit Fiend
-![](/compendium/bestiary/fiend/token/pit-fiend.png#token)
+![](compendium/bestiary/fiend/token/pit-fiend.png#token)
 *Large fiend (devil), Lawful Evil*
 
 - **Armor Class** 19  (natural armor)
@@ -165,7 +165,7 @@ title: Pit Fiend
 
 ## Traits
 
-***Fear Aura.*** Any creature hostile to the pit fiend that starts its turn within 20 feet of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend is [incapacitated](/compendium/rules/conditions.md#incapacitated). On a failed save, the creature is [frightened](/compendium/rules/conditions.md#frightened) until the start of its next turn. If a creature's saving throw is successful, the creature is immune to the pit fiend's Fear Aura for the next 24 hours.
+***Fear Aura.*** Any creature hostile to the pit fiend that starts its turn within 20 feet of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend is [incapacitated](rules/conditions.md#incapacitated). On a failed save, the creature is [frightened](rules/conditions.md#frightened) until the start of its next turn. If a creature's saving throw is successful, the creature is immune to the pit fiend's Fear Aura for the next 24 hours.
 
 ***Magic Resistance.*** The pit fiend has advantage on saving throws against spells and other magical effects.
 
@@ -173,15 +173,15 @@ title: Pit Fiend
 
 ***Innate Spellcasting.*** The pit fiend's spellcasting ability is Charisma (spell save DC 21). The pit fiend can innately cast the following spells, requiring no material components:
 
-**At will**: [detect magic](/compendium/spells/detect-magic.md), [fireball](/compendium/spells/fireball.md)
+**At will**: [detect magic](compendium/spells/detect-magic.md), [fireball](compendium/spells/fireball.md)
 
-**3/day each**: [hold monster](/compendium/spells/hold-monster.md), [wall of fire](/compendium/spells/wall-of-fire.md)
+**3/day each**: [hold monster](compendium/spells/hold-monster.md), [wall of fire](compendium/spells/wall-of-fire.md)
 
 ## Actions
 
 ***Multiattack.*** The pit fiend makes four attacks: one with its bite, one with its claw, one with its mace, and one with its tail.
 
-***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 22 (`4d6 + 8`) piercing damage. The target must succeed on a DC 21 Constitution saving throw or become [poisoned](/compendium/rules/conditions.md#poisoned). While [poisoned](/compendium/rules/conditions.md#poisoned) in this way, the target can't regain hit points, and it takes 21 (`6d6`) poison damage at the start of each of its turns. The [poisoned](/compendium/rules/conditions.md#poisoned) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 22 (`4d6 + 8`) piercing damage. The target must succeed on a DC 21 Constitution saving throw or become [poisoned](rules/conditions.md#poisoned). While [poisoned](rules/conditions.md#poisoned) in this way, the target can't regain hit points, and it takes 21 (`6d6`) poison damage at the start of each of its turns. The [poisoned](rules/conditions.md#poisoned) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 17 (`2d8 + 8`) slashing damage.
 

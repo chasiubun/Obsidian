@@ -22,10 +22,10 @@ Among Lolth's devotees in the city of Menzoberranzan in the Forgotten Realms, ea
 
 ```ad-statblock
 title: Drow House Captain
-![](/compendium/bestiary/humanoid/token/drow-house-captain.png#token)
+![](compendium/bestiary/humanoid/token/drow-house-captain.png#token)
 *Medium humanoid (elf), Any alignment*
 
-- **Armor Class** 16  ([chain mail](/compendium/items/chain-mail.md))
+- **Armor Class** 16  ([chain mail](compendium/items/chain-mail.md))
 - **Hit Points** 162 (`25d8 + 50`)
 - **Speed** 30 ft.
 
@@ -42,15 +42,15 @@ title: Drow House Captain
 
 ## Traits
 
-***Fey Ancestry.*** The drow has advantage on saving throws against being [charmed](/compendium/rules/conditions.md#charmed), and magic can't put the drow to sleep.
+***Fey Ancestry.*** The drow has advantage on saving throws against being [charmed](rules/conditions.md#charmed), and magic can't put the drow to sleep.
 
-***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ***Spellcasting.*** The drow casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 13):
 
-**At will**: [dancing lights](/compendium/spells/dancing-lights.md)
+**At will**: [dancing lights](compendium/spells/dancing-lights.md)
 
-**1/day each**: [darkness](/compendium/spells/darkness.md), [faerie fire](/compendium/spells/faerie-fire.md), [levitate](/compendium/spells/levitate.md) (self only)
+**1/day each**: [darkness](compendium/spells/darkness.md), [faerie fire](compendium/spells/faerie-fire.md), [levitate](compendium/spells/levitate.md) (self only)
 
 ## Actions
 
@@ -60,11 +60,11 @@ title: Drow House Captain
 
 ***Whip.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 6 (`1d4 + 4`) slashing damage.
 
-***Hand Crossbow.*** *Ranged Weapon Attack:* +8 to hit, range 30/120 ft., one target. *Hit:* 7 (`1d6 + 4`) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be [poisoned](/compendium/rules/conditions.md#poisoned) for 1 hour. If the saving throw fails by 5 or more, the target is also [unconscious](/compendium/rules/conditions.md#unconscious) while [poisoned](/compendium/rules/conditions.md#poisoned) in this way. The target regains consciousness if it takes damage or if another creature takes an action to shake it.
+***Hand Crossbow.*** *Ranged Weapon Attack:* +8 to hit, range 30/120 ft., one target. *Hit:* 7 (`1d6 + 4`) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be [poisoned](rules/conditions.md#poisoned) for 1 hour. If the saving throw fails by 5 or more, the target is also [unconscious](rules/conditions.md#unconscious) while [poisoned](rules/conditions.md#poisoned) in this way. The target regains consciousness if it takes damage or if another creature takes an action to shake it.
 
 ## Bonus Actions
 
-***Battle Command.*** Choose one creature within 30 feet of the drow that the drow can see. If the chosen creature can see or hear the drow, that creature can use its reaction to make one melee attack or to take the [Dodge](/compendium/rules/actions.md#Dodge) or [Hide](/compendium/rules/actions.md#Hide) action.
+***Battle Command.*** Choose one creature within 30 feet of the drow that the drow can see. If the chosen creature can see or hear the drow, that creature can use its reaction to make one melee attack or to take the [Dodge](rules/actions.md#Dodge) or [Hide](rules/actions.md#Hide) action.
 
 ## Reactions
 

@@ -29,10 +29,10 @@ A helmed horror doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Helmed Horror
-![](/compendium/bestiary/construct/token/helmed-horror.png#token)
+![](compendium/bestiary/construct/token/helmed-horror.png#token)
 *Medium construct, Unaligned*
 
-- **Armor Class** 20  ([plate armor](/compendium/items/plate-armor.md), [shield](/compendium/items/shield.md))
+- **Armor Class** 20  ([plate armor](compendium/items/plate-armor.md), [shield](compendium/items/shield.md))
 - **Hit Points** 60 (`8d8 + 24`)
 - **Speed** 30 ft., fly 30 ft.
 
@@ -51,7 +51,7 @@ title: Helmed Horror
 
 ***Magic Resistance.*** The helmed horror has advantage on saving throws against spells and other magical effects.
 
-***Spell Immunity.*** The helmed horror is immune to three spells chosen by its creator. Typical immunities include [fireball](/compendium/spells/fireball.md), [heat metal](/compendium/spells/heat-metal.md), and [lightning bolt](/compendium/spells/lightning-bolt.md).
+***Spell Immunity.*** The helmed horror is immune to three spells chosen by its creator. Typical immunities include [fireball](compendium/spells/fireball.md), [heat metal](compendium/spells/heat-metal.md), and [lightning bolt](compendium/spells/lightning-bolt.md).
 
 ## Actions
 

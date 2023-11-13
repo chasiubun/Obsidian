@@ -20,7 +20,7 @@ After devouring the troll sent by Vaprak, bones and all, a frost giant becomes a
 
 ```ad-statblock
 title: Frost Giant Everlasting One
-![](/compendium/bestiary/giant/token/frost-giant-everlasting-one.png#token)
+![](compendium/bestiary/giant/token/frost-giant-everlasting-one.png#token)
 *Huge giant, Typically  Chaotic Evil*
 
 - **Armor Class** 15  (patchwork armor)
@@ -40,7 +40,7 @@ title: Frost Giant Everlasting One
 
 ## Traits
 
-***Extra Heads.*** The giant has a 25% chance chance of having more than one head. If it has more than one, it has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks and on saving throws against being [blinded](/compendium/rules/conditions.md#blinded), [charmed](/compendium/rules/conditions.md#charmed), [deafened](/compendium/rules/conditions.md#deafened), [frightened](/compendium/rules/conditions.md#frightened), [stunned](/compendium/rules/conditions.md#stunned), or knocked [unconscious](/compendium/rules/conditions.md#unconscious).
+***Extra Heads.*** The giant has a 25% chance chance of having more than one head. If it has more than one, it has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks and on saving throws against being [blinded](rules/conditions.md#blinded), [charmed](rules/conditions.md#charmed), [deafened](rules/conditions.md#deafened), [frightened](rules/conditions.md#frightened), [stunned](rules/conditions.md#stunned), or knocked [unconscious](rules/conditions.md#unconscious).
 
 ***Regeneration.*** The giant regains 10 hit points at the start of its turn. If the giant takes acid or fire damage, this trait doesn't function at the start of its next turn. The giant dies only if it starts its turn with 0 hit points and doesn't regenerate.
 
@@ -54,7 +54,7 @@ title: Frost Giant Everlasting One
 
 ## Bonus Actions
 
-***Vaprak's Rage (Recharges after a Short or Long Rest).*** The giant enters a rage. The rage lasts for 1 minute or until the giant is [incapacitated](/compendium/rules/conditions.md#incapacitated). While raging, the giant gains the following benefits:
+***Vaprak's Rage (Recharges after a Short or Long Rest).*** The giant enters a rage. The rage lasts for 1 minute or until the giant is [incapacitated](rules/conditions.md#incapacitated). While raging, the giant gains the following benefits:
 
 - The giant has advantage on Strength checks and Strength saving throws.  
 - When it makes a melee weapon attack, the giant gains a +4 bonus to the damage roll.  

@@ -38,7 +38,7 @@ Because maw demons are indiscriminate in their hunger, their stomachs contain al
 
 ```ad-statblock
 title: Maw Demon
-![](/compendium/bestiary/fiend/token/maw-demon.png#token)
+![](compendium/bestiary/fiend/token/maw-demon.png#token)
 *Medium fiend (demon), Typically  Chaotic Evil*
 
 - **Armor Class** 13  (natural armor)
@@ -60,7 +60,7 @@ title: Maw Demon
 
 ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 11 (`2d8 + 2`) piercing damage.
 
-***Disgorge (Recharge 6).*** The demon vomits in a 15-foot cube. Each creature in that area must succeed on a DC 11 Dexterity saving throw or take 11 (`2d10`) acid damage and fall [prone](/compendium/rules/conditions.md#prone) in the spew.
+***Disgorge (Recharge 6).*** The demon vomits in a 15-foot cube. Each creature in that area must succeed on a DC 11 Dexterity saving throw or take 11 (`2d10`) acid damage and fall [prone](rules/conditions.md#prone) in the spew.
 ```
 ^statblock
 

@@ -13,7 +13,7 @@ aliases: ["Kelson Darktreader"]
 
 ```ad-statblock
 title: Kelson Darktreader
-![](/compendium/bestiary/npc/token/kelson-darktreader.png#token)
+![](compendium/bestiary/npc/token/kelson-darktreader.png#token)
 *Medium humanoid (half-elf), Any alignment*
 
 - **Armor Class** 10 

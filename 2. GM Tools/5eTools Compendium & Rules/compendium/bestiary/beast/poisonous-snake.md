@@ -19,7 +19,7 @@ aliases: ["Poisonous Snake"]
 
 ```ad-statblock
 title: Poisonous Snake
-![](/compendium/bestiary/beast/token/poisonous-snake.png#token)
+![](compendium/bestiary/beast/token/poisonous-snake.png#token)
 *Tiny beast, Unaligned*
 
 - **Armor Class** 13 

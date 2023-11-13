@@ -29,7 +29,7 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
 
 ```ad-statblock
 title: Flying Sword
-![](/compendium/bestiary/construct/token/flying-sword.png#token)
+![](compendium/bestiary/construct/token/flying-sword.png#token)
 *Small construct, Unaligned*
 
 - **Armor Class** 17  (natural armor)
@@ -49,7 +49,7 @@ title: Flying Sword
 
 ## Traits
 
-***Antimagic Susceptibility.*** The sword is [incapacitated](/compendium/rules/conditions.md#incapacitated) while in the area of an [antimagic field](/compendium/spells/antimagic-field.md). If targeted by [dispel magic](/compendium/spells/dispel-magic.md), the sword must succeed on a Constitution saving throw against the caster's spell save DC or fall [unconscious](/compendium/rules/conditions.md#unconscious) for 1 minute.
+***Antimagic Susceptibility.*** The sword is [incapacitated](rules/conditions.md#incapacitated) while in the area of an [antimagic field](compendium/spells/antimagic-field.md). If targeted by [dispel magic](compendium/spells/dispel-magic.md), the sword must succeed on a Constitution saving throw against the caster's spell save DC or fall [unconscious](rules/conditions.md#unconscious) for 1 minute.
 
 ***False Appearance.*** While the sword remains motionless and isn't flying, it is indistinguishable from a normal sword.
 

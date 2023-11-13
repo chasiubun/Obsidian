@@ -35,7 +35,7 @@ Some troglodytes venerate Laogzed, a demonic, monstrously fat toad-lizard that s
 
 ```ad-statblock
 title: Troglodyte
-![](/compendium/bestiary/humanoid/token/troglodyte.png#token)
+![](compendium/bestiary/humanoid/token/troglodyte.png#token)
 *Medium humanoid (troglodyte), Chaotic Evil*
 
 - **Armor Class** 11  (natural armor)
@@ -57,9 +57,9 @@ title: Troglodyte
 
 ***Chameleon Skin.*** The troglodyte has advantage on Dexterity (Stealth) checks made to hide.
 
-***Stench.*** Any creature other than a troglodyte that starts its turn within 5 feet of the troglodyte must succeed on a DC 12 Constitution saving throw or be [poisoned](/compendium/rules/conditions.md#poisoned) until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all troglodytes for 1 hour.
+***Stench.*** Any creature other than a troglodyte that starts its turn within 5 feet of the troglodyte must succeed on a DC 12 Constitution saving throw or be [poisoned](rules/conditions.md#poisoned) until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all troglodytes for 1 hour.
 
-***Sunlight Sensitivity.*** While in sunlight, the troglodyte has disadvantage on attack rolls, as well as on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the troglodyte has disadvantage on attack rolls, as well as on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 

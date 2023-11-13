@@ -16,10 +16,10 @@ Knights are warriors who pledge service to rulers, religious orders, and noble c
 
 ```ad-statblock
 title: Knight
-![](/compendium/bestiary/humanoid/token/knight.png#token)
+![](compendium/bestiary/humanoid/token/knight.png#token)
 *Medium humanoid (any race), Any alignment*
 
-- **Armor Class** 18  ([plate armor](/compendium/items/plate-armor.md))
+- **Armor Class** 18  ([plate armor](compendium/items/plate-armor.md))
 - **Hit Points** 52 (`8d8 + 16`)
 - **Speed** 30 ft.
 
@@ -36,7 +36,7 @@ title: Knight
 
 ## Traits
 
-***Brave.*** The knight has advantage on saving throws against being [frightened](/compendium/rules/conditions.md#frightened).
+***Brave.*** The knight has advantage on saving throws against being [frightened](rules/conditions.md#frightened).
 
 ## Actions
 
@@ -46,7 +46,7 @@ title: Knight
 
 ***Heavy Crossbow.*** *Ranged Weapon Attack:* +2 to hit, range 100/400 ft., one target. *Hit:* 5 (`1d10`) piercing damage.
 
-***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the knight can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a `d4` to its roll provided it can hear and understand the knight. A creature can benefit from only one Leadership die at a time. This effect ends if the knight is [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the knight can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a `d4` to its roll provided it can hear and understand the knight. A creature can benefit from only one Leadership die at a time. This effect ends if the knight is [incapacitated](rules/conditions.md#incapacitated).
 
 ## Reactions
 

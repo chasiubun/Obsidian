@@ -49,17 +49,17 @@ aliases: ["Fighter"]
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
 
 - **Saving Throws**: Strength, Constitution
-- **Armor**: light, medium, heavy, [shields](/compendium/items/shield.md)
+- **Armor**: light, medium, heavy, [shields](compendium/items/shield.md)
 - **Weapons**: simple, martial
 - **Tools**: none
 - **Skills**: Choose 2 from *Acrobatics*, *Animal Handling*, *Athletics*, *History*, *Insight*, *Intimidation*, *Perception*, *Survival*
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-- (a) [chain mail](/compendium/items/chain-mail.md) or (b) [leather armor](/compendium/items/leather-armor.md), [longbow](/compendium/items/longbow.md), and [20 arrows](/compendium/items/arrows-20.md)  
-- (a) a martial weapon and a [shield](/compendium/items/shield.md) or (b) two martial weapons  
-- (a) a [light crossbow](/compendium/items/light-crossbow.md) and [20 bolts](/compendium/items/crossbow-bolts-20.md) or (b) two [handaxes](/compendium/items/handaxe.md)  
-- (a) a [dungeoneer's pack](/compendium/items/dungeoneers-pack.md) or (b) an [explorer's pack](/compendium/items/explorers-pack.md)  
+- (a) [chain mail](compendium/items/chain-mail.md) or (b) [leather armor](compendium/items/leather-armor.md), [longbow](compendium/items/longbow.md), and [20 arrows](compendium/items/arrows-20.md)  
+- (a) a martial weapon and a [shield](compendium/items/shield.md) or (b) two martial weapons  
+- (a) a [light crossbow](compendium/items/light-crossbow.md) and [20 bolts](compendium/items/crossbow-bolts-20.md) or (b) two [handaxes](compendium/items/handaxe.md)  
+- (a) a [dungeoneer's pack](compendium/items/dungeoneers-pack.md) or (b) an [explorer's pack](compendium/items/explorers-pack.md)  
 
 Alternatively, you may start with 5d4 × 10 gp and choose your own equipment.
 
@@ -71,7 +71,7 @@ To multiclass as a Fighter, you must meet the following prerequisites:
 
 You gain the following proficiencies:
 
-- **Armor**: light, medium, [shields](/compendium/items/shield.md)
+- **Armor**: light, medium, [shields](compendium/items/shield.md)
 - **Weapons**: simple, martial
 - **Tools**: none
 
@@ -103,7 +103,7 @@ You might have enjoyed formal training in a noble's army or in a local militia. 
 
 #### Quick Build
 
-You can make a fighter quickly by following these suggestions. First, make Strength or Dexterity your highest ability score, depending on whether you want to focus on melee weapons or on archery (or finesse weapons). Your next-highest score should be Constitution, or Intelligence if you plan to adopt the Eldritch Knight martial archetype. Second, choose the [soldier](/compendium/backgrounds/soldier.md) background.
+You can make a fighter quickly by following these suggestions. First, make Strength or Dexterity your highest ability score, depending on whether you want to focus on melee weapons or on archery (or finesse weapons). Your next-highest score should be Constitution, or Intelligence if you plan to adopt the Eldritch Knight martial archetype. Second, choose the [soldier](compendium/backgrounds/soldier.md) background.
 
 > [!quote]- A quote from Tordek  
 > 
@@ -180,12 +180,12 @@ Do you have a combat style that mirrors your outlook on life, or is something el
 
 You adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take the same Fighting Style option more than once, even if you get to choose again.
 
-- [Archery](/compendium/optional-features/archery.md)  
-- [Defense](/compendium/optional-features/defense.md)  
-- [Dueling](/compendium/optional-features/dueling.md)  
-- [Great Weapon Fighting](/compendium/optional-features/great-weapon-fighting.md)  
-- [Protection](/compendium/optional-features/protection.md)  
-- [Two-Weapon Fighting](/compendium/optional-features/two-weapon-fighting.md)  
+- [Archery](compendium/optional-features/archery.md)  
+- [Defense](compendium/optional-features/defense.md)  
+- [Dueling](compendium/optional-features/dueling.md)  
+- [Great Weapon Fighting](compendium/optional-features/great-weapon-fighting.md)  
+- [Protection](compendium/optional-features/protection.md)  
+- [Two-Weapon Fighting](compendium/optional-features/two-weapon-fighting.md)  
 
 ### Second Wind (Level 1)
 
@@ -212,16 +212,16 @@ If your DM allows the use of feats, you may instead take a feat.
 ### Martial Versatility (Level 4)
 _Source: Tasha's Cauldron of Everything p. 41_
 
-*4th-level fighter [optional class features](/compendium/rules/variant-rules/optional-class-features-tce.md)*
+*4th-level fighter [optional class features](rules/variant-rules/optional-class-features-tce.md)*
 
 Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, as you shift the focus of your martial practice:
 
-- Replace a [fighting style](/compendium/optional-features/list-fighting-style-fighter.md) you know with another fighting style available to fighters.  
-- If you know any [maneuvers](/compendium/optional-features/list-maneuver-battle-master.md) from the [Battle Master](/compendium/classes/fighter-battle-master.md) archetype, you can replace one maneuver you know with a different maneuver.  
+- Replace a [fighting style](compendium/optional-features/list-fighting-style-fighter.md) you know with another fighting style available to fighters.  
+- If you know any [maneuvers](compendium/optional-features/list-maneuver-battle-master.md) from the [Battle Master](compendium/classes/fighter-battle-master.md) archetype, you can replace one maneuver you know with a different maneuver.  
 
 ### Extra Attack (Level 5)
 
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack](/compendium/rules/actions.md#Attack) action on your turn.
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack](rules/actions.md#Attack) action on your turn.
 
 The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.
 
@@ -253,7 +253,7 @@ At 10th level, you gain a feature granted by your Martial Archetype.
 
 ### Extra Attack (2) (Level 11)
 
-At 11th level, you can attack three times whenever you take the [Attack](/compendium/rules/actions.md#Attack) action on your turn.
+At 11th level, you can attack three times whenever you take the [Attack](rules/actions.md#Attack) action on your turn.
 
 ### Ability Score Improvement (Level 12)
 
@@ -301,10 +301,10 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Extra Attack (3) (Level 20)
 
-At 20th level, you can attack four times whenever you take the [Attack](/compendium/rules/actions.md#Attack) action on your turn.
+At 20th level, you can attack four times whenever you take the [Attack](rules/actions.md#Attack) action on your turn.
 
 ## Optional Features
 
 > [!example]- Fighting Style, Fighter
-> ![Fighting Style, Fighter](/compendium/optional-features/list-fighting-style-fighter.md#Fighting%20Style,%20Fighter)
+> ![Fighting Style, Fighter](compendium/optional-features/list-fighting-style-fighter.md#Fighting%20Style,%20Fighter)
 ^list-fighting-style-fighter

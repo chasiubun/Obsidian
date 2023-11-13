@@ -13,10 +13,10 @@ aliases: ["Young Hill Giant"]
 
 ```ad-statblock
 title: Young Hill Giant
-![](/compendium/bestiary/giant/token/young-hill-giant.png#token)
+![](compendium/bestiary/giant/token/young-hill-giant.png#token)
 *Medium giant, Chaotic Evil*
 
-- **Armor Class** 13  ([hide armor](/compendium/items/hide-armor.md))
+- **Armor Class** 13  ([hide armor](compendium/items/hide-armor.md))
 - **Hit Points** 15 (`2d8 + 6`)
 - **Speed** 30 ft.
 

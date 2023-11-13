@@ -29,6 +29,6 @@ You can use your action to control the hand. You can use the hand to manipulate 
 
 The hand can't attack, activate magic items, or carry more than 10 pounds.
 
-**Classes**: [Artificer](/compendium/classes/artificer-tce.md), [Bard](/compendium/classes/bard.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Ranger (Swarmkeeper)](/compendium/classes/ranger-swarmkeeper-tce.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Sorcerer](/compendium/classes/sorcerer.md), [Warlock](/compendium/classes/warlock.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Artificer](compendium/classes/artificer-tce.md), [Bard](compendium/classes/bard.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Ranger (Swarmkeeper)](compendium/classes/ranger-swarmkeeper-tce.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Sorcerer](compendium/classes/sorcerer.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 256. Available in the SRD and the Basic Rules.*

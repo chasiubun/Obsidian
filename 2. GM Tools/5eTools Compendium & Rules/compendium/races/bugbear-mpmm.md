@@ -26,7 +26,7 @@ You can see in dim light within 60 feet of you as if it were bright light and in
 
 ### Fey Ancestry
 
-You have advantage on saving throws you make to avoid or end the [charmed](/compendium/rules/conditions.md#charmed) condition on yourself.
+You have advantage on saving throws you make to avoid or end the [charmed](rules/conditions.md#charmed) condition on yourself.
 
 ### Long-Limbed
 
@@ -38,7 +38,7 @@ You count as one size larger when determining your carrying capacity and the wei
 
 ### Sneaky
 
-You are proficient in the [Stealth](/compendium/rules/skills.md#Stealth) skill. In addition, without squeezing, you can move through and stop in a space large enough for a Small creature.
+You are proficient in the [Stealth](rules/skills.md#Stealth) skill. In addition, without squeezing, you can move through and stop in a space large enough for a Small creature.
 
 ### Surprise Attack
 

@@ -28,7 +28,7 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 
 ```ad-statblock
 title: Blue Abishai
-![](/compendium/bestiary/fiend/token/blue-abishai.png#token)
+![](compendium/bestiary/fiend/token/blue-abishai.png#token)
 *Medium fiend (devil, wizard), Typically  Lawful Evil*
 
 - **Armor Class** 19  (natural armor)
@@ -48,15 +48,15 @@ title: Blue Abishai
 
 ## Traits
 
-***Devil's Sight.*** Magical darkness doesn't impede the abishai's [darkvision](/compendium/rules/senses.md#darkvision).
+***Devil's Sight.*** Magical darkness doesn't impede the abishai's [darkvision](rules/senses.md#darkvision).
 
 ***Magic Resistance.*** The abishai has advantage on saving throws against spells and other magical effects.
 
 ***Spellcasting.*** The abishai casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 20):
 
-**At will**: [disguise self](/compendium/spells/disguise-self.md), [mage hand](/compendium/spells/mage-hand.md), [minor illusion](/compendium/spells/minor-illusion.md)
+**At will**: [disguise self](compendium/spells/disguise-self.md), [mage hand](compendium/spells/mage-hand.md), [minor illusion](compendium/spells/minor-illusion.md)
 
-**2/day each**: [charm person](/compendium/spells/charm-person.md), [dispel magic](/compendium/spells/dispel-magic.md), [greater invisibility](/compendium/spells/greater-invisibility.md), [wall of force](/compendium/spells/wall-of-force.md)
+**2/day each**: [charm person](compendium/spells/charm-person.md), [dispel magic](compendium/spells/dispel-magic.md), [greater invisibility](compendium/spells/greater-invisibility.md), [wall of force](compendium/spells/wall-of-force.md)
 
 ## Actions
 

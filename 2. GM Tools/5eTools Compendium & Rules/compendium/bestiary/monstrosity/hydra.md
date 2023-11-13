@@ -26,7 +26,7 @@ Hydras are natural swimmers, dwelling in rivers, along lakeshores, in ocean shal
 
 ```ad-statblock
 title: Hydra
-![](/compendium/bestiary/monstrosity/token/hydra.png#token)
+![](compendium/bestiary/monstrosity/token/hydra.png#token)
 *Huge monstrosity, Unaligned*
 
 - **Armor Class** 15  (natural armor)
@@ -48,7 +48,7 @@ title: Hydra
 
 ***Hold Breath.*** The hydra can hold its breath for 1 hour.
 
-***Multiple Heads.*** The hydra has five heads. While it has more than one head, the hydra has advantage on saving throws against being [blinded](/compendium/rules/conditions.md#blinded), [charmed](/compendium/rules/conditions.md#charmed), [deafened](/compendium/rules/conditions.md#deafened), [frightened](/compendium/rules/conditions.md#frightened), [stunned](/compendium/rules/conditions.md#stunned), and knocked [unconscious](/compendium/rules/conditions.md#unconscious).
+***Multiple Heads.*** The hydra has five heads. While it has more than one head, the hydra has advantage on saving throws against being [blinded](rules/conditions.md#blinded), [charmed](rules/conditions.md#charmed), [deafened](rules/conditions.md#deafened), [frightened](rules/conditions.md#frightened), [stunned](rules/conditions.md#stunned), and knocked [unconscious](rules/conditions.md#unconscious).
 
 Whenever the hydra takes 25 or more damage in a single turn, one of its heads dies. If all its heads die, the hydra dies.
 

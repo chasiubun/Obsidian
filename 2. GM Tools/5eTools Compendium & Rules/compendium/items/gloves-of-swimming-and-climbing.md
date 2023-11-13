@@ -14,6 +14,6 @@ aliases:
 *Wondrous Item, major, uncommon (requires attunement)*  
 
 
-While wearing these gloves, climbing and swimming don't cost you extra movement, and you gain a +5 bonus to Strength ([Athletics](/compendium/rules/skills.md#Athletics)) checks made to climb or swim.
+While wearing these gloves, climbing and swimming don't cost you extra movement, and you gain a +5 bonus to Strength ([Athletics](rules/skills.md#Athletics)) checks made to climb or swim.
 
 *Source: Dungeon Master's Guide p. 172. Available in the SRD and the Basic Rules.*

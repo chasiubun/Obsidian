@@ -20,6 +20,6 @@ The next time you hit a creature with a ranged weapon attack before the spell en
 
 **At Higher Levels.** If you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st (to a maximum of `6d10`).
 
-**Classes**: [Ranger](/compendium/classes/ranger.md)
+**Classes**: [Ranger](compendium/classes/ranger.md)
 
 *Source: Player's Handbook p. 249*

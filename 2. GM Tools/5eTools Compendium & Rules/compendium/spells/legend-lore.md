@@ -24,6 +24,6 @@ Name or describe a person, place, or object. The spell brings to your mind a bri
 
 The information you learn is accurate but might be couched in figurative language. For example, if you have a mysterious magic axe on hand, the spell might yield this information: "Woe to the evildoer whose hand touches the axe, for even the haft slices the hand of the evil ones. Only a true Child of Stone, lover and beloved of Moradin, may awaken the true powers of the axe, and only with the sacred word Rudnogg on the lips."
 
-**Classes**: [Bard](/compendium/classes/bard.md), [Cleric (Knowledge Domain)](/compendium/classes/cleric-knowledge-domain.md), [Cleric](/compendium/classes/cleric.md), [Sorcerer (Divine Soul)](/compendium/classes/sorcerer-divine-soul-xge.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Bard](compendium/classes/bard.md), [Cleric (Knowledge Domain)](compendium/classes/cleric-knowledge-domain.md), [Cleric](compendium/classes/cleric.md), [Sorcerer (Divine Soul)](compendium/classes/sorcerer-divine-soul-xge.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 254. Available in the SRD.*

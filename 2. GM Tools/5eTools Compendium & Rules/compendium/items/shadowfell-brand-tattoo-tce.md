@@ -23,7 +23,7 @@ If your attunement to the tattoo ends, the tattoo vanishes, and the needle reapp
 
 ## Shadow Essence
 
-You gain [darkvision](/compendium/rules/senses.md#darkvision) with a range of 60 feet, and you have advantage on Dexterity ([Stealth](/compendium/rules/skills.md#Stealth)) checks.
+You gain [darkvision](rules/senses.md#darkvision) with a range of 60 feet, and you have advantage on Dexterity ([Stealth](rules/skills.md#Stealth)) checks.
 
 ## Shadowy Defense
 

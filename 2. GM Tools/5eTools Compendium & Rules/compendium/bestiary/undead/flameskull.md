@@ -30,7 +30,7 @@ The fire wreathing a flameskull burns continually, giving off bright light that 
 
 ## Eldritch Rejuvenation
 
-A flameskull's shattered fragments reform unless they are splashed with holy water or subjected to a [dispel magic](/compendium/spells/dispel-magic.md) or [remove curse](/compendium/spells/remove-curse.md) spell. If it can no longer fulfill its intended purpose, the re-formed flameskull is beholden to no one and becomes autonomous.
+A flameskull's shattered fragments reform unless they are splashed with holy water or subjected to a [dispel magic](compendium/spells/dispel-magic.md) or [remove curse](compendium/spells/remove-curse.md) spell. If it can no longer fulfill its intended purpose, the re-formed flameskull is beholden to no one and becomes autonomous.
 
 ## Undead Nature
 
@@ -40,7 +40,7 @@ A flameskull doesn't require air, food, drink, or sleep
 
 ```ad-statblock
 title: Flameskull
-![](/compendium/bestiary/undead/token/flameskull.png#token)
+![](compendium/bestiary/undead/token/flameskull.png#token)
 *Tiny undead, Neutral Evil*
 
 - **Armor Class** 13 
@@ -64,17 +64,17 @@ title: Flameskull
 
 ***Magic Resistance.*** The flameskull has advantage on saving throws against spells and other magical effects.
 
-***Rejuvenation.*** If the flameskull is destroyed, it regains all its hit points in 1 hour unless holy water is sprinkled on its remains or a [dispel magic](/compendium/spells/dispel-magic.md) or [remove curse](/compendium/spells/remove-curse.md) spell is cast on them.
+***Rejuvenation.*** If the flameskull is destroyed, it regains all its hit points in 1 hour unless holy water is sprinkled on its remains or a [dispel magic](compendium/spells/dispel-magic.md) or [remove curse](compendium/spells/remove-curse.md) spell is cast on them.
 
 ***Spellcasting.*** The flameskull is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It requires no somatic or material components to cast its spells. The flameskull has the following wizard spells prepared:
 
-**Cantrips (at will)**: [mage hand](/compendium/spells/mage-hand.md)
+**Cantrips (at will)**: [mage hand](compendium/spells/mage-hand.md)
 
-**1st level (3 slots)**: [magic missile](/compendium/spells/magic-missile.md), [shield](/compendium/spells/shield.md)
+**1st level (3 slots)**: [magic missile](compendium/spells/magic-missile.md), [shield](compendium/spells/shield.md)
 
-**2nd level (2 slots)**: [blur](/compendium/spells/blur.md), [flaming sphere](/compendium/spells/flaming-sphere.md)
+**2nd level (2 slots)**: [blur](compendium/spells/blur.md), [flaming sphere](compendium/spells/flaming-sphere.md)
 
-**3rd level (1 slots)**: [fireball](/compendium/spells/fireball.md)
+**3rd level (1 slots)**: [fireball](compendium/spells/fireball.md)
 
 ## Actions
 

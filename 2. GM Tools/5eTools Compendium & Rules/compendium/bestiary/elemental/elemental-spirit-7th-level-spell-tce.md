@@ -13,7 +13,7 @@ aliases: ["Elemental Spirit (7th-level Spell)"]
 
 ```ad-statblock
 title: Elemental Spirit (7th-level Spell)
-![](/compendium/bestiary/elemental/token/elemental-spirit.png#token)
+![](compendium/bestiary/elemental/token/elemental-spirit.png#token)
 *Medium elemental, Unaligned*
 
 - **Armor Class** 18  (natural armor)

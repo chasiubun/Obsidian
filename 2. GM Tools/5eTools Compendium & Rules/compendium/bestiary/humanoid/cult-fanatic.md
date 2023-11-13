@@ -16,10 +16,10 @@ Fanatics are often part of a cult's leadership, using their charisma and dogma t
 
 ```ad-statblock
 title: Cult Fanatic
-![](/compendium/bestiary/humanoid/token/cult-fanatic.png#token)
+![](compendium/bestiary/humanoid/token/cult-fanatic.png#token)
 *Medium humanoid (any race), Any Non-Good alignment*
 
-- **Armor Class** 13  ([leather armor](/compendium/items/leather-armor.md))
+- **Armor Class** 13  ([leather armor](compendium/items/leather-armor.md))
 - **Hit Points** 33 (`6d8 + 6`)
 - **Speed** 30 ft.
 
@@ -36,15 +36,15 @@ title: Cult Fanatic
 
 ## Traits
 
-***Dark Devotion.*** The fanatic has advantage on saving throws against being [charmed](/compendium/rules/conditions.md#charmed) or [frightened](/compendium/rules/conditions.md#frightened).
+***Dark Devotion.*** The fanatic has advantage on saving throws against being [charmed](rules/conditions.md#charmed) or [frightened](rules/conditions.md#frightened).
 
 ***Spellcasting.*** The fanatic is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The fanatic has the following cleric spells prepared:
 
-**Cantrips (at will)**: [light](/compendium/spells/light.md), [sacred flame](/compendium/spells/sacred-flame.md), [thaumaturgy](/compendium/spells/thaumaturgy.md)
+**Cantrips (at will)**: [light](compendium/spells/light.md), [sacred flame](compendium/spells/sacred-flame.md), [thaumaturgy](compendium/spells/thaumaturgy.md)
 
-**1st level (4 slots)**: [command](/compendium/spells/command.md), [inflict wounds](/compendium/spells/inflict-wounds.md), [shield of faith](/compendium/spells/shield-of-faith.md)
+**1st level (4 slots)**: [command](compendium/spells/command.md), [inflict wounds](compendium/spells/inflict-wounds.md), [shield of faith](compendium/spells/shield-of-faith.md)
 
-**2nd level (3 slots)**: [hold person](/compendium/spells/hold-person.md), [spiritual weapon](/compendium/spells/spiritual-weapon.md)
+**2nd level (3 slots)**: [hold person](compendium/spells/hold-person.md), [spiritual weapon](compendium/spells/spiritual-weapon.md)
 
 ## Actions
 

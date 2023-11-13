@@ -13,7 +13,7 @@ aliases: ["Curran Corvalin"]
 
 ```ad-statblock
 title: Curran Corvalin
-![](/compendium/bestiary/npc/token/curran-corvalin.png#token)
+![](compendium/bestiary/npc/token/curran-corvalin.png#token)
 *Small humanoid (Stout halfling), Any alignment*
 
 - **Armor Class** 10 

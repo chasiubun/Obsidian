@@ -77,16 +77,16 @@ You are proficient with the following items, in addition to any proficiencies pr
 
 - **Saving Throws**: Constitution, Charisma
 - **Armor**: none
-- **Weapons**: [daggers](/compendium/items/dagger.md), [darts](/compendium/items/dart.md), [slings](/compendium/items/sling.md), [quarterstaffs](/compendium/items/quarterstaff.md), [light crossbows](/compendium/items/light-crossbow.md)
+- **Weapons**: [daggers](compendium/items/dagger.md), [darts](compendium/items/dart.md), [slings](compendium/items/sling.md), [quarterstaffs](compendium/items/quarterstaff.md), [light crossbows](compendium/items/light-crossbow.md)
 - **Tools**: none
 - **Skills**: Choose 2 from *Arcana*, *Deception*, *Insight*, *Intimidation*, *Persuasion*, *Religion*
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-- (a) a [light crossbow](/compendium/items/light-crossbow.md) and [20 bolts](/compendium/items/crossbow-bolts-20.md) or (b) any simple weapon  
-- (a) a [component pouch](/compendium/items/component-pouch.md) or (b) an [arcane focus](/compendium/items/arcane-focus.md)  
-- (a) a [dungeoneer's pack](/compendium/items/dungeoneers-pack.md) or (b) an [explorer's pack](/compendium/items/explorers-pack.md)  
-- Two [daggers](/compendium/items/dagger.md)  
+- (a) a [light crossbow](compendium/items/light-crossbow.md) and [20 bolts](compendium/items/crossbow-bolts-20.md) or (b) any simple weapon  
+- (a) a [component pouch](compendium/items/component-pouch.md) or (b) an [arcane focus](compendium/items/arcane-focus.md)  
+- (a) a [dungeoneer's pack](compendium/items/dungeoneers-pack.md) or (b) an [explorer's pack](compendium/items/explorers-pack.md)  
+- Two [daggers](compendium/items/dagger.md)  
 
 Alternatively, you may start with 3d4 × 10 gp and choose your own equipment.
 
@@ -128,7 +128,7 @@ How do you feel about the magical power coursing through you? Do you embrace it,
 
 #### Quick Build
 
-You can make a sorcerer quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the hermit background. Third, choose the [light](/compendium/spells/light.md), [prestidigitation](/compendium/spells/prestidigitation.md), [ray of frost](/compendium/spells/ray-of-frost.md), and [shocking grasp](/compendium/spells/shocking-grasp.md) cantrips, along with the 1st-level spells [shield](/compendium/spells/shield.md) and [magic missile](/compendium/spells/magic-missile.md).
+You can make a sorcerer quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the hermit background. Third, choose the [light](compendium/spells/light.md), [prestidigitation](compendium/spells/prestidigitation.md), [ray of frost](compendium/spells/ray-of-frost.md), and [shocking grasp](compendium/spells/shocking-grasp.md) cantrips, along with the 1st-level spells [shield](compendium/spells/shield.md) and [magic missile](compendium/spells/magic-missile.md).
 
 > [!quote]- A quote from Hennet, scion of Tiamat  
 > 
@@ -232,7 +232,7 @@ At 1st level, you know four cantrips of your choice from the sorcerer spell list
 
 The Sorcerer table shows how many spell slots you have to cast your sorcerer spells of 1st level and higher. To cast one of these sorcerer spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
-For example, if you know the 1st-level spell [burning hands](/compendium/spells/burning-hands.md) and have a 1st-level and a 2nd-level spell slot available, you can cast [burning hands](/compendium/spells/burning-hands.md) using either slot.
+For example, if you know the 1st-level spell [burning hands](compendium/spells/burning-hands.md) and have a 1st-level and a 2nd-level spell slot available, you can cast [burning hands](compendium/spells/burning-hands.md) using either slot.
 
 #### Spells Known of 1st Level and Higher
 
@@ -252,7 +252,7 @@ Charisma is your spellcasting ability for your sorcerer spells, since the power 
 
 #### Spellcasting Focus
 
-You can use an [arcane focus](/compendium/items/arcane-focus.md) as a spellcasting focus for your sorcerer spells.
+You can use an [arcane focus](compendium/items/arcane-focus.md) as a spellcasting focus for your sorcerer spells.
 
 ### Sorcerous Origin (Level 1)
 
@@ -297,19 +297,19 @@ At 3rd level, you gain the ability to twist your spells to suit your needs. You 
 
 You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.
 
-- [Careful Spell](/compendium/optional-features/careful-spell.md)  
-- [Distant Spell](/compendium/optional-features/distant-spell.md)  
-- [Empowered Spell](/compendium/optional-features/empowered-spell.md)  
-- [Extended Spell](/compendium/optional-features/extended-spell.md)  
-- [Heightened Spell](/compendium/optional-features/heightened-spell.md)  
-- [Quickened Spell](/compendium/optional-features/quickened-spell.md)  
-- [Subtle Spell](/compendium/optional-features/subtle-spell.md)  
-- [Twinned Spell](/compendium/optional-features/twinned-spell.md)  
+- [Careful Spell](compendium/optional-features/careful-spell.md)  
+- [Distant Spell](compendium/optional-features/distant-spell.md)  
+- [Empowered Spell](compendium/optional-features/empowered-spell.md)  
+- [Extended Spell](compendium/optional-features/extended-spell.md)  
+- [Heightened Spell](compendium/optional-features/heightened-spell.md)  
+- [Quickened Spell](compendium/optional-features/quickened-spell.md)  
+- [Subtle Spell](compendium/optional-features/subtle-spell.md)  
+- [Twinned Spell](compendium/optional-features/twinned-spell.md)  
 
 ### Metamagic Options (Level 3)
 _Source: Tasha's Cauldron of Everything p. 65_
 
-*3rd-level sorcerer [optional class features](/compendium/rules/variant-rules/optional-class-features-tce.md)*
+*3rd-level sorcerer [optional class features](rules/variant-rules/optional-class-features-tce.md)*
 
 When you choose Metamagic options, you have access to the following additional options.
 
@@ -322,17 +322,17 @@ If your DM allows the use of feats, you may instead take a feat.
 ### Sorcerous Versatility (Level 4)
 _Source: Tasha's Cauldron of Everything p. 65_
 
-*4th-level sorcerer [optional class features](/compendium/rules/variant-rules/optional-class-features-tce.md)*
+*4th-level sorcerer [optional class features](rules/variant-rules/optional-class-features-tce.md)*
 
 Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing the magic within you flowing in new ways:
 
-- Replace one of the options you chose for the Metamagic feature with a different [Metamagic option](/compendium/optional-features/list-metamagic.md) available to you.  
+- Replace one of the options you chose for the Metamagic feature with a different [Metamagic option](compendium/optional-features/list-metamagic.md) available to you.  
 - Replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the sorcerer spell list.  
 
 ### Magical Guidance (Level 5)
 _Source: Tasha's Cauldron of Everything p. 65_
 
-*5th-level sorcerer [optional class features](/compendium/rules/variant-rules/optional-class-features-tce.md)*
+*5th-level sorcerer [optional class features](rules/variant-rules/optional-class-features-tce.md)*
 
 You can tap into your inner wellspring of magic to try to conjure success from failure. When you make an ability check that fails, you can spend 1 sorcery point to reroll the `d20`, and you must use the new roll, potentially turning the failure into a success.
 
@@ -387,5 +387,5 @@ At 20th level, you regain 4 expended sorcery points whenever you finish a short 
 ## Optional Features
 
 > [!example]- Metamagic
-> ![Metamagic](/compendium/optional-features/list-metamagic.md#Metamagic)
+> ![Metamagic](compendium/optional-features/list-metamagic.md#Metamagic)
 ^list-metamagic

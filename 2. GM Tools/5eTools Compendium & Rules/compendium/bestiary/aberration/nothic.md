@@ -30,7 +30,7 @@ Nothics are notorious for infiltrating arcane academies and other places rich in
 
 ```ad-statblock
 title: Nothic
-![](/compendium/bestiary/aberration/token/nothic.png#token)
+![](compendium/bestiary/aberration/token/nothic.png#token)
 *Medium aberration, Neutral Evil*
 
 - **Armor Class** 15  (natural armor)
@@ -50,7 +50,7 @@ title: Nothic
 
 ## Traits
 
-***Keen Sight.*** The nothic has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Keen Sight.*** The nothic has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
@@ -60,7 +60,7 @@ title: Nothic
 
 ***Rotting Gaze.*** The nothic targets one creature it can see within 30 feet of it. The target must succeed on a DC 12 Constitution saving throw against this magic or take 10 (`3d6`) necrotic damage.
 
-***Weird Insight.*** The nothic targets one creature it can see within 30 feet of it. The target must contest its Charisma (Deception) check against the nothic's Wisdom (Insight) check. If the nothic wins, it magically learns one fact or secret about the target. The target automatically wins if it is immune to being [charmed](/compendium/rules/conditions.md#charmed).
+***Weird Insight.*** The nothic targets one creature it can see within 30 feet of it. The target must contest its Charisma (Deception) check against the nothic's Wisdom (Insight) check. If the nothic wins, it magically learns one fact or secret about the target. The target automatically wins if it is immune to being [charmed](rules/conditions.md#charmed).
 ```
 ^statblock
 

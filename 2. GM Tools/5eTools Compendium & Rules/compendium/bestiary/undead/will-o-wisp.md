@@ -38,7 +38,7 @@ A will-o'-wisp doesn't require air, drink, or sleep.
 
 ```ad-statblock
 title: Will-o'-Wisp
-![](/compendium/bestiary/undead/token/will-o-wisp.png#token)
+![](compendium/bestiary/undead/token/will-o-wisp.png#token)
 *Tiny undead, Chaotic Evil*
 
 - **Armor Class** 19 
@@ -70,7 +70,7 @@ title: Will-o'-Wisp
 
 ***Shock.*** *Melee Spell Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 9 (`2d8`) lightning damage.
 
-***Invisibility.*** The will-o'-wisp and its light magically become [invisible](/compendium/rules/conditions.md#invisible) until it attacks or uses its Consume Life, or until its [concentration](/compendium/rules/conditions.md#concentration) ends (as if concentrating on a spell).
+***Invisibility.*** The will-o'-wisp and its light magically become [invisible](rules/conditions.md#invisible) until it attacks or uses its Consume Life, or until its [concentration](rules/conditions.md#concentration) ends (as if concentrating on a spell).
 ```
 ^statblock
 

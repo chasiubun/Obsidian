@@ -49,11 +49,11 @@ You gain oath spells at the paladin levels listed.
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [protection from evil and good](/compendium/spells/protection-from-evil-and-good.md), [sanctuary](/compendium/spells/sanctuary.md) |
-| 5th | [lesser restoration](/compendium/spells/lesser-restoration.md), [zone of truth](/compendium/spells/zone-of-truth.md) |
-| 9th | [beacon of hope](/compendium/spells/beacon-of-hope.md), [dispel magic](/compendium/spells/dispel-magic.md) |
-| 13th | [freedom of movement](/compendium/spells/freedom-of-movement.md), [guardian of faith](/compendium/spells/guardian-of-faith.md) |
-| 17th | [commune](/compendium/spells/commune.md), [flame strike](/compendium/spells/flame-strike.md) |
+| 3rd | [protection from evil and good](compendium/spells/protection-from-evil-and-good.md), [sanctuary](compendium/spells/sanctuary.md) |
+| 5th | [lesser restoration](compendium/spells/lesser-restoration.md), [zone of truth](compendium/spells/zone-of-truth.md) |
+| 9th | [beacon of hope](compendium/spells/beacon-of-hope.md), [dispel magic](compendium/spells/dispel-magic.md) |
+| 13th | [freedom of movement](compendium/spells/freedom-of-movement.md), [guardian of faith](compendium/spells/guardian-of-faith.md) |
+| 17th | [commune](compendium/spells/commune.md), [flame strike](compendium/spells/flame-strike.md) |
 ^oath-of-devotion-spells
 
 ### Channel Divinity (Level 3)
@@ -64,23 +64,23 @@ When you take this oath at 3rd level, you gain the following two Channel Divinit
 
 As an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity. For 1 minute, you add your Charisma modifier to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 20-foot radius and dim light 20 feet beyond that. If the weapon is not already magical, it becomes magical for the duration.
 
-You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall [unconscious](/compendium/rules/conditions.md#unconscious), this effect ends.
+You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall [unconscious](rules/conditions.md#unconscious), this effect ends.
 
 ### Turn the Unholy (Level 3)
 
 As an action, you present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity. Each fiend or undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes damage.
 
-A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the [Dash](/compendium/rules/actions.md#Dash) action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the [Dodge](/compendium/rules/actions.md#Dodge) action.
+A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the [Dash](rules/actions.md#Dash) action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the [Dodge](rules/actions.md#Dodge) action.
 
 ### Aura of Devotion (Level 7)
 
-Starting at 7th level, you and friendly creatures within 10 feet of you can't be [charmed](/compendium/rules/conditions.md#charmed) while you are conscious.
+Starting at 7th level, you and friendly creatures within 10 feet of you can't be [charmed](rules/conditions.md#charmed) while you are conscious.
 
 At 18th level, the range of this aura increases to 30 feet.
 
 ### Purity of Spirit (Level 15)
 
-Beginning at 15th level, you are always under the effects of a [protection from evil and good](/compendium/spells/protection-from-evil-and-good.md) spell.
+Beginning at 15th level, you are always under the effects of a [protection from evil and good](compendium/spells/protection-from-evil-and-good.md) spell.
 
 ### Holy Nimbus (Level 20)
 

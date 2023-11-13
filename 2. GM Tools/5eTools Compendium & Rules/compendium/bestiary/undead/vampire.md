@@ -36,9 +36,9 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
 
 > [!note] Player Characters as Vampires
 > 
-> The game statistics of a player character transformed into a vampire spawn and then a vampire don't change, except that the character's Strength, Dexterity, and Constitution scores become 18 if they aren't higher. In addition, the character gains the vampire's damage resistances, [darkvision](/compendium/rules/senses.md#darkvision), traits, and actions. Attack and damage rolls for the vampire's attacks are based on Strength.
+> The game statistics of a player character transformed into a vampire spawn and then a vampire don't change, except that the character's Strength, Dexterity, and Constitution scores become 18 if they aren't higher. In addition, the character gains the vampire's damage resistances, [darkvision](rules/senses.md#darkvision), traits, and actions. Attack and damage rolls for the vampire's attacks are based on Strength.
 > 
-> The save DC for Charm is 8 + the vampire's proficiency bonus + the vampire's Charisma modifier. The character's alignment becomes lawful evil, and the DM might take control of the character until the vampirism is reversed with a [wish](/compendium/spells/wish.md) spell or the character is killed and brought back to life.
+> The save DC for Charm is 8 + the vampire's proficiency bonus + the vampire's Charisma modifier. The character's alignment becomes lawful evil, and the DM might take control of the character until the vampirism is reversed with a [wish](compendium/spells/wish.md) spell or the character is killed and brought back to life.
 ^player-characters-as-vampires
 
 > [!note] Strahd von Zarovich
@@ -61,7 +61,7 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
 
 ```ad-statblock
 title: Vampire
-![](/compendium/bestiary/undead/token/vampire.png#token)
+![](compendium/bestiary/undead/token/vampire.png#token)
 *Medium undead (shapechanger), Lawful Evil*
 
 - **Armor Class** 16  (natural armor)
@@ -89,9 +89,9 @@ While in mist form, the vampire can't take any actions, speak, or manipulate obj
 
 ***Legendary Resistance (3/Day).*** If the vampire fails a saving throw, it can choose to succeed instead.
 
-***Misty Escape.*** When it drops to 0 hit points outside its resting place, the vampire transforms into a cloud of mist (as in the Shapechanger trait) instead of falling [unconscious](/compendium/rules/conditions.md#unconscious), provided that it isn't in sunlight or running water. If it can't transform, it is destroyed.
+***Misty Escape.*** When it drops to 0 hit points outside its resting place, the vampire transforms into a cloud of mist (as in the Shapechanger trait) instead of falling [unconscious](rules/conditions.md#unconscious), provided that it isn't in sunlight or running water. If it can't transform, it is destroyed.
 
-While it has 0 hit points in mist form, it can't revert to its vampire form, and it must reach its resting place within 2 hours or be destroyed. Once in its resting place, it reverts to its vampire form. It is then [paralyzed](/compendium/rules/conditions.md#paralyzed) until it regains at least 1 hit point. After spending 1 hour in its resting place with 0 hit points, it regains 1 hit point.
+While it has 0 hit points in mist form, it can't revert to its vampire form, and it must reach its resting place within 2 hours or be destroyed. Once in its resting place, it reverts to its vampire form. It is then [paralyzed](rules/conditions.md#paralyzed) until it regains at least 1 hit point. After spending 1 hour in its resting place with 0 hit points, it regains 1 hit point.
 
 ***Regeneration.*** The vampire regains 20 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.
 
@@ -103,7 +103,7 @@ While it has 0 hit points in mist form, it can't revert to its vampire form, and
 
 *Harmed by Running Water.* The vampire takes 20 acid damage if it ends its turn in running water.
 
-*Stake to the Heart.* If a piercing weapon made of wood is driven into the vampire's heart while the vampire is [incapacitated](/compendium/rules/conditions.md#incapacitated) in its resting place, the vampire is [paralyzed](/compendium/rules/conditions.md#paralyzed) until the stake is removed.
+*Stake to the Heart.* If a piercing weapon made of wood is driven into the vampire's heart while the vampire is [incapacitated](rules/conditions.md#incapacitated) in its resting place, the vampire is [paralyzed](rules/conditions.md#paralyzed) until the stake is removed.
 
 *Sunlight Hypersensitivity.* The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 
@@ -113,13 +113,13 @@ While it has 0 hit points in mist form, it can't revert to its vampire form, and
 
 ***Unarmed Strike (Vampire Form Only).*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one creature. *Hit:* 8 (`1d8 + 4`) bludgeoning damage. Instead of dealing damage, the vampire can grapple the target (escape DC 18).
 
-***Bite (Bat or Vampire Form Only).*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one willing creature, or a creature that is [grappled](/compendium/rules/conditions.md#grappled) by the vampire, [incapacitated](/compendium/rules/conditions.md#incapacitated), or [restrained](/compendium/rules/conditions.md#restrained). *Hit:* 7 (`1d6 + 4`) piercing damage plus 10 (`3d6`) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid slain in this way and then buried in the ground rises the following night as a [vampire spawn](/compendium/bestiary/undead/vampire-spawn.md) under the vampire's control.
+***Bite (Bat or Vampire Form Only).*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one willing creature, or a creature that is [grappled](rules/conditions.md#grappled) by the vampire, [incapacitated](rules/conditions.md#incapacitated), or [restrained](rules/conditions.md#restrained). *Hit:* 7 (`1d6 + 4`) piercing damage plus 10 (`3d6`) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid slain in this way and then buried in the ground rises the following night as a [vampire spawn](compendium/bestiary/undead/vampire-spawn.md) under the vampire's control.
 
-***Charm.*** The vampire targets one humanoid it can see within 30 feet of it. If the target can see the vampire, the target must succeed on a DC 17 Wisdom saving throw against this magic or be [charmed](/compendium/rules/conditions.md#charmed) by the vampire. The [charmed](/compendium/rules/conditions.md#charmed) target regards the vampire as a trusted friend to be heeded and protected. Although the target isn't under the vampire's control, it takes the vampire's requests or actions in the most favorable way it can, and it is a willing target for the vampire's bite attack.
+***Charm.*** The vampire targets one humanoid it can see within 30 feet of it. If the target can see the vampire, the target must succeed on a DC 17 Wisdom saving throw against this magic or be [charmed](rules/conditions.md#charmed) by the vampire. The [charmed](rules/conditions.md#charmed) target regards the vampire as a trusted friend to be heeded and protected. Although the target isn't under the vampire's control, it takes the vampire's requests or actions in the most favorable way it can, and it is a willing target for the vampire's bite attack.
 
 Each time the vampire or the vampire's companions do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the vampire is destroyed, is on a different plane of existence than the target, or takes a bonus action to end the effect.
 
-***Children of the Night (1/Day).*** The vampire magically calls `2d4` swarms of [bats](/compendium/bestiary/beast/swarm-of-bats.md) or [rats](/compendium/bestiary/beast/swarm-of-rats.md), provided that the sun isn't up. While outdoors, the vampire can call `3d6` [wolves](/compendium/bestiary/beast/wolf.md) instead. The called creatures arrive in `1d4` rounds, acting as allies of the vampire and obeying its spoken commands. The beasts remain for 1 hour, until the vampire dies, or until the vampire dismisses them as a bonus action.
+***Children of the Night (1/Day).*** The vampire magically calls `2d4` swarms of [bats](compendium/bestiary/beast/swarm-of-bats.md) or [rats](compendium/bestiary/beast/swarm-of-rats.md), provided that the sun isn't up. While outdoors, the vampire can call `3d6` [wolves](compendium/bestiary/beast/wolf.md) instead. The called creatures arrive in `1d4` rounds, acting as allies of the vampire and obeying its spoken commands. The beasts remain for 1 hour, until the vampire dies, or until the vampire dismisses them as a bonus action.
 
 ## Legendary Actions
 
@@ -129,7 +129,7 @@ Each time the vampire or the vampire's companions do anything harmful to the tar
 
 ***Bite (Costs 2 Actions).*** The vampire makes one bite attack.
 
-![Vampire](/compendium/bestiary/legendary-group/vampire.md)
+![Vampire](compendium/bestiary/legendary-group/vampire.md)
 ```
 ^statblock
 

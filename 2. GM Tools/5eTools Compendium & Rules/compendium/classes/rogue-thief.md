@@ -19,7 +19,7 @@ You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and ot
 
 ### Fast Hands (Level 3)
 
-Starting at 3rd level, you can use the bonus action granted by your Cunning Action to make a Dexterity ([Sleight of Hand](/compendium/rules/skills.md#Sleight%20of%20Hand)) check, use your [thieves' tools](/compendium/items/thieves-tools.md) to disarm a trap or open a lock, or take the [Use an Object](/compendium/rules/actions.md#Use%20an%20Object) action.
+Starting at 3rd level, you can use the bonus action granted by your Cunning Action to make a Dexterity ([Sleight of Hand](rules/skills.md#Sleight%20of%20Hand)) check, use your [thieves' tools](compendium/items/thieves-tools.md) to disarm a trap or open a lock, or take the [Use an Object](rules/actions.md#Use%20an%20Object) action.
 
 ### Second-Story Work (Level 3)
 
@@ -29,7 +29,7 @@ In addition, when you make a running jump, the distance you cover increases by a
 
 ### Supreme Sneak (Level 9)
 
-Starting at 9th level, you have advantage on a Dexterity ([Stealth](/compendium/rules/skills.md#Stealth)) check if you move no more than half your speed on the same turn.
+Starting at 9th level, you have advantage on a Dexterity ([Stealth](rules/skills.md#Stealth)) check if you move no more than half your speed on the same turn.
 
 ### Use Magic Device (Level 13)
 

@@ -13,7 +13,7 @@ aliases: ["Sentient Gray Ooze"]
 
 ```ad-statblock
 title: Sentient Gray Ooze
-![](/compendium/bestiary/ooze/token/sentient-gray-ooze.png#token)
+![](compendium/bestiary/ooze/token/sentient-gray-ooze.png#token)
 *Medium ooze, Unaligned*
 
 - **Armor Class** 8 

@@ -38,15 +38,15 @@ You have advantage on saving throws against poison, and you have resistance agai
 
 ### Dwarven Combat Training
 
-You have proficiency with the [battleaxe](/compendium/items/battleaxe.md), [handaxe](/compendium/items/handaxe.md), [light hammer](/compendium/items/light-hammer.md), and [warhammer](/compendium/items/warhammer.md).
+You have proficiency with the [battleaxe](compendium/items/battleaxe.md), [handaxe](compendium/items/handaxe.md), [light hammer](compendium/items/light-hammer.md), and [warhammer](compendium/items/warhammer.md).
 
 ### Tool Proficiency
 
-You gain proficiency with the artisan's tools of your choice: [Smith's tools](/compendium/items/smiths-tools.md), [brewer's supplies](/compendium/items/brewers-supplies.md), or [mason's tools](/compendium/items/masons-tools.md).
+You gain proficiency with the artisan's tools of your choice: [Smith's tools](compendium/items/smiths-tools.md), [brewer's supplies](compendium/items/brewers-supplies.md), or [mason's tools](compendium/items/masons-tools.md).
 
 ### Stonecunning
 
-Whenever you make an Intelligence ([History](/compendium/rules/skills.md#History)) check related to the origin of stonework, you are considered proficient in the [History](/compendium/rules/skills.md#History) skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
+Whenever you make an Intelligence ([History](rules/skills.md#History)) check related to the origin of stonework, you are considered proficient in the [History](rules/skills.md#History) skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
 
 ### Languages
 

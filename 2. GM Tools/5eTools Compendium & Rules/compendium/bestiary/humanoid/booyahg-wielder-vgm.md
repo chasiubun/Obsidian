@@ -11,7 +11,7 @@ aliases: ["Booyahg Wielder"]
 # Booyahg Wielder
 *Source: Volo's Guide to Monsters p. 42, Derived from *  
 
-This goblin found a magic item (a [necklace of fireballs](/compendium/items/necklace-of-fireballs.md), a [circlet of blasting](/compendium/items/circlet-of-blasting.md), or the like) and learned how to use it.
+This goblin found a magic item (a [necklace of fireballs](compendium/items/necklace-of-fireballs.md), a [circlet of blasting](compendium/items/circlet-of-blasting.md), or the like) and learned how to use it.
 
 ## Booyahgs
 
@@ -25,10 +25,10 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 
 ```ad-statblock
 title: Booyahg Wielder
-![](/compendium/bestiary/humanoid/token/booyahg-wielder.png#token)
+![](compendium/bestiary/humanoid/token/booyahg-wielder.png#token)
 *Small humanoid (goblinoid), Neutral Evil*
 
-- **Armor Class** 15  ([leather armor](/compendium/items/leather-armor.md), [shield](/compendium/items/shield.md))
+- **Armor Class** 15  ([leather armor](compendium/items/leather-armor.md), [shield](compendium/items/shield.md))
 - **Hit Points** 7 (`2d6`)
 - **Speed** 30 ft.
 
@@ -47,7 +47,7 @@ title: Booyahg Wielder
 
 ***Nimble Escape.*** The goblin can take the Disengage or Hide action as a bonus action on each of its turns.
 
-***Special Equipment.*** The goblin found a magic item (a [necklace of fireballs](/compendium/items/necklace-of-fireballs.md), a [circlet of blasting](/compendium/items/circlet-of-blasting.md), or the like) and learned how to use it.
+***Special Equipment.*** The goblin found a magic item (a [necklace of fireballs](compendium/items/necklace-of-fireballs.md), a [circlet of blasting](compendium/items/circlet-of-blasting.md), or the like) and learned how to use it.
 
 ## Actions
 

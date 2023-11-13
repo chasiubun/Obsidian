@@ -17,7 +17,7 @@ aliases:
 
 - **Damage**: 2d8 P
 - **Range**: 80/240
-- **Properties**: [Ammunition (Firearm)](/compendium/rules/item-properties.md#Ammunition%20(Firearm)), [Burst Fire](/compendium/rules/item-properties.md#Burst%20Fire), Martial, [Reload](/compendium/rules/item-properties.md#Reload), [Two-handed](/compendium/rules/item-properties.md#Two-handed)
+- **Properties**: [Ammunition (Firearm)](rules/item-properties.md#Ammunition%20(Firearm)), [Burst Fire](rules/item-properties.md#Burst%20Fire), Martial, [Reload](rules/item-properties.md#Reload), [Two-handed](rules/item-properties.md#Two-handed)
 - **Weight**: 8.0 lbs.
 
 *Source: Dungeon Master's Guide p. 268*

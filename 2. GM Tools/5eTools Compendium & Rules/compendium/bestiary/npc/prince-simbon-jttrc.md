@@ -13,7 +13,7 @@ aliases: ["Prince Simbon"]
 
 ```ad-statblock
 title: Prince Simbon
-![](/compendium/bestiary/npc/token/prince-simbon.png#token)
+![](compendium/bestiary/npc/token/prince-simbon.png#token)
 *Medium humanoid (any race), Any alignment*
 
 - **Armor Class** 11 
@@ -33,7 +33,7 @@ title: Prince Simbon
 
 ## Traits
 
-***Royal Blood.*** If Simbon is reduced to half of his hit points or fewer, he uses the [Dodge](/compendium/rules/actions.md#Dodge) action to avoid taking further damage.
+***Royal Blood.*** If Simbon is reduced to half of his hit points or fewer, he uses the [Dodge](rules/actions.md#Dodge) action to avoid taking further damage.
 
 ## Actions
 

@@ -13,7 +13,7 @@ aliases: ["Fey Spirit (4th-level Spell)"]
 
 ```ad-statblock
 title: Fey Spirit (4th-level Spell)
-![](/compendium/bestiary/fey/token/fey-spirit.png#token)
+![](compendium/bestiary/fey/token/fey-spirit.png#token)
 *Small fey, Unaligned*
 
 - **Armor Class** 16  (natural armor)
@@ -42,7 +42,7 @@ title: Fey Spirit (4th-level Spell)
 ***Fey Step.*** The fey magically teleports up to 30 feet to an unoccupied space it can see. Then one of the following effects occurs, based on the fey's chosen mood:
 
 - **Fuming.** The fey has advantage on the next attack roll it makes before the end of this turn.  
-- **Mirthful.** The fey can force one creature it can see within 10 feet of it to make a Wisdom saving throw against your spell save DC. Unless the save succeeds, the target is [charmed](/compendium/rules/conditions.md#charmed) by you and the fey for 1 minute or until the target takes any damage.  
+- **Mirthful.** The fey can force one creature it can see within 10 feet of it to make a Wisdom saving throw against your spell save DC. Unless the save succeeds, the target is [charmed](rules/conditions.md#charmed) by you and the fey for 1 minute or until the target takes any damage.  
 - **Tricksy.** The fey can fill a 5-foot cube within 5 feet of it with magical darkness, which lasts until the end of its next turn.  
 ```
 ^statblock

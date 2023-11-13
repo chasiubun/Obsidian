@@ -18,7 +18,7 @@ Smiling ones take their name from the strange two-faced masks they wear. The smi
 
 ```ad-statblock
 title: Cloud Giant Smiling One
-![](/compendium/bestiary/giant/token/cloud-giant-smiling-one.png#token)
+![](compendium/bestiary/giant/token/cloud-giant-smiling-one.png#token)
 *Huge giant, Typically  Chaotic Neutral*
 
 - **Armor Class** 15  (natural armor)
@@ -38,15 +38,15 @@ title: Cloud Giant Smiling One
 
 ## Traits
 
-***Control Weather (8th-level Spell).*** The giant can cast the [control weather](/compendium/spells/control-weather.md) spell, requiring no material components and using Charisma as the spellcasting ability.
+***Control Weather (8th-level Spell).*** The giant can cast the [control weather](compendium/spells/control-weather.md) spell, requiring no material components and using Charisma as the spellcasting ability.
 
 ***Spellcasting.*** The giant casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 15):
 
-**At will**: [detect magic](/compendium/spells/detect-magic.md), [fog cloud](/compendium/spells/fog-cloud.md), [light](/compendium/spells/light.md), [minor illusion](/compendium/spells/minor-illusion.md)
+**At will**: [detect magic](compendium/spells/detect-magic.md), [fog cloud](compendium/spells/fog-cloud.md), [light](compendium/spells/light.md), [minor illusion](compendium/spells/minor-illusion.md)
 
-**1/day each**: [gaseous form](/compendium/spells/gaseous-form.md), [major image](/compendium/spells/major-image.md)
+**1/day each**: [gaseous form](compendium/spells/gaseous-form.md), [major image](compendium/spells/major-image.md)
 
-**3/day each**: [invisibility](/compendium/spells/invisibility.md), [silent image](/compendium/spells/silent-image.md), [suggestion](/compendium/spells/suggestion.md), [tongues](/compendium/spells/tongues.md)
+**3/day each**: [invisibility](compendium/spells/invisibility.md), [silent image](compendium/spells/silent-image.md), [suggestion](compendium/spells/suggestion.md), [tongues](compendium/spells/tongues.md)
 
 ## Actions
 

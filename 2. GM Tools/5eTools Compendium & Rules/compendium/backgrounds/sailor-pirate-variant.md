@@ -9,9 +9,9 @@ aliases: ["Sailor (Pirate) (Variant)"]
 # Sailor (Pirate) (Variant)
 *Source: Player's Handbook p. 139, Derived from *  
 
-- **Skill Proficiencies.** [Athletics](/compendium/rules/skills.md#Athletics), [Perception](/compendium/rules/skills.md#Perception)  
-- **Tool Proficiencies.** [Navigator's tools](/compendium/items/navigators-tools.md), vehicles (water)  
-- **Equipment.** A belaying pin ([club](/compendium/items/club.md)), [silk rope (50 feet)](/compendium/items/silk-rope-50-feet.md), a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random [trinket](/compendium/items/trinket.md) on the Trinkets table in chapter 5), a set of [common clothes](/compendium/items/common-clothes.md), and a belt [pouch](/compendium/items/pouch.md) containing 10 gp  
+- **Skill Proficiencies.** [Athletics](rules/skills.md#Athletics), [Perception](rules/skills.md#Perception)  
+- **Tool Proficiencies.** [Navigator's tools](compendium/items/navigators-tools.md), vehicles (water)  
+- **Equipment.** A belaying pin ([club](compendium/items/club.md)), [silk rope (50 feet)](compendium/items/silk-rope-50-feet.md), a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random [trinket](compendium/items/trinket.md) on the Trinkets table in chapter 5), a set of [common clothes](compendium/items/common-clothes.md), and a belt [pouch](compendium/items/pouch.md) containing 10 gp  
 
 You spent your youth under the sway of a dread pirate, a ruthless cutthroat who taught you how to survive in a world of sharks and savages. You've indulged in larceny on the high seas and sent more than one deserving soul to a briny grave. Fear and bloodshed are no strangers to you, and you've garnered a somewhat unsavory reputation in many a port town.
 

@@ -24,10 +24,10 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
 
 ```ad-statblock
 title: Ogre Battering Ram
-![](/compendium/bestiary/giant/token/ogre-battering-ram.png#token)
+![](compendium/bestiary/giant/token/ogre-battering-ram.png#token)
 *Large giant, Typically  Chaotic Evil*
 
-- **Armor Class** 11  ([hide armor](/compendium/items/hide-armor.md))
+- **Armor Class** 11  ([hide armor](compendium/items/hide-armor.md))
 - **Hit Points** 76 (`9d10 + 27`)
 - **Speed** 40 ft.
 

@@ -44,7 +44,7 @@ An ooze doesn't require sleep.
 
 ```ad-statblock
 title: Gray Ooze
-![](/compendium/bestiary/ooze/token/gray-ooze.png#token)
+![](compendium/bestiary/ooze/token/gray-ooze.png#token)
 *Medium ooze, Unaligned*
 
 - **Armor Class** 8 

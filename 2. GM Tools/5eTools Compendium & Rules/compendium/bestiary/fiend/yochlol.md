@@ -156,7 +156,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](/compendium/rules/conditions.md#charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](rules/conditions.md#charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -187,7 +187,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 ```ad-statblock
 title: Yochlol
-![](/compendium/bestiary/fiend/token/yochlol.png#token)
+![](compendium/bestiary/fiend/token/yochlol.png#token)
 *Medium fiend (demon, shapechanger), Chaotic Evil*
 
 - **Armor Class** 15  (natural armor)
@@ -217,9 +217,9 @@ title: Yochlol
 
 ***Innate Spellcasting.*** The yochlol's spellcasting ability is Charisma (spell save DC 14). The yochlol can innately cast the following spells, requiring no material components:
 
-**At will**: [detect thoughts](/compendium/spells/detect-thoughts.md), [web](/compendium/spells/web.md)
+**At will**: [detect thoughts](compendium/spells/detect-thoughts.md), [web](compendium/spells/web.md)
 
-**1/day**: [dominate person](/compendium/spells/dominate-person.md)
+**1/day**: [dominate person](compendium/spells/dominate-person.md)
 
 ## Actions
 
@@ -229,8 +229,8 @@ title: Yochlol
 
 ***Mist Form.*** The yochlol transforms into toxic mist or reverts to its true form. Any equipment it is wearing or carrying is also transformed. It reverts to its true form if it dies.
 
-While in mist form, the yochlol is [incapacitated](/compendium/rules/conditions.md#incapacitated) and can't speak. It has a flying speed of 30 feet, can hover, and can pass through any space that isn't airtight. It has advantage on Strength, Dexterity, and Constitution saving throws, and it is immune to nonmagical damage.
+While in mist form, the yochlol is [incapacitated](rules/conditions.md#incapacitated) and can't speak. It has a flying speed of 30 feet, can hover, and can pass through any space that isn't airtight. It has advantage on Strength, Dexterity, and Constitution saving throws, and it is immune to nonmagical damage.
 
-While in mist form, the yochlol can enter a creature's space and stop there. Each time that creature starts its turn with the yochlol in its space, the creature must succeed on a DC 14 Constitution saving throw or be [poisoned](/compendium/rules/conditions.md#poisoned) until the start of its next turn. While [poisoned](/compendium/rules/conditions.md#poisoned) in this way, the target is [incapacitated](/compendium/rules/conditions.md#incapacitated).
+While in mist form, the yochlol can enter a creature's space and stop there. Each time that creature starts its turn with the yochlol in its space, the creature must succeed on a DC 14 Constitution saving throw or be [poisoned](rules/conditions.md#poisoned) until the start of its next turn. While [poisoned](rules/conditions.md#poisoned) in this way, the target is [incapacitated](rules/conditions.md#incapacitated).
 ```
 ^statblock

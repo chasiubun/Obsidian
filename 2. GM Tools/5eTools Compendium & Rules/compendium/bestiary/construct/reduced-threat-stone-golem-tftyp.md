@@ -13,7 +13,7 @@ aliases: ["Reduced-Threat Stone Golem"]
 
 ```ad-statblock
 title: Reduced-Threat Stone Golem
-![](/compendium/bestiary/construct/token/reduced-threat-stone-golem.png#token)
+![](compendium/bestiary/construct/token/reduced-threat-stone-golem.png#token)
 *Large construct, Unaligned*
 
 - **Armor Class** 17  (natural armor)

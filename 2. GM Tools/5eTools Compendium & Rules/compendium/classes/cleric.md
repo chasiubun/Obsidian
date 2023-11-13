@@ -76,18 +76,18 @@ aliases: ["Cleric"]
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
 
 - **Saving Throws**: Wisdom, Charisma
-- **Armor**: light, medium, [shields](/compendium/items/shield.md)
+- **Armor**: light, medium, [shields](compendium/items/shield.md)
 - **Weapons**: simple
 - **Tools**: none
 - **Skills**: Choose 2 from *History*, *Insight*, *Medicine*, *Persuasion*, *Religion*
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-- (a) a [mace](/compendium/items/mace.md) or (b) a [warhammer](/compendium/items/warhammer.md) (if proficient)  
-- (a) [scale mail](/compendium/items/scale-mail.md), (b) [leather armor](/compendium/items/leather-armor.md), or (c) [chain mail](/compendium/items/chain-mail.md) (if proficient)  
-- (a) a [light crossbow](/compendium/items/light-crossbow.md) and [20 bolts](/compendium/items/crossbow-bolts-20.md) or (b) any simple weapon  
-- (a) a [priest's pack](/compendium/items/priests-pack.md) or (b) an [explorer's pack](/compendium/items/explorers-pack.md)  
-- A [shield](/compendium/items/shield.md) and a [holy symbol](/compendium/items/holy-symbol.md)  
+- (a) a [mace](compendium/items/mace.md) or (b) a [warhammer](compendium/items/warhammer.md) (if proficient)  
+- (a) [scale mail](compendium/items/scale-mail.md), (b) [leather armor](compendium/items/leather-armor.md), or (c) [chain mail](compendium/items/chain-mail.md) (if proficient)  
+- (a) a [light crossbow](compendium/items/light-crossbow.md) and [20 bolts](compendium/items/crossbow-bolts-20.md) or (b) any simple weapon  
+- (a) a [priest's pack](compendium/items/priests-pack.md) or (b) an [explorer's pack](compendium/items/explorers-pack.md)  
+- A [shield](compendium/items/shield.md) and a [holy symbol](compendium/items/holy-symbol.md)  
 
 Alternatively, you may start with 5d4 × 10 gp and choose your own equipment.
 
@@ -99,7 +99,7 @@ To multiclass as a Cleric, you must meet the following prerequisites:
 
 You gain the following proficiencies:
 
-- **Armor**: light, medium, [shields](/compendium/items/shield.md)
+- **Armor**: light, medium, [shields](compendium/items/shield.md)
 - **Weapons**: none
 - **Tools**: none
 
@@ -137,7 +137,7 @@ Once you've chosen a deity, consider your cleric's relationship to that god. Did
 
 #### Quick Build
 
-You can make a cleric quickly by following these suggestions. First, Wisdom should be your highest ability score, followed by Strength or Constitution. Second, choose the [acolyte](/compendium/backgrounds/acolyte.md) background.
+You can make a cleric quickly by following these suggestions. First, Wisdom should be your highest ability score, followed by Strength or Constitution. Second, choose the [acolyte](compendium/backgrounds/acolyte.md) background.
 
 > [!quote]- A quote from Riggby the patriarch  
 > 
@@ -231,7 +231,7 @@ The Cleric table shows how many spell slots you have to cast your cleric spells 
 
 You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to your Wisdom modifier + your cleric level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell [cure wounds](/compendium/spells/cure-wounds.md), you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell [cure wounds](compendium/spells/cure-wounds.md), you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of cleric spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
@@ -249,7 +249,7 @@ You can cast a cleric spell as a ritual if that spell has the ritual tag and you
 
 #### Spellcasting Focus
 
-You can use a [holy symbol](/compendium/items/holy-symbol.md) as a spellcasting focus for your cleric spells.
+You can use a [holy symbol](compendium/items/holy-symbol.md) as a spellcasting focus for your cleric spells.
 
 ### Divine Domain (Level 1)
 
@@ -275,12 +275,12 @@ Beginning at 6th level, you can use your Channel Divinity twice between rests, a
 
 As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
 
-A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the [Dash](/compendium/rules/actions.md#Dash) action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the [Dodge](/compendium/rules/actions.md#Dodge) action.
+A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the [Dash](rules/actions.md#Dash) action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the [Dodge](rules/actions.md#Dodge) action.
 
 ### Channel Divinity: Harness Divine Power (Level 2)
 _Source: Tasha's Cauldron of Everything p. 30_
 
-*2nd-level cleric [optional class features](/compendium/rules/variant-rules/optional-class-features-tce.md)*
+*2nd-level cleric [optional class features](rules/variant-rules/optional-class-features-tce.md)*
 
 You can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended spell slot, the level of which can be no higher than half your proficiency bonus (rounded up). The number of times you can use this feature is based on the level you've reached in this class: 2nd level, once; 6th level, twice; and 18th level, thrice. You regain all expended uses when you finish a long rest.
 
@@ -297,7 +297,7 @@ If your DM allows the use of feats, you may instead take a feat.
 ### Cantrip Versatility (Level 4)
 _Source: Tasha's Cauldron of Everything p. 30_
 
-*4th-level cleric [optional class features](/compendium/rules/variant-rules/optional-class-features-tce.md)*
+*4th-level cleric [optional class features](rules/variant-rules/optional-class-features-tce.md)*
 
 Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the cleric spell list.
 

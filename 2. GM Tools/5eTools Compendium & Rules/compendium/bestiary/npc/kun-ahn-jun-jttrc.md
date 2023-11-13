@@ -13,10 +13,10 @@ aliases: ["Kun Ahn-Jun"]
 
 ```ad-statblock
 title: Kun Ahn-Jun
-![](/compendium/bestiary/npc/token/kun-ahn-jun.png#token)
+![](compendium/bestiary/npc/token/kun-ahn-jun.png#token)
 *Medium humanoid (human), Neutral Good*
 
-- **Armor Class** 15  ([breastplate](/compendium/items/breastplate.md))
+- **Armor Class** 15  ([breastplate](compendium/items/breastplate.md))
 - **Hit Points** 9 (`2d8`)
 - **Speed** 30 ft.
 

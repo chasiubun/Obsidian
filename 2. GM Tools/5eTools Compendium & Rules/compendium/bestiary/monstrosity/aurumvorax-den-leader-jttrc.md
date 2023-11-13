@@ -23,7 +23,7 @@ Alone or in small groups, aurumvoraxes dig deep in search of precious metals. Su
 
 ```ad-statblock
 title: Aurumvorax Den Leader
-![](/compendium/bestiary/monstrosity/token/aurumvorax-den-leader.png#token)
+![](compendium/bestiary/monstrosity/token/aurumvorax-den-leader.png#token)
 *Medium monstrosity, Unaligned*
 
 - **Armor Class** 16  (natural armor)
@@ -43,7 +43,7 @@ title: Aurumvorax Den Leader
 
 ## Traits
 
-***Pack Leader.*** The aurumvorax's allies have advantage on attack rolls while within 10 feet of the aurumvorax, provided it isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Pack Leader.*** The aurumvorax's allies have advantage on attack rolls while within 10 feet of the aurumvorax, provided it isn't [incapacitated](rules/conditions.md#incapacitated).
 
 ***Tunneler.*** The aurumvorax can burrow through solid rock and metal at half its burrowing speed and leaves a 5-foot-diameter tunnel in its wake.
 
@@ -57,6 +57,6 @@ title: Aurumvorax Den Leader
 
 ***Invigorate.*** The aurumvorax regains 6 (`1d8 + 2`) hit points.
 
-***Claw.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (`2d6 + 4`) slashing damage. If the target is a Large or smaller creature, it is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 14). Until this grapple ends, the aurumvorax can't use its Claw attack on another target, and when it moves, it can drag the [grappled](/compendium/rules/conditions.md#grappled) creature with it, without the aurumvorax's speed being halved.
+***Claw.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (`2d6 + 4`) slashing damage. If the target is a Large or smaller creature, it is [grappled](rules/conditions.md#grappled) (escape DC 14). Until this grapple ends, the aurumvorax can't use its Claw attack on another target, and when it moves, it can drag the [grappled](rules/conditions.md#grappled) creature with it, without the aurumvorax's speed being halved.
 ```
 ^statblock

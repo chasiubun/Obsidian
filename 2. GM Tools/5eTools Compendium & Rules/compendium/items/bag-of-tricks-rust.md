@@ -24,14 +24,14 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 
 | dice: d8 | Creature |
 |----------|----------|
-| 1 | [Rat](/compendium/bestiary/beast/rat.md) |
-| 2 | [Owl](/compendium/bestiary/beast/owl.md) |
-| 3 | [Mastiff](/compendium/bestiary/beast/mastiff.md) |
-| 4 | [Goat](/compendium/bestiary/beast/goat.md) |
-| 5 | [Giant goat](/compendium/bestiary/beast/giant-goat.md) |
-| 6 | [Giant boar](/compendium/bestiary/beast/giant-boar.md) |
-| 7 | [Lion](/compendium/bestiary/beast/lion.md) |
-| 8 | [Brown bear](/compendium/bestiary/beast/brown-bear.md) |
+| 1 | [Rat](compendium/bestiary/beast/rat.md) |
+| 2 | [Owl](compendium/bestiary/beast/owl.md) |
+| 3 | [Mastiff](compendium/bestiary/beast/mastiff.md) |
+| 4 | [Goat](compendium/bestiary/beast/goat.md) |
+| 5 | [Giant goat](compendium/bestiary/beast/giant-goat.md) |
+| 6 | [Giant boar](compendium/bestiary/beast/giant-boar.md) |
+| 7 | [Lion](compendium/bestiary/beast/lion.md) |
+| 8 | [Brown bear](compendium/bestiary/beast/brown-bear.md) |
 ^creature
 
 *Source: Dungeon Master's Guide p. 154. Available in the SRD.*

@@ -17,7 +17,7 @@ Wynlings typically live on the mountains they protect, but they often venture in
 
 ```ad-statblock
 title: Wynling
-![](/compendium/bestiary/fey/token/wynling.png#token)
+![](compendium/bestiary/fey/token/wynling.png#token)
 *Tiny fey, typically  Chaotic Neutral*
 
 - **Armor Class** 15 
@@ -39,7 +39,7 @@ title: Wynling
 
 ***Slam.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (`1d4 + 5`) bludgeoning damage.
 
-***Cloak of the Mountain (Recharge 4-6).*** The wynling magically turns [invisible](/compendium/rules/conditions.md#invisible), along with any equipment it is wearing or carrying, for 1 minute or until it makes an attack roll.
+***Cloak of the Mountain (Recharge 4-6).*** The wynling magically turns [invisible](rules/conditions.md#invisible), along with any equipment it is wearing or carrying, for 1 minute or until it makes an attack roll.
 
 ## Reactions
 

@@ -86,7 +86,7 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 
 ```ad-statblock
 title: Hill Giant
-![](/compendium/bestiary/giant/token/hill-giant.png#token)
+![](compendium/bestiary/giant/token/hill-giant.png#token)
 *Huge giant, Chaotic Evil*
 
 - **Armor Class** 13  (natural armor)

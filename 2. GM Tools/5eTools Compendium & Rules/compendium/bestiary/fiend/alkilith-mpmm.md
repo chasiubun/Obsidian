@@ -21,7 +21,7 @@ Alkiliths spring from cast-off bits of the hideous, shuddering body of Juiblex. 
 
 ```ad-statblock
 title: Alkilith
-![](/compendium/bestiary/fiend/token/alkilith.png#token)
+![](compendium/bestiary/fiend/token/alkilith.png#token)
 *Medium fiend (demon), Typically  Chaotic Evil*
 
 - **Armor Class** 17  (natural armor)
@@ -45,11 +45,11 @@ title: Alkilith
 
 ***Amorphous.*** The alkilith can move through a space as narrow as 1 inch wide without squeezing.
 
-***False Appearance.*** If the alkilith is motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn't observed the alkilith move or act, that creature must succeed on a DC 18 Intelligence ([Investigation](/compendium/rules/skills.md#Investigation)) check to discern that the alkilith isn't ordinary slime or fungus.
+***False Appearance.*** If the alkilith is motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn't observed the alkilith move or act, that creature must succeed on a DC 18 Intelligence ([Investigation](rules/skills.md#Investigation)) check to discern that the alkilith isn't ordinary slime or fungus.
 
 ***Foment Confusion.*** Any creature that isn't a demon that starts its turn within 30 feet of the alkilith must succeed on a DC 18 Wisdom saving throw, or it hears a faint buzzing in its head for a moment and has disadvantage on its next attack roll, saving throw, or ability check.
 
-If the saving throw against Foment Confusion fails by 5 or more, the creature is instead subjected to the [confusion](/compendium/spells/confusion.md) spell for 1 minute (no [concentration](/compendium/rules/conditions.md#concentration) required by the alkilith). While under the effect of that confusion, the creature is immune to Foment Confusion.
+If the saving throw against Foment Confusion fails by 5 or more, the creature is instead subjected to the [confusion](compendium/spells/confusion.md) spell for 1 minute (no [concentration](rules/conditions.md#concentration) required by the alkilith). While under the effect of that confusion, the creature is immune to Foment Confusion.
 
 ***Magic Resistance.*** The alkilith has advantage on saving throws against spells and other magical effects.
 

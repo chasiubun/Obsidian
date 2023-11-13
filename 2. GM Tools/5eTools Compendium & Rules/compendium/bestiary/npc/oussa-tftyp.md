@@ -14,7 +14,7 @@ aliases: ["Oussa"]
 
 ```ad-statblock
 title: Oussa
-![](/compendium/bestiary/npc/token/oussa.png#token)
+![](compendium/bestiary/npc/token/oussa.png#token)
 *Medium monstrosity (shapechanger, yuan-ti), Neutral Evil*
 
 - **Armor Class** 12 
@@ -46,9 +46,9 @@ title: Oussa
 
 ***Innate Spellcasting (Yuan-ti Form Only).*** Oussa's innate spellcasting ability is Charisma (spell save DC 13). Oussa can innately cast the following spells, requiring no material components:
 
-**At will**: [animal friendship](/compendium/spells/animal-friendship.md) (snakes only)
+**At will**: [animal friendship](compendium/spells/animal-friendship.md) (snakes only)
 
-**3/day**: [suggestion](/compendium/spells/suggestion.md)
+**3/day**: [suggestion](compendium/spells/suggestion.md)
 
 ## Actions
 
@@ -56,7 +56,7 @@ title: Oussa
 
 ***Bite (Snake Form Only).*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 5 (`1d4 + 3`) piercing damage plus 7 (`2d6`) poison damage.
 
-***Constrict.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) bludgeoning damage, and the target is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 13). Until this grapple ends, the target is [restrained](/compendium/rules/conditions.md#restrained), and Oussa can't constrict another target.
+***Constrict.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) bludgeoning damage, and the target is [grappled](rules/conditions.md#grappled) (escape DC 13). Until this grapple ends, the target is [restrained](rules/conditions.md#restrained), and Oussa can't constrict another target.
 
 ***Scimitar (Yuan-ti Form Only).*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (`1d6 + 3`) slashing damage.
 

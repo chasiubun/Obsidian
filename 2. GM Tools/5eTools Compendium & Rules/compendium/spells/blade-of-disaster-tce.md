@@ -19,6 +19,6 @@ You create a blade-shaped planar rift about 3 feet long in an unoccupied space y
 
 As a bonus action on your turn, you can move the blade up to 30 feet to an unoccupied space you can see and then make up to two melee spell attacks with it again.
 
-The blade can harmlessly pass through any barrier, including a [wall of force](/compendium/spells/wall-of-force.md).
+The blade can harmlessly pass through any barrier, including a [wall of force](compendium/spells/wall-of-force.md).
 
 *Source: Tasha's Cauldron of Everything p. 106*

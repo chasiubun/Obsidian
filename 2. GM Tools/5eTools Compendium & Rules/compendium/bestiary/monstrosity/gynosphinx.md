@@ -60,7 +60,7 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
 
 ```ad-statblock
 title: Gynosphinx
-![](/compendium/bestiary/monstrosity/token/gynosphinx.png#token)
+![](compendium/bestiary/monstrosity/token/gynosphinx.png#token)
 *Large monstrosity, Lawful Neutral*
 
 - **Armor Class** 17  (natural armor)
@@ -86,17 +86,17 @@ title: Gynosphinx
 
 ***Spellcasting.*** The sphinx is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following wizard spells prepared:
 
-**Cantrips (at will)**: [mage hand](/compendium/spells/mage-hand.md), [minor illusion](/compendium/spells/minor-illusion.md), [prestidigitation](/compendium/spells/prestidigitation.md)
+**Cantrips (at will)**: [mage hand](compendium/spells/mage-hand.md), [minor illusion](compendium/spells/minor-illusion.md), [prestidigitation](compendium/spells/prestidigitation.md)
 
-**1st level (4 slots)**: [detect magic](/compendium/spells/detect-magic.md), [identify](/compendium/spells/identify.md), [shield](/compendium/spells/shield.md)
+**1st level (4 slots)**: [detect magic](compendium/spells/detect-magic.md), [identify](compendium/spells/identify.md), [shield](compendium/spells/shield.md)
 
-**2nd level (3 slots)**: [darkness](/compendium/spells/darkness.md), [locate object](/compendium/spells/locate-object.md), [suggestion](/compendium/spells/suggestion.md)
+**2nd level (3 slots)**: [darkness](compendium/spells/darkness.md), [locate object](compendium/spells/locate-object.md), [suggestion](compendium/spells/suggestion.md)
 
-**3rd level (3 slots)**: [dispel magic](/compendium/spells/dispel-magic.md), [remove curse](/compendium/spells/remove-curse.md), [tongues](/compendium/spells/tongues.md)
+**3rd level (3 slots)**: [dispel magic](compendium/spells/dispel-magic.md), [remove curse](compendium/spells/remove-curse.md), [tongues](compendium/spells/tongues.md)
 
-**4th level (3 slots)**: [banishment](/compendium/spells/banishment.md), [greater invisibility](/compendium/spells/greater-invisibility.md)
+**4th level (3 slots)**: [banishment](compendium/spells/banishment.md), [greater invisibility](compendium/spells/greater-invisibility.md)
 
-**5th level (1 slots)**: [legend lore](/compendium/spells/legend-lore.md)
+**5th level (1 slots)**: [legend lore](compendium/spells/legend-lore.md)
 
 ## Actions
 
@@ -112,7 +112,7 @@ title: Gynosphinx
 
 ***Cast a Spell (Costs 3 Actions).*** The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.
 
-![Sphinx](/compendium/bestiary/legendary-group/sphinx.md)
+![Sphinx](compendium/bestiary/legendary-group/sphinx.md)
 ```
 ^statblock
 

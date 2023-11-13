@@ -30,7 +30,7 @@ Grungs stand between 2½ and 3½ feet tall and average about 30 pounds. Your siz
 
 ### Arboreal Alertness
 
-You have proficiency in the [Perception](/compendium/rules/skills.md#Perception) skill.
+You have proficiency in the [Perception](rules/skills.md#Perception) skill.
 
 ### Amphibious
 
@@ -38,11 +38,11 @@ You can breathe air and water.
 
 ### Poison Immunity
 
-You're immune to poison damage and the [poisoned](/compendium/rules/conditions.md#poisoned) condition.
+You're immune to poison damage and the [poisoned](rules/conditions.md#poisoned) condition.
 
 ### Poisonous Skin
 
-Any creature that grapples you or otherwise comes into direct contact with your skin must succeed on a DC 12 Constitution saving throw or become [poisoned](/compendium/rules/conditions.md#poisoned) for 1 minute. A [poisoned](/compendium/rules/conditions.md#poisoned) creature no longer in direct contact with you can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+Any creature that grapples you or otherwise comes into direct contact with your skin must succeed on a DC 12 Constitution saving throw or become [poisoned](rules/conditions.md#poisoned) for 1 minute. A [poisoned](rules/conditions.md#poisoned) creature no longer in direct contact with you can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 You can also apply this poison to any piercing weapon as part of an attack with that weapon, though when you hit the poison reacts differently. The target must succeed on a DC 12 Constitution saving throw or take `2d4` poison damage.
 
@@ -52,7 +52,7 @@ Your long jump is up to 25 feet and your high jump is up to 15 feet, with or wit
 
 ### Water Dependency
 
-If you fail to immerse yourself in water for at least 1 hour during a day, you suffer one level of [exhaustion](/compendium/rules/conditions.md#exhaustion) at the end of that day. You can only recover from this [exhaustion](/compendium/rules/conditions.md#exhaustion) through magic or by immersing yourself in water for at least 1 hour.
+If you fail to immerse yourself in water for at least 1 hour during a day, you suffer one level of [exhaustion](rules/conditions.md#exhaustion) at the end of that day. You can only recover from this [exhaustion](rules/conditions.md#exhaustion) through magic or by immersing yourself in water for at least 1 hour.
 
 ### Languages
 

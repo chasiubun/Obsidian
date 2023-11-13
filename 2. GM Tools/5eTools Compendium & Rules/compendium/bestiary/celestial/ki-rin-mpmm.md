@@ -35,7 +35,7 @@ When viewed from the outside, a ki-rin's lair is indistinguishable from a natura
 
 ```ad-statblock
 title: Ki-rin
-![](/compendium/bestiary/celestial/token/ki-rin.png#token)
+![](compendium/bestiary/celestial/token/ki-rin.png#token)
 *Large celestial, Typically  Lawful Good*
 
 - **Armor Class** 20  (natural armor)
@@ -61,11 +61,11 @@ title: Ki-rin
 
 ***Spellcasting.*** The ki-rin casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 17):
 
-**At will**: [light](/compendium/spells/light.md), [major image](/compendium/spells/major-image.md) (6th-level version), [thaumaturgy](/compendium/spells/thaumaturgy.md)
+**At will**: [light](compendium/spells/light.md), [major image](compendium/spells/major-image.md) (6th-level version), [thaumaturgy](compendium/spells/thaumaturgy.md)
 
-**1/day each**: [banishment](/compendium/spells/banishment.md), [calm emotions](/compendium/spells/calm-emotions.md), [create food and water](/compendium/spells/create-food-and-water.md), [greater restoration](/compendium/spells/greater-restoration.md), [plane shift](/compendium/spells/plane-shift.md), [protection from evil and good](/compendium/spells/protection-from-evil-and-good.md), [revivify](/compendium/spells/revivify.md), [wind walk](/compendium/spells/wind-walk.md)
+**1/day each**: [banishment](compendium/spells/banishment.md), [calm emotions](compendium/spells/calm-emotions.md), [create food and water](compendium/spells/create-food-and-water.md), [greater restoration](compendium/spells/greater-restoration.md), [plane shift](compendium/spells/plane-shift.md), [protection from evil and good](compendium/spells/protection-from-evil-and-good.md), [revivify](compendium/spells/revivify.md), [wind walk](compendium/spells/wind-walk.md)
 
-**3/day each**: [cure wounds](/compendium/spells/cure-wounds.md), [dispel magic](/compendium/spells/dispel-magic.md), [lesser restoration](/compendium/spells/lesser-restoration.md), [sending](/compendium/spells/sending.md)
+**3/day each**: [cure wounds](compendium/spells/cure-wounds.md), [dispel magic](compendium/spells/dispel-magic.md), [lesser restoration](compendium/spells/lesser-restoration.md), [sending](compendium/spells/sending.md)
 
 ## Actions
 
@@ -83,7 +83,7 @@ title: Ki-rin
 
 ***Smite.*** The ki-rin makes one Hoof, Horn, or Sacred Fire attack.
 
-![Ki-rin](/compendium/bestiary/legendary-group/ki-rin-mpmm.md)
+![Ki-rin](compendium/bestiary/legendary-group/ki-rin-mpmm.md)
 ```
 ^statblock
 

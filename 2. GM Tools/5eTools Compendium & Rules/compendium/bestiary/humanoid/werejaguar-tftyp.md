@@ -14,7 +14,7 @@ aliases: ["Werejaguar"]
 
 ```ad-statblock
 title: Werejaguar
-![](/compendium/bestiary/humanoid/token/werejaguar.png#token)
+![](compendium/bestiary/humanoid/token/werejaguar.png#token)
 *Medium humanoid (human, shapechanger), Neutral*
 
 - **Armor Class** 12 
@@ -36,9 +36,9 @@ title: Werejaguar
 
 ***Shapechanger.*** The weretiger can use its action to polymorph into a jaguar-humanoid hybrid or into a jaguar, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
-***Keen Hearing and Smell.*** The weretiger has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on hearing or smell.
+***Keen Hearing and Smell.*** The weretiger has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on hearing or smell.
 
-***Pounce (Jaguar or Hybrid Form Only).*** If the weretiger moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked [prone](/compendium/rules/conditions.md#prone). If the target is [prone](/compendium/rules/conditions.md#prone), the weretiger can make one bite attack against it as a bonus action.
+***Pounce (Jaguar or Hybrid Form Only).*** If the weretiger moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked [prone](rules/conditions.md#prone). If the target is [prone](rules/conditions.md#prone), the weretiger can make one bite attack against it as a bonus action.
 
 ## Actions
 

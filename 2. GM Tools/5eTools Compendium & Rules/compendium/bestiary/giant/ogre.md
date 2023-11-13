@@ -59,10 +59,10 @@ Whenever possible, ogres gang up with other monsters to bully or prey on creatur
 
 ```ad-statblock
 title: Ogre
-![](/compendium/bestiary/giant/token/ogre.png#token)
+![](compendium/bestiary/giant/token/ogre.png#token)
 *Large giant, Chaotic Evil*
 
-- **Armor Class** 11  ([hide armor](/compendium/items/hide-armor.md))
+- **Armor Class** 11  ([hide armor](compendium/items/hide-armor.md))
 - **Hit Points** 59 (`7d10 + 21`)
 - **Speed** 40 ft.
 

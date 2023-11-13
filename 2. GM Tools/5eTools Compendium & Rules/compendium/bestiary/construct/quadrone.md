@@ -49,7 +49,7 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 
 ```ad-statblock
 title: Quadrone
-![](/compendium/bestiary/construct/token/quadrone.png#token)
+![](compendium/bestiary/construct/token/quadrone.png#token)
 *Medium construct, Lawful Neutral*
 
 - **Armor Class** 16  (natural armor)

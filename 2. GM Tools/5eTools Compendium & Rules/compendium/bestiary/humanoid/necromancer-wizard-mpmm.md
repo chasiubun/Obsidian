@@ -23,10 +23,10 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 
 ```ad-statblock
 title: Necromancer Wizard
-![](/compendium/bestiary/humanoid/token/necromancer-wizard.png#token)
+![](compendium/bestiary/humanoid/token/necromancer-wizard.png#token)
 *Medium humanoid, Any alignment*
 
-- **Armor Class** 12  (15 with [mage armor](/compendium/spells/mage-armor.md))
+- **Armor Class** 12  (15 with [mage armor](compendium/spells/mage-armor.md))
 - **Hit Points** 110 (`20d8 + 20`)
 - **Speed** 30 ft.
 
@@ -43,11 +43,11 @@ title: Necromancer Wizard
 
 ***Spellcasting.*** The necromancer casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 15):
 
-**At will**: [dancing lights](/compendium/spells/dancing-lights.md), [mage hand](/compendium/spells/mage-hand.md), [prestidigitation](/compendium/spells/prestidigitation.md)
+**At will**: [dancing lights](compendium/spells/dancing-lights.md), [mage hand](compendium/spells/mage-hand.md), [prestidigitation](compendium/spells/prestidigitation.md)
 
-**1/day each**: [circle of death](/compendium/spells/circle-of-death.md)
+**1/day each**: [circle of death](compendium/spells/circle-of-death.md)
 
-**2/day each**: [bestow curse](/compendium/spells/bestow-curse.md), [dimension door](/compendium/spells/dimension-door.md), [mage armor](/compendium/spells/mage-armor.md), [web](/compendium/spells/web.md)
+**2/day each**: [bestow curse](compendium/spells/bestow-curse.md), [dimension door](compendium/spells/dimension-door.md), [mage armor](compendium/spells/mage-armor.md), [web](compendium/spells/web.md)
 
 ## Actions
 
@@ -57,7 +57,7 @@ title: Necromancer Wizard
 
 ## Bonus Actions
 
-***Summon Undead (1/Day).*** The necromancer magically summons five [skeletons](/compendium/bestiary/undead/skeleton.md) or [zombies](/compendium/bestiary/undead/zombie.md). The summoned creatures appear in unoccupied spaces within 60 feet of the necromancer, whom they obey. They take their turns immediately after the necromancer. Each lasts for 1 hour, until it or the necromancer dies, or until the necromancer dismisses it as a bonus action.
+***Summon Undead (1/Day).*** The necromancer magically summons five [skeletons](compendium/bestiary/undead/skeleton.md) or [zombies](compendium/bestiary/undead/zombie.md). The summoned creatures appear in unoccupied spaces within 60 feet of the necromancer, whom they obey. They take their turns immediately after the necromancer. Each lasts for 1 hour, until it or the necromancer dies, or until the necromancer dismisses it as a bonus action.
 
 ## Reactions
 

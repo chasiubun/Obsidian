@@ -14,7 +14,7 @@ aliases: ["Pony"]
 
 ```ad-statblock
 title: Pony
-![](/compendium/bestiary/beast/token/pony.png#token)
+![](compendium/bestiary/beast/token/pony.png#token)
 *Medium beast, Unaligned*
 
 - **Armor Class** 10 

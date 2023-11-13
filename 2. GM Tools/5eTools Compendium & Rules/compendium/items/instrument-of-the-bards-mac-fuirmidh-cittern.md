@@ -19,10 +19,10 @@ An instrument of the bards is an exquisite example of its kind, superior to an o
 
 You can use an action to play the instrument and cast one of its spells. Once the instrument has been used to cast a spell, it can't be used to cast that spell again until the next dawn. The spells use your spellcasting ability and spell save DC.
 
-You can play the instrument while casting a spell that causes any of its targets to be [charmed](/compendium/rules/conditions.md#charmed) on a failed saving throw, thereby imposing disadvantage on the save. This effect applies only if the spell has a somatic or a material component.
+You can play the instrument while casting a spell that causes any of its targets to be [charmed](rules/conditions.md#charmed) on a failed saving throw, thereby imposing disadvantage on the save. This effect applies only if the spell has a somatic or a material component.
 
-All instruments of the bards can be used to cast the following spells: [fly](/compendium/spells/fly.md), [invisibility](/compendium/spells/invisibility.md), [levitate](/compendium/spells/levitate.md), and [protection from evil and good](/compendium/spells/protection-from-evil-and-good.md).
+All instruments of the bards can be used to cast the following spells: [fly](compendium/spells/fly.md), [invisibility](compendium/spells/invisibility.md), [levitate](compendium/spells/levitate.md), and [protection from evil and good](compendium/spells/protection-from-evil-and-good.md).
 
-In addition, the Mac-Fuirmidh cittern can be used to cast [barkskin](/compendium/spells/barkskin.md), [cure wounds](/compendium/spells/cure-wounds.md), and [fog cloud](/compendium/spells/fog-cloud.md).
+In addition, the Mac-Fuirmidh cittern can be used to cast [barkskin](compendium/spells/barkskin.md), [cure wounds](compendium/spells/cure-wounds.md), and [fog cloud](compendium/spells/fog-cloud.md).
 
 *Source: Dungeon Master's Guide p. 176*

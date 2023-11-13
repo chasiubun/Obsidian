@@ -26,6 +26,6 @@ Bolstering yourself with a necromantic facsimile of life, you gain `1d4 + 4` tem
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you gain 5 additional temporary hit points for each slot level above 1st.
 
-**Classes**: [Artificer](/compendium/classes/artificer-tce.md), [Cleric (Death Domain)](/compendium/classes/cleric-death-domain.md), [Cleric (Grave Domain)](/compendium/classes/cleric-grave-domain-xge.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Sorcerer](/compendium/classes/sorcerer.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Artificer](compendium/classes/artificer-tce.md), [Cleric (Death Domain)](compendium/classes/cleric-death-domain.md), [Cleric (Grave Domain)](compendium/classes/cleric-grave-domain-xge.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 239. Available in the SRD.*

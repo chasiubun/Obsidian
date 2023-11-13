@@ -64,7 +64,7 @@ A Warrior sidekick grows in martial prowess as it fights by your side. It might 
 ### Sidekick Class (Level 1)
 
 > [!note]
-> this class is intended for NPC [sidekicks](/compendium/rules/variant-rules/sidekicks-tce.md).
+> this class is intended for NPC [sidekicks](rules/variant-rules/sidekicks-tce.md).
 
 ### Bonus Proficiencies (Level 1)
 
@@ -72,7 +72,7 @@ A Warrior sidekick grows in martial prowess as it fights by your side. It might 
 
 The sidekick gains proficiency in one saving throw of your choice: Strength, Dexterity, or Constitution.
 
-In addition, the sidekick gains proficiency in two skills of your choice from the following list: [Acrobatics](/compendium/rules/skills.md#Acrobatics), [Animal Handling](/compendium/rules/skills.md#Animal%20Handling), [Athletics](/compendium/rules/skills.md#Athletics), [Intimidation](/compendium/rules/skills.md#Intimidation), [Nature](/compendium/rules/skills.md#Nature), [Perception](/compendium/rules/skills.md#Perception), and [Survival](/compendium/rules/skills.md#Survival).
+In addition, the sidekick gains proficiency in two skills of your choice from the following list: [Acrobatics](rules/skills.md#Acrobatics), [Animal Handling](rules/skills.md#Animal%20Handling), [Athletics](rules/skills.md#Athletics), [Intimidation](rules/skills.md#Intimidation), [Nature](rules/skills.md#Nature), [Perception](rules/skills.md#Perception), and [Survival](rules/skills.md#Survival).
 
 The sidekick gains proficiency with all armor, and if it is a humanoid or has a simple or martial weapon in its stat block, it gains proficiency with shields and all simple and martial weapons.
 
@@ -109,7 +109,7 @@ At 4th level and again at 8th, 12th, 14th, 16th, and 19th level, the sidekick in
 
 *6th-level Warrior feature*
 
-The sidekick can attack twice, instead of once, whenever it takes the [Attack](/compendium/rules/actions.md#Attack) action on its turn.
+The sidekick can attack twice, instead of once, whenever it takes the [Attack](rules/actions.md#Attack) action on its turn.
 
 The number of attacks increases to three when the sidekick reaches 15th level.
 
@@ -157,7 +157,7 @@ At 4th level and again at 8th, 12th, 14th, 16th, and 19th level, the sidekick in
 
 *15th-level Warrior feature*
 
-The sidekick can attack twice, instead of once, whenever it takes the [Attack](/compendium/rules/actions.md#Attack) action on its turn.
+The sidekick can attack twice, instead of once, whenever it takes the [Attack](rules/actions.md#Attack) action on its turn.
 
 The number of attacks increases to three when the sidekick reaches 15th level.
 

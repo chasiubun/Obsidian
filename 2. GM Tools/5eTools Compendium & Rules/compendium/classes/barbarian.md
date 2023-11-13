@@ -76,16 +76,16 @@ aliases: ["Barbarian"]
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
 
 - **Saving Throws**: Strength, Constitution
-- **Armor**: light, medium, [shields](/compendium/items/shield.md)
+- **Armor**: light, medium, [shields](compendium/items/shield.md)
 - **Weapons**: simple, martial
 - **Tools**: none
 - **Skills**: Choose 2 from *Animal Handling*, *Athletics*, *Intimidation*, *Nature*, *Perception*, *Survival*
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-- (a) a [greataxe](/compendium/items/greataxe.md) or (b) any martial melee weapon  
-- (a) two [handaxes](/compendium/items/handaxe.md) or (b) any simple weapon  
-- An [explorer's pack](/compendium/items/explorers-pack.md), and four [javelins](/compendium/items/javelin.md)  
+- (a) a [greataxe](compendium/items/greataxe.md) or (b) any martial melee weapon  
+- (a) two [handaxes](compendium/items/handaxe.md) or (b) any simple weapon  
+- An [explorer's pack](compendium/items/explorers-pack.md), and four [javelins](compendium/items/javelin.md)  
 
 Alternatively, you may start with 2d4 × 10 gp and choose your own equipment.
 
@@ -97,7 +97,7 @@ To multiclass as a Barbarian, you must meet the following prerequisites:
 
 You gain the following proficiencies:
 
-- **Armor**: [shields](/compendium/items/shield.md)
+- **Armor**: [shields](compendium/items/shield.md)
 - **Weapons**: simple, martial
 - **Tools**: none
 
@@ -133,7 +133,7 @@ What led you to take up the adventuring life? Were you lured to settled lands by
 
 #### Quick Build
 
-You can make a barbarian quickly by following these suggestions. First, put your highest ability score in Strength, followed by Constitution. Second, choose the [outlander](/compendium/backgrounds/outlander.md) background.
+You can make a barbarian quickly by following these suggestions. First, put your highest ability score in Strength, followed by Constitution. Second, choose the [outlander](compendium/backgrounds/outlander.md) background.
 
 > [!quote]- A quote from Seret, archwizard  
 > 
@@ -220,7 +220,7 @@ While raging, you gain the following benefits if you aren't wearing heavy armor:
 
 If you are able to cast spells, you can't cast them or concentrate on them while raging.
 
-Your rage lasts for 1 minute. It ends early if you are knocked [unconscious](/compendium/rules/conditions.md#unconscious) or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
+Your rage lasts for 1 minute. It ends early if you are knocked [unconscious](rules/conditions.md#unconscious) or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
 
 Once you have raged the maximum number of times for your barbarian level, you must finish a long rest before you can rage again. You may rage 2 times at 1st level, 3 at 3rd, 4 at 6th, 5 at 12th, and 6 at 17th.
 
@@ -230,7 +230,7 @@ While you are not wearing any armor, your Armor Class equals 10 + your Dexterity
 
 ### Danger Sense (Level 2)
 
-At 2nd level, you gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger. You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can't be [blinded](/compendium/rules/conditions.md#blinded), [deafened](/compendium/rules/conditions.md#deafened), or [incapacitated](/compendium/rules/conditions.md#incapacitated).
+At 2nd level, you gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger. You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can't be [blinded](rules/conditions.md#blinded), [deafened](rules/conditions.md#deafened), or [incapacitated](rules/conditions.md#incapacitated).
 
 ### Reckless Attack (Level 2)
 
@@ -243,7 +243,7 @@ At 3rd level, you choose a path that shapes the nature of your rage from the lis
 ### Primal Knowledge (Level 3)
 _Source: Tasha's Cauldron of Everything p. 24_
 
-*3rd-level barbarian [optional class features](/compendium/rules/variant-rules/optional-class-features-tce.md)*
+*3rd-level barbarian [optional class features](rules/variant-rules/optional-class-features-tce.md)*
 
 When you reach 3rd level and again at 10th level, you gain proficiency in one skill of your choice from the list of skills available to barbarians at 1st level.
 
@@ -255,7 +255,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Extra Attack (Level 5)
 
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack](/compendium/rules/actions.md#Attack) action on your turn.
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack](rules/actions.md#Attack) action on your turn.
 
 ### Fast Movement (Level 5)
 
@@ -269,12 +269,12 @@ At 6th level, you gain a feature from your Primal Path.
 
 By 7th level, your instincts are so honed that you have advantage on initiative rolls.
 
-Additionally, if you are surprised at the beginning of combat and aren't [incapacitated](/compendium/rules/conditions.md#incapacitated), you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
+Additionally, if you are surprised at the beginning of combat and aren't [incapacitated](rules/conditions.md#incapacitated), you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
 
 ### Instinctive Pounce (Level 7)
 _Source: Tasha's Cauldron of Everything p. 24_
 
-*7th-level barbarian [optional class features](/compendium/rules/variant-rules/optional-class-features-tce.md)*
+*7th-level barbarian [optional class features](rules/variant-rules/optional-class-features-tce.md)*
 
 As part of the bonus action you take to enter your rage, you can move up to half your speed.
 
@@ -318,7 +318,7 @@ At 14th level, you gain a feature from your Primal Path.
 
 ### Persistent Rage (Level 15)
 
-Beginning at 15th level, your rage is so fierce that it ends early only if you fall [unconscious](/compendium/rules/conditions.md#unconscious) or if you choose to end it.
+Beginning at 15th level, your rage is so fierce that it ends early only if you fall [unconscious](rules/conditions.md#unconscious) or if you choose to end it.
 
 ### Ability Score Improvement (Level 16)
 

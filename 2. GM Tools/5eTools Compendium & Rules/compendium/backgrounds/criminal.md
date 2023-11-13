@@ -9,9 +9,9 @@ aliases: ["Criminal"]
 # Criminal
 *Source: Player's Handbook p. 129. Available in the Basic Rules.*  
 
-- **Skill Proficiencies.** [Deception](/compendium/rules/skills.md#Deception), [Stealth](/compendium/rules/skills.md#Stealth)  
-- **Tool Proficiencies.** One type of gaming set, [thieves' tools](/compendium/items/thieves-tools.md)  
-- **Equipment.** A [crowbar](/compendium/items/crowbar.md), a set of dark [common clothes](/compendium/items/common-clothes.md) including a hood, and a belt [pouch](/compendium/items/pouch.md) containing 15 gp  
+- **Skill Proficiencies.** [Deception](rules/skills.md#Deception), [Stealth](rules/skills.md#Stealth)  
+- **Tool Proficiencies.** One type of gaming set, [thieves' tools](compendium/items/thieves-tools.md)  
+- **Equipment.** A [crowbar](compendium/items/crowbar.md), a set of dark [common clothes](compendium/items/common-clothes.md) including a hood, and a belt [pouch](compendium/items/pouch.md) containing 15 gp  
 
 You are an experienced criminal with a history of breaking the law. You have spent a lot of time among other criminals and still have contacts within the criminal underworld. You're far closer than most people to the world of murder, theft, and violence that pervades the underbelly of civilization, and you have survived up to this point by flouting the rules and regulations of society.
 

@@ -25,6 +25,6 @@ If a creature is holding or wearing the object and takes the damage from it, the
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
 
-**Classes**: [Artificer](/compendium/classes/artificer-tce.md), [Bard](/compendium/classes/bard.md), [Cleric (Forge Domain)](/compendium/classes/cleric-forge-domain-xge.md), [Druid](/compendium/classes/druid.md)
+**Classes**: [Artificer](compendium/classes/artificer-tce.md), [Bard](compendium/classes/bard.md), [Cleric (Forge Domain)](compendium/classes/cleric-forge-domain-xge.md), [Druid](compendium/classes/druid.md)
 
 *Source: Player's Handbook p. 250. Available in the SRD.*

@@ -14,7 +14,7 @@ aliases: ["Badger"]
 
 ```ad-statblock
 title: Badger
-![](/compendium/bestiary/beast/token/badger.png#token)
+![](compendium/bestiary/beast/token/badger.png#token)
 *Tiny beast, Unaligned*
 
 - **Armor Class** 10 
@@ -34,7 +34,7 @@ title: Badger
 
 ## Traits
 
-***Keen Smell.*** The badger has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on smell.
+***Keen Smell.*** The badger has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on smell.
 
 ## Actions
 

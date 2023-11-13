@@ -19,7 +19,7 @@ aliases: ["Giant Poisonous Snake"]
 
 ```ad-statblock
 title: Giant Poisonous Snake
-![](/compendium/bestiary/beast/token/giant-poisonous-snake.png#token)
+![](compendium/bestiary/beast/token/giant-poisonous-snake.png#token)
 *Medium beast, Unaligned*
 
 - **Armor Class** 14 

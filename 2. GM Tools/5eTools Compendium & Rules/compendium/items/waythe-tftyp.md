@@ -16,18 +16,18 @@ aliases:
 *Melee Weapon, legendary (requires attunement)*  
 
 - **Damage**: 2d6 S
-- **Properties**: [Heavy](/compendium/rules/item-properties.md#Heavy), Martial, [Two-handed](/compendium/rules/item-properties.md#Two-handed)
+- **Properties**: [Heavy](rules/item-properties.md#Heavy), Martial, [Two-handed](rules/item-properties.md#Two-handed)
 - **Weight**: 6.0 lbs.
 
-Waythe is a unique greatsword most recently in the possession of a high-ranking [cloud giant](/compendium/bestiary/giant/cloud-giant.md) ambassador.
+Waythe is a unique greatsword most recently in the possession of a high-ranking [cloud giant](compendium/bestiary/giant/cloud-giant.md) ambassador.
 
-You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you hit a creature of the giant type with it, the giant takes an extra `2d6` slashing damage, and it must succeed on a DC 15 Strength saving throw or fall [prone](/compendium/rules/conditions.md#prone).
+You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you hit a creature of the giant type with it, the giant takes an extra `2d6` slashing damage, and it must succeed on a DC 15 Strength saving throw or fall [prone](rules/conditions.md#prone).
 
-The sword also functions as a [wand of enemy detection](/compendium/items/wand-of-enemy-detection.md). It regains all of its expended charges at dawn and isn't at risk of crumbling if its last charge is used.
+The sword also functions as a [wand of enemy detection](compendium/items/wand-of-enemy-detection.md). It regains all of its expended charges at dawn and isn't at risk of crumbling if its last charge is used.
 
 ## Sentience
 
-Waythe is a sentient weapon of neutral good alignment, with an Intelligence of 12, a Wisdom of 2, and a Charisma of 14. It has hearing and [darkvision](/compendium/rules/senses.md#darkvision) out to a range of 120 feet.
+Waythe is a sentient weapon of neutral good alignment, with an Intelligence of 12, a Wisdom of 2, and a Charisma of 14. It has hearing and [darkvision](rules/senses.md#darkvision) out to a range of 120 feet.
 
 The weapon can speak and understand Giant and Common, and it can communicate telepathically with its wielder.
 

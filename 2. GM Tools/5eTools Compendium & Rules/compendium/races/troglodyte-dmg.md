@@ -18,15 +18,15 @@ aliases: ["Troglodyte (DMG)"]
 
 ### Chameleon Skin
 
-You have advantage on Dexterity ([Stealth](/compendium/rules/skills.md#Stealth)) checks made to hide.
+You have advantage on Dexterity ([Stealth](rules/skills.md#Stealth)) checks made to hide.
 
 ### Stench
 
-Any creature other than a troglodyte that starts its turn within 5 ft. of you must succeed on a DC 12 Constitution saving throw or be [poisoned](/compendium/rules/conditions.md#poisoned) until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all troglodytes for 1 hour.
+Any creature other than a troglodyte that starts its turn within 5 ft. of you must succeed on a DC 12 Constitution saving throw or be [poisoned](rules/conditions.md#poisoned) until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all troglodytes for 1 hour.
 
 ### Sunlight Sensitivity
 
-While in sunlight, you have disadvantage on attack rolls, as well as on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+While in sunlight, you have disadvantage on attack rolls, as well as on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ### Natural Armor
 

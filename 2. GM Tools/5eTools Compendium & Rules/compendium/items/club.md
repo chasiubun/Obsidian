@@ -12,7 +12,7 @@ aliases:
 *Melee Weapon*  
 
 - **Damage**: 1d4 B
-- **Properties**: [Light](/compendium/rules/item-properties.md#Light)
+- **Properties**: [Light](rules/item-properties.md#Light)
 - **Cost**: 1 sp
 - **Weight**: 2.0 lbs.
 

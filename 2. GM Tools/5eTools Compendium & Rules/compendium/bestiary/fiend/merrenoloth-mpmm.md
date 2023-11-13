@@ -16,7 +16,7 @@ The grim captains of the ferries on the River Styx, merrenoloths can navigate sa
 
 ```ad-statblock
 title: Merrenoloth
-![](/compendium/bestiary/fiend/token/merrenoloth.png#token)
+![](compendium/bestiary/fiend/token/merrenoloth.png#token)
 *Medium fiend (yugoloth), Typically  Neutral Evil*
 
 - **Armor Class** 13 
@@ -40,9 +40,9 @@ title: Merrenoloth
 
 ***Spellcasting.*** The merrenoloth casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 13):
 
-**At will**: [charm person](/compendium/spells/charm-person.md), [darkness](/compendium/spells/darkness.md), [detect magic](/compendium/spells/detect-magic.md), [dispel magic](/compendium/spells/dispel-magic.md), [gust of wind](/compendium/spells/gust-of-wind.md)
+**At will**: [charm person](compendium/spells/charm-person.md), [darkness](compendium/spells/darkness.md), [detect magic](compendium/spells/detect-magic.md), [dispel magic](compendium/spells/dispel-magic.md), [gust of wind](compendium/spells/gust-of-wind.md)
 
-**3/day**: [control water](/compendium/spells/control-water.md)
+**3/day**: [control water](compendium/spells/control-water.md)
 
 ## Actions
 
@@ -50,13 +50,13 @@ title: Merrenoloth
 
 ***Oar.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (`2d4 + 3`) fire damage.
 
-***Fear Gaze.*** The merrenoloth targets one creature it can see within 60 feet of it. The target must succeed on a DC 13 Wisdom saving throw or become [frightened](/compendium/rules/conditions.md#frightened) of the merrenoloth for 1 minute. The [frightened](/compendium/rules/conditions.md#frightened) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Fear Gaze.*** The merrenoloth targets one creature it can see within 60 feet of it. The target must succeed on a DC 13 Wisdom saving throw or become [frightened](rules/conditions.md#frightened) of the merrenoloth for 1 minute. The [frightened](rules/conditions.md#frightened) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ## Bonus Actions
 
 ***Teleport.*** The merrenoloth teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
 
-![Merrenoloth](/compendium/bestiary/legendary-group/merrenoloth-mpmm.md)
+![Merrenoloth](compendium/bestiary/legendary-group/merrenoloth-mpmm.md)
 ```
 ^statblock
 

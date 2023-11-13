@@ -21,7 +21,7 @@ The scholars of Quandrix College focus on the mathematical principles that gover
 
 ```ad-statblock
 title: Quandrix Pledgemage
-![](/compendium/bestiary/humanoid/token/quandrix-pledgemage.png#token)
+![](compendium/bestiary/humanoid/token/quandrix-pledgemage.png#token)
 *Small or Medium humanoid (wizard), Any alignment*
 
 - **Armor Class** 12 
@@ -41,9 +41,9 @@ title: Quandrix Pledgemage
 
 ***Spellcasting.*** The pledgemage casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 13):
 
-**At will**: [guidance](/compendium/spells/guidance.md), [mage hand](/compendium/spells/mage-hand.md)
+**At will**: [guidance](compendium/spells/guidance.md), [mage hand](compendium/spells/mage-hand.md)
 
-**1/day each**: [dimension door](/compendium/spells/dimension-door.md), [enlarge/reduce](/compendium/spells/enlarge-reduce.md), [mage armor](/compendium/spells/mage-armor.md), [plant growth](/compendium/spells/plant-growth.md)
+**1/day each**: [dimension door](compendium/spells/dimension-door.md), [enlarge/reduce](compendium/spells/enlarge-reduce.md), [mage armor](compendium/spells/mage-armor.md), [plant growth](compendium/spells/plant-growth.md)
 
 ## Actions
 

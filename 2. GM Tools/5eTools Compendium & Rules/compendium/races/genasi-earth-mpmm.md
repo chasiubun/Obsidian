@@ -31,9 +31,9 @@ You can move across difficult terrain without expending extra movement if you ar
 
 ### Merge with Stone
 
-You know the [blade ward](/compendium/spells/blade-ward.md) cantrip. You can cast it as normal, and you can also cast it as a bonus action a number of times equal to your proficiency bonus, regaining all expended uses when you finish a long rest.
+You know the [blade ward](compendium/spells/blade-ward.md) cantrip. You can cast it as normal, and you can also cast it as a bonus action a number of times equal to your proficiency bonus, regaining all expended uses when you finish a long rest.
 
-Starting at 5th level, you can cast the [pass without trace](/compendium/spells/pass-without-trace.md) spell with this trait, without requiring a material component. Once you cast that spell with this trait, you can't do so again until you finish a long rest. You can also cast it using any spell slots you have of 2nd level or higher.
+Starting at 5th level, you can cast the [pass without trace](compendium/spells/pass-without-trace.md) spell with this trait, without requiring a material component. Once you cast that spell with this trait, you can't do so again until you finish a long rest. You can also cast it using any spell slots you have of 2nd level or higher.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
 

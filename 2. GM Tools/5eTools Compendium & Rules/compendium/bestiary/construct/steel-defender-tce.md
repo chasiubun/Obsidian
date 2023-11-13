@@ -13,7 +13,7 @@ aliases: ["Steel Defender"]
 
 ```ad-statblock
 title: Steel Defender
-![](/compendium/bestiary/construct/token/steel-defender.png#token)
+![](compendium/bestiary/construct/token/steel-defender.png#token)
 *Medium construct, Unaligned*
 
 - **Armor Class** 15  (natural armor)

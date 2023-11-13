@@ -9,7 +9,7 @@ aliases: ["Mounted Combatant"]
 # Mounted Combatant
 *Source: Player's Handbook p. 168*  
 
-You are a dangerous foe to face while mounted. While you are mounted and aren't [incapacitated](/compendium/rules/conditions.md#incapacitated), you gain the following benefits:
+You are a dangerous foe to face while mounted. While you are mounted and aren't [incapacitated](rules/conditions.md#incapacitated), you gain the following benefits:
 
 - You have advantage on melee attack rolls against any unmounted creature that is smaller than your mount.  
 - You can force an attack targeted at your mount to target you instead.  

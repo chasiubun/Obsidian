@@ -21,6 +21,6 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 ## Serpentine Owl
 
-This serpentine statuette of an owl can become a [giant owl](/compendium/bestiary/beast/giant-owl.md) for up to 8 hours. Once it has been used, it can't be used again until 2 days have passed. The owl can telepathically communicate with you at any range if you and it are on the same plane of existence.
+This serpentine statuette of an owl can become a [giant owl](compendium/bestiary/beast/giant-owl.md) for up to 8 hours. Once it has been used, it can't be used again until 2 days have passed. The owl can telepathically communicate with you at any range if you and it are on the same plane of existence.
 
 *Source: Dungeon Master's Guide p. 170. Available in the SRD.*

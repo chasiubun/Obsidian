@@ -31,6 +31,6 @@ You can exclude one or more areas of any size within the spell's area from being
 
 If you cast this spell over 8 hours, you enrich the land. All plants in a half-mile radius centered on a point within range become enriched for 1 year. The plants yield twice the normal amount of food when harvested.
 
-**Classes**: [Bard](/compendium/classes/bard.md), [Cleric (Nature Domain)](/compendium/classes/cleric-nature-domain.md), [Druid (Circle of Wildfire)](/compendium/classes/druid-circle-of-wildfire-tce.md), [Druid (Circle of the Land)](/compendium/classes/druid-circle-of-the-land.md), [Druid](/compendium/classes/druid.md), [Paladin (Oath of the Ancients)](/compendium/classes/paladin-oath-of-the-ancients.md), [Ranger](/compendium/classes/ranger.md), [Warlock (The Archfey)](/compendium/classes/warlock-the-archfey.md)
+**Classes**: [Bard](compendium/classes/bard.md), [Cleric (Nature Domain)](compendium/classes/cleric-nature-domain.md), [Druid (Circle of Wildfire)](compendium/classes/druid-circle-of-wildfire-tce.md), [Druid (Circle of the Land)](compendium/classes/druid-circle-of-the-land.md), [Druid](compendium/classes/druid.md), [Paladin (Oath of the Ancients)](compendium/classes/paladin-oath-of-the-ancients.md), [Ranger](compendium/classes/ranger.md), [Warlock (The Archfey)](compendium/classes/warlock-the-archfey.md)
 
 *Source: Player's Handbook p. 266. Available in the SRD.*

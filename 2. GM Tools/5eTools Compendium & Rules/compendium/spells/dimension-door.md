@@ -30,6 +30,6 @@ You can bring along objects as long as their weight doesn't exceed what you can 
 
 If you would arrive in a place already occupied by an object or a creature, you and any creature traveling with you each take `4d6` force damage, and the spell fails to teleport you.
 
-**Classes**: [Bard](/compendium/classes/bard.md), [Cleric (Trickery Domain)](/compendium/classes/cleric-trickery-domain.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Paladin (Oath of Vengeance)](/compendium/classes/paladin-oath-of-vengeance.md), [Ranger (Fey Wanderer)](/compendium/classes/ranger-fey-wanderer-tce.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Sorcerer](/compendium/classes/sorcerer.md), [Warlock](/compendium/classes/warlock.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Bard](compendium/classes/bard.md), [Cleric (Trickery Domain)](compendium/classes/cleric-trickery-domain.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Paladin (Oath of Vengeance)](compendium/classes/paladin-oath-of-vengeance.md), [Ranger (Fey Wanderer)](compendium/classes/ranger-fey-wanderer-tce.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Sorcerer](compendium/classes/sorcerer.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 233. Available in the SRD and the Basic Rules.*

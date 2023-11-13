@@ -14,7 +14,7 @@ aliases: ["Draft Horse"]
 
 ```ad-statblock
 title: Draft Horse
-![](/compendium/bestiary/beast/token/draft-horse.png#token)
+![](compendium/bestiary/beast/token/draft-horse.png#token)
 *Large beast, Unaligned*
 
 - **Armor Class** 10 

@@ -18,7 +18,7 @@ aliases: ["Orc"]
 
 ### Adrenaline Rush
 
-You can take the [Dash](/compendium/rules/actions.md#Dash) action as a bonus action. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+You can take the [Dash](rules/actions.md#Dash) action as a bonus action. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 Whenever you use this trait, you gain a number of temporary hit points equal to your proficiency bonus.
 

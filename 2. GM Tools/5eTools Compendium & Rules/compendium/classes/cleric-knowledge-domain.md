@@ -24,16 +24,16 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [command](/compendium/spells/command.md), [identify](/compendium/spells/identify.md) |
-| 3rd | [augury](/compendium/spells/augury.md), [suggestion](/compendium/spells/suggestion.md) |
-| 5th | [nondetection](/compendium/spells/nondetection.md), [speak with dead](/compendium/spells/speak-with-dead.md) |
-| 7th | [arcane eye](/compendium/spells/arcane-eye.md), [confusion](/compendium/spells/confusion.md) |
-| 9th | [legend lore](/compendium/spells/legend-lore.md), [scrying](/compendium/spells/scrying.md) |
+| 1st | [command](compendium/spells/command.md), [identify](compendium/spells/identify.md) |
+| 3rd | [augury](compendium/spells/augury.md), [suggestion](compendium/spells/suggestion.md) |
+| 5th | [nondetection](compendium/spells/nondetection.md), [speak with dead](compendium/spells/speak-with-dead.md) |
+| 7th | [arcane eye](compendium/spells/arcane-eye.md), [confusion](compendium/spells/confusion.md) |
+| 9th | [legend lore](compendium/spells/legend-lore.md), [scrying](compendium/spells/scrying.md) |
 ^knowledge-domain-spells
 
 ### Blessings of Knowledge (Level 1)
 
-At 1st level, you learn two languages of your choice. You also become proficient in your choice of two of the following skills: [Arcana](/compendium/rules/skills.md#Arcana), [History](/compendium/rules/skills.md#History), [Nature](/compendium/rules/skills.md#Nature), or [Religion](/compendium/rules/skills.md#Religion).
+At 1st level, you learn two languages of your choice. You also become proficient in your choice of two of the following skills: [Arcana](rules/skills.md#Arcana), [History](rules/skills.md#History), [Nature](rules/skills.md#Nature), or [Religion](rules/skills.md#Religion).
 
 Your proficiency bonus is doubled for any ability check you make that uses either of those skills.
 
@@ -49,7 +49,7 @@ As an action, choose one creature that you can see within 60 feet of you. That c
 
 If the creature fails its save, you can read its surface thoughts (those foremost in its mind, reflecting its current emotions and what it is actively thinking about) when it is within 60 feet of you. This effect lasts for 1 minute.
 
-During that time, you can use your action to end this effect and cast the [suggestion](/compendium/spells/suggestion.md) spell on the creature without expending a spell slot. The target automatically fails its saving throw against the spell.
+During that time, you can use your action to end this effect and cast the [suggestion](compendium/spells/suggestion.md) spell on the creature without expending a spell slot. The target automatically fails its saving throw against the spell.
 
 ### Potent Spellcasting (Level 8)
 
@@ -58,13 +58,13 @@ Starting at 8th level, you add your Wisdom modifier to the damage you deal with 
 ### Blessed Strikes (Level 8)
 _Source: Tasha's Cauldron of Everything p. 30_
 
-*8th-level cleric [optional class features](/compendium/rules/variant-rules/optional-class-features-tce.md), which replaces the Potent Spellcasting feature*
+*8th-level cleric [optional class features](rules/variant-rules/optional-class-features-tce.md), which replaces the Potent Spellcasting feature*
 
 You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `1d8` radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 ### Visions of the Past (Level 17)
 
-Starting at 17th level, you can call up visions of the past that relate to an object you hold or your immediate surroundings. You spend at least 1 minute in meditation and prayer, then receive dreamlike, shadowy glimpses of recent events. You can meditate in this way for a number of minutes equal to your Wisdom score and must maintain [concentration](/compendium/rules/conditions.md#concentration) during that time, as if you were casting a spell.
+Starting at 17th level, you can call up visions of the past that relate to an object you hold or your immediate surroundings. You spend at least 1 minute in meditation and prayer, then receive dreamlike, shadowy glimpses of recent events. You can meditate in this way for a number of minutes equal to your Wisdom score and must maintain [concentration](rules/conditions.md#concentration) during that time, as if you were casting a spell.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 

@@ -23,7 +23,7 @@ A riverine encountered in its lair has a challenge rating of 13 (10,000 XP).
 
 ```ad-statblock
 title: Riverine
-![](/compendium/bestiary/fey/token/riverine.png#token)
+![](compendium/bestiary/fey/token/riverine.png#token)
 *Large fey, Any alignment*
 
 - **Armor Class** 14 
@@ -49,9 +49,9 @@ title: Riverine
 
 ***Spellcasting.*** The riverine casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 17):
 
-**At will**: [control water](/compendium/spells/control-water.md), [fog cloud](/compendium/spells/fog-cloud.md)
+**At will**: [control water](compendium/spells/control-water.md), [fog cloud](compendium/spells/fog-cloud.md)
 
-**1/day**: [greater restoration](/compendium/spells/greater-restoration.md)
+**1/day**: [greater restoration](compendium/spells/greater-restoration.md)
 
 ## Actions
 
@@ -67,8 +67,8 @@ title: Riverine
 
 ***Whirlpool Rush.*** The riverine uses its Whirlpool Step. Immediately after it teleports, each creature within 5 feet of the riverine's destination space takes 5 (`1d10`) cold damage.
 
-***Raging Deluge (Costs 2 Actions).*** The riverine unleashes a torrent of river water in a 30-foot line that is 5 feet wide. Each creature in that area must make a DC 17 Dexterity saving throw. On a failed save, a creature takes 11 (`2d10`) bludgeoning damage and is knocked [prone](/compendium/rules/conditions.md#prone). On a successful save, a creature takes half as much damage and isn't knocked [prone](/compendium/rules/conditions.md#prone).
+***Raging Deluge (Costs 2 Actions).*** The riverine unleashes a torrent of river water in a 30-foot line that is 5 feet wide. Each creature in that area must make a DC 17 Dexterity saving throw. On a failed save, a creature takes 11 (`2d10`) bludgeoning damage and is knocked [prone](rules/conditions.md#prone). On a successful save, a creature takes half as much damage and isn't knocked [prone](rules/conditions.md#prone).
 
-![Riverine](/compendium/bestiary/legendary-group/riverine-jttrc.md)
+![Riverine](compendium/bestiary/legendary-group/riverine-jttrc.md)
 ```
 ^statblock

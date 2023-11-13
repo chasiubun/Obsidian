@@ -26,7 +26,7 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 
 ```ad-statblock
 title: White Abishai
-![](/compendium/bestiary/fiend/token/white-abishai.png#token)
+![](compendium/bestiary/fiend/token/white-abishai.png#token)
 *Medium fiend (devil), Typically  Lawful Evil*
 
 - **Armor Class** 15  (natural armor)
@@ -46,7 +46,7 @@ title: White Abishai
 
 ## Traits
 
-***Devil's Sight.*** Magical darkness doesn't impede the abishai's [darkvision](/compendium/rules/senses.md#darkvision).
+***Devil's Sight.*** Magical darkness doesn't impede the abishai's [darkvision](rules/senses.md#darkvision).
 
 ***Magic Resistance.*** The abishai has advantage on saving throws against spells and other magical effects.
 

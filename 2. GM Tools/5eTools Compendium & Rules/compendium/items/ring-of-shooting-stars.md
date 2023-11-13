@@ -14,13 +14,13 @@ aliases:
 *Ring, major, very rare (requires attunement outdoors at night)*  
 
 
-While wearing this ring in dim light or darkness, you can cast [dancing lights](/compendium/spells/dancing-lights.md) and [light](/compendium/spells/light.md) from the ring at will. Casting either spell from the ring requires an action.
+While wearing this ring in dim light or darkness, you can cast [dancing lights](compendium/spells/dancing-lights.md) and [light](compendium/spells/light.md) from the ring at will. Casting either spell from the ring requires an action.
 
 The ring has 6 charges for the following other properties. The ring regains `1d6` expended charges daily at dawn.
 
 ## Faerie Fire
 
-You can expend 1 charge as an action to cast [faerie fire](/compendium/spells/faerie-fire.md) from the ring.
+You can expend 1 charge as an action to cast [faerie fire](compendium/spells/faerie-fire.md) from the ring.
 
 ## Ball Lightning
 

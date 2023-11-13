@@ -36,7 +36,7 @@ You have hooves that you can use to make unarmed strikes. When you hit with them
 
 ### Natural Affinity
 
-Your fey connection to nature gives you an intuitive connection to the natural world and the animals within it. You therefore have proficiency in one of the following skills of your choice: [Animal Handling](/compendium/rules/skills.md#Animal%20Handling), [Medicine](/compendium/rules/skills.md#Medicine), [Nature](/compendium/rules/skills.md#Nature), or [Survival](/compendium/rules/skills.md#Survival).
+Your fey connection to nature gives you an intuitive connection to the natural world and the animals within it. You therefore have proficiency in one of the following skills of your choice: [Animal Handling](rules/skills.md#Animal%20Handling), [Medicine](rules/skills.md#Medicine), [Nature](rules/skills.md#Nature), or [Survival](rules/skills.md#Survival).
 
 ## Description
 

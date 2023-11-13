@@ -30,7 +30,7 @@ Comprising frigid air and water, ice mephits are aloof and cold, surpassing all 
 
 ```ad-statblock
 title: Ice Mephit
-![](/compendium/bestiary/elemental/token/ice-mephit.png#token)
+![](compendium/bestiary/elemental/token/ice-mephit.png#token)
 *Small elemental, Neutral Evil*
 
 - **Armor Class** 11 
@@ -54,9 +54,9 @@ title: Ice Mephit
 
 ***False Appearance.*** While the mephit remains motionless, it is indistinguishable from an ordinary shard of ice.
 
-***Innate Spellcasting (1/Day).*** The mephit can innately cast [fog cloud](/compendium/spells/fog-cloud.md), requiring no material components. Its innate spellcasting ability is Charisma.
+***Innate Spellcasting (1/Day).*** The mephit can innately cast [fog cloud](compendium/spells/fog-cloud.md), requiring no material components. Its innate spellcasting ability is Charisma.
 
-**At will**: [fog cloud](/compendium/spells/fog-cloud.md)
+**At will**: [fog cloud](compendium/spells/fog-cloud.md)
 
 ## Actions
 

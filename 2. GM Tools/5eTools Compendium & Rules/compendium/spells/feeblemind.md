@@ -25,8 +25,8 @@ On a failed save, the creature's Intelligence and Charisma scores become 1. The 
 
 At the end of every 30 days, the creature can repeat its saving throw against this spell. If it succeeds on its saving throw, the spell ends.
 
-The spell can also be ended by [greater restoration](/compendium/spells/greater-restoration.md), [heal](/compendium/spells/heal.md), or [wish](/compendium/spells/wish.md).
+The spell can also be ended by [greater restoration](compendium/spells/greater-restoration.md), [heal](compendium/spells/heal.md), or [wish](compendium/spells/wish.md).
 
-**Classes**: [Bard](/compendium/classes/bard.md), [Druid](/compendium/classes/druid.md), [Warlock](/compendium/classes/warlock.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Bard](compendium/classes/bard.md), [Druid](compendium/classes/druid.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 239. Available in the SRD.*

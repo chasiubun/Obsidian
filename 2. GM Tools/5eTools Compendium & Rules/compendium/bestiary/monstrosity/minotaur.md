@@ -36,7 +36,7 @@ Although they begin as creations of the Horned King, minotaurs can breed true wi
 
 ```ad-statblock
 title: Minotaur
-![](/compendium/bestiary/monstrosity/token/minotaur.png#token)
+![](compendium/bestiary/monstrosity/token/minotaur.png#token)
 *Large monstrosity, Chaotic Evil*
 
 - **Armor Class** 14  (natural armor)
@@ -56,7 +56,7 @@ title: Minotaur
 
 ## Traits
 
-***Charge.*** If the minotaur moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (`2d8`) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked [prone](/compendium/rules/conditions.md#prone).
+***Charge.*** If the minotaur moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (`2d8`) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked [prone](rules/conditions.md#prone).
 
 ***Labyrinthine Recall.*** The minotaur can perfectly recall any path it has traveled.
 

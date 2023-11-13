@@ -11,4 +11,4 @@ aliases: ["River of Hungry Flame"]
 
 **Prerequisite**: 17th-level Monk
 
-You can spend 5 ki points to cast [wall of fire](/compendium/spells/wall-of-fire.md).
+You can spend 5 ki points to cast [wall of fire](compendium/spells/wall-of-fire.md).

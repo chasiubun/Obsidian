@@ -13,7 +13,7 @@ aliases: ["Tungsten Ward"]
 
 ```ad-statblock
 title: Tungsten Ward
-![](/compendium/bestiary/npc/token/tungsten-ward.png#token)
+![](compendium/bestiary/npc/token/tungsten-ward.png#token)
 *Medium humanoid (human), Lawful Good*
 
 - **Armor Class** 10 
@@ -33,9 +33,9 @@ title: Tungsten Ward
 
 ***Spellcasting.*** Tungsten is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). Tungsten has following cleric spells prepared:
 
-**Cantrips (at will)**: [light](/compendium/spells/light.md), [sacred flame](/compendium/spells/sacred-flame.md), [thaumaturgy](/compendium/spells/thaumaturgy.md)
+**Cantrips (at will)**: [light](compendium/spells/light.md), [sacred flame](compendium/spells/sacred-flame.md), [thaumaturgy](compendium/spells/thaumaturgy.md)
 
-**1st level (3 slots)**: [bless](/compendium/spells/bless.md), [cure wounds](/compendium/spells/cure-wounds.md), [sanctuary](/compendium/spells/sanctuary.md)
+**1st level (3 slots)**: [bless](compendium/spells/bless.md), [cure wounds](compendium/spells/cure-wounds.md), [sanctuary](compendium/spells/sanctuary.md)
 
 ## Actions
 

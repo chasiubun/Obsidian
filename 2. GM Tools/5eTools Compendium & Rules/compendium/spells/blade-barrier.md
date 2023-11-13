@@ -21,6 +21,6 @@ You create a vertical wall of whirling, razor-sharp blades made of magical energ
 
 When a creature enters the wall's area for the first time on a turn or starts its turn there, the creature must make a Dexterity saving throw. On a failed save, the creature takes `6d10` slashing damage. On a successful save, the creature takes half as much damage.
 
-**Classes**: [Cleric](/compendium/classes/cleric.md), [Sorcerer (Divine Soul)](/compendium/classes/sorcerer-divine-soul-xge.md)
+**Classes**: [Cleric](compendium/classes/cleric.md), [Sorcerer (Divine Soul)](compendium/classes/sorcerer-divine-soul-xge.md)
 
 *Source: Player's Handbook p. 218. Available in the SRD and the Basic Rules.*

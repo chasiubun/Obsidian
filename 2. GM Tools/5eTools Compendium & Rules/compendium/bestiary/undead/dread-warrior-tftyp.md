@@ -21,10 +21,10 @@ A dread warrior doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Dread Warrior
-![](/compendium/bestiary/undead/token/dread-warrior.png#token)
+![](compendium/bestiary/undead/token/dread-warrior.png#token)
 *Medium undead, Neutral Evil*
 
-- **Armor Class** 18  ([chain mail](/compendium/items/chain-mail.md), [shield](/compendium/items/shield.md))
+- **Armor Class** 18  ([chain mail](compendium/items/chain-mail.md), [shield](compendium/items/shield.md))
 - **Hit Points** 37 (`5d8 + 15`)
 - **Speed** 30 ft.
 

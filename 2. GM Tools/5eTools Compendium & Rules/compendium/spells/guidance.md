@@ -24,6 +24,6 @@ aliases: ["Guidance"]
 
 You touch one willing creature. Once before the spell ends, the target can roll a `d4` and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.
 
-**Classes**: [Artificer](/compendium/classes/artificer-tce.md), [Cleric (Nature Domain)](/compendium/classes/cleric-nature-domain.md), [Cleric](/compendium/classes/cleric.md), [Druid (Circle of Stars)](/compendium/classes/druid-circle-of-stars-tce.md), [Druid (Circle of the Land)](/compendium/classes/druid-circle-of-the-land.md), [Druid](/compendium/classes/druid.md), [Sorcerer (Divine Soul)](/compendium/classes/sorcerer-divine-soul-xge.md)
+**Classes**: [Artificer](compendium/classes/artificer-tce.md), [Cleric (Nature Domain)](compendium/classes/cleric-nature-domain.md), [Cleric](compendium/classes/cleric.md), [Druid (Circle of Stars)](compendium/classes/druid-circle-of-stars-tce.md), [Druid (Circle of the Land)](compendium/classes/druid-circle-of-the-land.md), [Druid](compendium/classes/druid.md), [Sorcerer (Divine Soul)](compendium/classes/sorcerer-divine-soul-xge.md)
 
 *Source: Player's Handbook p. 248. Available in the SRD and the Basic Rules.*

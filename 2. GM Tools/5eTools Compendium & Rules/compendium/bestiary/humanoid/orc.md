@@ -52,10 +52,10 @@ Luthic, the orc goddess of fertility and wife of Gruumsh, demands that orcs proc
 
 ```ad-statblock
 title: Orc
-![](/compendium/bestiary/humanoid/token/orc.png#token)
+![](compendium/bestiary/humanoid/token/orc.png#token)
 *Medium humanoid (orc), Chaotic Evil*
 
-- **Armor Class** 13  ([hide armor](/compendium/items/hide-armor.md))
+- **Armor Class** 13  ([hide armor](compendium/items/hide-armor.md))
 - **Hit Points** 15 (`2d8 + 6`)
 - **Speed** 30 ft.
 

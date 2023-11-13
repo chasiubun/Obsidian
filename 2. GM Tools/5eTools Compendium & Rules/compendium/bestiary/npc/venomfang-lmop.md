@@ -13,7 +13,7 @@ aliases: ["Venomfang"]
 
 ```ad-statblock
 title: Venomfang
-![](/compendium/bestiary/npc/token/venomfang.png#token)
+![](compendium/bestiary/npc/token/venomfang.png#token)
 *Large dragon, Lawful Evil*
 
 - **Armor Class** 18  (natural armor)

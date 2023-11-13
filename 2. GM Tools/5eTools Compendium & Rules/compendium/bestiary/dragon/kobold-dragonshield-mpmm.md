@@ -25,10 +25,10 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
 
 ```ad-statblock
 title: Kobold Dragonshield
-![](/compendium/bestiary/dragon/token/kobold-dragonshield.png#token)
+![](compendium/bestiary/dragon/token/kobold-dragonshield.png#token)
 *Small dragon, Any alignment*
 
-- **Armor Class** 15  ([leather](/compendium/items/leather-armor.md), [shield](/compendium/items/shield.md))
+- **Armor Class** 15  ([leather](compendium/items/leather-armor.md), [shield](compendium/items/shield.md))
 - **Hit Points** 44 (`8d6 + 16`)
 - **Speed** 20 ft.
 
@@ -47,11 +47,11 @@ title: Kobold Dragonshield
 
 ***Dragon's Resistance.*** The kobold has resistance to a type of damage based on the color of dragon that invested it with power (choose or roll a `d10`): 1–2, acid (black or copper); 3–4, cold (silver or white); 5–6, fire (brass, gold, or red); 7–8, lightning (blue or bronze); 9–10, poison (green).
 
-***Heart of the Dragon.*** If the kobold is [frightened](/compendium/rules/conditions.md#frightened) or [paralyzed](/compendium/rules/conditions.md#paralyzed) by an effect that allows a saving throw, it can repeat the save at the start of its turn to end the effect on itself and all kobolds within 30 feet of it. Any kobold that benefits from this trait (including the dragonshield) has advantage on its next attack roll.
+***Heart of the Dragon.*** If the kobold is [frightened](rules/conditions.md#frightened) or [paralyzed](rules/conditions.md#paralyzed) by an effect that allows a saving throw, it can repeat the save at the start of its turn to end the effect on itself and all kobolds within 30 feet of it. Any kobold that benefits from this trait (including the dragonshield) has advantage on its next attack roll.
 
-***Pack Tactics.*** The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Pack Tactics.*** The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't [incapacitated](rules/conditions.md#incapacitated).
 
-***Sunlight Sensitivity.*** While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 

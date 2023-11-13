@@ -26,7 +26,7 @@ Tricks of that sort are hardly the limit of quicklings' artful malice, however. 
 
 ```ad-statblock
 title: Quickling
-![](/compendium/bestiary/fey/token/quickling.png#token)
+![](compendium/bestiary/fey/token/quickling.png#token)
 *Tiny fey, Typically  Chaotic Evil*
 
 - **Armor Class** 16 
@@ -46,9 +46,9 @@ title: Quickling
 
 ## Traits
 
-***Blurred Movement.*** Attack rolls against the quickling have disadvantage unless it is [incapacitated](/compendium/rules/conditions.md#incapacitated) or its speed is 0.
+***Blurred Movement.*** Attack rolls against the quickling have disadvantage unless it is [incapacitated](rules/conditions.md#incapacitated) or its speed is 0.
 
-***Evasion.*** If the quickling is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw and only half damage if it fails, provided it isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Evasion.*** If the quickling is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw and only half damage if it fails, provided it isn't [incapacitated](rules/conditions.md#incapacitated).
 
 ## Actions
 

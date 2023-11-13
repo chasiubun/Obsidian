@@ -24,6 +24,6 @@ A shimmering green arrow streaks toward a target within range and bursts in a sp
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage (both initial and later) increases by 1d4 for each slot level above 2nd.
 
-**Classes**: [Artificer (Alchemist)](/compendium/classes/artificer-alchemist-tce.md), [Druid (Circle of the Land)](/compendium/classes/druid-circle-of-the-land.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Artificer (Alchemist)](compendium/classes/artificer-alchemist-tce.md), [Druid (Circle of the Land)](compendium/classes/druid-circle-of-the-land.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 259. Available in the SRD (as 'Acid Arrow').*

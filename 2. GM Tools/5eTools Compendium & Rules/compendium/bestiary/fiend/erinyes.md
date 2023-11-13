@@ -21,7 +21,7 @@ Legends tell that the first erinyes were angels that fell from the Upper Planes 
 
 > [!note] Variant: Rope of Entanglement
 > 
-> Some erinyes carry a [rope of entanglement](/compendium/items/rope-of-entanglement.md) (detailed in the Dungeon Master's Guide). When such an erinyes uses its Multiattack, the erinyes can use the rope in place of two of the attacks.
+> Some erinyes carry a [rope of entanglement](compendium/items/rope-of-entanglement.md) (detailed in the Dungeon Master's Guide). When such an erinyes uses its Multiattack, the erinyes can use the rope in place of two of the attacks.
 ^variant-rope-of-entanglement
 
 ## Devils
@@ -120,7 +120,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!note] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](/compendium/rules/conditions.md#charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](rules/conditions.md#charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -148,10 +148,10 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 ```ad-statblock
 title: Erinyes
-![](/compendium/bestiary/fiend/token/erinyes.png#token)
+![](compendium/bestiary/fiend/token/erinyes.png#token)
 *Medium fiend (devil), Lawful Evil*
 
-- **Armor Class** 18  ([plate armor](/compendium/items/plate-armor.md))
+- **Armor Class** 18  ([plate armor](compendium/items/plate-armor.md))
 - **Hit Points** 153 (`18d8 + 72`)
 - **Speed** 30 ft., fly 60 ft.
 
@@ -178,7 +178,7 @@ title: Erinyes
 
 ***Longsword.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 8 (`1d8 + 4`) slashing damage, or 9 (`1d10 + 4`) slashing damage if used with two hands, plus 13 (`3d8`) poison damage.
 
-***Longbow.*** *Ranged Weapon Attack:* +7 to hit, range 150/600 ft., one target. *Hit:* 7 (`1d8 + 3`) piercing damage plus 13 (`3d8`) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be [poisoned](/compendium/rules/conditions.md#poisoned). The poison lasts until it is removed by the [lesser restoration](/compendium/spells/lesser-restoration.md) spell or similar magic.
+***Longbow.*** *Ranged Weapon Attack:* +7 to hit, range 150/600 ft., one target. *Hit:* 7 (`1d8 + 3`) piercing damage plus 13 (`3d8`) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be [poisoned](rules/conditions.md#poisoned). The poison lasts until it is removed by the [lesser restoration](compendium/spells/lesser-restoration.md) spell or similar magic.
 
 ## Reactions
 

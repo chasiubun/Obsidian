@@ -155,7 +155,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](/compendium/rules/conditions.md#charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](rules/conditions.md#charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -186,7 +186,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 ```ad-statblock
 title: Quasit
-![](/compendium/bestiary/fiend/token/quasit.png#token)
+![](compendium/bestiary/fiend/token/quasit.png#token)
 *Tiny fiend (demon), Chaotic Evil*
 
 - **Armor Class** 13 
@@ -212,10 +212,10 @@ title: Quasit
 
 ## Actions
 
-***Claw (Bite in Beast Form).*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (`1d4 + 3`) piercing damage, and the target must succeed on a DC 10 Constitution saving throw or take 5 (`2d4`) poison damage and become [poisoned](/compendium/rules/conditions.md#poisoned) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Claw (Bite in Beast Form).*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (`1d4 + 3`) piercing damage, and the target must succeed on a DC 10 Constitution saving throw or take 5 (`2d4`) poison damage and become [poisoned](rules/conditions.md#poisoned) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-***Scare (1/Day).*** One creature of the quasit's choice within 20 feet of it must succeed on a DC 10 Wisdom saving throw or be [frightened](/compendium/rules/conditions.md#frightened) for 1 minute. The target can repeat the saving throw at the end of each of its turns, with disadvantage if the quasit is within line of sight, ending the effect on itself on a success.
+***Scare (1/Day).*** One creature of the quasit's choice within 20 feet of it must succeed on a DC 10 Wisdom saving throw or be [frightened](rules/conditions.md#frightened) for 1 minute. The target can repeat the saving throw at the end of each of its turns, with disadvantage if the quasit is within line of sight, ending the effect on itself on a success.
 
-***Invisibility.*** The quasit magically turns [invisible](/compendium/rules/conditions.md#invisible) until it attacks or uses Scare, or until its [concentration](/compendium/rules/conditions.md#concentration) ends (as if concentrating on a spell). Any equipment the quasit wears or carries is [invisible](/compendium/rules/conditions.md#invisible) with it.
+***Invisibility.*** The quasit magically turns [invisible](rules/conditions.md#invisible) until it attacks or uses Scare, or until its [concentration](rules/conditions.md#concentration) ends (as if concentrating on a spell). Any equipment the quasit wears or carries is [invisible](rules/conditions.md#invisible) with it.
 ```
 ^statblock

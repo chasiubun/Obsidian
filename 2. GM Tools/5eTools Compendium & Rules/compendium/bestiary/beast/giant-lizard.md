@@ -29,7 +29,7 @@ A giant lizard can be ridden or used as a draft animal. Lizardfolk also keep the
 
 ```ad-statblock
 title: Giant Lizard
-![](/compendium/bestiary/beast/token/giant-lizard.png#token)
+![](compendium/bestiary/beast/token/giant-lizard.png#token)
 *Large beast, Unaligned*
 
 - **Armor Class** 12  (natural armor)

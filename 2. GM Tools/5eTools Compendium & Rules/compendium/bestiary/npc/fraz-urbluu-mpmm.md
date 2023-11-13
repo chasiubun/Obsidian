@@ -11,13 +11,13 @@ aliases: ["Fraz-Urb'luu"]
 # Fraz-Urb'luu
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 129, Mordenkainen's Tome of Foes p. 146*  
 
-Fraz-Urb'luu is the Prince of [Deception](/compendium/rules/skills.md#Deception) and Demon Lord of Illusions. He uses every trick, every ounce of demonic cunning, to manipulate his enemies—mortal and Fiend alike—to do his will. Fraz-Urb'luu can create dreamlands and mind-bending fantasies able to deceive the most discerning foes.
+Fraz-Urb'luu is the Prince of [Deception](rules/skills.md#Deception) and Demon Lord of Illusions. He uses every trick, every ounce of demonic cunning, to manipulate his enemies—mortal and Fiend alike—to do his will. Fraz-Urb'luu can create dreamlands and mind-bending fantasies able to deceive the most discerning foes.
 
-Once imprisoned for centuries below Castle Greyhawk on the world of Oerth, Fraz-Urb'luu has slowly rebuilt his power in the Abyss. He seeks the pieces of the legendary [staff of power](/compendium/items/staff-of-power.md) taken from him by those who imprisoned him and commands his servants to do likewise.
+Once imprisoned for centuries below Castle Greyhawk on the world of Oerth, Fraz-Urb'luu has slowly rebuilt his power in the Abyss. He seeks the pieces of the legendary [staff of power](compendium/items/staff-of-power.md) taken from him by those who imprisoned him and commands his servants to do likewise.
 
-The Prince of [Deception](/compendium/rules/skills.md#Deception)'s true form is like that of a great gargoyle, some 12 feet tall, with an extended, muscular neck; a smiling face framed by long, pointed ears and lank, dark hair; and bat-like wings are furled against his powerful shoulders. He can assume other forms, however, from the hideous to the beautiful.
+The Prince of [Deception](rules/skills.md#Deception)'s true form is like that of a great gargoyle, some 12 feet tall, with an extended, muscular neck; a smiling face framed by long, pointed ears and lank, dark hair; and bat-like wings are furled against his powerful shoulders. He can assume other forms, however, from the hideous to the beautiful.
 
-Many of the cultists of Fraz-Urb'luu aren't even aware they serve the Prince of [Deception](/compendium/rules/skills.md#Deception), believing their master is a beneficent being and granter of wishes, some lost god or Celestial, or even another Fiend. Fraz-Urb'luu wears all these masks and more. He particularly delights in aiding demon-hunters against his demonic adversaries, driving the hunters to greater and greater atrocities in the name of their cause, only to eventually reveal his true nature and claim their souls as his own.
+Many of the cultists of Fraz-Urb'luu aren't even aware they serve the Prince of [Deception](rules/skills.md#Deception), believing their master is a beneficent being and granter of wishes, some lost god or Celestial, or even another Fiend. Fraz-Urb'luu wears all these masks and more. He particularly delights in aiding demon-hunters against his demonic adversaries, driving the hunters to greater and greater atrocities in the name of their cause, only to eventually reveal his true nature and claim their souls as his own.
 
 ## Cultists of Fraz-Urb'luu
 
@@ -34,7 +34,7 @@ The challenge rating of Fraz-Urb'luu is 24 (62,000 XP) when he's encountered in 
 
 ```ad-statblock
 title: Fraz-Urb'luu
-![](/compendium/bestiary/npc/token/fraz-urbluu.png#token)
+![](compendium/bestiary/npc/token/fraz-urbluu.png#token)
 *Large fiend (demon), Chaotic Evil*
 
 - **Armor Class** 18  (natural armor)
@@ -62,11 +62,11 @@ title: Fraz-Urb'luu
 
 ***Spellcasting.*** Fraz-Urb'luu casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 23):
 
-**At will**: [alter self](/compendium/spells/alter-self.md) (can become Medium when changing his appearance), [detect magic](/compendium/spells/detect-magic.md), [dispel magic](/compendium/spells/dispel-magic.md), [phantasmal force](/compendium/spells/phantasmal-force.md)
+**At will**: [alter self](compendium/spells/alter-self.md) (can become Medium when changing his appearance), [detect magic](compendium/spells/detect-magic.md), [dispel magic](compendium/spells/dispel-magic.md), [phantasmal force](compendium/spells/phantasmal-force.md)
 
-**1/day each**: [modify memory](/compendium/spells/modify-memory.md), [project image](/compendium/spells/project-image.md)
+**1/day each**: [modify memory](compendium/spells/modify-memory.md), [project image](compendium/spells/project-image.md)
 
-**3/day each**: [mislead](/compendium/spells/mislead.md), [programmed illusion](/compendium/spells/programmed-illusion.md), [seeming](/compendium/spells/seeming.md)
+**3/day each**: [mislead](compendium/spells/mislead.md), [programmed illusion](compendium/spells/programmed-illusion.md), [seeming](compendium/spells/seeming.md)
 
 ## Actions
 
@@ -76,14 +76,14 @@ title: Fraz-Urb'luu
 
 ***Fist.*** *Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:* 22 (`3d8 + 9`) force damage.
 
-***Phantasmal Terror.*** Fraz-Urb'luu targets one creature he can see within 120 feet of him. The target must succeed on a DC 23 Wisdom saving throw, or it takes 16 (`3d10`) psychic damage and is [frightened](/compendium/rules/conditions.md#frightened) of Fraz-Urb'luu until the end of its next turn.
+***Phantasmal Terror.*** Fraz-Urb'luu targets one creature he can see within 120 feet of him. The target must succeed on a DC 23 Wisdom saving throw, or it takes 16 (`3d10`) psychic damage and is [frightened](rules/conditions.md#frightened) of Fraz-Urb'luu until the end of its next turn.
 
 ## Legendary Actions
 
-***Tail.*** *Melee Weapon Attack:* +16 to hit, reach 15 ft., one target. *Hit:* 20 (`2d10 + 9`) force damage. If the target is a Large or smaller creature, it is also [grappled](/compendium/rules/conditions.md#grappled) (escape DC 24), and it is [restrained](/compendium/rules/conditions.md#restrained) until the grapple ends. Fraz-Urb'luu can grapple only one creature with his tail at a time.
+***Tail.*** *Melee Weapon Attack:* +16 to hit, reach 15 ft., one target. *Hit:* 20 (`2d10 + 9`) force damage. If the target is a Large or smaller creature, it is also [grappled](rules/conditions.md#grappled) (escape DC 24), and it is [restrained](rules/conditions.md#restrained) until the grapple ends. Fraz-Urb'luu can grapple only one creature with his tail at a time.
 
 ***Terror (Costs 2 Actions).*** Fraz-Urb'luu uses Phantasmal Terror.
 
-![Fraz-Urb'luu](/compendium/bestiary/legendary-group/fraz-urbluu-mpmm.md)
+![Fraz-Urb'luu](compendium/bestiary/legendary-group/fraz-urbluu-mpmm.md)
 ```
 ^statblock

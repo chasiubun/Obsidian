@@ -35,7 +35,7 @@ A banshee doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Banshee
-![](/compendium/bestiary/undead/token/banshee.png#token)
+![](compendium/bestiary/undead/token/banshee.png#token)
 *Medium undead, Chaotic Evil*
 
 - **Armor Class** 12 
@@ -63,7 +63,7 @@ title: Banshee
 
 ***Corrupting Touch.*** *Melee Spell Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 12 (`3d6 + 2`) necrotic damage.
 
-***Horrifying Visage.*** Each non-undead creature within 60 feet of the banshee that can see her must succeed on a DC 13 Wisdom saving throw or be [frightened](/compendium/rules/conditions.md#frightened) for 1 minute. A [frightened](/compendium/rules/conditions.md#frightened) target can repeat the saving throw at the end of each of its turns, with disadvantage if the banshee is within line of sight, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the banshee's Horrifying Visage for the next 24 hours.
+***Horrifying Visage.*** Each non-undead creature within 60 feet of the banshee that can see her must succeed on a DC 13 Wisdom saving throw or be [frightened](rules/conditions.md#frightened) for 1 minute. A [frightened](rules/conditions.md#frightened) target can repeat the saving throw at the end of each of its turns, with disadvantage if the banshee is within line of sight, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the banshee's Horrifying Visage for the next 24 hours.
 
 ***Wail (1/Day).*** The banshee releases a mournful wail, provided that she isn't in sunlight. This wail has no effect on constructs and undead. All other creatures within 30 feet of her that can hear her must make a DC 13 Constitution saving throw. On a failure, a creature drops to 0 hit points. On a success, a creature takes 10 (`3d6`) psychic damage.
 ```

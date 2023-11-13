@@ -24,7 +24,7 @@ A nature spirit answers your call and transforms you into a powerful guardian. T
 Bestial fur covers your body, your facial features become feral, and you gain the following benefits:
 
 - Your walking speed increases by 10 feet.  
-- You gain [darkvision](/compendium/rules/senses.md#darkvision) with a range of 120 feet.  
+- You gain [darkvision](rules/senses.md#darkvision) with a range of 120 feet.  
 - You make Strength-based attack rolls with advantage.  
 - Your melee weapon attacks deal an extra `1d6` force damage on a hit.  
 
@@ -39,6 +39,6 @@ Your skin appears barky, leaves sprout from your hair, and you gain the followin
 
 ## Summary
 
-**Classes**: [Druid](/compendium/classes/druid.md), [Ranger](/compendium/classes/ranger.md)
+**Classes**: [Druid](compendium/classes/druid.md), [Ranger](compendium/classes/ranger.md)
 
 *Source: Xanathar's Guide to Everything p. 157*

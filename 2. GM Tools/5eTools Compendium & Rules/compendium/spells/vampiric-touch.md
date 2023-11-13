@@ -25,6 +25,6 @@ The touch of your shadow-wreathed hand can siphon life force from others to heal
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
 
-**Classes**: [Cleric (Death Domain)](/compendium/classes/cleric-death-domain.md), [Cleric (Grave Domain)](/compendium/classes/cleric-grave-domain-xge.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Warlock](/compendium/classes/warlock.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Cleric (Death Domain)](compendium/classes/cleric-death-domain.md), [Cleric (Grave Domain)](compendium/classes/cleric-grave-domain-xge.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 285. Available in the SRD.*

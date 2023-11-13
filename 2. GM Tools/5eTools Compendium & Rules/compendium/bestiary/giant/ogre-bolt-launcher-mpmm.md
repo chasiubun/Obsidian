@@ -24,10 +24,10 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
 
 ```ad-statblock
 title: Ogre Bolt Launcher
-![](/compendium/bestiary/giant/token/ogre-bolt-launcher.png#token)
+![](compendium/bestiary/giant/token/ogre-bolt-launcher.png#token)
 *Large giant, Typically  Chaotic Evil*
 
-- **Armor Class** 13  ([hide armor](/compendium/items/hide-armor.md))
+- **Armor Class** 13  ([hide armor](compendium/items/hide-armor.md))
 - **Hit Points** 59 (`7d10 + 21`)
 - **Speed** 40 ft.
 

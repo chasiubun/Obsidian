@@ -13,10 +13,10 @@ aliases: ["Chief Nosnra"]
 
 ```ad-statblock
 title: Chief Nosnra
-![](/compendium/bestiary/npc/token/chief-nosnra.png#token)
+![](compendium/bestiary/npc/token/chief-nosnra.png#token)
 *Huge giant, Neutral Evil*
 
-- **Armor Class** 17  ([splint armor](/compendium/items/splint-armor.md))
+- **Armor Class** 17  ([splint armor](compendium/items/splint-armor.md))
 - **Hit Points** 138 (`12d12 + 60`)
 - **Speed** 40 ft.
 

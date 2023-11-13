@@ -13,10 +13,10 @@ aliases: ["Kusa Xungoon"]
 
 ```ad-statblock
 title: Kusa Xungoon
-![](/compendium/bestiary/npc/token/kusa-xungoon.png#token)
+![](compendium/bestiary/npc/token/kusa-xungoon.png#token)
 *Small humanoid (kobold), Lawful Good*
 
-- **Armor Class** 15  ([breastplate](/compendium/items/breastplate.md))
+- **Armor Class** 15  ([breastplate](compendium/items/breastplate.md))
 - **Hit Points** 9 (`2d8`)
 - **Speed** 30 ft.
 

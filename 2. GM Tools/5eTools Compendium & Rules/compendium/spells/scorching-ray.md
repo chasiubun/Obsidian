@@ -30,6 +30,6 @@ Make a ranged spell attack for each ray. On a hit, the target takes `2d6` fire d
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you create one additional ray for each slot level above 2nd.
 
-**Classes**: [Artificer (Artillerist)](/compendium/classes/artificer-artillerist-tce.md), [Cleric (Light Domain)](/compendium/classes/cleric-light-domain.md), [Druid (Circle of Wildfire)](/compendium/classes/druid-circle-of-wildfire-tce.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Sorcerer](/compendium/classes/sorcerer.md), [Warlock (The Fiend)](/compendium/classes/warlock-the-fiend.md), [Warlock (The Genie)](/compendium/classes/warlock-the-genie-tce.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Artificer (Artillerist)](compendium/classes/artificer-artillerist-tce.md), [Cleric (Light Domain)](compendium/classes/cleric-light-domain.md), [Druid (Circle of Wildfire)](compendium/classes/druid-circle-of-wildfire-tce.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Sorcerer](compendium/classes/sorcerer.md), [Warlock (The Fiend)](compendium/classes/warlock-the-fiend.md), [Warlock (The Genie)](compendium/classes/warlock-the-genie-tce.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 273. Available in the SRD.*

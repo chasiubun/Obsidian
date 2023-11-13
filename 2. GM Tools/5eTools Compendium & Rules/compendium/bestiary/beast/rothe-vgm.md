@@ -12,11 +12,11 @@ aliases: ["Rothé"]
 # Rothé
 *Source: Volo's Guide to Monsters p. 208*  
 
-Ordinary rothé resemble musk oxen and have [darkvision](/compendium/rules/senses.md#darkvision) out to a range of 30 feet.
+Ordinary rothé resemble musk oxen and have [darkvision](rules/senses.md#darkvision) out to a range of 30 feet.
 
 ```ad-statblock
 title: Rothé
-![](/compendium/bestiary/beast/token/rothe.png#token)
+![](compendium/bestiary/beast/token/rothe.png#token)
 *Large beast, Unaligned*
 
 - **Armor Class** 10 

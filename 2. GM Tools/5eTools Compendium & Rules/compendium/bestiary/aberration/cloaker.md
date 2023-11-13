@@ -38,7 +38,7 @@ Cloakers prefer isolation, but they sometimes convene with other cloakers for de
 
 ```ad-statblock
 title: Cloaker
-![](/compendium/bestiary/aberration/token/cloaker.png#token)
+![](compendium/bestiary/aberration/token/cloaker.png#token)
 *Large aberration, Chaotic Neutral*
 
 - **Armor Class** 14  (natural armor)
@@ -62,17 +62,17 @@ title: Cloaker
 
 ***False Appearance.*** While the cloaker remains motionless without its underside exposed, it is indistinguishable from a dark leather cloak.
 
-***Light Sensitivity.*** While in bright light, the cloaker has disadvantage on attack rolls and Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Light Sensitivity.*** While in bright light, the cloaker has disadvantage on attack rolls and Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
 ***Multiattack.*** The cloaker makes two attacks: one with its bite and one with its tail.
 
-***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 10 (`2d6 + 3`) piercing damage, and if the target is Large or smaller, the cloaker attaches to it. If the cloaker has advantage against the target, the cloaker attaches to the target's head, and the target is [blinded](/compendium/rules/conditions.md#blinded) and unable to breathe while the cloaker is attached. While attached, the cloaker can make this attack only against the target and has advantage on the attack roll. The cloaker can detach itself by spending 5 feet of its movement. A creature, including the target, can take its action to detach the cloaker by succeeding on a DC 16 Strength check.
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 10 (`2d6 + 3`) piercing damage, and if the target is Large or smaller, the cloaker attaches to it. If the cloaker has advantage against the target, the cloaker attaches to the target's head, and the target is [blinded](rules/conditions.md#blinded) and unable to breathe while the cloaker is attached. While attached, the cloaker can make this attack only against the target and has advantage on the attack roll. The cloaker can detach itself by spending 5 feet of its movement. A creature, including the target, can take its action to detach the cloaker by succeeding on a DC 16 Strength check.
 
 ***Tail.*** *Melee Weapon Attack:* +6 to hit, reach 10 ft., one creature. *Hit:* 7 (`1d8 + 3`) slashing damage.
 
-***Moan.*** Each creature within 60 feet of the cloaker that can hear its moan and that isn't an aberration must succeed on a DC 13 Wisdom saving throw or become [frightened](/compendium/rules/conditions.md#frightened) until the end of the cloaker's next turn. If a creature's saving throw is successful, the creature is immune to the cloaker's moan for the next 24 hours.
+***Moan.*** Each creature within 60 feet of the cloaker that can hear its moan and that isn't an aberration must succeed on a DC 13 Wisdom saving throw or become [frightened](rules/conditions.md#frightened) until the end of the cloaker's next turn. If a creature's saving throw is successful, the creature is immune to the cloaker's moan for the next 24 hours.
 
 ***Phantasms (Recharges after a Short or Long Rest).*** The cloaker magically creates three illusory duplicates of itself if it isn't in bright light. The duplicates move with it and mimic its actions, shifting position so as to make it impossible to track which cloaker is the real one. If the cloaker is ever in an area of bright light, the duplicates disappear.
 

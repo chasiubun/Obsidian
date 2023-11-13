@@ -14,7 +14,7 @@ aliases: ["Adult Kruthik"]
 # Adult Kruthik
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 169, Mordenkainen's Tome of Foes p. 212*  
 
-It takes six months of steady eating for a [young kruthik](/compendium/bestiary/monstrosity/young-kruthik-mpmm.md) to reach adult size. The natural life span of an adult kruthik is roughly seven years.
+It takes six months of steady eating for a [young kruthik](compendium/bestiary/monstrosity/young-kruthik-mpmm.md) to reach adult size. The natural life span of an adult kruthik is roughly seven years.
 
 Adult kruthiks grow spiky protrusions on their legs and can fling these dagger-sized spikes at enemies beyond the reach of their claws.
 
@@ -42,7 +42,7 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 
 ```ad-statblock
 title: Adult Kruthik
-![](/compendium/bestiary/monstrosity/token/adult-kruthik.png#token)
+![](compendium/bestiary/monstrosity/token/adult-kruthik.png#token)
 *Medium monstrosity, Unaligned*
 
 - **Armor Class** 18  (natural armor)
@@ -62,7 +62,7 @@ title: Adult Kruthik
 
 ## Traits
 
-***Pack Tactics.*** The kruthik has advantage on an attack roll against a creature if at least one of the kruthik's allies is within 5 feet of the creature and the ally isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Pack Tactics.*** The kruthik has advantage on an attack roll against a creature if at least one of the kruthik's allies is within 5 feet of the creature and the ally isn't [incapacitated](rules/conditions.md#incapacitated).
 
 ***Tunneler.*** The kruthik can burrow through solid rock at half its burrowing speed and leaves a 5-foot-diameter tunnel in its wake.
 

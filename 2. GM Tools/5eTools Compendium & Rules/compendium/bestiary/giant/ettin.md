@@ -44,7 +44,7 @@ Whatever the truth of the ettins' origin, orcs treat them as distant cousins, an
 
 ```ad-statblock
 title: Ettin
-![](/compendium/bestiary/giant/token/ettin.png#token)
+![](compendium/bestiary/giant/token/ettin.png#token)
 *Large giant, Chaotic Evil*
 
 - **Armor Class** 12  (natural armor)
@@ -64,7 +64,7 @@ title: Ettin
 
 ## Traits
 
-***Two Heads.*** The ettin has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks and on saving throws against being [blinded](/compendium/rules/conditions.md#blinded), [charmed](/compendium/rules/conditions.md#charmed), [deafened](/compendium/rules/conditions.md#deafened), [frightened](/compendium/rules/conditions.md#frightened), [stunned](/compendium/rules/conditions.md#stunned), and knocked [unconscious](/compendium/rules/conditions.md#unconscious).
+***Two Heads.*** The ettin has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks and on saving throws against being [blinded](rules/conditions.md#blinded), [charmed](rules/conditions.md#charmed), [deafened](rules/conditions.md#deafened), [frightened](rules/conditions.md#frightened), [stunned](rules/conditions.md#stunned), and knocked [unconscious](rules/conditions.md#unconscious).
 
 ***Wakeful.*** When one of the ettin's heads is asleep, its other head is awake.
 

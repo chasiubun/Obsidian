@@ -37,7 +37,7 @@ Like devils, rakshasas killed in the Nine Hells are forever destroyed.
 
 ```ad-statblock
 title: Rakshasa
-![](/compendium/bestiary/fiend/token/rakshasa.png#token)
+![](compendium/bestiary/fiend/token/rakshasa.png#token)
 *Medium fiend, Lawful Evil*
 
 - **Armor Class** 16  (natural armor)
@@ -61,17 +61,17 @@ title: Rakshasa
 
 ***Innate Spellcasting.*** The rakshasa's innate spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). The rakshasa can innately cast the following spells, requiring no material components:
 
-**At will**: [detect thoughts](/compendium/spells/detect-thoughts.md), [disguise self](/compendium/spells/disguise-self.md), [mage hand](/compendium/spells/mage-hand.md), [minor illusion](/compendium/spells/minor-illusion.md)
+**At will**: [detect thoughts](compendium/spells/detect-thoughts.md), [disguise self](compendium/spells/disguise-self.md), [mage hand](compendium/spells/mage-hand.md), [minor illusion](compendium/spells/minor-illusion.md)
 
-**1/day each**: [dominate person](/compendium/spells/dominate-person.md), [fly](/compendium/spells/fly.md), [plane shift](/compendium/spells/plane-shift.md), [true seeing](/compendium/spells/true-seeing.md)
+**1/day each**: [dominate person](compendium/spells/dominate-person.md), [fly](compendium/spells/fly.md), [plane shift](compendium/spells/plane-shift.md), [true seeing](compendium/spells/true-seeing.md)
 
-**3/day each**: [charm person](/compendium/spells/charm-person.md), [detect magic](/compendium/spells/detect-magic.md), [invisibility](/compendium/spells/invisibility.md), [major image](/compendium/spells/major-image.md), [suggestion](/compendium/spells/suggestion.md)
+**3/day each**: [charm person](compendium/spells/charm-person.md), [detect magic](compendium/spells/detect-magic.md), [invisibility](compendium/spells/invisibility.md), [major image](compendium/spells/major-image.md), [suggestion](compendium/spells/suggestion.md)
 
 ## Actions
 
 ***Multiattack.*** The rakshasa makes two claw attacks.
 
-***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9 (`2d6 + 2`) slashing damage, and the target is cursed if it is a creature. The magical curse takes effect whenever the target takes a short or long rest, filling the target's thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a [remove curse](/compendium/spells/remove-curse.md) spell or similar magic.
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9 (`2d6 + 2`) slashing damage, and the target is cursed if it is a creature. The magical curse takes effect whenever the target takes a short or long rest, filling the target's thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a [remove curse](compendium/spells/remove-curse.md) spell or similar magic.
 ```
 ^statblock
 

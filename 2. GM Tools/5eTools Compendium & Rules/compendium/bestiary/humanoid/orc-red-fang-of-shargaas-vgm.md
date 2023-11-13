@@ -34,10 +34,10 @@ Most Red Fang enclaves keep and nurture giant bats, creatures that are sacred to
 
 ```ad-statblock
 title: Orc Red Fang of Shargaas
-![](/compendium/bestiary/humanoid/token/orc-red-fang-of-shargaas.png#token)
+![](compendium/bestiary/humanoid/token/orc-red-fang-of-shargaas.png#token)
 *Medium humanoid (orc), Chaotic Evil*
 
-- **Armor Class** 15  ([studded leather](/compendium/items/studded-leather-armor.md))
+- **Armor Class** 15  ([studded leather](compendium/items/studded-leather-armor.md))
 - **Hit Points** 52 (`8d8 + 16`)
 - **Speed** 30 ft.
 
@@ -70,7 +70,7 @@ title: Orc Red Fang of Shargaas
 
 ***Dart.*** *Ranged Weapon Attack:* +5 to hit, range 20/60 ft., one target. *Hit:* 10 (`3d4 + 3`) piercing damage.
 
-***Veil of Shargaas (Recharges after a Short or Long Rest).*** The orc casts [darkness](/compendium/spells/darkness.md) without any components. Wisdom is its spellcasting ability.
+***Veil of Shargaas (Recharges after a Short or Long Rest).*** The orc casts [darkness](compendium/spells/darkness.md) without any components. Wisdom is its spellcasting ability.
 ```
 ^statblock
 

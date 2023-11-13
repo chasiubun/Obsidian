@@ -95,7 +95,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ```ad-statblock
 title: Young Red Dragon
-![](/compendium/bestiary/dragon/token/young-red-dragon.png#token)
+![](compendium/bestiary/dragon/token/young-red-dragon.png#token)
 *Large dragon, Chaotic Evil*
 
 - **Armor Class** 18  (natural armor)

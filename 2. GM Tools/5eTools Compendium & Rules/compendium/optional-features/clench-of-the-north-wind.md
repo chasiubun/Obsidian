@@ -11,4 +11,4 @@ aliases: ["Clench of the North Wind"]
 
 **Prerequisite**: 6th-level Monk
 
-You can spend 3 ki points to cast [hold person](/compendium/spells/hold-person.md).
+You can spend 3 ki points to cast [hold person](compendium/spells/hold-person.md).

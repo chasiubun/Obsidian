@@ -9,10 +9,10 @@ aliases: ["Outlander"]
 # Outlander
 *Source: Player's Handbook p. 136*  
 
-- **Skill Proficiencies.** [Athletics](/compendium/rules/skills.md#Athletics), [Survival](/compendium/rules/skills.md#Survival)  
+- **Skill Proficiencies.** [Athletics](rules/skills.md#Athletics), [Survival](rules/skills.md#Survival)  
 - **Tool Proficiencies.** One type of musical instrument  
 - **Languages.** One of your choice  
-- **Equipment.** A [staff](/compendium/items/staff.md), a [hunting trap](/compendium/items/hunting-trap.md), a trophy from an animal you killed, a set of [traveler's clothes](/compendium/items/travelers-clothes.md), and a belt [pouch](/compendium/items/pouch.md) containing 10 gp  
+- **Equipment.** A [staff](compendium/items/staff.md), a [hunting trap](compendium/items/hunting-trap.md), a trophy from an animal you killed, a set of [traveler's clothes](compendium/items/travelers-clothes.md), and a belt [pouch](compendium/items/pouch.md) containing 10 gp  
 
 You grew up in the wilds, far from civilization and the comforts of town and technology. You've witnessed the migration of herds larger than forests, survived weather more extreme than any city-dweller could comprehend, and enjoyed the solitude of being the only thinking creature for miles in any direction. The wilds are in your blood, whether you were a nomad, an explorer, a recluse, a hunter-gatherer, or even a marauder. Even in places where you don't know the specific features of the terrain, you know the ways of the wild.
 

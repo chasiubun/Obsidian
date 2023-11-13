@@ -23,8 +23,8 @@ aliases: ["Blur"]
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
 
-Your body becomes blurred, shifting and wavering to all who can see you. For the duration, any creature has disadvantage on attack rolls against you. An attacker is immune to this effect if it doesn't rely on sight, as with blindsight, or can see through illusions, as with [truesight](/compendium/rules/senses.md#truesight).
+Your body becomes blurred, shifting and wavering to all who can see you. For the duration, any creature has disadvantage on attack rolls against you. An attacker is immune to this effect if it doesn't rely on sight, as with blindsight, or can see through illusions, as with [truesight](rules/senses.md#truesight).
 
-**Classes**: [Artificer](/compendium/classes/artificer-tce.md), [Druid (Circle of the Land)](/compendium/classes/druid-circle-of-the-land.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Sorcerer](/compendium/classes/sorcerer.md), [Warlock (The Genie)](/compendium/classes/warlock-the-genie-tce.md), [Warlock (The Hexblade)](/compendium/classes/warlock-the-hexblade-xge.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Artificer](compendium/classes/artificer-tce.md), [Druid (Circle of the Land)](compendium/classes/druid-circle-of-the-land.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Sorcerer](compendium/classes/sorcerer.md), [Warlock (The Genie)](compendium/classes/warlock-the-genie-tce.md), [Warlock (The Hexblade)](compendium/classes/warlock-the-hexblade-xge.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 219. Available in the SRD and the Basic Rules.*

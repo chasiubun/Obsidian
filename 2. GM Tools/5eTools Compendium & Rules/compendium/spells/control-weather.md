@@ -59,6 +59,6 @@ When you change the weather conditions, find a current condition on the followin
 | 5 | Storm |
 ^wind
 
-**Classes**: [Cleric](/compendium/classes/cleric.md), [Druid](/compendium/classes/druid.md), [Sorcerer (Divine Soul)](/compendium/classes/sorcerer-divine-soul-xge.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Cleric](compendium/classes/cleric.md), [Druid](compendium/classes/druid.md), [Sorcerer (Divine Soul)](compendium/classes/sorcerer-divine-soul-xge.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 228. Available in the SRD.*

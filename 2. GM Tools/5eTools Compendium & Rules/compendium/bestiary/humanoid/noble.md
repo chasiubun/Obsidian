@@ -18,10 +18,10 @@ The noble's statistics can also be used to represent courtiers who aren't of nob
 
 ```ad-statblock
 title: Noble
-![](/compendium/bestiary/humanoid/token/noble.png#token)
+![](compendium/bestiary/humanoid/token/noble.png#token)
 *Medium humanoid (any race), Any alignment*
 
-- **Armor Class** 15  ([breastplate](/compendium/items/breastplate.md))
+- **Armor Class** 15  ([breastplate](compendium/items/breastplate.md))
 - **Hit Points** 9 (`2d8`)
 - **Speed** 30 ft.
 

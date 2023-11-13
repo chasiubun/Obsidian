@@ -16,10 +16,10 @@ Thugs are ruthless enforcers skilled at intimidation and violence. They work for
 
 ```ad-statblock
 title: Thug
-![](/compendium/bestiary/humanoid/token/thug.png#token)
+![](compendium/bestiary/humanoid/token/thug.png#token)
 *Medium humanoid (any race), Any Non-Good alignment*
 
-- **Armor Class** 11  ([leather armor](/compendium/items/leather-armor.md))
+- **Armor Class** 11  ([leather armor](compendium/items/leather-armor.md))
 - **Hit Points** 32 (`5d8 + 10`)
 - **Speed** 30 ft.
 
@@ -36,7 +36,7 @@ title: Thug
 
 ## Traits
 
-***Pack Tactics.*** The thug has advantage on an attack roll against a creature if at least one of the thug's allies is within 5 feet of the creature and the ally isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Pack Tactics.*** The thug has advantage on an attack roll against a creature if at least one of the thug's allies is within 5 feet of the creature and the ally isn't [incapacitated](rules/conditions.md#incapacitated).
 
 ## Actions
 

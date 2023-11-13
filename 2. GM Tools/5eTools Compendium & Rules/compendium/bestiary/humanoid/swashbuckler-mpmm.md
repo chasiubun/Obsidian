@@ -33,10 +33,10 @@ Many swashbucklers have a signature flourish with which they embellish their act
 
 ```ad-statblock
 title: Swashbuckler
-![](/compendium/bestiary/humanoid/token/swashbuckler.png#token)
+![](compendium/bestiary/humanoid/token/swashbuckler.png#token)
 *Medium humanoid, Any alignment*
 
-- **Armor Class** 17  ([leather armor](/compendium/items/leather-armor.md), suave defense)
+- **Armor Class** 17  ([leather armor](compendium/items/leather-armor.md), suave defense)
 - **Hit Points** 66 (`12d8 + 12`)
 - **Speed** 30 ft.
 
@@ -53,7 +53,7 @@ title: Swashbuckler
 
 ## Traits
 
-***Suave Defense.*** While the swashbuckler is wearing light or no armor and wielding no [shield](/compendium/items/shield.md), its AC includes its Charisma modifier.
+***Suave Defense.*** While the swashbuckler is wearing light or no armor and wielding no [shield](compendium/items/shield.md), its AC includes its Charisma modifier.
 
 ## Actions
 
@@ -65,7 +65,7 @@ title: Swashbuckler
 
 ## Bonus Actions
 
-***Lightfooted.*** The swashbuckler takes the [Dash](/compendium/rules/actions.md#Dash) or [Disengage](/compendium/rules/actions.md#Disengage) action.
+***Lightfooted.*** The swashbuckler takes the [Dash](rules/actions.md#Dash) or [Disengage](rules/actions.md#Disengage) action.
 ```
 ^statblock
 

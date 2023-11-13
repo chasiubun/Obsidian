@@ -20,11 +20,11 @@ aliases: ["Canoloth"]
 
 A type of yugoloth, canoloths are fiendish trackers and guardians employed by evil powers. They prefer to enter into contracts to guard valuable treasures and important locations. They always do exactly as asked—never any more, never any less.
 
-With senses sharp enough to pinpoint the locations of nearby [invisible](/compendium/rules/conditions.md#invisible) creatures, canoloths respond unfailingly to any threat to their charges. Furthermore, they emit a magical distortion field that prevents creatures close to them from teleporting. Canoloths confront intruders with swift and terrible force, projecting long, spiny tongues to grab their foes and drag them close. What happens next depends on the contract. Unless instructed to kill, a canoloth merely holds on to its prisoner, but if given the order to do so, it tears its prey limb from limb.
+With senses sharp enough to pinpoint the locations of nearby [invisible](rules/conditions.md#invisible) creatures, canoloths respond unfailingly to any threat to their charges. Furthermore, they emit a magical distortion field that prevents creatures close to them from teleporting. Canoloths confront intruders with swift and terrible force, projecting long, spiny tongues to grab their foes and drag them close. What happens next depends on the contract. Unless instructed to kill, a canoloth merely holds on to its prisoner, but if given the order to do so, it tears its prey limb from limb.
 
 ```ad-statblock
 title: Canoloth
-![](/compendium/bestiary/fiend/token/canoloth.png#token)
+![](compendium/bestiary/fiend/token/canoloth.png#token)
 *Medium fiend (yugoloth), Typically  Neutral Evil*
 
 - **Armor Class** 16  (natural armor)
@@ -48,7 +48,7 @@ title: Canoloth
 
 ***Magic Resistance.*** The canoloth has advantage on saving throws against spells and other magical effects.
 
-***Uncanny Senses.*** The canoloth can't be surprised unless it's [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Uncanny Senses.*** The canoloth can't be surprised unless it's [incapacitated](rules/conditions.md#incapacitated).
 
 ## Actions
 
@@ -58,7 +58,7 @@ title: Canoloth
 
 ***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (`1d6 + 4`) slashing damage plus 9 (`2d8`) force damage.
 
-***Tongue.*** *Melee Weapon Attack:* +7 to hit, reach 30 ft., one target. *Hit:* 10 (`1d12 + 4`) piercing damage plus 7 (`2d6`) acid damage. If the target is Medium or smaller, it is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 15), pulled up to 30 feet toward the canoloth, and [restrained](/compendium/rules/conditions.md#restrained) until the grapple ends. The canoloth can grapple one target at a time with its tongue.
+***Tongue.*** *Melee Weapon Attack:* +7 to hit, reach 30 ft., one target. *Hit:* 10 (`1d12 + 4`) piercing damage plus 7 (`2d6`) acid damage. If the target is Medium or smaller, it is [grappled](rules/conditions.md#grappled) (escape DC 15), pulled up to 30 feet toward the canoloth, and [restrained](rules/conditions.md#restrained) until the grapple ends. The canoloth can grapple one target at a time with its tongue.
 ```
 ^statblock
 

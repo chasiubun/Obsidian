@@ -22,5 +22,5 @@ aliases: ["Artifact Properties; Major Beneficial Properties"]
 | 61-70 | As 51-60 above, except the spell is 5th level. |
 | 71-80 | As 51-60 above, except the spell is 6th level. |
 | 81-90 | As 51-60 above, except the spell is 7th level. |
-| 91-00 | While attuned to the artifact, you can't be [blinded](/compendium/rules/conditions.md#blinded), [deafened](/compendium/rules/conditions.md#deafened), [petrified](/compendium/rules/conditions.md#petrified), or [stunned](/compendium/rules/conditions.md#stunned). |
+| 91-00 | While attuned to the artifact, you can't be [blinded](rules/conditions.md#blinded), [deafened](rules/conditions.md#deafened), [petrified](rules/conditions.md#petrified), or [stunned](rules/conditions.md#stunned). |
 ^major-beneficial-properties

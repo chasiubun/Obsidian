@@ -14,7 +14,7 @@ aliases:
 
 - **Damage**: 1d6 S
 - **Range**: 20/60
-- **Properties**: [Light](/compendium/rules/item-properties.md#Light), [Thrown](/compendium/rules/item-properties.md#Thrown)
+- **Properties**: [Light](rules/item-properties.md#Light), [Thrown](rules/item-properties.md#Thrown)
 - **Cost**: 5 gp
 - **Weight**: 2.0 lbs.
 

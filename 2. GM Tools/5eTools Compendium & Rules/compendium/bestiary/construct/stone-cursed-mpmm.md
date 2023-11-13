@@ -14,7 +14,7 @@ aliases: ["Stone Cursed"]
 # Stone Cursed
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 233, Mordenkainen's Tome of Foes p. 240*  
 
-Stone cursed are spawned through a foul alchemical ritual performed on a Humanoid that has been turned to stone. The ritual, which requires a mixture of basilisk blood and the ashes from the burned feathers of a cockatrice, awakens a dim echo of the [petrified](/compendium/rules/conditions.md#petrified) victim's spirit, animating the statue and turning it into a useful guardian.
+Stone cursed are spawned through a foul alchemical ritual performed on a Humanoid that has been turned to stone. The ritual, which requires a mixture of basilisk blood and the ashes from the burned feathers of a cockatrice, awakens a dim echo of the [petrified](rules/conditions.md#petrified) victim's spirit, animating the statue and turning it into a useful guardian.
 
 Stone cursed possess a malevolent drive to slay the living, yet they are utterly loyal to whoever performed the ritual to animate them, and they obey that being's orders to the best of their ability. In combat, stony claws that drip with thick, gray sludge emerge from a stone cursed's fingers. This alchemical sludge transforms those slashed by the claws into statues.
 
@@ -22,13 +22,13 @@ As part of the ritual used to create a stone cursed, a fist-sized obsidian skull
 
 ## Cryptic Whispers
 
-Even though a creature transformed into a stone cursed is long dead, a vague whisper of their memories lives on in the obsidian skull embedded within the stone cursed's body. At the end of a short rest, a character can make a DC 20 Intelligence ([Arcana](/compendium/rules/skills.md#Arcana)) check to attempt to extract a memory from the skull that is a response to a verbal question posed to the skull by the character. Once this check is made, whether it succeeds or fails, the skull can't be used in this manner again.
+Even though a creature transformed into a stone cursed is long dead, a vague whisper of their memories lives on in the obsidian skull embedded within the stone cursed's body. At the end of a short rest, a character can make a DC 20 Intelligence ([Arcana](rules/skills.md#Arcana)) check to attempt to extract a memory from the skull that is a response to a verbal question posed to the skull by the character. Once this check is made, whether it succeeds or fails, the skull can't be used in this manner again.
 
 ## Statblock
 
 ```ad-statblock
 title: Stone Cursed
-![](/compendium/bestiary/construct/token/stone-cursed.png#token)
+![](compendium/bestiary/construct/token/stone-cursed.png#token)
 *Medium construct, Typically  Lawful Evil*
 
 - **Armor Class** 17  (natural armor)
@@ -50,13 +50,13 @@ title: Stone Cursed
 
 ***Cunning Opportunist.*** The stone cursed has advantage on the attack rolls of opportunity attacks.
 
-***False Appearance.*** If the stone cursed is motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn't observed the stone cursed move or act, that creature must succeed on a DC 18 Intelligence ([Investigation](/compendium/rules/skills.md#Investigation)) check to discern that the stone cursed isn't a statue.
+***False Appearance.*** If the stone cursed is motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn't observed the stone cursed move or act, that creature must succeed on a DC 18 Intelligence ([Investigation](rules/skills.md#Investigation)) check to discern that the stone cursed isn't a statue.
 
 ***Unusual Nature.*** The stone cursed doesn't require air, food, drink, or sleep.
 
 ## Actions
 
-***Petrifying Claws.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 12 (`2d8 + 3`) slashing damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw, or it begins to turn to stone and is [restrained](/compendium/rules/conditions.md#restrained) until the end of its next turn, when it must repeat the saving throw. The effect ends if the second save is successful; otherwise the target is [petrified](/compendium/rules/conditions.md#petrified) for 24 hours.
+***Petrifying Claws.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 12 (`2d8 + 3`) slashing damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw, or it begins to turn to stone and is [restrained](rules/conditions.md#restrained) until the end of its next turn, when it must repeat the saving throw. The effect ends if the second save is successful; otherwise the target is [petrified](rules/conditions.md#petrified) for 24 hours.
 ```
 ^statblock
 

@@ -16,7 +16,7 @@ aliases: ["Raven"]
 
 ```ad-statblock
 title: Raven
-![](/compendium/bestiary/beast/token/raven.png#token)
+![](compendium/bestiary/beast/token/raven.png#token)
 *Tiny beast, Unaligned*
 
 - **Armor Class** 12 

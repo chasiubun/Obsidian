@@ -13,7 +13,7 @@ aliases: ["Aunt Dellie"]
 
 ```ad-statblock
 title: Aunt Dellie
-![](/compendium/bestiary/npc/token/aunt-dellie.png#token)
+![](compendium/bestiary/npc/token/aunt-dellie.png#token)
 *Medium humanoid (any race), Any alignment*
 
 - **Armor Class** 10 

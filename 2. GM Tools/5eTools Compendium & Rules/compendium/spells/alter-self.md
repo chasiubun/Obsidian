@@ -37,6 +37,6 @@ You grow claws, fangs, spines, horns, or a different natural weapon of your choi
 
 ## Summary
 
-**Classes**: [Artificer](/compendium/classes/artificer-tce.md), [Druid (Circle of the Moon)](/compendium/classes/druid-circle-of-the-moon.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Sorcerer](/compendium/classes/sorcerer.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Artificer](compendium/classes/artificer-tce.md), [Druid (Circle of the Moon)](compendium/classes/druid-circle-of-the-moon.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 211. Available in the SRD.*

@@ -34,7 +34,7 @@ Whenever you make a long jump or a high jump, you can roll a `d8` and add the nu
 
 ### Reveler
 
-As an embodiment of revelry, you have proficiency in the [Performance](/compendium/rules/skills.md#Performance) and [Persuasion](/compendium/rules/skills.md#Persuasion) skills, and you have proficiency with one [musical instrument](/compendium/items/musical-instrument.md) of your choice.
+As an embodiment of revelry, you have proficiency in the [Performance](rules/skills.md#Performance) and [Persuasion](rules/skills.md#Persuasion) skills, and you have proficiency with one [musical instrument](compendium/items/musical-instrument.md) of your choice.
 
 ## Description
 

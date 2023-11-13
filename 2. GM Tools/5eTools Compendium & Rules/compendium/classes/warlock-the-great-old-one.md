@@ -25,11 +25,11 @@ The Great Old One lets you choose from an expanded list of spells when you learn
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [dissonant whispers](/compendium/spells/dissonant-whispers.md), [Tasha's hideous laughter](/compendium/spells/tashas-hideous-laughter.md) |
-| 2nd | [detect thoughts](/compendium/spells/detect-thoughts.md), [phantasmal force](/compendium/spells/phantasmal-force.md) |
-| 3rd | [clairvoyance](/compendium/spells/clairvoyance.md), [sending](/compendium/spells/sending.md) |
-| 4th | [dominate beast](/compendium/spells/dominate-beast.md), [Evard's black tentacles](/compendium/spells/evards-black-tentacles.md) |
-| 5th | [dominate person](/compendium/spells/dominate-person.md), [telekinesis](/compendium/spells/telekinesis.md) |
+| 1st | [dissonant whispers](compendium/spells/dissonant-whispers.md), [Tasha's hideous laughter](compendium/spells/tashas-hideous-laughter.md) |
+| 2nd | [detect thoughts](compendium/spells/detect-thoughts.md), [phantasmal force](compendium/spells/phantasmal-force.md) |
+| 3rd | [clairvoyance](compendium/spells/clairvoyance.md), [sending](compendium/spells/sending.md) |
+| 4th | [dominate beast](compendium/spells/dominate-beast.md), [Evard's black tentacles](compendium/spells/evards-black-tentacles.md) |
+| 5th | [dominate person](compendium/spells/dominate-person.md), [telekinesis](compendium/spells/telekinesis.md) |
 ^great-old-one-expanded-spells
 
 ### Awakened Mind (Level 1)
@@ -48,6 +48,6 @@ Starting at 10th level, your thoughts can't be read by telepathy or other means 
 
 ### Create Thrall (Level 14)
 
-At 14th level, you gain the ability to infect a humanoid's mind with the alien magic of your patron. You can use your action to touch an [incapacitated](/compendium/rules/conditions.md#incapacitated) humanoid. That creature is then [charmed](/compendium/rules/conditions.md#charmed) by you until a [remove curse](/compendium/spells/remove-curse.md) spell is cast on it, the [charmed](/compendium/rules/conditions.md#charmed) condition is removed from it, or you use this feature again.
+At 14th level, you gain the ability to infect a humanoid's mind with the alien magic of your patron. You can use your action to touch an [incapacitated](rules/conditions.md#incapacitated) humanoid. That creature is then [charmed](rules/conditions.md#charmed) by you until a [remove curse](compendium/spells/remove-curse.md) spell is cast on it, the [charmed](rules/conditions.md#charmed) condition is removed from it, or you use this feature again.
 
-You can communicate telepathically with the [charmed](/compendium/rules/conditions.md#charmed) creature as long as the two of you are on the same plane of existence.
+You can communicate telepathically with the [charmed](rules/conditions.md#charmed) creature as long as the two of you are on the same plane of existence.

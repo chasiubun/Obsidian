@@ -11,4 +11,4 @@ aliases: ["Flames of the Phoenix"]
 
 **Prerequisite**: 11th-level Monk
 
-You can spend 4 ki points to cast [fireball](/compendium/spells/fireball.md).
+You can spend 4 ki points to cast [fireball](compendium/spells/fireball.md).

@@ -16,7 +16,7 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a hunter sh
 
 ```ad-statblock
 title: Hunter Shark
-![](/compendium/bestiary/beast/token/hunter-shark.png#token)
+![](compendium/bestiary/beast/token/hunter-shark.png#token)
 *Large beast, Unaligned*
 
 - **Armor Class** 12  (natural armor)

@@ -31,7 +31,7 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 
 ```ad-statblock
 title: Spirit Troll
-![](/compendium/bestiary/giant/token/spirit-troll.png#token)
+![](compendium/bestiary/giant/token/spirit-troll.png#token)
 *Large giant, Typically  Chaotic Evil*
 
 - **Armor Class** 17  (natural armor)
@@ -59,7 +59,7 @@ title: Spirit Troll
 
 ***Multiattack.*** The troll makes one Bite attack and two Claw attacks.
 
-***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:* 19 (`3d10 + 3`) psychic damage, and the target must succeed on a DC 15 Wisdom saving throw or be [stunned](/compendium/rules/conditions.md#stunned) for 1 minute. The [stunned](/compendium/rules/conditions.md#stunned) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:* 19 (`3d10 + 3`) psychic damage, and the target must succeed on a DC 15 Wisdom saving throw or be [stunned](rules/conditions.md#stunned) for 1 minute. The [stunned](rules/conditions.md#stunned) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Claws.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:* 19 (`3d10 + 3`) psychic damage.
 ```

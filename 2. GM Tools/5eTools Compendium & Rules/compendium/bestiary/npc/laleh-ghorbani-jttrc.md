@@ -13,10 +13,10 @@ aliases: ["Laleh Ghorbani"]
 
 ```ad-statblock
 title: Laleh Ghorbani
-![](/compendium/bestiary/npc/token/laleh-ghorbani.png#token)
+![](compendium/bestiary/npc/token/laleh-ghorbani.png#token)
 *Medium humanoid (High elf), Neutral Good*
 
-- **Armor Class** 13  ([leather armor](/compendium/items/leather-armor.md))
+- **Armor Class** 13  ([leather armor](compendium/items/leather-armor.md))
 - **Hit Points** 16 (`3d8 + 3`)
 - **Speed** 30 ft.
 
@@ -33,7 +33,7 @@ title: Laleh Ghorbani
 
 ## Traits
 
-***Keen Hearing and Sight.*** Laleh has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on hearing or sight.
+***Keen Hearing and Sight.*** Laleh has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on hearing or sight.
 
 ## Actions
 

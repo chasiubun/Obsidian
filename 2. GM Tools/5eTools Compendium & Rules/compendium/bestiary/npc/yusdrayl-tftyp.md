@@ -29,10 +29,10 @@ In addition to the dragons they revere, kobolds worship a lesser god named Kurtu
 
 ```ad-statblock
 title: Yusdrayl
-![](/compendium/bestiary/npc/token/yusdrayl.png#token)
+![](compendium/bestiary/npc/token/yusdrayl.png#token)
 *Small humanoid (kobold), Lawful Evil*
 
-- **Armor Class** 12  (15 with [mage armor](/compendium/spells/mage-armor.md))
+- **Armor Class** 12  (15 with [mage armor](compendium/spells/mage-armor.md))
 - **Hit Points** 16 (`3d6 + 6`)
 - **Speed** 30 ft.
 
@@ -49,15 +49,15 @@ title: Yusdrayl
 
 ## Traits
 
-***Sunlight Sensitivity.*** While in sunlight, Yusdrayl has disadvantage on attack rolls, as well as on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, Yusdrayl has disadvantage on attack rolls, as well as on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
-***Pack Tactics.*** Yusdrayl has advantage on an attack roll against a creature if at least one of her allies is within 5 feet of the creature and the ally isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Pack Tactics.*** Yusdrayl has advantage on an attack roll against a creature if at least one of her allies is within 5 feet of the creature and the ally isn't [incapacitated](rules/conditions.md#incapacitated).
 
 ***Spellcasting.*** Yusdrayl is a 2nd-level spellcaster. Her spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). She knows the following sorcerer spells:
 
-**Cantrips (at will)**: [mage hand](/compendium/spells/mage-hand.md), [prestidigitation](/compendium/spells/prestidigitation.md), [ray of frost](/compendium/spells/ray-of-frost.md), [shocking grasp](/compendium/spells/shocking-grasp.md)
+**Cantrips (at will)**: [mage hand](compendium/spells/mage-hand.md), [prestidigitation](compendium/spells/prestidigitation.md), [ray of frost](compendium/spells/ray-of-frost.md), [shocking grasp](compendium/spells/shocking-grasp.md)
 
-**1st level (4 slots)**: [burning hands](/compendium/spells/burning-hands.md), [chromatic orb](/compendium/spells/chromatic-orb.md), [mage armor](/compendium/spells/mage-armor.md)
+**1st level (4 slots)**: [burning hands](compendium/spells/burning-hands.md), [chromatic orb](compendium/spells/chromatic-orb.md), [mage armor](compendium/spells/mage-armor.md)
 
 ## Actions
 

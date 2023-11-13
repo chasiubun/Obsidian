@@ -15,7 +15,7 @@ aliases: ["Deer"]
 
 ```ad-statblock
 title: Deer
-![](/compendium/bestiary/beast/token/deer.png#token)
+![](compendium/bestiary/beast/token/deer.png#token)
 *Medium beast, Unaligned*
 
 - **Armor Class** 13 

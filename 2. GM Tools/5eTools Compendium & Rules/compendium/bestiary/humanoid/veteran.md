@@ -23,10 +23,10 @@ Veterans are professional fighters that take up arms for pay or to protect somet
 
 ```ad-statblock
 title: Veteran
-![](/compendium/bestiary/humanoid/token/veteran.png#token)
+![](compendium/bestiary/humanoid/token/veteran.png#token)
 *Medium humanoid (any race), Any alignment*
 
-- **Armor Class** 17  ([splint armor](/compendium/items/splint-armor.md))
+- **Armor Class** 17  ([splint armor](compendium/items/splint-armor.md))
 - **Hit Points** 58 (`9d8 + 18`)
 - **Speed** 30 ft.
 

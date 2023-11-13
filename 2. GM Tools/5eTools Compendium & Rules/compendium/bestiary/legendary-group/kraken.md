@@ -22,8 +22,8 @@ _Source: Monster Manual_
 
 The region containing a kraken's lair is warped by the creature's blasphemous presence, creating the following magical effects:
 
-- The kraken can alter the weather at will in a 6-mile radius centered on its lair. The effect is identical to the [control weather](/compendium/spells/control-weather.md) spell.  
+- The kraken can alter the weather at will in a 6-mile radius centered on its lair. The effect is identical to the [control weather](compendium/spells/control-weather.md) spell.  
 - Water elementals coalesce within 6 miles of the lair. These elementals can't leave the water and have Intelligence and Charisma scores of 1 (-5).  
-- Aquatic creatures within 6 miles of the lair that have an Intelligence score of 2 or lower are [charmed](/compendium/rules/conditions.md#charmed) by the kraken and aggressive toward intruders in the area.  
+- Aquatic creatures within 6 miles of the lair that have an Intelligence score of 2 or lower are [charmed](rules/conditions.md#charmed) by the kraken and aggressive toward intruders in the area.  
 
 When the kraken dies, all of these regional effects fade immediately.

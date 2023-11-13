@@ -14,7 +14,7 @@ aliases:
 *Melee Weapon*  
 
 - **Damage**: 1d6 S
-- **Properties**: [Finesse](/compendium/rules/item-properties.md#Finesse), [Light](/compendium/rules/item-properties.md#Light), Martial
+- **Properties**: [Finesse](rules/item-properties.md#Finesse), [Light](rules/item-properties.md#Light), Martial
 - **Cost**: 25 gp
 - **Weight**: 3.0 lbs.
 

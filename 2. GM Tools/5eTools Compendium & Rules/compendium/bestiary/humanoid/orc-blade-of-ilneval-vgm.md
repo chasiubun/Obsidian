@@ -32,10 +32,10 @@ The wisest among these leaders gain Ilneval's favor and rise to become known as 
 
 ```ad-statblock
 title: Orc Blade of Ilneval
-![](/compendium/bestiary/humanoid/token/orc-blade-of-ilneval.png#token)
+![](compendium/bestiary/humanoid/token/orc-blade-of-ilneval.png#token)
 *Medium humanoid (orc), Chaotic Evil*
 
-- **Armor Class** 18  ([chain mail](/compendium/items/chain-mail.md), [shield](/compendium/items/shield.md))
+- **Armor Class** 18  ([chain mail](compendium/items/chain-mail.md), [shield](compendium/items/shield.md))
 - **Hit Points** 60 (`8d8 + 24`)
 - **Speed** 30 ft.
 

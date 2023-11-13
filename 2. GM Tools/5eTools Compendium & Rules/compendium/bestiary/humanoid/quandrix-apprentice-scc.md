@@ -21,7 +21,7 @@ The scholars of Quandrix College focus on the mathematical principles that gover
 
 ```ad-statblock
 title: Quandrix Apprentice
-![](/compendium/bestiary/humanoid/token/quandrix-apprentice.png#token)
+![](compendium/bestiary/humanoid/token/quandrix-apprentice.png#token)
 *Small or Medium humanoid (wizard), Any alignment*
 
 - **Armor Class** 11 
@@ -41,9 +41,9 @@ title: Quandrix Apprentice
 
 ***Spellcasting.*** The apprentice casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 12):
 
-**At will**: [guidance](/compendium/spells/guidance.md), [mage hand](/compendium/spells/mage-hand.md)
+**At will**: [guidance](compendium/spells/guidance.md), [mage hand](compendium/spells/mage-hand.md)
 
-**1/day each**: [enlarge/reduce](/compendium/spells/enlarge-reduce.md), [mage armor](/compendium/spells/mage-armor.md)
+**1/day each**: [enlarge/reduce](compendium/spells/enlarge-reduce.md), [mage armor](compendium/spells/mage-armor.md)
 
 ## Actions
 

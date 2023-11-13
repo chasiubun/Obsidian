@@ -13,7 +13,7 @@ aliases: ["Mighty Servant of Leuk-o"]
 
 ```ad-statblock
 title: Mighty Servant of Leuk-o
-![](/compendium/bestiary/construct/token/mighty-servant-of-leuk-o.png#token)
+![](compendium/bestiary/construct/token/mighty-servant-of-leuk-o.png#token)
 *Huge construct, Unaligned*
 
 - **Armor Class** 22  (natural armor)
@@ -47,6 +47,6 @@ title: Mighty Servant of Leuk-o
 
 ***Destructive Fist.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 36 (`4d12 + 10`) force damage. Or Ranged Weapon Attack: +17 to hit, range 120 ft., one target. *Hit:* 36 (`4d12 + 10`) force damage. If the target is an object, it takes triple damage.
 
-***Crushing Leap.*** If the servant jumps at least 25 feet as part of its movement, it can then use this action to land on its feet in a space that contains one or more other creatures. Each of those creatures is pushed to an unoccupied space within 5 feet of the servant and must make a DC 25 Dexterity saving throw. On a failed save, a creature takes 26 (`4d12`) bludgeoning damage and is knocked [prone](/compendium/rules/conditions.md#prone). On a successful save, a creature takes half as much damage and isn't knocked [prone](/compendium/rules/conditions.md#prone).
+***Crushing Leap.*** If the servant jumps at least 25 feet as part of its movement, it can then use this action to land on its feet in a space that contains one or more other creatures. Each of those creatures is pushed to an unoccupied space within 5 feet of the servant and must make a DC 25 Dexterity saving throw. On a failed save, a creature takes 26 (`4d12`) bludgeoning damage and is knocked [prone](rules/conditions.md#prone). On a successful save, a creature takes half as much damage and isn't knocked [prone](rules/conditions.md#prone).
 ```
 ^statblock

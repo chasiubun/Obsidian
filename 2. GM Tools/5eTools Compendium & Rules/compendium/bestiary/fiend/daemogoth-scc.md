@@ -19,7 +19,7 @@ Daemogoths are alien-looking in the extreme. Their eyes are insectile or smooth 
 
 ```ad-statblock
 title: Daemogoth
-![](/compendium/bestiary/fiend/token/daemogoth.png#token)
+![](compendium/bestiary/fiend/token/daemogoth.png#token)
 *Huge fiend, typically  Lawful Evil*
 
 - **Armor Class** 16  (natural armor)
@@ -41,7 +41,7 @@ title: Daemogoth
 
 ***Pact of Pain.*** Using a 10-minute ritual, the daemogoth can forge a magical bond with a willing creature it touches throughout the ritual. The creature becomes bound by the pact until it dies, the daemogoth dies, or the pact is broken by any effect that can remove a curse.
 
-The daemogoth chooses one spell from the necromancy or enchantment school that is 3rd level or lower. The bound creature can cast that spell using this pact, requiring no material components and using Intelligence as the spellcasting ability. When it casts the spell, the creature takes 7 (`2d6`) psychic damage, which can't break the creature's [concentration](/compendium/rules/conditions.md#concentration) on a spell. Once the bound creature casts the spell in this way, it can't do so again until it finishes a long rest.
+The daemogoth chooses one spell from the necromancy or enchantment school that is 3rd level or lower. The bound creature can cast that spell using this pact, requiring no material components and using Intelligence as the spellcasting ability. When it casts the spell, the creature takes 7 (`2d6`) psychic damage, which can't break the creature's [concentration](rules/conditions.md#concentration) on a spell. Once the bound creature casts the spell in this way, it can't do so again until it finishes a long rest.
 
 ## Actions
 
@@ -49,6 +49,6 @@ The daemogoth chooses one spell from the necromancy or enchantment school that i
 
 ***Agonizing Burst.*** *Melee or Ranged Spell Attack:* +9 to hit, reach 10 ft. or range 120 ft., one target. *Hit:* 11 (`2d10`) force damage. If the target is a creature, the daemogoth regains 5 hit points.
 
-***Terrify (Recharge 4-6).*** The daemogoth targets one creature it can see within 120 feet of itself. The target must make a DC 17 Wisdom saving throw. On a failed save, the target takes 33 (`6d10`) psychic damage and is [frightened](/compendium/rules/conditions.md#frightened) of the daemogoth until the end of the daemogoth's next turn, and the daemogoth regains 5 hit points. On a successful save, the target takes half as much damage and isn't [frightened](/compendium/rules/conditions.md#frightened), and the daemogoth doesn't heal.
+***Terrify (Recharge 4-6).*** The daemogoth targets one creature it can see within 120 feet of itself. The target must make a DC 17 Wisdom saving throw. On a failed save, the target takes 33 (`6d10`) psychic damage and is [frightened](rules/conditions.md#frightened) of the daemogoth until the end of the daemogoth's next turn, and the daemogoth regains 5 hit points. On a successful save, the target takes half as much damage and isn't [frightened](rules/conditions.md#frightened), and the daemogoth doesn't heal.
 ```
 ^statblock

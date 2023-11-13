@@ -31,7 +31,7 @@ Though chimeras are far from cunning, their draconic ego makes them susceptible 
 
 ```ad-statblock
 title: Chimera
-![](/compendium/bestiary/monstrosity/token/chimera.png#token)
+![](compendium/bestiary/monstrosity/token/chimera.png#token)
 *Large monstrosity, Chaotic Evil*
 
 - **Armor Class** 14  (natural armor)

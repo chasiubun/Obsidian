@@ -13,10 +13,10 @@ aliases: ["Hill Giant Sergeant"]
 
 ```ad-statblock
 title: Hill Giant Sergeant
-![](/compendium/bestiary/giant/token/hill-giant-sergeant.png#token)
+![](compendium/bestiary/giant/token/hill-giant-sergeant.png#token)
 *Huge giant, Chaotic Evil*
 
-- **Armor Class** 16  ([chain mail](/compendium/items/chain-mail.md))
+- **Armor Class** 16  ([chain mail](compendium/items/chain-mail.md))
 - **Hit Points** 115 (`10d12 + 40`)
 - **Speed** 40 ft.
 

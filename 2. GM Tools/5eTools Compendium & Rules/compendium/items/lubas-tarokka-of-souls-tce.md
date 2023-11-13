@@ -23,16 +23,16 @@ Like all tarokka decks, the *Tarokka of Souls* is a lavishly illustrated collect
 
 The artifact has the following random properties, which you can determine by rolling on the tables in the "Artifacts" section of the "Dungeon Master's Guide":
 
-- 2 [minor detrimental](/compendium/tables/artifact-properties-minor-detrimental-properties.md) properties  
-- 2 [minor beneficial](/compendium/tables/artifact-properties-minor-beneficial-properties.md) properties  
+- 2 [minor detrimental](compendium/tables/artifact-properties-minor-detrimental-properties.md) properties  
+- 2 [minor beneficial](compendium/tables/artifact-properties-minor-beneficial-properties.md) properties  
 
 ## Spells
 
-While holding the deck, you can use an action to cast one of the following spells (save DC 18) from it: [comprehend languages](/compendium/spells/comprehend-languages.md), [detect evil and good](/compendium/spells/detect-evil-and-good.md), [detect magic](/compendium/spells/detect-magic.md), [detect poison and disease](/compendium/spells/detect-poison-and-disease.md), [locate object](/compendium/spells/locate-object.md), or [scrying](/compendium/spells/scrying.md). Once you use the deck to cast a spell, you can't cast that spell again from it until the next dawn.
+While holding the deck, you can use an action to cast one of the following spells (save DC 18) from it: [comprehend languages](compendium/spells/comprehend-languages.md), [detect evil and good](compendium/spells/detect-evil-and-good.md), [detect magic](compendium/spells/detect-magic.md), [detect poison and disease](compendium/spells/detect-poison-and-disease.md), [locate object](compendium/spells/locate-object.md), or [scrying](compendium/spells/scrying.md). Once you use the deck to cast a spell, you can't cast that spell again from it until the next dawn.
 
 ## Enduring Vision
 
-While holding the deck, you automatically succeed on Constitution saving throws made to maintain your [concentration](/compendium/rules/conditions.md#concentration) on divination spells.
+While holding the deck, you automatically succeed on Constitution saving throws made to maintain your [concentration](rules/conditions.md#concentration) on divination spells.
 
 ## Twist of Fate
 
@@ -50,20 +50,20 @@ Whenever you use the Twist of Fate property, there is a chance that one of the s
 
 | dice: d100 | Card | Soul |
 |------------|------|------|
-| 1 | Artifact | [Flameskull](/compendium/bestiary/undead/flameskull.md) |
-| 2 | Beast | [Wraith](/compendium/bestiary/undead/wraith.md) |
-| 3 | Broken | [Banshee](/compendium/bestiary/undead/banshee.md) |
-| 4 | Darklord | [Vampire](/compendium/bestiary/undead/vampire.md) |
-| 5 | Donjon | [Mummy](/compendium/bestiary/undead/mummy.md) |
-| 6 | Executioner | [Death knight](/compendium/bestiary/undead/death-knight.md) |
-| 7 | Ghost | [Ghost](/compendium/bestiary/undead/ghost.md) |
-| 8 | Horseman | [Mummy lord](/compendium/bestiary/undead/mummy-lord.md) |
-| 9 | Innocent | [Ghost](/compendium/bestiary/undead/ghost.md) |
-| 10 | Marionette | [Mummy](/compendium/bestiary/undead/mummy.md) |
-| 11 | Mists | [Wraith](/compendium/bestiary/undead/wraith.md) |
-| 12 | Raven | [Vampire spawn](/compendium/bestiary/undead/vampire-spawn.md) |
-| 13 | Seer | [Vampire](/compendium/bestiary/undead/vampire.md) |
-| 14 | Tempter | [Vampire spawn](/compendium/bestiary/undead/vampire-spawn.md) |
+| 1 | Artifact | [Flameskull](compendium/bestiary/undead/flameskull.md) |
+| 2 | Beast | [Wraith](compendium/bestiary/undead/wraith.md) |
+| 3 | Broken | [Banshee](compendium/bestiary/undead/banshee.md) |
+| 4 | Darklord | [Vampire](compendium/bestiary/undead/vampire.md) |
+| 5 | Donjon | [Mummy](compendium/bestiary/undead/mummy.md) |
+| 6 | Executioner | [Death knight](compendium/bestiary/undead/death-knight.md) |
+| 7 | Ghost | [Ghost](compendium/bestiary/undead/ghost.md) |
+| 8 | Horseman | [Mummy lord](compendium/bestiary/undead/mummy-lord.md) |
+| 9 | Innocent | [Ghost](compendium/bestiary/undead/ghost.md) |
+| 10 | Marionette | [Mummy](compendium/bestiary/undead/mummy.md) |
+| 11 | Mists | [Wraith](compendium/bestiary/undead/wraith.md) |
+| 12 | Raven | [Vampire spawn](compendium/bestiary/undead/vampire-spawn.md) |
+| 13 | Seer | [Vampire](compendium/bestiary/undead/vampire.md) |
+| 14 | Tempter | [Vampire spawn](compendium/bestiary/undead/vampire-spawn.md) |
 | 15-100 | — | — |
 ^souls-of-the-tarokka
 
@@ -75,7 +75,7 @@ If you go 7 days without using the Twist of Fate property, your attunement to Lu
 
 ## Destroying the Deck
 
-Luba's Tarokka of Souls can be destroyed only if all fourteen souls within are released and destroyed. This reveals a fifteenth soul, a [lich](/compendium/bestiary/undead/lich.md), that inhabits the Nether card, which appears only when the fourteen souls are defeated. If this ancient entity is destroyed, the Nether card vanishes and the deck becomes a normal tarokka deck, with no special properties, but it includes a new card of the DM's design.
+Luba's Tarokka of Souls can be destroyed only if all fourteen souls within are released and destroyed. This reveals a fifteenth soul, a [lich](compendium/bestiary/undead/lich.md), that inhabits the Nether card, which appears only when the fourteen souls are defeated. If this ancient entity is destroyed, the Nether card vanishes and the deck becomes a normal tarokka deck, with no special properties, but it includes a new card of the DM's design.
 
 ### Mother Luba and the Vistani
 

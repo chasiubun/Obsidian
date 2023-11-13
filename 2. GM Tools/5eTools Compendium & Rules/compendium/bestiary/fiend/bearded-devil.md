@@ -111,7 +111,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!note] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](/compendium/rules/conditions.md#charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](rules/conditions.md#charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -139,7 +139,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 ```ad-statblock
 title: Bearded Devil
-![](/compendium/bestiary/fiend/token/bearded-devil.png#token)
+![](compendium/bestiary/fiend/token/bearded-devil.png#token)
 *Medium fiend (devil), Lawful Evil*
 
 - **Armor Class** 13  (natural armor)
@@ -163,13 +163,13 @@ title: Bearded Devil
 
 ***Magic Resistance.*** The devil has advantage on saving throws against spells and other magical effects.
 
-***Steadfast.*** The devil can't be [frightened](/compendium/rules/conditions.md#frightened) while it can see an allied creature within 30 feet of it.
+***Steadfast.*** The devil can't be [frightened](rules/conditions.md#frightened) while it can see an allied creature within 30 feet of it.
 
 ## Actions
 
 ***Multiattack.*** The devil makes two attacks: one with its beard and one with its glaive.
 
-***Beard.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 6 (`1d8 + 2`) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be [poisoned](/compendium/rules/conditions.md#poisoned) for 1 minute. While [poisoned](/compendium/rules/conditions.md#poisoned) in this way, the target can't regain hit points. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Beard.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 6 (`1d8 + 2`) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be [poisoned](rules/conditions.md#poisoned) for 1 minute. While [poisoned](rules/conditions.md#poisoned) in this way, the target can't regain hit points. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Glaive.*** *Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:* 8 (`1d10 + 3`) slashing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 12 Constitution saving throw or lose 5 (`1d10`) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 5 (`1d10`). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.
 ```

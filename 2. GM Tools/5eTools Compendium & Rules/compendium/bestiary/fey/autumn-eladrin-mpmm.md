@@ -30,13 +30,13 @@ The magic flowing through eladrin responds to their emotional state by transform
 
 ### Changeable Natures
 
-Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [incapacitated](/compendium/rules/conditions.md#incapacitated). When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
+Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [incapacitated](rules/conditions.md#incapacitated). When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
 
 ## Statblock
 
 ```ad-statblock
 title: Autumn Eladrin
-![](/compendium/bestiary/fey/token/autumn-eladrin.png#token)
+![](compendium/bestiary/fey/token/autumn-eladrin.png#token)
 *Medium fey (elf), Typically  Chaotic Neutral*
 
 - **Armor Class** 19  (natural armor)
@@ -56,19 +56,19 @@ title: Autumn Eladrin
 
 ## Traits
 
-***Enchanting Presence.*** Any non-eladrin creature that starts its turn within 60 feet of the eladrin must make a DC 16 Wisdom saving throw. On a failed save, the creature becomes [charmed](/compendium/rules/conditions.md#charmed) by the eladrin for 1 minute. On a successful save, the creature becomes immune to any eladrin's Enchanting Presence for 24 hours.
+***Enchanting Presence.*** Any non-eladrin creature that starts its turn within 60 feet of the eladrin must make a DC 16 Wisdom saving throw. On a failed save, the creature becomes [charmed](rules/conditions.md#charmed) by the eladrin for 1 minute. On a successful save, the creature becomes immune to any eladrin's Enchanting Presence for 24 hours.
 
-Whenever the eladrin deals damage to the [charmed](/compendium/rules/conditions.md#charmed) creature, the [charmed](/compendium/rules/conditions.md#charmed) creature can repeat the saving throw, ending the effect on itself on a success.
+Whenever the eladrin deals damage to the [charmed](rules/conditions.md#charmed) creature, the [charmed](rules/conditions.md#charmed) creature can repeat the saving throw, ending the effect on itself on a success.
 
 ***Magic Resistance.*** The eladrin has advantage on saving throws against spells and other magical effects.
 
 ***Spellcasting.*** The eladrin casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16):
 
-**At will**: [hold person](/compendium/spells/hold-person.md)
+**At will**: [hold person](compendium/spells/hold-person.md)
 
-**1/day each**: [greater restoration](/compendium/spells/greater-restoration.md), [revivify](/compendium/spells/revivify.md)
+**1/day each**: [greater restoration](compendium/spells/greater-restoration.md), [revivify](compendium/spells/revivify.md)
 
-**2/day each**: [cure wounds](/compendium/spells/cure-wounds.md) (as a 5th-level spell), [lesser restoration](/compendium/spells/lesser-restoration.md)
+**2/day each**: [cure wounds](compendium/spells/cure-wounds.md) (as a 5th-level spell), [lesser restoration](compendium/spells/lesser-restoration.md)
 
 ## Actions
 
@@ -84,7 +84,7 @@ Whenever the eladrin deals damage to the [charmed](/compendium/rules/conditions.
 
 ## Reactions
 
-***Foster Peace.*** If a creature [charmed](/compendium/rules/conditions.md#charmed) by the eladrin hits with an attack roll while within 60 feet of the eladrin, the eladrin magically causes the attack to miss, provided the eladrin can see the attacker.
+***Foster Peace.*** If a creature [charmed](rules/conditions.md#charmed) by the eladrin hits with an attack roll while within 60 feet of the eladrin, the eladrin magically causes the attack to miss, provided the eladrin can see the attacker.
 ```
 ^statblock
 

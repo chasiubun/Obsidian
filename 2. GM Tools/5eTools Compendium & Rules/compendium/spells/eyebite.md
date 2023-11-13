@@ -23,11 +23,11 @@ For the spell's duration, your eyes become an inky void imbued with dread power.
 
 ## Asleep
 
-The target falls [unconscious](/compendium/rules/conditions.md#unconscious). It wakes up if it takes any damage or if another creature uses its action to shake the sleeper awake.
+The target falls [unconscious](rules/conditions.md#unconscious). It wakes up if it takes any damage or if another creature uses its action to shake the sleeper awake.
 
 ## Panicked
 
-The target is [frightened](/compendium/rules/conditions.md#frightened) of you. On each of its turns, the [frightened](/compendium/rules/conditions.md#frightened) creature must take the [Dash](/compendium/rules/actions.md#Dash) action and move away from you by the safest and shortest available route, unless there is nowhere to move. If the target moves to a place at least 60 feet away from you where it can no longer see you, this effect ends.
+The target is [frightened](rules/conditions.md#frightened) of you. On each of its turns, the [frightened](rules/conditions.md#frightened) creature must take the [Dash](rules/actions.md#Dash) action and move away from you by the safest and shortest available route, unless there is nowhere to move. If the target moves to a place at least 60 feet away from you where it can no longer see you, this effect ends.
 
 ## Sickened
 
@@ -35,6 +35,6 @@ The target has disadvantage on attack rolls and ability checks. At the end of ea
 
 ## Summary
 
-**Classes**: [Bard](/compendium/classes/bard.md), [Sorcerer](/compendium/classes/sorcerer.md), [Warlock](/compendium/classes/warlock.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Bard](compendium/classes/bard.md), [Sorcerer](compendium/classes/sorcerer.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 238. Available in the SRD.*

@@ -26,7 +26,7 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 
 ```ad-statblock
 title: Black Abishai
-![](/compendium/bestiary/fiend/token/black-abishai.png#token)
+![](compendium/bestiary/fiend/token/black-abishai.png#token)
 *Medium fiend (devil), Typically  Lawful Evil*
 
 - **Armor Class** 15  (natural armor)
@@ -46,11 +46,11 @@ title: Black Abishai
 
 ## Traits
 
-***Devil's Sight.*** Magical darkness doesn't impede the abishai's [darkvision](/compendium/rules/senses.md#darkvision).
+***Devil's Sight.*** Magical darkness doesn't impede the abishai's [darkvision](rules/senses.md#darkvision).
 
 ***Magic Resistance.*** The abishai has advantage on saving throws against spells and other magical effects.
 
-***Creeping Darkness (Recharge 6).*** The abishai casts [darkness](/compendium/spells/darkness.md) at a point within 120 feet of it, requiring no spell components or [concentration](/compendium/rules/conditions.md#concentration). Wisdom is its spellcasting ability for this spell. While the spell persists, the abishai can move the area of darkness up to 60 feet as a bonus action.
+***Creeping Darkness (Recharge 6).*** The abishai casts [darkness](compendium/spells/darkness.md) at a point within 120 feet of it, requiring no spell components or [concentration](rules/conditions.md#concentration). Wisdom is its spellcasting ability for this spell. While the spell persists, the abishai can move the area of darkness up to 60 feet as a bonus action.
 
 
 ## Actions
@@ -63,7 +63,7 @@ title: Black Abishai
 
 ## Bonus Actions
 
-***Shadow Stealth.*** While in dim light or darkness, the abishai takes the [Hide](/compendium/rules/actions.md#Hide) action.
+***Shadow Stealth.*** While in dim light or darkness, the abishai takes the [Hide](rules/actions.md#Hide) action.
 ```
 ^statblock
 

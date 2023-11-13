@@ -22,15 +22,15 @@ Left undisturbed, a flail snail moves slowly along the ground. It consumes every
 
 A flail snail shell weighs about 250 pounds and has numerous uses. An intact shell can sell for 5,000 gp.
 
-Many hunters seek the shell for its antimagic properties. A skilled armorer can make three shields from one shell. For 1 month, each shield gives its wielder the snail's Antimagic Shell trait. When the shield's magic fades, it becomes an exotic shield that is the perfect item from which to make a [spellguard shield](/compendium/items/spellguard-shield.md).
+Many hunters seek the shell for its antimagic properties. A skilled armorer can make three shields from one shell. For 1 month, each shield gives its wielder the snail's Antimagic Shell trait. When the shield's magic fades, it becomes an exotic shield that is the perfect item from which to make a [spellguard shield](compendium/items/spellguard-shield.md).
 
-A flail snail shell can also be used to make a [robe of scintillating colors](/compendium/items/robe-of-scintillating-colors.md). The shell is ground and added to the dye applied to the fabric. The powder is also a material component of the ritual that enchants the robe.
+A flail snail shell can also be used to make a [robe of scintillating colors](compendium/items/robe-of-scintillating-colors.md). The shell is ground and added to the dye applied to the fabric. The powder is also a material component of the ritual that enchants the robe.
 
 ## Statblock
 
 ```ad-statblock
 title: Flail Snail
-![](/compendium/bestiary/elemental/token/flail-snail.png#token)
+![](compendium/bestiary/elemental/token/flail-snail.png#token)
 *Large elemental, Unaligned*
 
 - **Armor Class** 16  (natural armor)
@@ -60,9 +60,9 @@ If the snail succeeds on its saving throw against a spell or a spell's attack ro
 
 ***Flail Tentacle.*** *Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:* 5 (`1d4 + 3`) bludgeoning damage.
 
-***Scintillating Shell (Recharges after a Short or Long Rest).*** The snail's shell emits dazzling, colored light until the end of the snail's next turn. During this time, the shell sheds bright light in a 30-foot radius and dim light for an additional 30 feet, and creatures that can see the snail have disadvantage on attack rolls against it. In addition, any creature within the bright light and able to see the snail when this power is activated must succeed on a DC 15 Wisdom saving throw or be [stunned](/compendium/rules/conditions.md#stunned) until the light ends.
+***Scintillating Shell (Recharges after a Short or Long Rest).*** The snail's shell emits dazzling, colored light until the end of the snail's next turn. During this time, the shell sheds bright light in a 30-foot radius and dim light for an additional 30 feet, and creatures that can see the snail have disadvantage on attack rolls against it. In addition, any creature within the bright light and able to see the snail when this power is activated must succeed on a DC 15 Wisdom saving throw or be [stunned](rules/conditions.md#stunned) until the light ends.
 
-***Shell Defense.*** The flail snail withdraws into its shell. Until it emerges, it gains a +4 bonus to its AC and is [restrained](/compendium/rules/conditions.md#restrained). It can emerge from its shell as a bonus action on its turn.
+***Shell Defense.*** The flail snail withdraws into its shell. Until it emerges, it gains a +4 bonus to its AC and is [restrained](rules/conditions.md#restrained). It can emerge from its shell as a bonus action on its turn.
 ```
 ^statblock
 

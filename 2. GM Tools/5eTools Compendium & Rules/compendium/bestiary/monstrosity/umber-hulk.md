@@ -33,7 +33,7 @@ Many survivors of an umber hulk encounter recollect little about the attack, bec
 
 ```ad-statblock
 title: Umber Hulk
-![](/compendium/bestiary/monstrosity/token/umber-hulk.png#token)
+![](compendium/bestiary/monstrosity/token/umber-hulk.png#token)
 *Large monstrosity, Chaotic Evil*
 
 - **Armor Class** 18  (natural armor)
@@ -53,7 +53,7 @@ title: Umber Hulk
 
 ## Traits
 
-***Confusing Gaze.*** When a creature starts its turn within 30 feet of the umber hulk and is able to see the umber hulk's eyes, the umber hulk can magically force it to make a DC 15 Charisma saving throw, unless the umber hulk is [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Confusing Gaze.*** When a creature starts its turn within 30 feet of the umber hulk and is able to see the umber hulk's eyes, the umber hulk can magically force it to make a DC 15 Charisma saving throw, unless the umber hulk is [incapacitated](rules/conditions.md#incapacitated).
 
 On a failed saving throw, the creature can't take reactions until the start of its next turn and rolls a `d8` to determine what it does during that turn. On a 1 to 4, the creature does nothing. On a 5 or 6, the creature takes no action but uses all its movement to move in a random direction. On a 7 or 8, the creature makes one melee attack against a random creature, or it does nothing if no creature is within reach.
 

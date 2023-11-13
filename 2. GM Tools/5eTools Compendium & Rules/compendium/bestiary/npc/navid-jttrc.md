@@ -13,7 +13,7 @@ aliases: ["Navid"]
 
 ```ad-statblock
 title: Navid
-![](/compendium/bestiary/npc/token/navid.png#token)
+![](compendium/bestiary/npc/token/navid.png#token)
 *Large elemental, Lawful Evil*
 
 - **Armor Class** 17  (natural armor)
@@ -37,11 +37,11 @@ title: Navid
 
 ***Innate Spellcasting.*** Navid's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
-**At will**: [detect magic](/compendium/spells/detect-magic.md), [polymorph](/compendium/spells/polymorph.md) (self only)
+**At will**: [detect magic](compendium/spells/detect-magic.md), [polymorph](compendium/spells/polymorph.md) (self only)
 
-**1/day each**: [conjure elemental](/compendium/spells/conjure-elemental.md) ([fire elemental](/compendium/bestiary/elemental/fire-elemental.md) only), [gaseous form](/compendium/spells/gaseous-form.md), [invisibility](/compendium/spells/invisibility.md), [major image](/compendium/spells/major-image.md), [plane shift](/compendium/spells/plane-shift.md), [wall of fire](/compendium/spells/wall-of-fire.md)
+**1/day each**: [conjure elemental](compendium/spells/conjure-elemental.md) ([fire elemental](compendium/bestiary/elemental/fire-elemental.md) only), [gaseous form](compendium/spells/gaseous-form.md), [invisibility](compendium/spells/invisibility.md), [major image](compendium/spells/major-image.md), [plane shift](compendium/spells/plane-shift.md), [wall of fire](compendium/spells/wall-of-fire.md)
 
-**3/day each**: [enlarge/reduce](/compendium/spells/enlarge-reduce.md), [tongues](/compendium/spells/tongues.md)
+**3/day each**: [enlarge/reduce](compendium/spells/enlarge-reduce.md), [tongues](compendium/spells/tongues.md)
 
 ## Actions
 

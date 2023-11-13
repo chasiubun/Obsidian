@@ -12,7 +12,7 @@ aliases: ["Draegloth"]
 # Draegloth
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 98, Volo's Guide to Monsters p. 141*  
 
-A draegloth is a demon created by an elf priest of Lolth in an unholy, dangerous ritual in which it is infused with the fey essence of the creator and the fiendish essence of a [glabrezu](/compendium/bestiary/fiend/glabrezu.md). This ritual rarely succeeds, but Lolth's faithful consider it worth the risk, as the resulting creature is gifted with innate magic and physical might. The draegloth usually serves its creator, lending its thirst for destruction to the creator's plans to triumph over rivals.
+A draegloth is a demon created by an elf priest of Lolth in an unholy, dangerous ritual in which it is infused with the fey essence of the creator and the fiendish essence of a [glabrezu](compendium/bestiary/fiend/glabrezu.md). This ritual rarely succeeds, but Lolth's faithful consider it worth the risk, as the resulting creature is gifted with innate magic and physical might. The draegloth usually serves its creator, lending its thirst for destruction to the creator's plans to triumph over rivals.
 
 A draegloth is an ogre-sized, four-armed biped with purple skin and pale hair. Two of its arms are muscular, tipped with sharp claws; the other two are the size and shape of an elf's arms, capable of delicate movements. Although the creature is heavily muscled, it is graceful like an elf. Its bestial face features glowing red eyes, a doglike snout, and a mouth full of sharp teeth.
 
@@ -22,7 +22,7 @@ Although draegloths plays an important part in the plans of Lolth's cult, a drae
 
 ```ad-statblock
 title: Draegloth
-![](/compendium/bestiary/fiend/token/draegloth.png#token)
+![](compendium/bestiary/fiend/token/draegloth.png#token)
 *Large fiend (demon), Typically  Chaotic Evil*
 
 - **Armor Class** 15  (natural armor)
@@ -42,13 +42,13 @@ title: Draegloth
 
 ## Traits
 
-***Fey Ancestry.*** The draegloth has advantage on saving throws against being [charmed](/compendium/rules/conditions.md#charmed), and magic can't put it to sleep.
+***Fey Ancestry.*** The draegloth has advantage on saving throws against being [charmed](rules/conditions.md#charmed), and magic can't put it to sleep.
 
 ***Spellcasting.*** The draegloth casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 11):
 
-**At will**: [dancing lights](/compendium/spells/dancing-lights.md), [darkness](/compendium/spells/darkness.md)
+**At will**: [dancing lights](compendium/spells/dancing-lights.md), [darkness](compendium/spells/darkness.md)
 
-**1/day each**: [confusion](/compendium/spells/confusion.md), [faerie fire](/compendium/spells/faerie-fire.md)
+**1/day each**: [confusion](compendium/spells/confusion.md), [faerie fire](compendium/spells/faerie-fire.md)
 
 ## Actions
 

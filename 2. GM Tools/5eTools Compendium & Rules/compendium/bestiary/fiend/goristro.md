@@ -155,7 +155,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](/compendium/rules/conditions.md#charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](rules/conditions.md#charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -186,7 +186,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 ```ad-statblock
 title: Goristro
-![](/compendium/bestiary/fiend/token/goristro.png#token)
+![](compendium/bestiary/fiend/token/goristro.png#token)
 *Huge fiend (demon), Chaotic Evil*
 
 - **Armor Class** 19  (natural armor)
@@ -206,7 +206,7 @@ title: Goristro
 
 ## Traits
 
-***Charge.*** If the goristro moves at least 15 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 38 (`7d10`) piercing damage. If the target is a creature, it must succeed on a DC 21 Strength saving throw or be pushed up to 20 feet away and knocked [prone](/compendium/rules/conditions.md#prone).
+***Charge.*** If the goristro moves at least 15 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 38 (`7d10`) piercing damage. If the target is a creature, it must succeed on a DC 21 Strength saving throw or be pushed up to 20 feet away and knocked [prone](rules/conditions.md#prone).
 
 ***Labyrinthine Recall.*** The goristro can perfectly recall any path it has traveled.
 
@@ -220,7 +220,7 @@ title: Goristro
 
 ***Fist.*** *Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 20 (`3d8 + 7`) bludgeoning damage.
 
-***Hoof.*** *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 23 (`3d10 + 7`) bludgeoning damage. If the target is a creature, it must succeed on a DC 21 Strength saving throw or be knocked [prone](/compendium/rules/conditions.md#prone).
+***Hoof.*** *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 23 (`3d10 + 7`) bludgeoning damage. If the target is a creature, it must succeed on a DC 21 Strength saving throw or be knocked [prone](rules/conditions.md#prone).
 
 ***Gore.*** *Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 45 (`7d10 + 7`) piercing damage.
 ```

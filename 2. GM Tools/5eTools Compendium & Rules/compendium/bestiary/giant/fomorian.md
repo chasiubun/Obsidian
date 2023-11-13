@@ -36,7 +36,7 @@ Fomorians can pass their curse onto others using a power called the evil eye-a l
 
 ```ad-statblock
 title: Fomorian
-![](/compendium/bestiary/giant/token/fomorian.png#token)
+![](compendium/bestiary/giant/token/fomorian.png#token)
 *Huge giant, Chaotic Evil*
 
 - **Armor Class** 14  (natural armor)

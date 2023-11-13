@@ -12,7 +12,7 @@ aliases:
 *Melee Weapon*  
 
 - **Damage**: 1d8 B
-- **Properties**: [Two-handed](/compendium/rules/item-properties.md#Two-handed)
+- **Properties**: [Two-handed](rules/item-properties.md#Two-handed)
 - **Cost**: 2 sp
 - **Weight**: 10.0 lbs.
 

@@ -13,7 +13,7 @@ aliases: ["Beast of the Land"]
 
 ```ad-statblock
 title: Beast of the Land
-![](/compendium/bestiary/beast/token/beast-of-the-land.png#token)
+![](compendium/bestiary/beast/token/beast-of-the-land.png#token)
 *Medium beast, Unaligned*
 
 
@@ -32,7 +32,7 @@ title: Beast of the Land
 
 ## Traits
 
-***Charge.*** If the beast moves at least 20 feet straight toward a target and then hits it with a maul attack on the same turn, the target takes an extra `1d6` slashing damage. If the target is a creature, it must succeed on a Strength saving throw against your spell save DC or be knocked [prone](/compendium/rules/conditions.md#prone).
+***Charge.*** If the beast moves at least 20 feet straight toward a target and then hits it with a maul attack on the same turn, the target takes an extra `1d6` slashing damage. If the target is a creature, it must succeed on a Strength saving throw against your spell save DC or be knocked [prone](rules/conditions.md#prone).
 
 ***Primal Bond.*** You can add your proficiency bonus to any ability check or saving throw that the beast makes.
 

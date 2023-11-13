@@ -21,7 +21,7 @@ Rune Knights enhance their martial prowess using the supernatural power of runes
 
 *3rd-level Rune Knight feature*
 
-You gain proficiency with [smith's tools](/compendium/items/smiths-tools.md), and you learn to speak, read, and write Giant.
+You gain proficiency with [smith's tools](compendium/items/smiths-tools.md), and you learn to speak, read, and write Giant.
 
 ### Rune Carver (Level 3)
 
@@ -104,5 +104,5 @@ You learn how to amplify your rune-powered transformation. As a result, the extr
 ## Optional Features
 
 > [!example]- Rune Knight Rune
-> ![Rune Knight Rune](/compendium/optional-features/list-rune-knight-rune-tce.md#Rune%20Knight%20Rune)
+> ![Rune Knight Rune](compendium/optional-features/list-rune-knight-rune-tce.md#Rune%20Knight%20Rune)
 ^list-rune-knight-rune

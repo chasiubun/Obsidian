@@ -54,10 +54,10 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
 
 ```ad-statblock
 title: Lizardfolk
-![](/compendium/bestiary/humanoid/token/lizardfolk.png#token)
+![](compendium/bestiary/humanoid/token/lizardfolk.png#token)
 *Medium humanoid (lizardfolk), Neutral*
 
-- **Armor Class** 15  (natural armor, [shield](/compendium/items/shield.md))
+- **Armor Class** 15  (natural armor, [shield](compendium/items/shield.md))
 - **Hit Points** 22 (`4d8 + 4`)
 - **Speed** 30 ft., swim 30 ft.
 

@@ -24,7 +24,7 @@ Since dhergoloths are little more than brutes, employers must use caution when i
 
 ```ad-statblock
 title: Dhergoloth
-![](/compendium/bestiary/fiend/token/dhergoloth.png#token)
+![](compendium/bestiary/fiend/token/dhergoloth.png#token)
 *Medium fiend (yugoloth), Typically  Neutral Evil*
 
 - **Armor Class** 15  (natural armor)
@@ -48,7 +48,7 @@ title: Dhergoloth
 
 ***Spellcasting.*** The dhergoloth casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 10):
 
-**At will**: [darkness](/compendium/spells/darkness.md), [fear](/compendium/spells/fear.md)
+**At will**: [darkness](compendium/spells/darkness.md), [fear](compendium/spells/fear.md)
 
 ## Actions
 

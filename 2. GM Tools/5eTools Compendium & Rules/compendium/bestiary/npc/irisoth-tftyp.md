@@ -13,7 +13,7 @@ aliases: ["Irisoth"]
 
 ```ad-statblock
 title: Irisoth
-![](/compendium/bestiary/npc/token/irisoth.png#token)
+![](compendium/bestiary/npc/token/irisoth.png#token)
 *Medium humanoid (half-elf), Any alignment*
 
 - **Armor Class** 10 

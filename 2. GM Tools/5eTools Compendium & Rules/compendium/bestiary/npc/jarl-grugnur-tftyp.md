@@ -13,10 +13,10 @@ aliases: ["Jarl Grugnur"]
 
 ```ad-statblock
 title: Jarl Grugnur
-![](/compendium/bestiary/npc/token/jarl-grugnur.png#token)
+![](compendium/bestiary/npc/token/jarl-grugnur.png#token)
 *Huge giant, Neutral Good or Neutral Evil*
 
-- **Armor Class** 18  ([chain mail](/compendium/items/chain-mail.md), [arrow-catching shield](/compendium/items/arrow-catching-shield.md); 20 against ranged attacks)
+- **Armor Class** 18  ([chain mail](compendium/items/chain-mail.md), [arrow-catching shield](compendium/items/arrow-catching-shield.md); 20 against ranged attacks)
 - **Hit Points** 200 (`16d12 + 96`)
 - **Speed** 40 ft.
 

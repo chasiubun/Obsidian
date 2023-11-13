@@ -24,7 +24,7 @@ Many kinds of cattle roam the multiverse, some of them domesticated and others f
 
 ```ad-statblock
 title: Aurochs
-![](/compendium/bestiary/beast/token/aurochs.png#token)
+![](compendium/bestiary/beast/token/aurochs.png#token)
 *Large beast (cattle), Unaligned*
 
 - **Armor Class** 11  (natural armor)
@@ -44,7 +44,7 @@ title: Aurochs
 
 ## Actions
 
-***Gore.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 14 (`2d8 + 5`) piercing damage. If the aurochs moved at least 20 feet straight toward the target immediately before the hit, the target takes an extra 9 (`2d8`) piercing damage, and the target must succeed on a DC 15 Strength saving throw or be knocked [prone](/compendium/rules/conditions.md#prone) if it is a creature.
+***Gore.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 14 (`2d8 + 5`) piercing damage. If the aurochs moved at least 20 feet straight toward the target immediately before the hit, the target takes an extra 9 (`2d8`) piercing damage, and the target must succeed on a DC 15 Strength saving throw or be knocked [prone](rules/conditions.md#prone) if it is a creature.
 ```
 ^statblock
 

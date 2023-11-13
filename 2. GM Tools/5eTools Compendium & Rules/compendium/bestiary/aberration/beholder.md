@@ -30,7 +30,7 @@ Some beholders manage to channel their xenophobic tendencies into a terrible des
 
 Because they refuse to share territory with others, most beholders withdraw to frigid hills, abandoned ruins, and deep caverns to scheme. A beholder's lair is carved out by its disintegration eye ray, emphasizing vertical passages connecting chambers stacked on top of each other. Such an environment allows a beholder to move freely, even as it prevents intruders from easily creeping about. When intruders do break in, the height of its open ceilings allows a beholder to float up and harry foes on the floor.
 
-As alien as their creator, the rooms in a beholder's lair reflect the creature's arrogance. It festoons its chambers with trophies from the battles it has won, including [petrified](/compendium/rules/conditions.md#petrified) adventurers standing frozen in their horrified final moments, pieces of other beholders, and magic items wrested from powerful foes. A beholder judges its own worth by its acquisitions, and it never willingly parts with its treasures.
+As alien as their creator, the rooms in a beholder's lair reflect the creature's arrogance. It festoons its chambers with trophies from the battles it has won, including [petrified](rules/conditions.md#petrified) adventurers standing frozen in their horrified final moments, pieces of other beholders, and magic items wrested from powerful foes. A beholder judges its own worth by its acquisitions, and it never willingly parts with its treasures.
 
 > [!quote]- A quote from Valkara Ironfeel, dwarf sage  
 > 
@@ -44,7 +44,7 @@ A beholder's central lair is typically a large, spacious cavern with high ceilin
 
 ```ad-statblock
 title: Beholder
-![](/compendium/bestiary/aberration/token/beholder.png#token)
+![](compendium/bestiary/aberration/token/beholder.png#token)
 *Large aberration, Lawful Evil*
 
 - **Armor Class** 18  (natural armor)
@@ -64,7 +64,7 @@ title: Beholder
 
 ## Traits
 
-***Antimagic Cone.*** The beholder's central eye creates an area of antimagic, as in the [antimagic field](/compendium/spells/antimagic-field.md) spell, in a 150-foot cone. At the start of each of its turns, the beholder decides which way the cone faces and whether the cone is active. The area works against the beholder's own eye rays.
+***Antimagic Cone.*** The beholder's central eye creates an area of antimagic, as in the [antimagic field](compendium/spells/antimagic-field.md) spell, in a 150-foot cone. At the start of each of its turns, the beholder decides which way the cone faces and whether the cone is active. The area works against the beholder's own eye rays.
 
 ## Actions
 
@@ -72,16 +72,16 @@ title: Beholder
 
 ***Eye Rays.*** The beholder shoots three of the following magical eye rays at random (reroll duplicates), choosing one to three targets it can see within 120 feet of it:
 
-- **1. Charm Ray.** The targeted creature must succeed on a DC 16 Wisdom saving throw or be [charmed](/compendium/rules/conditions.md#charmed) by the beholder for 1 hour, or until the beholder harms the creature.  
-- **2. Paralyzing Ray.** The targeted creature must succeed on a DC 16 Constitution saving throw or be [paralyzed](/compendium/rules/conditions.md#paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
-- **3. Fear Ray.** The targeted creature must succeed on a DC 16 Wisdom saving throw or be [frightened](/compendium/rules/conditions.md#frightened) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
+- **1. Charm Ray.** The targeted creature must succeed on a DC 16 Wisdom saving throw or be [charmed](rules/conditions.md#charmed) by the beholder for 1 hour, or until the beholder harms the creature.  
+- **2. Paralyzing Ray.** The targeted creature must succeed on a DC 16 Constitution saving throw or be [paralyzed](rules/conditions.md#paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
+- **3. Fear Ray.** The targeted creature must succeed on a DC 16 Wisdom saving throw or be [frightened](rules/conditions.md#frightened) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 - **4. Slowing Ray.** The targeted creature must succeed on a DC 16 Dexterity saving throw. On a failed save, the target's speed is halved for 1 minute. In addition, the creature can't take reactions, and it can take either an action or a bonus action on its turn, not both. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 - **5. Enervation Ray.** The targeted creature must make a DC 16 Constitution saving throw, taking 36 (`8d8`) necrotic damage on a failed save, or half as much damage on a successful one.  
-- **6. Telekinetic Ray.** If the target is a creature, it must succeed on a DC 16 Strength saving throw or the beholder moves it up to 30 feet in any direction. It is [restrained](/compendium/rules/conditions.md#restrained) by the ray's telekinetic grip until the start of the beholder's next turn or until the beholder is [incapacitated](/compendium/rules/conditions.md#incapacitated).  
+- **6. Telekinetic Ray.** If the target is a creature, it must succeed on a DC 16 Strength saving throw or the beholder moves it up to 30 feet in any direction. It is [restrained](rules/conditions.md#restrained) by the ray's telekinetic grip until the start of the beholder's next turn or until the beholder is [incapacitated](rules/conditions.md#incapacitated).  
 
     If the target is an object weighing 300 pounds or less that isn't being worn or carried, it is moved up to 30 feet in any direction. The beholder can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a door or a container.  
-- **7. Sleep Ray.** The targeted creature must succeed on a DC 16 Wisdom saving throw or fall asleep and remain [unconscious](/compendium/rules/conditions.md#unconscious) for 1 minute. The target awakens if it takes damage or another creature takes an action to wake it. This ray has no effect on constructs and undead.  
-- **8. Petrification Ray.** The targeted creature must make a DC 16 Dexterity saving throw. On a failed save, the creature begins to turn to stone and is [restrained](/compendium/rules/conditions.md#restrained). It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is [petrified](/compendium/rules/conditions.md#petrified) until freed by the  [greater restoration](/compendium/spells/greater-restoration.md) spell or other magic.  
+- **7. Sleep Ray.** The targeted creature must succeed on a DC 16 Wisdom saving throw or fall asleep and remain [unconscious](rules/conditions.md#unconscious) for 1 minute. The target awakens if it takes damage or another creature takes an action to wake it. This ray has no effect on constructs and undead.  
+- **8. Petrification Ray.** The targeted creature must make a DC 16 Dexterity saving throw. On a failed save, the creature begins to turn to stone and is [restrained](rules/conditions.md#restrained). It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is [petrified](rules/conditions.md#petrified) until freed by the  [greater restoration](compendium/spells/greater-restoration.md) spell or other magic.  
 - **9. Disintegration Ray.** If the target is a creature, it must succeed on a DC 16 Dexterity saving throw or take 45 (`10d8`) force damage. If this damage reduces the creature to 0 hit points, its body becomes a pile of fine gray dust.  
 
     If the target is a Large or smaller nonmagical object or creation of magical force, it is disintegrated without a saving throw. If the target is a Huge or larger object or creation of magical force, this ray disintegrates a 10-foot cube of it.  
@@ -93,7 +93,7 @@ The beholder can take 3 legendary actions, using the Eye Ray option below. It ca
 
 ***Eye Ray.*** The beholder uses one random eye ray.
 
-![Beholder](/compendium/bestiary/legendary-group/beholder.md)
+![Beholder](compendium/bestiary/legendary-group/beholder.md)
 ```
 ^statblock
 

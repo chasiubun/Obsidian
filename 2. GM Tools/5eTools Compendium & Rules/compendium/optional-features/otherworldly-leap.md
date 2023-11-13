@@ -11,4 +11,4 @@ aliases: ["Otherworldly Leap"]
 
 **Prerequisite**: 9th-level Warlock
 
-You can cast [jump](/compendium/spells/jump.md) on yourself at will, without expending a spell slot or material components.
+You can cast [jump](compendium/spells/jump.md) on yourself at will, without expending a spell slot or material components.

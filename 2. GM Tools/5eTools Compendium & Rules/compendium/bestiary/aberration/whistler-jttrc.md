@@ -15,7 +15,7 @@ Whistlers are inscrutable stalkers hailing from airy, screeching reaches of the 
 
 ```ad-statblock
 title: Whistler
-![](/compendium/bestiary/aberration/token/whistler.png#token)
+![](compendium/bestiary/aberration/token/whistler.png#token)
 *Large aberration, typically  Neutral Evil*
 
 - **Armor Class** 15  (natural armor)
@@ -35,7 +35,7 @@ title: Whistler
 
 ## Traits
 
-***Blurred Form.*** Attack rolls against the whistler are made with disadvantage unless the whistler is [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Blurred Form.*** Attack rolls against the whistler are made with disadvantage unless the whistler is [incapacitated](rules/conditions.md#incapacitated).
 
 ***Unusual Nature.*** The whistler doesn't require air, food, drink, or sleep.
 
@@ -45,7 +45,7 @@ title: Whistler
 
 ***Psychic Swipe.*** *Melee Spell Attack:* +8 to hit, reach 10 ft., one creature. *Hit:* 15 (`2d10 + 4`) psychic damage.
 
-***Otherworldly Melody (Recharge 5-6).*** The whistler telepathically whistles an otherworldly melody into the minds of up to two creatures it can see within range of its telepathy. Each target must succeed on a DC 16 Wisdom saving throw or take 33 (`6d10`) psychic damage and become [frightened](/compendium/rules/conditions.md#frightened) of the whistler for 1 minute. A [frightened](/compendium/rules/conditions.md#frightened) creature can repeat this saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Otherworldly Melody (Recharge 5-6).*** The whistler telepathically whistles an otherworldly melody into the minds of up to two creatures it can see within range of its telepathy. Each target must succeed on a DC 16 Wisdom saving throw or take 33 (`6d10`) psychic damage and become [frightened](rules/conditions.md#frightened) of the whistler for 1 minute. A [frightened](rules/conditions.md#frightened) creature can repeat this saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ## Bonus Actions
 

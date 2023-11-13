@@ -25,7 +25,7 @@ Starting at 3rd level, you are at your deadliest when you get the drop on your e
 
 ### Bonus Proficiencies (Level 3)
 
-When you choose this archetype at 3rd level, you gain proficiency with the [disguise kit](/compendium/items/disguise-kit.md) and the [poisoner's kit](/compendium/items/poisoners-kit.md).
+When you choose this archetype at 3rd level, you gain proficiency with the [disguise kit](compendium/items/disguise-kit.md) and the [poisoner's kit](compendium/items/poisoners-kit.md).
 
 ### Infiltration Expertise (Level 9)
 
@@ -37,7 +37,7 @@ Thereafter, if you adopt the new identity as a disguise, other creatures believe
 
 At 13th level, you gain the ability to unerringly mimic another person's speech, writing, and behavior. You must spend at least three hours studying these three components of the person's behavior, listening to speech, examining handwriting, and observing mannerism.
 
-Your ruse is indiscernible to the casual observer. If a wary creature suspects something is amiss, you have advantage on any Charisma ([Deception](/compendium/rules/skills.md#Deception)) check you make to avoid detection.
+Your ruse is indiscernible to the casual observer. If a wary creature suspects something is amiss, you have advantage on any Charisma ([Deception](rules/skills.md#Deception)) check you make to avoid detection.
 
 ### Death Strike (Level 17)
 

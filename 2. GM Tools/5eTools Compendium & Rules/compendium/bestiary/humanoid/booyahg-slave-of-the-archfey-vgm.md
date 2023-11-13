@@ -25,10 +25,10 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 
 ```ad-statblock
 title: Booyahg Slave of the Archfey
-![](/compendium/bestiary/humanoid/token/booyahg-slave-of-the-archfey.png#token)
+![](compendium/bestiary/humanoid/token/booyahg-slave-of-the-archfey.png#token)
 *Small humanoid (goblinoid), Any alignment*
 
-- **Armor Class** 11  (14 with [mage armor](/compendium/spells/mage-armor.md))
+- **Armor Class** 11  (14 with [mage armor](compendium/spells/mage-armor.md))
 - **Hit Points** 49 (`11d8`)
 - **Speed** 30 ft.
 
@@ -45,15 +45,15 @@ title: Booyahg Slave of the Archfey
 
 ***Innate Spellcasting.*** The goblin's innate spellcasting ability is Charisma. It can innately cast the following spells (spell save DC 15), requiring no material components:
 
-**At will**: [disguise self](/compendium/spells/disguise-self.md), [mage armor](/compendium/spells/mage-armor.md) (self only), [silent image](/compendium/spells/silent-image.md), [speak with animals](/compendium/spells/speak-with-animals.md)
+**At will**: [disguise self](compendium/spells/disguise-self.md), [mage armor](compendium/spells/mage-armor.md) (self only), [silent image](compendium/spells/silent-image.md), [speak with animals](compendium/spells/speak-with-animals.md)
 
-**1/day**: [conjure fey](/compendium/spells/conjure-fey.md)
+**1/day**: [conjure fey](compendium/spells/conjure-fey.md)
 
 ***Spellcasting.*** The goblin is an 11th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
 
-**Cantrips (at will)**: [dancing lights](/compendium/spells/dancing-lights.md), [eldritch blast](/compendium/spells/eldritch-blast.md), [friends](/compendium/spells/friends.md), [mage hand](/compendium/spells/mage-hand.md), [minor illusion](/compendium/spells/minor-illusion.md), [prestidigitation](/compendium/spells/prestidigitation.md), [vicious mockery](/compendium/spells/vicious-mockery.md)
+**Cantrips (at will)**: [dancing lights](compendium/spells/dancing-lights.md), [eldritch blast](compendium/spells/eldritch-blast.md), [friends](compendium/spells/friends.md), [mage hand](compendium/spells/mage-hand.md), [minor illusion](compendium/spells/minor-illusion.md), [prestidigitation](compendium/spells/prestidigitation.md), [vicious mockery](compendium/spells/vicious-mockery.md)
 
-**1st-5th level (3 slots)**: [blink](/compendium/spells/blink.md), [charm person](/compendium/spells/charm-person.md), [dimension door](/compendium/spells/dimension-door.md), [dominate beast](/compendium/spells/dominate-beast.md), [faerie fire](/compendium/spells/faerie-fire.md), [fear](/compendium/spells/fear.md), [hold monster](/compendium/spells/hold-monster.md), [misty step](/compendium/spells/misty-step.md), [phantasmal force](/compendium/spells/phantasmal-force.md), [seeming](/compendium/spells/seeming.md), [sleep](/compendium/spells/sleep.md)
+**1st-5th level (3 slots)**: [blink](compendium/spells/blink.md), [charm person](compendium/spells/charm-person.md), [dimension door](compendium/spells/dimension-door.md), [dominate beast](compendium/spells/dominate-beast.md), [faerie fire](compendium/spells/faerie-fire.md), [fear](compendium/spells/fear.md), [hold monster](compendium/spells/hold-monster.md), [misty step](compendium/spells/misty-step.md), [phantasmal force](compendium/spells/phantasmal-force.md), [seeming](compendium/spells/seeming.md), [sleep](compendium/spells/sleep.md)
 
 ## Actions
 
@@ -61,6 +61,6 @@ title: Booyahg Slave of the Archfey
 
 ## Reactions
 
-***Misty Escape (Recharges after a Short or Long Rest).*** In response to taking damage, the goblin turns [invisible](/compendium/rules/conditions.md#invisible) and teleports up to 60 feet to an unoccupied space it can see. It remains [invisible](/compendium/rules/conditions.md#invisible) until the start of its next turn or until it attacks, makes a damage roll, or casts a spell.
+***Misty Escape (Recharges after a Short or Long Rest).*** In response to taking damage, the goblin turns [invisible](rules/conditions.md#invisible) and teleports up to 60 feet to an unoccupied space it can see. It remains [invisible](rules/conditions.md#invisible) until the start of its next turn or until it attacks, makes a damage roll, or casts a spell.
 ```
 ^statblock

@@ -19,7 +19,7 @@ A flying snake is a brightly colored, winged serpent found in remote jungles. Tr
 
 ```ad-statblock
 title: Flying Snake
-![](/compendium/bestiary/beast/token/flying-snake.png#token)
+![](compendium/bestiary/beast/token/flying-snake.png#token)
 *Tiny beast, Unaligned*
 
 - **Armor Class** 14 

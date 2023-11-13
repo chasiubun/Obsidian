@@ -11,7 +11,7 @@ aliases: ["Bael"]
 # Bael
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 54, Mordenkainen's Tome of Foes p. 170*  
 
-With the Blood War between devils and demons raging for eons and no end in sight, opportunities abound for ambitious archdevils to win fame, glory, and power in the ongoing struggle. Duke Bael, one of Mammon's most important vassals, has won fame and acclaim for his victories. Charged with leading sixty-six companies of [barbed devils](/compendium/bestiary/fiend/barbed-devil.md), Bael has proven to be a tactical genius, earning esteem for himself and his master as a result of victory after victory over the abyssal host. Mammon relies on Bael to safeguard his holdings because of Bael's battle acumen. During a time when so many other archdevils have lost their positions, Mammon has never been ousted, which is a testament to Bael's skill on the battlefield.
+With the Blood War between devils and demons raging for eons and no end in sight, opportunities abound for ambitious archdevils to win fame, glory, and power in the ongoing struggle. Duke Bael, one of Mammon's most important vassals, has won fame and acclaim for his victories. Charged with leading sixty-six companies of [barbed devils](compendium/bestiary/fiend/barbed-devil.md), Bael has proven to be a tactical genius, earning esteem for himself and his master as a result of victory after victory over the abyssal host. Mammon relies on Bael to safeguard his holdings because of Bael's battle acumen. During a time when so many other archdevils have lost their positions, Mammon has never been ousted, which is a testament to Bael's skill on the battlefield.
 
 For his accomplishments, Bael has been granted the title of Bronze General. His accolades notwithstanding, he has had a difficult time navigating the quagmire of infernal politics. His critics call him naive, though never to his face. His primary interest has always been leading soldiers in battle, so he finds it frustrating to have his ambitions of ascending to a higher rank constantly stymied by politically shrewd rivals.
 
@@ -23,10 +23,10 @@ Despite his lack of interest in affairs outside battle, or perhaps because of it
 
 ```ad-statblock
 title: Bael
-![](/compendium/bestiary/npc/token/bael.png#token)
+![](compendium/bestiary/npc/token/bael.png#token)
 *Large fiend (devil), Lawful Evil*
 
-- **Armor Class** 18  ([plate](/compendium/items/plate-armor.md))
+- **Armor Class** 18  ([plate](compendium/items/plate-armor.md))
 - **Hit Points** 189 (`18d10 + 90`)
 - **Speed** 30 ft.
 
@@ -43,7 +43,7 @@ title: Bael
 
 ## Traits
 
-***Dread.*** Any creature, other than a devil, that starts its turn within 10 feet of Bael must succeed on a DC 22 Wisdom saving throw or be [frightened](/compendium/rules/conditions.md#frightened) of him until the start of its next turn. A creature succeeds on this saving throw automatically if Bael wishes it or if he is [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Dread.*** Any creature, other than a devil, that starts its turn within 10 feet of Bael must succeed on a DC 22 Wisdom saving throw or be [frightened](rules/conditions.md#frightened) of him until the start of its next turn. A creature succeeds on this saving throw automatically if Bael wishes it or if he is [incapacitated](rules/conditions.md#incapacitated).
 
 ***Legendary Resistance (3/Day).*** If Bael fails a saving throw, he can choose to succeed instead.
 
@@ -53,11 +53,11 @@ title: Bael
 
 ***Spellcasting.*** Bael casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 21):
 
-**At will**: [alter self](/compendium/spells/alter-self.md) (can become Medium), [charm person](/compendium/spells/charm-person.md), [detect magic](/compendium/spells/detect-magic.md), [invisibility](/compendium/spells/invisibility.md), [major image](/compendium/spells/major-image.md)
+**At will**: [alter self](compendium/spells/alter-self.md) (can become Medium), [charm person](compendium/spells/charm-person.md), [detect magic](compendium/spells/detect-magic.md), [invisibility](compendium/spells/invisibility.md), [major image](compendium/spells/major-image.md)
 
-**1/day**: [dominate monster](/compendium/spells/dominate-monster.md)
+**1/day**: [dominate monster](compendium/spells/dominate-monster.md)
 
-**3/day each**: [dispel magic](/compendium/spells/dispel-magic.md), [fly](/compendium/spells/fly.md), [suggestion](/compendium/spells/suggestion.md), [wall of fire](/compendium/spells/wall-of-fire.md)
+**3/day each**: [dispel magic](compendium/spells/dispel-magic.md), [fly](compendium/spells/fly.md), [suggestion](compendium/spells/suggestion.md), [wall of fire](compendium/spells/wall-of-fire.md)
 
 ## Actions
 
@@ -65,7 +65,7 @@ title: Bael
 
 ***Hellish Morningstar.*** *Melee Weapon Attack:* +13 to hit, reach 20 ft., one target. *Hit:* 16 (`2d8 + 7`) force damage plus 9 (`2d8`) necrotic damage.
 
-***Infernal Command.*** Each of Bael's allies within 60 feet of him can't be [charmed](/compendium/rules/conditions.md#charmed) or [frightened](/compendium/rules/conditions.md#frightened) until the end of his next turn.
+***Infernal Command.*** Each of Bael's allies within 60 feet of him can't be [charmed](rules/conditions.md#charmed) or [frightened](rules/conditions.md#frightened) until the end of his next turn.
 
 ***Teleport.*** Bael teleports, along with any equipment he is wearing or carrying, up to 120 feet to an unoccupied space he can see.
 

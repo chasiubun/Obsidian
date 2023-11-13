@@ -16,12 +16,12 @@ This tiny object looks like a feather. Different types of feather tokens exist, 
 
 | dice: d100 | Feather Token |
 |------------|---------------|
-| 01-20 | [Anchor](/compendium/items/quaals-feather-token-anchor.md) |
-| 21-35 | [Bird](/compendium/items/quaals-feather-token-bird.md) |
-| 36-50 | [Fan](/compendium/items/quaals-feather-token-fan.md) |
-| 51-65 | [Boat](/compendium/items/quaals-feather-token-swan-boat.md) |
-| 66-90 | [Tree](/compendium/items/quaals-feather-token-tree.md) |
-| 91-100 | [Whip](/compendium/items/quaals-feather-token-whip.md) |
+| 01-20 | [Anchor](compendium/items/quaals-feather-token-anchor.md) |
+| 21-35 | [Bird](compendium/items/quaals-feather-token-bird.md) |
+| 36-50 | [Fan](compendium/items/quaals-feather-token-fan.md) |
+| 51-65 | [Boat](compendium/items/quaals-feather-token-swan-boat.md) |
+| 66-90 | [Tree](compendium/items/quaals-feather-token-tree.md) |
+| 91-100 | [Whip](compendium/items/quaals-feather-token-whip.md) |
 ^feather-token
 
 *Source: Dungeon Master's Guide p. 188*

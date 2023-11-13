@@ -22,7 +22,7 @@ A dryad can emerge from the tree and travel the lands around it, but the tree re
 
 ## Reclusive Fey
 
-Dryads act as guardians of their woodland demesnes. Shy and reclusive, they watch interlopers from the trees. A dryad struck by the beauty of a stranger might investigate more closely, perhaps even try to lure the individual away to be [charmed](/compendium/rules/conditions.md#charmed).
+Dryads act as guardians of their woodland demesnes. Shy and reclusive, they watch interlopers from the trees. A dryad struck by the beauty of a stranger might investigate more closely, perhaps even try to lure the individual away to be [charmed](rules/conditions.md#charmed).
 
 Dryads work with other sylvan creatures to defend their forests. Unicorns, treants, and satyrs live alongside them, in addition to druids that share the dryads' devotion to the woods they call home.
 
@@ -34,10 +34,10 @@ Dryads can speak with plants and animals. They can teleport from one tree to ano
 
 ```ad-statblock
 title: Dryad
-![](/compendium/bestiary/fey/token/dryad.png#token)
+![](compendium/bestiary/fey/token/dryad.png#token)
 *Medium fey, Neutral*
 
-- **Armor Class** 11  (16 with [barkskin](/compendium/spells/barkskin.md))
+- **Armor Class** 11  (16 with [barkskin](compendium/spells/barkskin.md))
 - **Hit Points** 22 (`5d8`)
 - **Speed** 30 ft.
 
@@ -62,21 +62,21 @@ title: Dryad
 
 ***Innate Spellcasting.*** The dryad's innate spellcasting ability is Charisma (spell save DC 14). The dryad can innately cast the following spells, requiring no material components:
 
-**At will**: [druidcraft](/compendium/spells/druidcraft.md)
+**At will**: [druidcraft](compendium/spells/druidcraft.md)
 
-**1/day each**: [barkskin](/compendium/spells/barkskin.md), [pass without trace](/compendium/spells/pass-without-trace.md), [shillelagh](/compendium/spells/shillelagh.md)
+**1/day each**: [barkskin](compendium/spells/barkskin.md), [pass without trace](compendium/spells/pass-without-trace.md), [shillelagh](compendium/spells/shillelagh.md)
 
-**3/day each**: [entangle](/compendium/spells/entangle.md), [goodberry](/compendium/spells/goodberry.md)
+**3/day each**: [entangle](compendium/spells/entangle.md), [goodberry](compendium/spells/goodberry.md)
 
 ## Actions
 
 ***Club.*** *Melee Weapon Attack:* +2 to hit (+6 to hit with shillelagh), reach 5 ft., one target. *Hit:* 2 (`1d4`) bludgeoning damage, or 8 (`1d8 + 4`) bludgeoning damage with shillelagh.
 
-***Fey Charm.*** The dryad targets one humanoid or beast that she can see within 30 feet of her. If the target can see the dryad, it must succeed on a DC 14 Wisdom saving throw or be magically [charmed](/compendium/rules/conditions.md#charmed). The [charmed](/compendium/rules/conditions.md#charmed) creature regards the dryad as a trusted friend to be heeded and protected. Although the target isn't under the dryad's control, it takes the dryad's requests or actions in the most favorable way it can.
+***Fey Charm.*** The dryad targets one humanoid or beast that she can see within 30 feet of her. If the target can see the dryad, it must succeed on a DC 14 Wisdom saving throw or be magically [charmed](rules/conditions.md#charmed). The [charmed](rules/conditions.md#charmed) creature regards the dryad as a trusted friend to be heeded and protected. Although the target isn't under the dryad's control, it takes the dryad's requests or actions in the most favorable way it can.
 
 Each time the dryad or its allies do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the dryad dies, is on a different plane of existence from the target, or ends the effect as a bonus action. If a target's saving throw is successful, the target is immune to the dryad's Fey Charm for the next 24 hours.
 
-The dryad can have no more than one humanoid and up to three beasts [charmed](/compendium/rules/conditions.md#charmed) at a time.
+The dryad can have no more than one humanoid and up to three beasts [charmed](rules/conditions.md#charmed) at a time.
 ```
 ^statblock
 

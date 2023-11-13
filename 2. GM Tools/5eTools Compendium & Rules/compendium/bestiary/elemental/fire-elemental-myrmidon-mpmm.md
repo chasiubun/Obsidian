@@ -17,10 +17,10 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 
 ```ad-statblock
 title: Fire Elemental Myrmidon
-![](/compendium/bestiary/elemental/token/fire-elemental-myrmidon.png#token)
+![](compendium/bestiary/elemental/token/fire-elemental-myrmidon.png#token)
 *Medium elemental, Typically  Neutral*
 
-- **Armor Class** 18  ([plate](/compendium/items/plate-armor.md))
+- **Armor Class** 18  ([plate](compendium/items/plate-armor.md))
 - **Hit Points** 123 (`19d8 + 38`)
 - **Speed** 40 ft.
 

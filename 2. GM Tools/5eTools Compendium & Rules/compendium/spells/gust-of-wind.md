@@ -31,6 +31,6 @@ The gust disperses gas or vapor, and it extinguishes candles, torches, and simil
 
 As a bonus action on each of your turns before the spell ends, you can change the direction in which the line blasts from you.
 
-**Classes**: [Cleric (Tempest Domain)](/compendium/classes/cleric-tempest-domain.md), [Druid](/compendium/classes/druid.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Sorcerer](/compendium/classes/sorcerer.md), [Warlock (The Fathomless)](/compendium/classes/warlock-the-fathomless-tce.md), [Warlock (The Genie)](/compendium/classes/warlock-the-genie-tce.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Cleric (Tempest Domain)](compendium/classes/cleric-tempest-domain.md), [Druid](compendium/classes/druid.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Sorcerer](compendium/classes/sorcerer.md), [Warlock (The Fathomless)](compendium/classes/warlock-the-fathomless-tce.md), [Warlock (The Genie)](compendium/classes/warlock-the-genie-tce.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 248. Available in the SRD.*

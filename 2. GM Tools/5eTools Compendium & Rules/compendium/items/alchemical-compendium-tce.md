@@ -14,7 +14,7 @@ aliases:
 
 - **Weight**: 3.0 lbs.
 
-Acrid odors cling to this stained, heavy volume. The book's metal fittings are copper, iron, lead, silver, and gold, some frozen mid-transition from one metal to another. When found, the book contains the following spells: [enlarge/reduce](/compendium/spells/enlarge-reduce.md), [feather fall](/compendium/spells/feather-fall.md), [flesh to stone](/compendium/spells/flesh-to-stone.md), [gaseous form](/compendium/spells/gaseous-form.md), [magic weapon](/compendium/spells/magic-weapon.md), and [polymorph](/compendium/spells/polymorph.md). It functions as a spellbook for you.
+Acrid odors cling to this stained, heavy volume. The book's metal fittings are copper, iron, lead, silver, and gold, some frozen mid-transition from one metal to another. When found, the book contains the following spells: [enlarge/reduce](compendium/spells/enlarge-reduce.md), [feather fall](compendium/spells/feather-fall.md), [flesh to stone](compendium/spells/flesh-to-stone.md), [gaseous form](compendium/spells/gaseous-form.md), [magic weapon](compendium/spells/magic-weapon.md), and [polymorph](compendium/spells/polymorph.md). It functions as a spellbook for you.
 
 While you are holding the book, you can use it as a spellcasting focus for your wizard spells.
 

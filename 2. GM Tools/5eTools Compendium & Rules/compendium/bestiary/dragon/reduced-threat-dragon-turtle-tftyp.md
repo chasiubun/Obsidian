@@ -13,7 +13,7 @@ aliases: ["Reduced-Threat Dragon Turtle"]
 
 ```ad-statblock
 title: Reduced-Threat Dragon Turtle
-![](/compendium/bestiary/dragon/token/reduced-threat-dragon-turtle.png#token)
+![](compendium/bestiary/dragon/token/reduced-threat-dragon-turtle.png#token)
 *Large dragon, Neutral*
 
 - **Armor Class** 20  (natural armor)

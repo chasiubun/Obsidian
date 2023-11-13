@@ -21,7 +21,7 @@ Taking its name from its crimson feathers and aggressive nature, the blood hawk 
 
 ```ad-statblock
 title: Blood Hawk
-![](/compendium/bestiary/beast/token/blood-hawk.png#token)
+![](compendium/bestiary/beast/token/blood-hawk.png#token)
 *Small beast, Unaligned*
 
 - **Armor Class** 12 
@@ -41,9 +41,9 @@ title: Blood Hawk
 
 ## Traits
 
-***Keen Sight.*** The hawk has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Keen Sight.*** The hawk has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
-***Pack Tactics.*** The hawk has advantage on an attack roll against a creature if at least one of the hawk's allies is within 5 feet of the creature and the ally isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Pack Tactics.*** The hawk has advantage on an attack roll against a creature if at least one of the hawk's allies is within 5 feet of the creature and the ally isn't [incapacitated](rules/conditions.md#incapacitated).
 
 ## Actions
 

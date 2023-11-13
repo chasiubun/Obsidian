@@ -22,7 +22,7 @@ A scale sorcerer who resides in or near a dragon's lair may serve as that dragon
 
 ```ad-statblock
 title: Kobold Scale Sorcerer
-![](/compendium/bestiary/humanoid/token/kobold-scale-sorcerer.png#token)
+![](compendium/bestiary/humanoid/token/kobold-scale-sorcerer.png#token)
 *Small humanoid, Any alignment*
 
 - **Armor Class** 15  (natural armor)
@@ -42,15 +42,15 @@ title: Kobold Scale Sorcerer
 
 ## Traits
 
-***Pack Tactics.*** The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Pack Tactics.*** The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't [incapacitated](rules/conditions.md#incapacitated).
 
-***Sunlight Sensitivity.*** While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ***Spellcasting.*** The kobold casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 12):
 
-**At will**: [mage hand](/compendium/spells/mage-hand.md), [prestidigitation](/compendium/spells/prestidigitation.md)
+**At will**: [mage hand](compendium/spells/mage-hand.md), [prestidigitation](compendium/spells/prestidigitation.md)
 
-**2/day each**: [charm person](/compendium/spells/charm-person.md), [fog cloud](/compendium/spells/fog-cloud.md), [levitate](/compendium/spells/levitate.md)
+**2/day each**: [charm person](compendium/spells/charm-person.md), [fog cloud](compendium/spells/fog-cloud.md), [levitate](compendium/spells/levitate.md)
 
 ## Actions
 

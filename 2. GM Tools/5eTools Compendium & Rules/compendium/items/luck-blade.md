@@ -28,7 +28,7 @@ If the sword is on your person, you can call on its luck (no action required) to
 
 ## Wish
 
-The sword has `1d4 - 1` charges. While holding it, you can use an action to expend 1 charge and cast the [wish](/compendium/spells/wish.md) spell from it. This property can't be used again until the next dawn. The sword loses this property if it has no charges.
+The sword has `1d4 - 1` charges. While holding it, you can use an action to expend 1 charge and cast the [wish](compendium/spells/wish.md) spell from it. This property can't be used again until the next dawn. The sword loses this property if it has no charges.
 
 **Variants**:
 - [Luck Blade Longsword](#Luck%20Blade%20Longsword)

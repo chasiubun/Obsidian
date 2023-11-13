@@ -21,7 +21,7 @@ This rod has a flanged head, and it functions as a magic mace that grants a +3 b
 
 You can press one of the rod's six buttons as a bonus action. A button's effect lasts until you push a different button or until you push the same button again, which causes the rod to revert to its normal form.
 
-If you press button 1, the rod becomes a [flame tongue](/compendium/items/flame-tongue.md) as a fiery blade sprouts from the end opposite the rod's flanged head (you choose the type of sword).
+If you press button 1, the rod becomes a [flame tongue](compendium/items/flame-tongue.md) as a fiery blade sprouts from the end opposite the rod's flanged head (you choose the type of sword).
 
 If you press button 2, the rod's flanged head folds down and two crescent-shaped blades spring out, transforming the rod into a magic battleaxe that grants a +3 bonus to attack and damage rolls made with it.
 
@@ -39,10 +39,10 @@ When you hit a creature with a melee attack using the rod, you can force the tar
 
 ## Paralyze
 
-When you hit a creature with a melee attack using the rod, you can force the target to make a DC 17 Strength saving throw. On a failure, the target is [paralyzed](/compendium/rules/conditions.md#paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success. This property can't be used again until the next dawn.
+When you hit a creature with a melee attack using the rod, you can force the target to make a DC 17 Strength saving throw. On a failure, the target is [paralyzed](rules/conditions.md#paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success. This property can't be used again until the next dawn.
 
 ## Terrify
 
-While holding the rod, you can use an action to force each creature you can see within 30 feet of you to make a DC 17 Wisdom saving throw. On a failure, a target is [frightened](/compendium/rules/conditions.md#frightened) of you for 1 minute. A [frightened](/compendium/rules/conditions.md#frightened) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. This property can't be used again until the next dawn.
+While holding the rod, you can use an action to force each creature you can see within 30 feet of you to make a DC 17 Wisdom saving throw. On a failure, a target is [frightened](rules/conditions.md#frightened) of you for 1 minute. A [frightened](rules/conditions.md#frightened) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. This property can't be used again until the next dawn.
 
 *Source: Dungeon Master's Guide p. 196. Available in the SRD.*

@@ -13,7 +13,7 @@ aliases: ["Kieren"]
 
 ```ad-statblock
 title: Kieren
-![](/compendium/bestiary/npc/token/kieren.png#token)
+![](compendium/bestiary/npc/token/kieren.png#token)
 *Medium humanoid (human), Any alignment*
 
 - **Armor Class** 10 

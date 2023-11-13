@@ -38,7 +38,7 @@ Generations of hunting venomous subterranean creatures and perpetual exposure to
 
 ```ad-statblock
 title: Quaggoth
-![](/compendium/bestiary/humanoid/token/quaggoth.png#token)
+![](compendium/bestiary/humanoid/token/quaggoth.png#token)
 *Medium humanoid (quaggoth), Chaotic Neutral*
 
 - **Armor Class** 13  (natural armor)

@@ -62,7 +62,7 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 
 ```ad-statblock
 title: Dao
-![](/compendium/bestiary/elemental/token/dao.png#token)
+![](compendium/bestiary/elemental/token/dao.png#token)
 *Large elemental, Neutral Evil*
 
 - **Armor Class** 18  (natural armor)
@@ -86,15 +86,15 @@ title: Dao
 
 ***Elemental Demise.*** If the dao dies, its body disintegrates into crystalline powder, leaving behind only equipment the dao was wearing or carrying.
 
-***Sure-Footed.*** The dao has advantage on Strength and Dexterity saving throws made against effects that would knock it [prone](/compendium/rules/conditions.md#prone).
+***Sure-Footed.*** The dao has advantage on Strength and Dexterity saving throws made against effects that would knock it [prone](rules/conditions.md#prone).
 
 ***Innate Spellcasting.*** The dao's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
-**At will**: [detect evil and good](/compendium/spells/detect-evil-and-good.md), [detect magic](/compendium/spells/detect-magic.md), [stone shape](/compendium/spells/stone-shape.md)
+**At will**: [detect evil and good](compendium/spells/detect-evil-and-good.md), [detect magic](compendium/spells/detect-magic.md), [stone shape](compendium/spells/stone-shape.md)
 
-**1/day each**: [conjure elemental](/compendium/spells/conjure-elemental.md) ([earth elemental](/compendium/bestiary/elemental/earth-elemental.md) only), [gaseous form](/compendium/spells/gaseous-form.md), [invisibility](/compendium/spells/invisibility.md), [phantasmal killer](/compendium/spells/phantasmal-killer.md), [plane shift](/compendium/spells/plane-shift.md), [wall of stone](/compendium/spells/wall-of-stone.md)
+**1/day each**: [conjure elemental](compendium/spells/conjure-elemental.md) ([earth elemental](compendium/bestiary/elemental/earth-elemental.md) only), [gaseous form](compendium/spells/gaseous-form.md), [invisibility](compendium/spells/invisibility.md), [phantasmal killer](compendium/spells/phantasmal-killer.md), [plane shift](compendium/spells/plane-shift.md), [wall of stone](compendium/spells/wall-of-stone.md)
 
-**3/day each**: [passwall](/compendium/spells/passwall.md), [move earth](/compendium/spells/move-earth.md), [tongues](/compendium/spells/tongues.md)
+**3/day each**: [passwall](compendium/spells/passwall.md), [move earth](compendium/spells/move-earth.md), [tongues](compendium/spells/tongues.md)
 
 ## Actions
 
@@ -102,7 +102,7 @@ title: Dao
 
 ***Fist.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 15 (`2d8 + 6`) bludgeoning damage.
 
-***Maul.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 20 (`4d6 + 6`) bludgeoning damage. If the target is a Huge or smaller creature, it must succeed on a DC 18 Strength check or be knocked [prone](/compendium/rules/conditions.md#prone).
+***Maul.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 20 (`4d6 + 6`) bludgeoning damage. If the target is a Huge or smaller creature, it must succeed on a DC 18 Strength check or be knocked [prone](rules/conditions.md#prone).
 ```
 ^statblock
 

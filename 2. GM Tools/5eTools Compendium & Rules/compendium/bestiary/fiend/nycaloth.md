@@ -11,7 +11,7 @@ aliases: ["Nycaloth"]
 # Nycaloth
 *Source: Monster Manual p. 314, Tasha's Cauldron of Everything*  
 
-The elite airborne shock troops of the yugoloths, nycaloths look like muscular gargoyles. Powerful bat wings bear them swiftly aloft in battle, and the razorsharp claws of their hands and feet cut through flesh and bone with ease. A nightmarish foe, a nycaloth strikes hard and fast without warning, then teleports away. It uses its innate magic to turn [invisible](/compendium/rules/conditions.md#invisible) or create illusory doubles of itself, further confounding its enemies.
+The elite airborne shock troops of the yugoloths, nycaloths look like muscular gargoyles. Powerful bat wings bear them swiftly aloft in battle, and the razorsharp claws of their hands and feet cut through flesh and bone with ease. A nightmarish foe, a nycaloth strikes hard and fast without warning, then teleports away. It uses its innate magic to turn [invisible](rules/conditions.md#invisible) or create illusory doubles of itself, further confounding its enemies.
 
 Nycaloths are the most loyal of the yugoloths. When they find an evil master that treats them well, they are unlikely to break their agreement unless the reward for doing so is extreme.
 
@@ -70,7 +70,7 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 
 ```ad-statblock
 title: Nycaloth
-![](/compendium/bestiary/fiend/token/nycaloth.png#token)
+![](compendium/bestiary/fiend/token/nycaloth.png#token)
 *Large fiend (yugoloth), Neutral Evil*
 
 - **Armor Class** 18  (natural armor)
@@ -96,7 +96,7 @@ title: Nycaloth
 
 ***Innate Spellcasting.*** The nycaloth's innate spellcasting ability is Charisma. The nycaloth can innately cast the following spells, requiring no material components:
 
-**At will**: [darkness](/compendium/spells/darkness.md), [detect magic](/compendium/spells/detect-magic.md), [dispel magic](/compendium/spells/dispel-magic.md), [invisibility](/compendium/spells/invisibility.md) (self only), [mirror image](/compendium/spells/mirror-image.md)
+**At will**: [darkness](compendium/spells/darkness.md), [detect magic](compendium/spells/detect-magic.md), [dispel magic](compendium/spells/dispel-magic.md), [invisibility](compendium/spells/invisibility.md) (self only), [mirror image](compendium/spells/mirror-image.md)
 
 ## Actions
 

@@ -39,10 +39,10 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 
 ```ad-statblock
 title: Duergar Mind Master
-![](/compendium/bestiary/humanoid/token/duergar-mind-master.png#token)
+![](compendium/bestiary/humanoid/token/duergar-mind-master.png#token)
 *Medium humanoid (dwarf), Any alignment*
 
-- **Armor Class** 14  ([leather armor](/compendium/items/leather-armor.md))
+- **Armor Class** 14  ([leather armor](compendium/items/leather-armor.md))
 - **Hit Points** 39 (`6d8 + 12`)
 - **Speed** 25 ft.
 
@@ -59,9 +59,9 @@ title: Duergar Mind Master
 
 ## Traits
 
-***Duergar Resilience.*** The duergar has advantage on saving throws against spells and the [charmed](/compendium/rules/conditions.md#charmed), [paralyzed](/compendium/rules/conditions.md#paralyzed), and [poisoned](/compendium/rules/conditions.md#poisoned) conditions.
+***Duergar Resilience.*** The duergar has advantage on saving throws against spells and the [charmed](rules/conditions.md#charmed), [paralyzed](rules/conditions.md#paralyzed), and [poisoned](rules/conditions.md#poisoned) conditions.
 
-***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
@@ -69,13 +69,13 @@ title: Duergar Mind Master
 
 ***Mind-Poison Dagger.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (`1d4 + 3`) piercing damage plus 10 (`3d6`) psychic damage, or 1 piercing damage plus 10 (`3d6`) psychic damage while under the effect of Reduce.
 
-***Invisibility (Recharge 4-6).*** The duergar magically turns [invisible](/compendium/rules/conditions.md#invisible) for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its [concentration](/compendium/rules/conditions.md#concentration) is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is [invisible](/compendium/rules/conditions.md#invisible) with it.
+***Invisibility (Recharge 4-6).*** The duergar magically turns [invisible](rules/conditions.md#invisible) for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its [concentration](rules/conditions.md#concentration) is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is [invisible](rules/conditions.md#invisible) with it.
 
-***Mind Mastery.*** The duergar targets one creature it can see within 60 feet of it. The target must succeed on a DC 12 Intelligence saving throw, or the duergar causes it to use its reaction, if available, either to make one weapon attack against another creature the duergar can see or to move up to 10 feet in a direction of the duergar's choice. Creatures that can't be [charmed](/compendium/rules/conditions.md#charmed) are immune to this effect.
+***Mind Mastery.*** The duergar targets one creature it can see within 60 feet of it. The target must succeed on a DC 12 Intelligence saving throw, or the duergar causes it to use its reaction, if available, either to make one weapon attack against another creature the duergar can see or to move up to 10 feet in a direction of the duergar's choice. Creatures that can't be [charmed](rules/conditions.md#charmed) are immune to this effect.
 
 ## Bonus Actions
 
-***Reduce (Recharges after a Short or Long Rest).*** For 1 minute, the duergar magically decreases in size, along with anything it is wearing or carrying. While reduced, the duergar is Tiny, reduces its weapon damage to 1, and makes attack rolls, ability checks, and saving throws with disadvantage if they use Strength. It gains a +5 bonus to all Dexterity ([Stealth](/compendium/rules/skills.md#Stealth)) checks and a +5 bonus to its AC. It can also take a bonus action on each of its turns to take the [Hide](/compendium/rules/actions.md#Hide) action.
+***Reduce (Recharges after a Short or Long Rest).*** For 1 minute, the duergar magically decreases in size, along with anything it is wearing or carrying. While reduced, the duergar is Tiny, reduces its weapon damage to 1, and makes attack rolls, ability checks, and saving throws with disadvantage if they use Strength. It gains a +5 bonus to all Dexterity ([Stealth](rules/skills.md#Stealth)) checks and a +5 bonus to its AC. It can also take a bonus action on each of its turns to take the [Hide](rules/actions.md#Hide) action.
 ```
 ^statblock
 

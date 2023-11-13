@@ -12,11 +12,11 @@ aliases: ["Awakened Shrub"]
 # Awakened Shrub
 *Source: Monster Manual p. 317. Available in the SRD and the Basic Rules.*  
 
-An awakened shrub is an ordinary shrub given sentience and mobility by the [awaken](/compendium/spells/awaken.md) spell or similar magic.
+An awakened shrub is an ordinary shrub given sentience and mobility by the [awaken](compendium/spells/awaken.md) spell or similar magic.
 
 ```ad-statblock
 title: Awakened Shrub
-![](/compendium/bestiary/plant/token/awakened-shrub.png#token)
+![](compendium/bestiary/plant/token/awakened-shrub.png#token)
 *Small plant, Unaligned*
 
 - **Armor Class** 9 

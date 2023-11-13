@@ -25,6 +25,6 @@ A Large spectral guardian appears and hovers for the duration in an unoccupied s
 
 Any creature hostile to you that moves to a space within 10 feet of the guardian for the first time on a turn must succeed on a Dexterity saving throw. The creature takes 20 radiant damage on a failed save, or half as much damage on a successful one. The guardian vanishes when it has dealt a total of 60 damage.
 
-**Classes**: [Cleric (Life Domain)](/compendium/classes/cleric-life-domain.md), [Cleric (Light Domain)](/compendium/classes/cleric-light-domain.md), [Cleric](/compendium/classes/cleric.md), [Paladin (Oath of Devotion)](/compendium/classes/paladin-oath-of-devotion.md), [Sorcerer (Divine Soul)](/compendium/classes/sorcerer-divine-soul-xge.md), [Warlock (The Celestial)](/compendium/classes/warlock-the-celestial-xge.md)
+**Classes**: [Cleric (Life Domain)](compendium/classes/cleric-life-domain.md), [Cleric (Light Domain)](compendium/classes/cleric-light-domain.md), [Cleric](compendium/classes/cleric.md), [Paladin (Oath of Devotion)](compendium/classes/paladin-oath-of-devotion.md), [Sorcerer (Divine Soul)](compendium/classes/sorcerer-divine-soul-xge.md), [Warlock (The Celestial)](compendium/classes/warlock-the-celestial-xge.md)
 
 *Source: Player's Handbook p. 246. Available in the SRD and the Basic Rules.*

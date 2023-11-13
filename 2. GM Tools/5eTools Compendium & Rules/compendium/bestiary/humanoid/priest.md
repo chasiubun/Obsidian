@@ -16,10 +16,10 @@ Priests bring the teachings of their gods to the common folk. They are the spiri
 
 ```ad-statblock
 title: Priest
-![](/compendium/bestiary/humanoid/token/priest.png#token)
+![](compendium/bestiary/humanoid/token/priest.png#token)
 *Medium humanoid (any race), Any alignment*
 
-- **Armor Class** 13  ([chain shirt](/compendium/items/chain-shirt.md))
+- **Armor Class** 13  ([chain shirt](compendium/items/chain-shirt.md))
 - **Hit Points** 27 (`5d8 + 5`)
 - **Speed** 30 ft.
 
@@ -40,13 +40,13 @@ title: Priest
 
 ***Spellcasting.*** The priest is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). The priest has the following cleric spells prepared:
 
-**Cantrips (at will)**: [light](/compendium/spells/light.md), [sacred flame](/compendium/spells/sacred-flame.md), [thaumaturgy](/compendium/spells/thaumaturgy.md)
+**Cantrips (at will)**: [light](compendium/spells/light.md), [sacred flame](compendium/spells/sacred-flame.md), [thaumaturgy](compendium/spells/thaumaturgy.md)
 
-**1st level (4 slots)**: [cure wounds](/compendium/spells/cure-wounds.md), [guiding bolt](/compendium/spells/guiding-bolt.md), [sanctuary](/compendium/spells/sanctuary.md)
+**1st level (4 slots)**: [cure wounds](compendium/spells/cure-wounds.md), [guiding bolt](compendium/spells/guiding-bolt.md), [sanctuary](compendium/spells/sanctuary.md)
 
-**2nd level (3 slots)**: [lesser restoration](/compendium/spells/lesser-restoration.md), [spiritual weapon](/compendium/spells/spiritual-weapon.md)
+**2nd level (3 slots)**: [lesser restoration](compendium/spells/lesser-restoration.md), [spiritual weapon](compendium/spells/spiritual-weapon.md)
 
-**3rd level (2 slots)**: [dispel magic](/compendium/spells/dispel-magic.md), [spirit guardians](/compendium/spells/spirit-guardians.md)
+**3rd level (2 slots)**: [dispel magic](compendium/spells/dispel-magic.md), [spirit guardians](compendium/spells/spirit-guardians.md)
 
 ## Actions
 

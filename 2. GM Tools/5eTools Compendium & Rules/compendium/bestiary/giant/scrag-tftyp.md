@@ -13,7 +13,7 @@ aliases: ["Scrag"]
 
 ```ad-statblock
 title: Scrag
-![](/compendium/bestiary/giant/token/scrag.png#token)
+![](compendium/bestiary/giant/token/scrag.png#token)
 *Large giant, Chaotic Evil*
 
 - **Armor Class** 15  (natural armor)
@@ -33,7 +33,7 @@ title: Scrag
 
 ## Traits
 
-***Keen Smell.*** The troll has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on smell.
+***Keen Smell.*** The troll has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on smell.
 
 ***Regeneration.*** The troll regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.
 

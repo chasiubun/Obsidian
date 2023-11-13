@@ -21,7 +21,7 @@ A lich doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Tarul Var
-![](/compendium/bestiary/npc/token/tarul-var.png#token)
+![](compendium/bestiary/npc/token/tarul-var.png#token)
 *Medium undead, Neutral Evil*
 
 - **Armor Class** 16  (natural armor)
@@ -41,7 +41,7 @@ title: Tarul Var
 
 ## Traits
 
-***Focused Conjuration.*** While Var is concentrating on a conjuration spell, his [concentration](/compendium/rules/conditions.md#concentration) can't be broken as a result of taking damage.
+***Focused Conjuration.*** While Var is concentrating on a conjuration spell, his [concentration](rules/conditions.md#concentration) can't be broken as a result of taking damage.
 
 ***Legendary Resistance (3/Day).*** If Var fails a saving throw, he can choose to succeed instead.
 
@@ -53,23 +53,23 @@ title: Tarul Var
 
 *Conjuration spell of 1st level or higher
 
-**Cantrips (at will)**: [fire bolt](/compendium/spells/fire-bolt.md), [mage hand](/compendium/spells/mage-hand.md), [minor illusion](/compendium/spells/minor-illusion.md), [prestidigitation](/compendium/spells/prestidigitation.md), [ray of frost](/compendium/spells/ray-of-frost.md)
+**Cantrips (at will)**: [fire bolt](compendium/spells/fire-bolt.md), [mage hand](compendium/spells/mage-hand.md), [minor illusion](compendium/spells/minor-illusion.md), [prestidigitation](compendium/spells/prestidigitation.md), [ray of frost](compendium/spells/ray-of-frost.md)
 
-**1st level (4 slots)**: [detect magic](/compendium/spells/detect-magic.md), [magic missile](/compendium/spells/magic-missile.md), [shield](/compendium/spells/shield.md), [unseen servant](/compendium/spells/unseen-servant.md)*
+**1st level (4 slots)**: [detect magic](compendium/spells/detect-magic.md), [magic missile](compendium/spells/magic-missile.md), [shield](compendium/spells/shield.md), [unseen servant](compendium/spells/unseen-servant.md)*
 
-**2nd level (3 slots)**: [detect thoughts](/compendium/spells/detect-thoughts.md), [flaming sphere](/compendium/spells/flaming-sphere.md)*, [mirror image](/compendium/spells/mirror-image.md), [scorching ray](/compendium/spells/scorching-ray.md)
+**2nd level (3 slots)**: [detect thoughts](compendium/spells/detect-thoughts.md), [flaming sphere](compendium/spells/flaming-sphere.md)*, [mirror image](compendium/spells/mirror-image.md), [scorching ray](compendium/spells/scorching-ray.md)
 
-**3rd level (3 slots)**: [counterspell](/compendium/spells/counterspell.md), [dispel magic](/compendium/spells/dispel-magic.md), [fireball](/compendium/spells/fireball.md)
+**3rd level (3 slots)**: [counterspell](compendium/spells/counterspell.md), [dispel magic](compendium/spells/dispel-magic.md), [fireball](compendium/spells/fireball.md)
 
-**4th level (3 slots)**: [dimension door](/compendium/spells/dimension-door.md)*, [Evard's black tentacles](/compendium/spells/evards-black-tentacles.md)*
+**4th level (3 slots)**: [dimension door](compendium/spells/dimension-door.md)*, [Evard's black tentacles](compendium/spells/evards-black-tentacles.md)*
 
-**5th level (3 slots)**: [cloudkill](/compendium/spells/cloudkill.md)*, [scrying](/compendium/spells/scrying.md)
+**5th level (3 slots)**: [cloudkill](compendium/spells/cloudkill.md)*, [scrying](compendium/spells/scrying.md)
 
-**6th level (1 slots)**: [circle of death](/compendium/spells/circle-of-death.md)
+**6th level (1 slots)**: [circle of death](compendium/spells/circle-of-death.md)
 
 ## Actions
 
-***Paralyzing Touch.*** *Melee Spell Attack:* +9 to hit, reach 5 ft., one creature. *Hit:* 10 (`3d6`) cold damage. The target must succeed on a DC 17 Constitution saving throw or be [paralyzed](/compendium/rules/conditions.md#paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Paralyzing Touch.*** *Melee Spell Attack:* +9 to hit, reach 5 ft., one creature. *Hit:* 10 (`3d6`) cold damage. The target must succeed on a DC 17 Constitution saving throw or be [paralyzed](rules/conditions.md#paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Benign Transposition.*** Var teleports up to 30 feet to an unoccupied space he can see. Alternatively, he can choose a space within range that is occupied by a Small or Medium creature. If that creature is willing, both creatures teleport, swapping places. Var can use this feature again only after he finishes a long rest or casts a conjuration spell of 1st level or higher.
 
@@ -79,6 +79,6 @@ title: Tarul Var
 
 ***Paralyzing Touch (Costs 2 Actions).*** Var uses Paralyzing Touch.
 
-***Frightening Gaze (Costs 2 Actions).*** Var fixes his gaze on one creature he can see within 10 feet of him. The target must succeed on a DC 17 Wisdom saving throw against this magic or become [frightened](/compendium/rules/conditions.md#frightened) for 1 minute. The [frightened](/compendium/rules/conditions.md#frightened) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to Var's gaze for the next 24 hours.
+***Frightening Gaze (Costs 2 Actions).*** Var fixes his gaze on one creature he can see within 10 feet of him. The target must succeed on a DC 17 Wisdom saving throw against this magic or become [frightened](rules/conditions.md#frightened) for 1 minute. The [frightened](rules/conditions.md#frightened) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to Var's gaze for the next 24 hours.
 ```
 ^statblock

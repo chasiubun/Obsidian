@@ -17,7 +17,7 @@ While sometimes ill-tempered and territorial, brackish trudges are usually conte
 
 ```ad-statblock
 title: Brackish Trudge
-![](/compendium/bestiary/plant/token/brackish-trudge.png#token)
+![](compendium/bestiary/plant/token/brackish-trudge.png#token)
 *Large plant, Unaligned*
 
 - **Armor Class** 12  (natural armor)
@@ -41,6 +41,6 @@ title: Brackish Trudge
 
 ## Actions
 
-***Tusk.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 16 (`2d10 + 5`) piercing damage plus 3 (`1d6`) poison damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked [prone](/compendium/rules/conditions.md#prone).
+***Tusk.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 16 (`2d10 + 5`) piercing damage plus 3 (`1d6`) poison damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked [prone](rules/conditions.md#prone).
 ```
 ^statblock

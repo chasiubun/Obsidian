@@ -13,7 +13,7 @@ aliases: ["Reduced-Threat Behir"]
 
 ```ad-statblock
 title: Reduced-Threat Behir
-![](/compendium/bestiary/monstrosity/token/reduced-threat-behir.png#token)
+![](compendium/bestiary/monstrosity/token/reduced-threat-behir.png#token)
 *Large monstrosity, Neutral Evil*
 
 - **Armor Class** 17  (natural armor)

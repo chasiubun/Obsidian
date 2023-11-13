@@ -13,7 +13,7 @@ aliases: ["Fiendish Spirit (Yugoloth, 7th-Level Spell)"]
 
 ```ad-statblock
 title: Fiendish Spirit (Yugoloth, 7th-Level Spell)
-![](/compendium/bestiary/fiend/token/fiendish-spirit.png#token)
+![](compendium/bestiary/fiend/token/fiendish-spirit.png#token)
 *Large fiend, Unaligned*
 
 - **Armor Class** 19  (natural armor)

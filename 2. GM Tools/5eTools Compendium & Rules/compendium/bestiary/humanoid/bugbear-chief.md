@@ -32,10 +32,10 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
 
 ```ad-statblock
 title: Bugbear Chief
-![](/compendium/bestiary/humanoid/token/bugbear-chief.png#token)
+![](compendium/bestiary/humanoid/token/bugbear-chief.png#token)
 *Medium humanoid (goblinoid), Chaotic Evil*
 
-- **Armor Class** 17  ([chain shirt](/compendium/items/chain-shirt.md), [shield](/compendium/items/shield.md))
+- **Armor Class** 17  ([chain shirt](compendium/items/chain-shirt.md), [shield](compendium/items/shield.md))
 - **Hit Points** 65 (`10d8 + 20`)
 - **Speed** 30 ft.
 
@@ -56,7 +56,7 @@ title: Bugbear Chief
 
 ***Surprise Attack.*** If the bugbear surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (`2d6`) damage from the attack.
 
-***Heart of Hruggek.*** The bugbear has advantage on saving throws against being [charmed](/compendium/rules/conditions.md#charmed), [frightened](/compendium/rules/conditions.md#frightened), [paralyzed](/compendium/rules/conditions.md#paralyzed), [poisoned](/compendium/rules/conditions.md#poisoned), [stunned](/compendium/rules/conditions.md#stunned), or put to sleep.
+***Heart of Hruggek.*** The bugbear has advantage on saving throws against being [charmed](rules/conditions.md#charmed), [frightened](rules/conditions.md#frightened), [paralyzed](rules/conditions.md#paralyzed), [poisoned](rules/conditions.md#poisoned), [stunned](rules/conditions.md#stunned), or put to sleep.
 
 ## Actions
 

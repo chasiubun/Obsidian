@@ -22,13 +22,13 @@ A meenlock can supernaturally sense areas of darkness and shadow in its vicinity
 
 ## Telepathic Torment
 
-Up to four meenlocks can telepathically torment one [incapacitated](/compendium/rules/conditions.md#incapacitated) creature, filling its mind with disturbing sounds and dreadful imagery. Participating meenlocks can't use their telepathy for any other purpose during this time, though they can move about and take actions and reactions as normal. This torment has no effect on a creature that is immune to the [frightened](/compendium/rules/conditions.md#frightened) condition. If the creature is susceptible and remains [incapacitated](/compendium/rules/conditions.md#incapacitated) for 1 hour, the creature must make a Wisdom saving throw, taking 10 (`3d6`) psychic damage on a failed save, or half as much damage on a successful one. The save DC is 10 + the number of meenlocks participating in the torment, considering only those that remain within sight of the victim for the entire hour and aren't [incapacitated](/compendium/rules/conditions.md#incapacitated) during it. The process can be repeated. A Humanoid that drops to 0 hit points as a result of this damage instantly transforms into a meenlock at full health and under the DM's control. Only a [wish](/compendium/spells/wish.md) spell or divine intervention can restore a transformed creature to its former state.
+Up to four meenlocks can telepathically torment one [incapacitated](rules/conditions.md#incapacitated) creature, filling its mind with disturbing sounds and dreadful imagery. Participating meenlocks can't use their telepathy for any other purpose during this time, though they can move about and take actions and reactions as normal. This torment has no effect on a creature that is immune to the [frightened](rules/conditions.md#frightened) condition. If the creature is susceptible and remains [incapacitated](rules/conditions.md#incapacitated) for 1 hour, the creature must make a Wisdom saving throw, taking 10 (`3d6`) psychic damage on a failed save, or half as much damage on a successful one. The save DC is 10 + the number of meenlocks participating in the torment, considering only those that remain within sight of the victim for the entire hour and aren't [incapacitated](rules/conditions.md#incapacitated) during it. The process can be repeated. A Humanoid that drops to 0 hit points as a result of this damage instantly transforms into a meenlock at full health and under the DM's control. Only a [wish](compendium/spells/wish.md) spell or divine intervention can restore a transformed creature to its former state.
 
 ## Statblock
 
 ```ad-statblock
 title: Meenlock
-![](/compendium/bestiary/fey/token/meenlock.png#token)
+![](compendium/bestiary/fey/token/meenlock.png#token)
 *Small fey, Typically  Neutral Evil*
 
 - **Armor Class** 15  (natural armor)
@@ -48,13 +48,13 @@ title: Meenlock
 
 ## Traits
 
-***Fear Aura.*** Any Beast or Humanoid that starts its turn within 10 feet of the meenlock must succeed on a DC 11 Wisdom saving throw or be [frightened](/compendium/rules/conditions.md#frightened) until the start of the creature's next turn.
+***Fear Aura.*** Any Beast or Humanoid that starts its turn within 10 feet of the meenlock must succeed on a DC 11 Wisdom saving throw or be [frightened](rules/conditions.md#frightened) until the start of the creature's next turn.
 
-***Light Sensitivity.*** While in bright light, the meenlock has disadvantage on attack rolls, as well as on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Light Sensitivity.*** While in bright light, the meenlock has disadvantage on attack rolls, as well as on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
-***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (`2d4 + 2`) slashing damage, and the target must succeed on a DC 11 Constitution saving throw or be [paralyzed](/compendium/rules/conditions.md#paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (`2d4 + 2`) slashing damage, and the target must succeed on a DC 11 Constitution saving throw or be [paralyzed](rules/conditions.md#paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ## Bonus Actions
 

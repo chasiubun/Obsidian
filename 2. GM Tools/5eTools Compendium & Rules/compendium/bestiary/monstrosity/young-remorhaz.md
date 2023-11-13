@@ -26,7 +26,7 @@ Frost giant hunters scour the icy wastes for remorhaz nests and eggs. The giants
 
 ```ad-statblock
 title: Young Remorhaz
-![](/compendium/bestiary/monstrosity/token/young-remorhaz.png#token)
+![](compendium/bestiary/monstrosity/token/young-remorhaz.png#token)
 *Large monstrosity, Unaligned*
 
 - **Armor Class** 14  (natural armor)

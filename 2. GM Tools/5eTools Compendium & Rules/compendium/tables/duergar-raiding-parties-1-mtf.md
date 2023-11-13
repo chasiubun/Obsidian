@@ -12,8 +12,8 @@ aliases: ["Duergar Raiding Parties; 1"]
 
 | Members | Number Present |
 |---------|----------------|
-| [Duergar](/compendium/bestiary/humanoid/duergar.md) | `2d6 + 5` |
-| [Duergar stone guards](/compendium/bestiary/humanoid/duergar-stone-guard-mpmm.md) | `1d4 + 1` |
-| [Duergar kavalrachni](/compendium/bestiary/humanoid/duergar-kavalrachni-mpmm.md) | `1d4` |
-| [Male steeders](/compendium/bestiary/monstrosity/male-steeder-mpmm.md) | `1d4` |
+| [Duergar](compendium/bestiary/humanoid/duergar.md) | `2d6 + 5` |
+| [Duergar stone guards](compendium/bestiary/humanoid/duergar-stone-guard-mpmm.md) | `1d4 + 1` |
+| [Duergar kavalrachni](compendium/bestiary/humanoid/duergar-kavalrachni-mpmm.md) | `1d4` |
+| [Male steeders](compendium/bestiary/monstrosity/male-steeder-mpmm.md) | `1d4` |
 ^members-number-present

@@ -42,7 +42,7 @@ A skeleton doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Skeleton
-![](/compendium/bestiary/undead/token/skeleton.png#token)
+![](compendium/bestiary/undead/token/skeleton.png#token)
 *Medium undead, Lawful Evil*
 
 - **Armor Class** 13  (armor scraps)

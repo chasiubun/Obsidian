@@ -27,7 +27,7 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
 
 ```ad-statblock
 title: Animated Armor
-![](/compendium/bestiary/construct/token/animated-armor.png#token)
+![](compendium/bestiary/construct/token/animated-armor.png#token)
 *Medium construct, Unaligned*
 
 - **Armor Class** 18  (natural armor)
@@ -47,7 +47,7 @@ title: Animated Armor
 
 ## Traits
 
-***Antimagic Susceptibility.*** The armor is [incapacitated](/compendium/rules/conditions.md#incapacitated) while in the area of an [antimagic field](/compendium/spells/antimagic-field.md). If targeted by [dispel magic](/compendium/spells/dispel-magic.md), the armor must succeed on a Constitution saving throw against the caster's spell save DC or fall [unconscious](/compendium/rules/conditions.md#unconscious) for 1 minute.
+***Antimagic Susceptibility.*** The armor is [incapacitated](rules/conditions.md#incapacitated) while in the area of an [antimagic field](compendium/spells/antimagic-field.md). If targeted by [dispel magic](compendium/spells/dispel-magic.md), the armor must succeed on a Constitution saving throw against the caster's spell save DC or fall [unconscious](rules/conditions.md#unconscious) for 1 minute.
 
 ***False Appearance.*** While the armor remains motionless, it is indistinguishable from a normal suit of armor.
 

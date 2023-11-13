@@ -15,7 +15,7 @@ Created by the archaeomancers of Lorehold College, ruin grinders are mighty auto
 
 ```ad-statblock
 title: Ruin Grinder
-![](/compendium/bestiary/construct/token/ruin-grinder.png#token)
+![](compendium/bestiary/construct/token/ruin-grinder.png#token)
 *Large construct, Unaligned*
 
 - **Armor Class** 16  (natural armor)
@@ -45,6 +45,6 @@ title: Ruin Grinder
 
 ***Multiattack.*** The ruin grinder makes two Excavator attacks.
 
-***Excavator.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 13 (`2d6 + 6`) force damage. If the target is a Huge or smaller creature, it must succeed on a DC 17 Strength saving throw or be pushed up to 10 feet away and knocked [prone](/compendium/rules/conditions.md#prone).
+***Excavator.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 13 (`2d6 + 6`) force damage. If the target is a Huge or smaller creature, it must succeed on a DC 17 Strength saving throw or be pushed up to 10 feet away and knocked [prone](rules/conditions.md#prone).
 ```
 ^statblock

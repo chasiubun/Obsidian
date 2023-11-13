@@ -13,7 +13,7 @@ aliases: ["Abyssal Wretch"]
 
 ```ad-statblock
 title: Abyssal Wretch
-![](/compendium/bestiary/fiend/token/abyssal-wretch.png#token)
+![](compendium/bestiary/fiend/token/abyssal-wretch.png#token)
 *Medium fiend (demon), Chaotic Evil*
 
 - **Armor Class** 11 

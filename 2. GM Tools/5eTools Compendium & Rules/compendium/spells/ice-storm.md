@@ -30,6 +30,6 @@ Hailstones turn the storm's area of effect into difficult terrain until the end 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the bludgeoning damage increases by 1d8 for each slot level above 4th.
 
-**Classes**: [Artificer (Artillerist)](/compendium/classes/artificer-artillerist-tce.md), [Cleric (Tempest Domain)](/compendium/classes/cleric-tempest-domain.md), [Druid (Circle of the Land)](/compendium/classes/druid-circle-of-the-land.md), [Druid](/compendium/classes/druid.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Paladin (Oath of the Ancients)](/compendium/classes/paladin-oath-of-the-ancients.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Sorcerer](/compendium/classes/sorcerer.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Artificer (Artillerist)](compendium/classes/artificer-artillerist-tce.md), [Cleric (Tempest Domain)](compendium/classes/cleric-tempest-domain.md), [Druid (Circle of the Land)](compendium/classes/druid-circle-of-the-land.md), [Druid](compendium/classes/druid.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Paladin (Oath of the Ancients)](compendium/classes/paladin-oath-of-the-ancients.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 252. Available in the SRD and the Basic Rules.*

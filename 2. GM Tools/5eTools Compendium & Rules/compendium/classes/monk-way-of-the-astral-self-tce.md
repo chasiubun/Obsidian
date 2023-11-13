@@ -29,7 +29,7 @@ When choosing this path, consider the quirks that define your monk. Are you obse
 
 Your mastery of your ki allows you to summon a portion of your astral self. As a bonus action, you can spend 1 ki point to summon the arms of your astral self. When you do so, each creature of your choice that you can see within 10 feet of you must succeed on a Dexterity saving throw or take force damage equal to two rolls of your Martial Arts die.
 
-For 10 minutes, these spectral arms hover near your shoulders or surround your arms (your choice). You determine the arms' appearance, and they vanish early if you are [incapacitated](/compendium/rules/conditions.md#incapacitated) or die.
+For 10 minutes, these spectral arms hover near your shoulders or surround your arms (your choice). You determine the arms' appearance, and they vanish early if you are [incapacitated](rules/conditions.md#incapacitated) or die.
 
 While the spectral arms are present, you gain the following benefits:
 
@@ -42,7 +42,7 @@ While the spectral arms are present, you gain the following benefits:
 
 *6th-level Way of the Astral Self feature*
 
-You can summon the visage of your astral self. As a bonus action, or as part of the bonus action you take to activate Arms of the Astral Self, you can spend 1 ki point to summon this visage for 10 minutes. It vanishes early if you are [incapacitated](/compendium/rules/conditions.md#incapacitated) or die.
+You can summon the visage of your astral self. As a bonus action, or as part of the bonus action you take to activate Arms of the Astral Self, you can spend 1 ki point to summon this visage for 10 minutes. It vanishes early if you are [incapacitated](rules/conditions.md#incapacitated) or die.
 
 The spectral visage covers your face like a helmet or mask. You determine its appearance.
 
@@ -56,7 +56,7 @@ You can see normally in darkness, both magical and nonmagical, to a distance of 
 #### Wisdom of the Spirit
 _Source: Tasha's Cauldron of Everything_
 
-You have advantage on Wisdom ([Insight](/compendium/rules/skills.md#Insight)) and Charisma ([Intimidation](/compendium/rules/skills.md#Intimidation)) checks.
+You have advantage on Wisdom ([Insight](rules/skills.md#Insight)) and Charisma ([Intimidation](rules/skills.md#Intimidation)) checks.
 
 #### Word of the Spirit
 _Source: Tasha's Cauldron of Everything_
@@ -85,7 +85,7 @@ Once on each of your turns when you hit a target with the Arms of the Astral Sel
 
 *17th-level Way of the Astral Self feature*
 
-Your connection to your astral self is complete, allowing you to unleash its full potential. As a bonus action, you can spend 5 ki points to summon the arms, visage, and body of your astral self and awaken it for 10 minutes. This awakening ends early if you are [incapacitated](/compendium/rules/conditions.md#incapacitated) or die.
+Your connection to your astral self is complete, allowing you to unleash its full potential. As a bonus action, you can spend 5 ki points to summon the arms, visage, and body of your astral self and awaken it for 10 minutes. This awakening ends early if you are [incapacitated](rules/conditions.md#incapacitated) or die.
 
 While your astral self is awakened, you gain the following benefits.
 

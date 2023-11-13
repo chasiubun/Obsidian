@@ -28,6 +28,6 @@ You send a short message of twenty-five words or less to a creature with which y
 
 You can send the message across any distance and even to other planes of existence, but if the target is on a different plane than you, there is a 5% chance chance that the message doesn't arrive.
 
-**Classes**: [Bard](/compendium/classes/bard.md), [Cleric (Peace Domain)](/compendium/classes/cleric-peace-domain-tce.md), [Cleric](/compendium/classes/cleric.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Sorcerer (Aberrant Mind)](/compendium/classes/sorcerer-aberrant-mind-tce.md), [Sorcerer (Divine Soul)](/compendium/classes/sorcerer-divine-soul-xge.md), [Warlock (The Great Old One)](/compendium/classes/warlock-the-great-old-one.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Bard](compendium/classes/bard.md), [Cleric (Peace Domain)](compendium/classes/cleric-peace-domain-tce.md), [Cleric](compendium/classes/cleric.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Sorcerer (Aberrant Mind)](compendium/classes/sorcerer-aberrant-mind-tce.md), [Sorcerer (Divine Soul)](compendium/classes/sorcerer-divine-soul-xge.md), [Warlock (The Great Old One)](compendium/classes/warlock-the-great-old-one.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 274. Available in the SRD.*

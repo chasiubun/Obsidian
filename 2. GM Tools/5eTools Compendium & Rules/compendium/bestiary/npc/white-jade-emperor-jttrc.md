@@ -13,10 +13,10 @@ aliases: ["White Jade Emperor"]
 
 ```ad-statblock
 title: White Jade Emperor
-![](/compendium/bestiary/npc/token/white-jade-emperor.png#token)
+![](compendium/bestiary/npc/token/white-jade-emperor.png#token)
 *Medium humanoid (Mountain dwarf), Lawful Neutral*
 
-- **Armor Class** 15  ([breastplate](/compendium/items/breastplate.md))
+- **Armor Class** 15  ([breastplate](compendium/items/breastplate.md))
 - **Hit Points** 9 (`2d8`)
 - **Speed** 25 ft.
 

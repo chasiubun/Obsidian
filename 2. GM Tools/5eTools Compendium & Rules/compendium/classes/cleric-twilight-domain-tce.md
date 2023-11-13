@@ -45,11 +45,11 @@ You gain domain spells at the cleric levels listed in the Twilight Domain Spells
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [faerie fire](/compendium/spells/faerie-fire.md), [sleep](/compendium/spells/sleep.md) |
-| 3rd | [moonbeam](/compendium/spells/moonbeam.md), [see invisibility](/compendium/spells/see-invisibility.md) |
-| 5th | [aura of vitality](/compendium/spells/aura-of-vitality.md), [Leomund's tiny hut](/compendium/spells/leomunds-tiny-hut.md) |
-| 7th | [aura of life](/compendium/spells/aura-of-life.md), [greater invisibility](/compendium/spells/greater-invisibility.md) |
-| 9th | [circle of power](/compendium/spells/circle-of-power.md), [mislead](/compendium/spells/mislead.md) |
+| 1st | [faerie fire](compendium/spells/faerie-fire.md), [sleep](compendium/spells/sleep.md) |
+| 3rd | [moonbeam](compendium/spells/moonbeam.md), [see invisibility](compendium/spells/see-invisibility.md) |
+| 5th | [aura of vitality](compendium/spells/aura-of-vitality.md), [Leomund's tiny hut](compendium/spells/leomunds-tiny-hut.md) |
+| 7th | [aura of life](compendium/spells/aura-of-life.md), [greater invisibility](compendium/spells/greater-invisibility.md) |
+| 9th | [circle of power](compendium/spells/circle-of-power.md), [mislead](compendium/spells/mislead.md) |
 ^twilight-domain-spells
 
 ### Bonus Proficiencies (Level 1)
@@ -62,9 +62,9 @@ You gain proficiency with martial weapons and heavy armor.
 
 *1st-level Twilight Domain feature*
 
-You can see through the deepest gloom. You have [darkvision](/compendium/rules/senses.md#darkvision) out to a range of 300 feet. In that radius, you can see in dim light as if it were bright light and in darkness as if it were dim light.
+You can see through the deepest gloom. You have [darkvision](rules/senses.md#darkvision) out to a range of 300 feet. In that radius, you can see in dim light as if it were bright light and in darkness as if it were dim light.
 
-As an action, you can magically share the [darkvision](/compendium/rules/senses.md#darkvision) of this feature with willing creatures you can see within 10 feet of you, up to a number of creatures equal to your Wisdom modifier (minimum of one creature). The shared [darkvision](/compendium/rules/senses.md#darkvision) lasts for 1 hour. Once you share it, you can't do so again until you finish a long rest, unless you expend a spell slot of any level to share it again.
+As an action, you can magically share the [darkvision](rules/senses.md#darkvision) of this feature with willing creatures you can see within 10 feet of you, up to a number of creatures equal to your Wisdom modifier (minimum of one creature). The shared [darkvision](rules/senses.md#darkvision) lasts for 1 hour. Once you share it, you can't do so again until you finish a long rest, unless you expend a spell slot of any level to share it again.
 
 ### Vigilant Blessing (Level 1)
 
@@ -78,10 +78,10 @@ The night has taught you to be vigilant. As an action, you give one creature you
 
 You can use your Channel Divinity to refresh your allies with soothing twilight.
 
-As an action, you present your holy symbol, and a sphere of twilight emanates from you. The sphere is centered on you, has a 30-foot radius, and is filled with dim light. The sphere moves with you, and it lasts for 1 minute or until you are [incapacitated](/compendium/rules/conditions.md#incapacitated) or die. Whenever a creature (including you) ends its turn in the sphere, you can grant that creature one of these benefits:
+As an action, you present your holy symbol, and a sphere of twilight emanates from you. The sphere is centered on you, has a 30-foot radius, and is filled with dim light. The sphere moves with you, and it lasts for 1 minute or until you are [incapacitated](rules/conditions.md#incapacitated) or die. Whenever a creature (including you) ends its turn in the sphere, you can grant that creature one of these benefits:
 
 - You grant it temporary hit points equal to `1d6` plus your cleric level.  
-- You end one effect on it causing it to be [charmed](/compendium/rules/conditions.md#charmed) or [frightened](/compendium/rules/conditions.md#frightened).  
+- You end one effect on it causing it to be [charmed](rules/conditions.md#charmed) or [frightened](rules/conditions.md#frightened).  
 
 ### Steps of Night (Level 6)
 
@@ -97,7 +97,7 @@ You gain the ability to infuse your weapon strikes with divine energy. Once on e
 
 ### Blessed Strikes (Level 8)
 
-*8th-level cleric [optional class features](/compendium/rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*
+*8th-level cleric [optional class features](rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*
 
 You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `1d8` radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 

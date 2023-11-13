@@ -9,9 +9,9 @@ aliases: ["Acolyte"]
 # Acolyte
 *Source: Player's Handbook p. 127. Available in the SRD and the Basic Rules.*  
 
-- **Skill Proficiencies.** [Insight](/compendium/rules/skills.md#Insight), [Religion](/compendium/rules/skills.md#Religion)  
+- **Skill Proficiencies.** [Insight](rules/skills.md#Insight), [Religion](rules/skills.md#Religion)  
 - **Languages.** Two of your choice  
-- **Equipment.** A [holy symbol](/compendium/items/holy-symbol.md) (a gift to you when you entered the priesthood), a prayer [book](/compendium/items/book.md) or prayer wheel, 5 sticks of incense, vestments, a set of [common clothes](/compendium/items/common-clothes.md), and a belt [pouch](/compendium/items/pouch.md) containing 15 gp  
+- **Equipment.** A [holy symbol](compendium/items/holy-symbol.md) (a gift to you when you entered the priesthood), a prayer [book](compendium/items/book.md) or prayer wheel, 5 sticks of incense, vestments, a set of [common clothes](compendium/items/common-clothes.md), and a belt [pouch](compendium/items/pouch.md) containing 15 gp  
 
 You have spent your life in the service of a temple to a specific god or pantheon of gods. You act as an intermediary between the realm of the holy and the mortal world, performing sacred rites and offering sacrifices in order to conduct worshipers into the presence of the divine. You are not necessarily a cleric—performing sacred rites is not the same thing as channeling divine power.
 

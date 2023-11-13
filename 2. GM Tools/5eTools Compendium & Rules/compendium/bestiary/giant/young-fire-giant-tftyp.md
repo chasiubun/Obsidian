@@ -13,10 +13,10 @@ aliases: ["Young Fire Giant"]
 
 ```ad-statblock
 title: Young Fire Giant
-![](/compendium/bestiary/giant/token/young-fire-giant.png#token)
+![](compendium/bestiary/giant/token/young-fire-giant.png#token)
 *Large giant, Chaotic Evil*
 
-- **Armor Class** 11  ([hide armor](/compendium/items/hide-armor.md))
+- **Armor Class** 11  ([hide armor](compendium/items/hide-armor.md))
 - **Hit Points** 59 (`7d10 + 21`)
 - **Speed** 40 ft.
 

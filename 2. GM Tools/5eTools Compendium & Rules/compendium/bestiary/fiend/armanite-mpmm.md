@@ -20,7 +20,7 @@ Part of what makes armanites so fearsome is the number of weapons they have at t
 
 ```ad-statblock
 title: Armanite
-![](/compendium/bestiary/fiend/token/armanite.png#token)
+![](compendium/bestiary/fiend/token/armanite.png#token)
 *Large fiend (demon), Typically  Chaotic Evil*
 
 - **Armor Class** 16  (natural armor)
@@ -48,7 +48,7 @@ title: Armanite
 
 ***Claw.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 10 (`2d4 + 5`) slashing damage plus 9 (`2d8`) lightning damage.
 
-***Hooves.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 12 (`2d6 + 5`) bludgeoning damage. If the target is a Large or smaller creature, it must succeed on a DC 16 Strength saving throw or be knocked [prone](/compendium/rules/conditions.md#prone).
+***Hooves.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 12 (`2d6 + 5`) bludgeoning damage. If the target is a Large or smaller creature, it must succeed on a DC 16 Strength saving throw or be knocked [prone](rules/conditions.md#prone).
 
 ***Serrated Tail.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 16 (`2d10 + 5`) slashing damage.
 

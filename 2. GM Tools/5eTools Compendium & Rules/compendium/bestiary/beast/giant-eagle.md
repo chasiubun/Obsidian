@@ -19,7 +19,7 @@ A giant eagle is a noble creature that speaks its own language and understands s
 
 ```ad-statblock
 title: Giant Eagle
-![](/compendium/bestiary/beast/token/giant-eagle.png#token)
+![](compendium/bestiary/beast/token/giant-eagle.png#token)
 *Large beast, Neutral Good*
 
 - **Armor Class** 13 
@@ -39,7 +39,7 @@ title: Giant Eagle
 
 ## Traits
 
-***Keen Sight.*** The eagle has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Keen Sight.*** The eagle has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 

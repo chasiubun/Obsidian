@@ -21,6 +21,6 @@ aliases: ["Locate Animals or Plants"]
 
 Describe or name a specific kind of beast or plant. Concentrating on the voice of nature in your surroundings, you learn the direction and distance to the closest creature or plant of that kind within 5 miles, if any are present.
 
-**Classes**: [Bard](/compendium/classes/bard.md), [Druid](/compendium/classes/druid.md), [Ranger](/compendium/classes/ranger.md)
+**Classes**: [Bard](compendium/classes/bard.md), [Druid](compendium/classes/druid.md), [Ranger](compendium/classes/ranger.md)
 
 *Source: Player's Handbook p. 256. Available in the SRD.*

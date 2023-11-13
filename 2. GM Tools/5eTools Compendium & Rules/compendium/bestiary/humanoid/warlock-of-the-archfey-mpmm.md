@@ -16,7 +16,7 @@ aliases: ["Warlock of the Archfey"]
 # Warlock of the Archfey
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 255, Volo's Guide to Monsters p. 219*  
 
-Warlocks of the Archfey gain their powers through magical pacts forged with lords of the Feywild. These warlocks commonly associate with lesser Fey creatures such as [boggles](/compendium/bestiary/fey/boggle-mpmm.md), [quicklings](/compendium/bestiary/fey/quickling-mpmm.md), and [redcaps](/compendium/bestiary/fey/redcap-mpmm.md) (all appear in "this book") or even [satyrs](/compendium/bestiary/fey/satyr.md) and [sprites](/compendium/bestiary/fey/sprite.md).
+Warlocks of the Archfey gain their powers through magical pacts forged with lords of the Feywild. These warlocks commonly associate with lesser Fey creatures such as [boggles](compendium/bestiary/fey/boggle-mpmm.md), [quicklings](compendium/bestiary/fey/quickling-mpmm.md), and [redcaps](compendium/bestiary/fey/redcap-mpmm.md) (all appear in "this book") or even [satyrs](compendium/bestiary/fey/satyr.md) and [sprites](compendium/bestiary/fey/sprite.md).
 
 ## Warlocks
 
@@ -26,10 +26,10 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
 
 ```ad-statblock
 title: Warlock of the Archfey
-![](/compendium/bestiary/humanoid/token/warlock-of-the-archfey.png#token)
+![](compendium/bestiary/humanoid/token/warlock-of-the-archfey.png#token)
 *Medium humanoid, Any alignment*
 
-- **Armor Class** 13  (16 with [mage armor](/compendium/spells/mage-armor.md))
+- **Armor Class** 13  (16 with [mage armor](compendium/spells/mage-armor.md))
 - **Hit Points** 67 (`15d8`)
 - **Speed** 30 ft.
 
@@ -46,9 +46,9 @@ title: Warlock of the Archfey
 
 ***Spellcasting.*** The warlock casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 14): 
 
-**At will**: [dancing lights](/compendium/spells/dancing-lights.md), [disguise self](/compendium/spells/disguise-self.md), [mage armor](/compendium/spells/mage-armor.md) (self only), [mage hand](/compendium/spells/mage-hand.md), [minor illusion](/compendium/spells/minor-illusion.md), [prestidigitation](/compendium/spells/prestidigitation.md), [speak with animals](/compendium/spells/speak-with-animals.md)
+**At will**: [dancing lights](compendium/spells/dancing-lights.md), [disguise self](compendium/spells/disguise-self.md), [mage armor](compendium/spells/mage-armor.md) (self only), [mage hand](compendium/spells/mage-hand.md), [minor illusion](compendium/spells/minor-illusion.md), [prestidigitation](compendium/spells/prestidigitation.md), [speak with animals](compendium/spells/speak-with-animals.md)
 
-**1/day each**: [charm person](/compendium/spells/charm-person.md), [dimension door](/compendium/spells/dimension-door.md), [hold monster](/compendium/spells/hold-monster.md)
+**1/day each**: [charm person](compendium/spells/charm-person.md), [dimension door](compendium/spells/dimension-door.md), [hold monster](compendium/spells/hold-monster.md)
 
 ## Actions
 
@@ -60,7 +60,7 @@ title: Warlock of the Archfey
 
 ## Reactions
 
-***Misty Escape (Recharges after a Short or Long Rest).*** In response to taking damage, the warlock turns [invisible](/compendium/rules/conditions.md#invisible) and teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see. It remains [invisible](/compendium/rules/conditions.md#invisible) until the start of its next turn or until it attacks, makes a damage roll, or casts a spell.
+***Misty Escape (Recharges after a Short or Long Rest).*** In response to taking damage, the warlock turns [invisible](rules/conditions.md#invisible) and teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see. It remains [invisible](rules/conditions.md#invisible) until the start of its next turn or until it attacks, makes a damage roll, or casts a spell.
 ```
 ^statblock
 

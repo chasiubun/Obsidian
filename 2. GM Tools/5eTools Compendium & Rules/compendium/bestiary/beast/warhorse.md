@@ -14,7 +14,7 @@ aliases: ["Warhorse"]
 
 ```ad-statblock
 title: Warhorse
-![](/compendium/bestiary/beast/token/warhorse.png#token)
+![](compendium/bestiary/beast/token/warhorse.png#token)
 *Large beast, Unaligned*
 
 - **Armor Class** 11 
@@ -34,7 +34,7 @@ title: Warhorse
 
 ## Traits
 
-***Trampling Charge.*** If the horse moves at least 20 feet straight toward a creature and then hits it with a hooves attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked [prone](/compendium/rules/conditions.md#prone). If the target is [prone](/compendium/rules/conditions.md#prone), the horse can make another attack with its hooves against it as a bonus action.
+***Trampling Charge.*** If the horse moves at least 20 feet straight toward a creature and then hits it with a hooves attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked [prone](rules/conditions.md#prone). If the target is [prone](rules/conditions.md#prone), the horse can make another attack with its hooves against it as a bonus action.
 
 ## Actions
 

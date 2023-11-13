@@ -66,7 +66,7 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 
 ```ad-statblock
 title: Djinni
-![](/compendium/bestiary/elemental/token/djinni.png#token)
+![](compendium/bestiary/elemental/token/djinni.png#token)
 *Large elemental, Chaotic Good*
 
 - **Armor Class** 17  (natural armor)
@@ -90,11 +90,11 @@ title: Djinni
 
 ***Innate Spellcasting.*** The djinni's innate spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
-**At will**: [detect evil and good](/compendium/spells/detect-evil-and-good.md), [detect magic](/compendium/spells/detect-magic.md), [thunderwave](/compendium/spells/thunderwave.md)
+**At will**: [detect evil and good](compendium/spells/detect-evil-and-good.md), [detect magic](compendium/spells/detect-magic.md), [thunderwave](compendium/spells/thunderwave.md)
 
-**1/day each**: [conjure elemental](/compendium/spells/conjure-elemental.md) ([air elemental](/compendium/bestiary/elemental/air-elemental.md) only), [creation](/compendium/spells/creation.md), [gaseous form](/compendium/spells/gaseous-form.md), [invisibility](/compendium/spells/invisibility.md), [major image](/compendium/spells/major-image.md), [plane shift](/compendium/spells/plane-shift.md)
+**1/day each**: [conjure elemental](compendium/spells/conjure-elemental.md) ([air elemental](compendium/bestiary/elemental/air-elemental.md) only), [creation](compendium/spells/creation.md), [gaseous form](compendium/spells/gaseous-form.md), [invisibility](compendium/spells/invisibility.md), [major image](compendium/spells/major-image.md), [plane shift](compendium/spells/plane-shift.md)
 
-**3/day each**: [create food and water](/compendium/spells/create-food-and-water.md) (can create wine instead of water), [tongues](/compendium/spells/tongues.md), [wind walk](/compendium/spells/wind-walk.md)
+**3/day each**: [create food and water](compendium/spells/create-food-and-water.md) (can create wine instead of water), [tongues](compendium/spells/tongues.md), [wind walk](compendium/spells/wind-walk.md)
 
 ## Actions
 
@@ -102,9 +102,9 @@ title: Djinni
 
 ***Scimitar.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 12 (`2d6 + 5`) slashing damage plus 3 (`1d6`) lightning or thunder damage (djinni's choice).
 
-***Create Whirlwind.*** A 5-foot-radius, 30-foot-tall cylinder of swirling air magically forms on a point the djinni can see within 120 feet of it. The whirlwind lasts as long as the djinni maintains [concentration](/compendium/rules/conditions.md#concentration) (as if concentrating on a spell). Any creature but the djinni that enters the whirlwind must succeed on a DC 18 Strength saving throw or be [restrained](/compendium/rules/conditions.md#restrained) by it. The djinni can move the whirlwind up to 60 feet as an action, and creatures [restrained](/compendium/rules/conditions.md#restrained) by the whirlwind move with it. The whirlwind ends if the djinni loses sight of it.
+***Create Whirlwind.*** A 5-foot-radius, 30-foot-tall cylinder of swirling air magically forms on a point the djinni can see within 120 feet of it. The whirlwind lasts as long as the djinni maintains [concentration](rules/conditions.md#concentration) (as if concentrating on a spell). Any creature but the djinni that enters the whirlwind must succeed on a DC 18 Strength saving throw or be [restrained](rules/conditions.md#restrained) by it. The djinni can move the whirlwind up to 60 feet as an action, and creatures [restrained](rules/conditions.md#restrained) by the whirlwind move with it. The whirlwind ends if the djinni loses sight of it.
 
-A creature can use its action to free a creature [restrained](/compendium/rules/conditions.md#restrained) by the whirlwind, including itself, by succeeding on a DC 18 Strength check. If the check succeeds, the creature is no longer [restrained](/compendium/rules/conditions.md#restrained) and moves to the nearest space outside the whirlwind.
+A creature can use its action to free a creature [restrained](rules/conditions.md#restrained) by the whirlwind, including itself, by succeeding on a DC 18 Strength check. If the check succeeds, the creature is no longer [restrained](rules/conditions.md#restrained) and moves to the nearest space outside the whirlwind.
 ```
 ^statblock
 

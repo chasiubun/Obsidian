@@ -14,7 +14,7 @@ aliases:
 
 - **Weight**: 3.0 lbs.
 
-This leather-bound spellbook is reinforced with iron and silver fittings and an iron lock (DC 20 to open). As an action, you can touch the book's cover and cause it to lock as if you cast [arcane lock](/compendium/spells/arcane-lock.md) on it. When found, the book contains the following spells: [arcane lock](/compendium/spells/arcane-lock.md), [dispel magic](/compendium/spells/dispel-magic.md), [globe of invulnerability](/compendium/spells/globe-of-invulnerability.md), [glyph of warding](/compendium/spells/glyph-of-warding.md), [Mordenkainen's private sanctum](/compendium/spells/mordenkainens-private-sanctum.md), [protection from evil](/compendium/spells/protection-from-evil-and-good.md), and [symbol](/compendium/spells/symbol.md). It functions as a spellbook for you.
+This leather-bound spellbook is reinforced with iron and silver fittings and an iron lock (DC 20 to open). As an action, you can touch the book's cover and cause it to lock as if you cast [arcane lock](compendium/spells/arcane-lock.md) on it. When found, the book contains the following spells: [arcane lock](compendium/spells/arcane-lock.md), [dispel magic](compendium/spells/dispel-magic.md), [globe of invulnerability](compendium/spells/globe-of-invulnerability.md), [glyph of warding](compendium/spells/glyph-of-warding.md), [Mordenkainen's private sanctum](compendium/spells/mordenkainens-private-sanctum.md), [protection from evil](compendium/spells/protection-from-evil-and-good.md), and [symbol](compendium/spells/symbol.md). It functions as a spellbook for you.
 
 While you are holding the book, you can use it as a spellcasting focus for your wizard spells.
 

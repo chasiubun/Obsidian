@@ -15,7 +15,7 @@ aliases:
 - **Damage**:
   - One-handed: 1d8 S
   - Two-handed: 1d10 S
-- **Properties**: Martial, [Versatile](/compendium/rules/item-properties.md#Versatile)
+- **Properties**: Martial, [Versatile](rules/item-properties.md#Versatile)
 - **Cost**: 10 gp
 - **Weight**: 4.0 lbs.
 

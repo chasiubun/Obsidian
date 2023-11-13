@@ -111,7 +111,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!note] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](/compendium/rules/conditions.md#charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](rules/conditions.md#charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -139,7 +139,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 ```ad-statblock
 title: Lemure
-![](/compendium/bestiary/fiend/token/lemure.png#token)
+![](compendium/bestiary/fiend/token/lemure.png#token)
 *Medium fiend (devil), Lawful Evil*
 
 - **Armor Class** 7 
@@ -161,7 +161,7 @@ title: Lemure
 
 ***Devil's Sight.*** Magical darkness doesn't impede the lemure's darkvision.
 
-***Hellish Rejuvenation.*** A lemure that dies in the Nine Hells comes back to life with all its hit points in `1d10` days unless it is killed by a good-aligned creature with a [bless](/compendium/spells/bless.md) spell cast on that creature or its remains are sprinkled with holy water.
+***Hellish Rejuvenation.*** A lemure that dies in the Nine Hells comes back to life with all its hit points in `1d10` days unless it is killed by a good-aligned creature with a [bless](compendium/spells/bless.md) spell cast on that creature or its remains are sprinkled with holy water.
 
 ## Actions
 

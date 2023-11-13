@@ -13,7 +13,7 @@ aliases: ["Fiendish Spirit (Devil, 6th-Level Spell)"]
 
 ```ad-statblock
 title: Fiendish Spirit (Devil, 6th-Level Spell)
-![](/compendium/bestiary/fiend/token/fiendish-spirit.png#token)
+![](compendium/bestiary/fiend/token/fiendish-spirit.png#token)
 *Large fiend, Unaligned*
 
 - **Armor Class** 18  (natural armor)

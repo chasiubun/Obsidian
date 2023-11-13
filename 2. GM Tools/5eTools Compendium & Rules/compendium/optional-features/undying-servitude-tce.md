@@ -11,4 +11,4 @@ aliases: ["Undying Servitude"]
 
 **Prerequisite**: 5th-level Warlock
 
-You can cast [animate dead](/compendium/spells/animate-dead.md) without using a spell slot. Once you do so, you can't cast it in this way again until you finish a long rest.
+You can cast [animate dead](compendium/spells/animate-dead.md) without using a spell slot. Once you do so, you can't cast it in this way again until you finish a long rest.

@@ -35,7 +35,7 @@ You have resistance to fire damage.
 
 ### Legacy of Minauros
 
-You know the [mage hand](/compendium/spells/mage-hand.md) cantrip. When you reach 3rd level, you can cast the [Tenser's floating disk](/compendium/spells/tensers-floating-disk.md) spell once with this trait and regain the ability to do so when you finish a short or long rest. When you reach 5th level, you can cast the [arcane lock](/compendium/spells/arcane-lock.md) spell once with this trait, requiring no material component, and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [mage hand](compendium/spells/mage-hand.md) cantrip. When you reach 3rd level, you can cast the [Tenser's floating disk](compendium/spells/tensers-floating-disk.md) spell once with this trait and regain the ability to do so when you finish a short or long rest. When you reach 5th level, you can cast the [arcane lock](compendium/spells/arcane-lock.md) spell once with this trait, requiring no material component, and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Languages
 

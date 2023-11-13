@@ -17,10 +17,10 @@ Drow society is strictly matriarchal. Male drow are relegated to servitor roles,
 
 ```ad-statblock
 title: Nezznar the Black Spider
-![](/compendium/bestiary/npc/token/nezznar-the-black-spider.png#token)
+![](compendium/bestiary/npc/token/nezznar-the-black-spider.png#token)
 *Medium humanoid (elf), Neutral Evil*
 
-- **Armor Class** 11  (14 with [mage armor](/compendium/spells/mage-armor.md))
+- **Armor Class** 11  (14 with [mage armor](compendium/spells/mage-armor.md))
 - **Hit Points** 27 (`6d8`)
 - **Speed** 30 ft.
 
@@ -37,25 +37,25 @@ title: Nezznar the Black Spider
 
 ## Traits
 
-***Special Equipment.*** Nezznar has a [spider staff](/compendium/items/spider-staff-lmop.md).
+***Special Equipment.*** Nezznar has a [spider staff](compendium/items/spider-staff-lmop.md).
 
-***Fey Ancestry.*** Nezznar has advantage on saving throws against being [charmed](/compendium/rules/conditions.md#charmed), and magic can't put him to sleep.
+***Fey Ancestry.*** Nezznar has advantage on saving throws against being [charmed](rules/conditions.md#charmed), and magic can't put him to sleep.
 
 ***Sunlight Sensitivity.*** Nezznar has disadvantage on attack rolls when he or his target is in sunlight.
 
 ***Innate Spellcasting.*** Nezznar can innately cast the following spells, requiring no material components:
 
-**At will**: [dancing lights](/compendium/spells/dancing-lights.md)
+**At will**: [dancing lights](compendium/spells/dancing-lights.md)
 
-**1/day each**: [darkness](/compendium/spells/darkness.md), [faerie fire](/compendium/spells/faerie-fire.md) (save DC 12)
+**1/day each**: [darkness](compendium/spells/darkness.md), [faerie fire](compendium/spells/faerie-fire.md) (save DC 12)
 
 ***Spellcasting.*** Nezznar is a 4th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 13; +5 to hit with spell attacks). Nezznar has the following spells prepared from the wizard's spell list:
 
-**Cantrips (at will)**: [mage hand](/compendium/spells/mage-hand.md), [ray of frost](/compendium/spells/ray-of-frost.md), [shocking grasp](/compendium/spells/shocking-grasp.md)
+**Cantrips (at will)**: [mage hand](compendium/spells/mage-hand.md), [ray of frost](compendium/spells/ray-of-frost.md), [shocking grasp](compendium/spells/shocking-grasp.md)
 
-**1st level (4 slots)**: [mage armor](/compendium/spells/mage-armor.md), [magic missile](/compendium/spells/magic-missile.md), [shield](/compendium/spells/shield.md)
+**1st level (4 slots)**: [mage armor](compendium/spells/mage-armor.md), [magic missile](compendium/spells/magic-missile.md), [shield](compendium/spells/shield.md)
 
-**2nd level (3 slots)**: [invisibility](/compendium/spells/invisibility.md), [suggestion](/compendium/spells/suggestion.md)
+**2nd level (3 slots)**: [invisibility](compendium/spells/invisibility.md), [suggestion](compendium/spells/suggestion.md)
 
 ## Actions
 

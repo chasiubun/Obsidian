@@ -35,11 +35,11 @@ You learn an additional spell when you reach certain levels in this class, as sh
 
 | Ranger Level | Spells |
 |--------------|--------|
-| 3rd | [charm person](/compendium/spells/charm-person.md) |
-| 5th | [misty step](/compendium/spells/misty-step.md) |
-| 9th | [dispel magic](/compendium/spells/dispel-magic.md) |
-| 13th | [dimension door](/compendium/spells/dimension-door.md) |
-| 17th | [mislead](/compendium/spells/mislead.md) |
+| 3rd | [charm person](compendium/spells/charm-person.md) |
+| 5th | [misty step](compendium/spells/misty-step.md) |
+| 9th | [dispel magic](compendium/spells/dispel-magic.md) |
+| 13th | [dimension door](compendium/spells/dimension-door.md) |
+| 17th | [mislead](compendium/spells/mislead.md) |
 ^fey-wanderer-spells
 
 You also possess a preternatural blessing from a fey ally or a place of fey power. Choose your blessing from the Feywild Gifts table or determine it randomly.
@@ -62,28 +62,28 @@ You also possess a preternatural blessing from a fey ally or a place of fey powe
 
 Your fey qualities give you a supernatural charm. As a result, whenever you make a Charisma check, you gain a bonus to the check equal to your Wisdom modifier (minimum of +1).
 
-In addition, you gain proficiency in one of the following skills of your choice: [Deception](/compendium/rules/skills.md#Deception), [Performance](/compendium/rules/skills.md#Performance), or [Persuasion](/compendium/rules/skills.md#Persuasion).
+In addition, you gain proficiency in one of the following skills of your choice: [Deception](rules/skills.md#Deception), [Performance](rules/skills.md#Performance), or [Persuasion](rules/skills.md#Persuasion).
 
 ### Beguiling Twist (Level 7)
 
 *7th-level Fey Wanderer feature*
 
-The magic of the Feywild guards your mind. You have advantage on saving throws against being [charmed](/compendium/rules/conditions.md#charmed) or [frightened](/compendium/rules/conditions.md#frightened).
+The magic of the Feywild guards your mind. You have advantage on saving throws against being [charmed](rules/conditions.md#charmed) or [frightened](rules/conditions.md#frightened).
 
-In addition, whenever you or a creature you can see within 120 feet of you succeeds on a saving throw against being [charmed](/compendium/rules/conditions.md#charmed) or [frightened](/compendium/rules/conditions.md#frightened), you can use your reaction to force a different creature you can see within 120 feet of you to make a Wisdom saving throw against your spell save DC. If the save fails, the target is [charmed](/compendium/rules/conditions.md#charmed) or [frightened](/compendium/rules/conditions.md#frightened) by you (your choice) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a successful save.
+In addition, whenever you or a creature you can see within 120 feet of you succeeds on a saving throw against being [charmed](rules/conditions.md#charmed) or [frightened](rules/conditions.md#frightened), you can use your reaction to force a different creature you can see within 120 feet of you to make a Wisdom saving throw against your spell save DC. If the save fails, the target is [charmed](rules/conditions.md#charmed) or [frightened](rules/conditions.md#frightened) by you (your choice) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a successful save.
 
 ### Fey Reinforcements (Level 11)
 
 *11th-level Fey Wanderer feature*
 
-The royal courts of the Feywild have blessed you with the assistance of fey beings: you know [summon fey](/compendium/spells/summon-fey-tce.md). It doesn't count against the number of ranger spells you know, and you can cast it without a material component. You can also cast it once without a spell slot, and you regain the ability to do so when you finish a long rest.
+The royal courts of the Feywild have blessed you with the assistance of fey beings: you know [summon fey](compendium/spells/summon-fey-tce.md). It doesn't count against the number of ranger spells you know, and you can cast it without a material component. You can also cast it once without a spell slot, and you regain the ability to do so when you finish a long rest.
 
-Whenever you start casting the spell, you can modify it so that it doesn't require [concentration](/compendium/rules/conditions.md#concentration). If you do so, the spell's duration becomes 1 minute for that casting.
+Whenever you start casting the spell, you can modify it so that it doesn't require [concentration](rules/conditions.md#concentration). If you do so, the spell's duration becomes 1 minute for that casting.
 
 ### Misty Wanderer (Level 15)
 
 *15th-level Fey Wanderer feature*
 
-You can slip in and out of the Feywild to move in a blink of an eye: you can cast [misty step](/compendium/spells/misty-step.md) without expending a spell slot. You can do so a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a long rest.
+You can slip in and out of the Feywild to move in a blink of an eye: you can cast [misty step](compendium/spells/misty-step.md) without expending a spell slot. You can do so a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a long rest.
 
 In addition, whenever you cast *misty step*, you can bring along one willing creature you can see within 5 feet of you. That creature teleports to an unoccupied space of your choice within 5 feet of your destination space.

@@ -23,7 +23,7 @@ The scholars of Prismari College believe that art is the truest form of spellcra
 
 ```ad-statblock
 title: Prismari Professor of Expression
-![](/compendium/bestiary/humanoid/token/prismari-professor-of-expression.png#token)
+![](compendium/bestiary/humanoid/token/prismari-professor-of-expression.png#token)
 *Small or Medium humanoid (sorcerer), Any alignment*
 
 - **Armor Class** 13 
@@ -43,9 +43,9 @@ title: Prismari Professor of Expression
 
 ***Spellcasting.*** The professor casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 15):
 
-**At will**: [minor illusion](/compendium/spells/minor-illusion.md)
+**At will**: [minor illusion](compendium/spells/minor-illusion.md)
 
-**2/day each**: [fog cloud](/compendium/spells/fog-cloud.md), [gust of wind](/compendium/spells/gust-of-wind.md), [mage armor](/compendium/spells/mage-armor.md)
+**2/day each**: [fog cloud](compendium/spells/fog-cloud.md), [gust of wind](compendium/spells/gust-of-wind.md), [mage armor](compendium/spells/mage-armor.md)
 
 ## Actions
 

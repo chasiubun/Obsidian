@@ -18,7 +18,7 @@ Giant owls often befriend fey and other sylvan creatures and are guardians of th
 
 ```ad-statblock
 title: Giant Owl
-![](/compendium/bestiary/beast/token/giant-owl.png#token)
+![](compendium/bestiary/beast/token/giant-owl.png#token)
 *Large beast, Neutral*
 
 - **Armor Class** 12 
@@ -40,7 +40,7 @@ title: Giant Owl
 
 ***Flyby.*** The owl doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 
-***Keen Hearing and Sight.*** The owl has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on hearing or sight.
+***Keen Hearing and Sight.*** The owl has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on hearing or sight.
 
 ## Actions
 

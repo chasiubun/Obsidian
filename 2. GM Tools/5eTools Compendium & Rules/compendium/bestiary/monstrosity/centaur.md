@@ -40,7 +40,7 @@ Despite their reclusive nature, centaurs trade with elves and with the caravans 
 
 ```ad-statblock
 title: Centaur
-![](/compendium/bestiary/monstrosity/token/centaur.png#token)
+![](compendium/bestiary/monstrosity/token/centaur.png#token)
 *Large monstrosity, Neutral Good*
 
 - **Armor Class** 12 

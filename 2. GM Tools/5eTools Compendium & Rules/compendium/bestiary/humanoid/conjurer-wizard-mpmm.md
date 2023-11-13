@@ -22,10 +22,10 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 
 ```ad-statblock
 title: Conjurer Wizard
-![](/compendium/bestiary/humanoid/token/conjurer-wizard.png#token)
+![](compendium/bestiary/humanoid/token/conjurer-wizard.png#token)
 *Medium humanoid, Any alignment*
 
-- **Armor Class** 12  (15 with [mage armor](/compendium/spells/mage-armor.md))
+- **Armor Class** 12  (15 with [mage armor](compendium/spells/mage-armor.md))
 - **Hit Points** 58 (`13d8`)
 - **Speed** 30 ft.
 
@@ -42,11 +42,11 @@ title: Conjurer Wizard
 
 ***Spellcasting.*** The conjurer casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 14):
 
-**At will**: [dancing lights](/compendium/spells/dancing-lights.md), [mage hand](/compendium/spells/mage-hand.md), [prestidigitation](/compendium/spells/prestidigitation.md)
+**At will**: [dancing lights](compendium/spells/dancing-lights.md), [mage hand](compendium/spells/mage-hand.md), [prestidigitation](compendium/spells/prestidigitation.md)
 
-**1/day each**: [fly](/compendium/spells/fly.md), [stinking cloud](/compendium/spells/stinking-cloud.md), [web](/compendium/spells/web.md)
+**1/day each**: [fly](compendium/spells/fly.md), [stinking cloud](compendium/spells/stinking-cloud.md), [web](compendium/spells/web.md)
 
-**2/day each**: [fireball](/compendium/spells/fireball.md), [mage armor](/compendium/spells/mage-armor.md), [unseen servant](/compendium/spells/unseen-servant.md)
+**2/day each**: [fireball](compendium/spells/fireball.md), [mage armor](compendium/spells/mage-armor.md), [unseen servant](compendium/spells/unseen-servant.md)
 
 ## Actions
 
@@ -58,7 +58,7 @@ title: Conjurer Wizard
 
 ***Benign Transportation (Recharge 4-6).*** The conjurer teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space that it can see. If it instead chooses a space within range that is occupied by a willing Small or Medium creature, they both teleport, swapping places.
 
-***Summon Elemental (1/Day).*** The conjurer magically summons an [air elemental](/compendium/bestiary/elemental/air-elemental.md), an [earth elemental](/compendium/bestiary/elemental/earth-elemental.md), a [fire elemental](/compendium/bestiary/elemental/fire-elemental.md), or a [water elemental](/compendium/bestiary/elemental/water-elemental.md). The elemental appears in an unoccupied space within 60 feet of the conjurer, whom it obeys. It takes its turn immediately after the conjurer. It lasts for 1 hour, until it or the conjurer dies, or until the conjurer dismisses it as a bonus action.
+***Summon Elemental (1/Day).*** The conjurer magically summons an [air elemental](compendium/bestiary/elemental/air-elemental.md), an [earth elemental](compendium/bestiary/elemental/earth-elemental.md), a [fire elemental](compendium/bestiary/elemental/fire-elemental.md), or a [water elemental](compendium/bestiary/elemental/water-elemental.md). The elemental appears in an unoccupied space within 60 feet of the conjurer, whom it obeys. It takes its turn immediately after the conjurer. It lasts for 1 hour, until it or the conjurer dies, or until the conjurer dismisses it as a bonus action.
 ```
 ^statblock
 

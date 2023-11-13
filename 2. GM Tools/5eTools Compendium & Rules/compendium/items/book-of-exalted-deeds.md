@@ -26,8 +26,8 @@ Benefits granted by the Book of Exalted Deeds last only as long as you strive to
 
 The Book of Exalted Deeds has the following random properties:
 
-- 2 [minor beneficial properties](/compendium/tables/artifact-properties-minor-beneficial-properties.md)  
-- 2 [major beneficial properties](/compendium/tables/artifact-properties-major-beneficial-properties.md)  
+- 2 [minor beneficial properties](compendium/tables/artifact-properties-minor-beneficial-properties.md)  
+- 2 [major beneficial properties](compendium/tables/artifact-properties-major-beneficial-properties.md)  
 
 ## Increased Wisdom
 
@@ -39,7 +39,7 @@ Once you've read and studied the book, any spell slot you expend to cast a cleri
 
 ## Halo
 
-Once you've read and studied the book, you gain a protective halo. This halo sheds bright light in a 10-foot radius and dim light for an additional 10 feet. You can dismiss or manifest the halo as a bonus action. While present, the halo gives you advantage on Charisma ([Persuasion](/compendium/rules/skills.md#Persuasion)) checks made to interact with good creatures and Charisma ([Intimidation](/compendium/rules/skills.md#Intimidation)) checks made to interact with evil creatures. In addition, fiends and undead within the halo's bright light make attack rolls against you with disadvantage.
+Once you've read and studied the book, you gain a protective halo. This halo sheds bright light in a 10-foot radius and dim light for an additional 10 feet. You can dismiss or manifest the halo as a bonus action. While present, the halo gives you advantage on Charisma ([Persuasion](rules/skills.md#Persuasion)) checks made to interact with good creatures and Charisma ([Intimidation](rules/skills.md#Intimidation)) checks made to interact with evil creatures. In addition, fiends and undead within the halo's bright light make attack rolls against you with disadvantage.
 
 ## Destroying the Book
 

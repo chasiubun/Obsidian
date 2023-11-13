@@ -13,10 +13,10 @@ aliases: ["Madam Kulp"]
 
 ```ad-statblock
 title: Madam Kulp
-![](/compendium/bestiary/npc/token/madam-kulp.png#token)
+![](compendium/bestiary/npc/token/madam-kulp.png#token)
 *Small humanoid (Rock gnome), Neutral*
 
-- **Armor Class** 15  ([breastplate](/compendium/items/breastplate.md))
+- **Armor Class** 15  ([breastplate](compendium/items/breastplate.md))
 - **Hit Points** 9 (`2d8`)
 - **Speed** 25 ft.
 

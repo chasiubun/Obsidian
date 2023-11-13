@@ -26,7 +26,7 @@ Most broodguards are made from human captives forced to consume a magical brew t
 
 ```ad-statblock
 title: Yuan-ti Broodguard
-![](/compendium/bestiary/monstrosity/token/yuan-ti-broodguard.png#token)
+![](compendium/bestiary/monstrosity/token/yuan-ti-broodguard.png#token)
 *Medium monstrosity, Typically  Neutral Evil*
 
 - **Armor Class** 14  (natural armor)

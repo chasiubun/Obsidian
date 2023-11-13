@@ -18,7 +18,7 @@ aliases:
 - **Damage**:
   - One-handed: 1d8 S
   - Two-handed: 1d10 S
-- **Properties**: Martial, [Versatile](/compendium/rules/item-properties.md#Versatile)
+- **Properties**: Martial, [Versatile](rules/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 In the world of Greyhawk, only nine of these blades are known to exist. Each is patterned after the legendary sword Fragarach, which is variously translated as "Final Word." Each of the nine swords has its own name and alignment, and each bears a different gem in its pommel.

@@ -24,7 +24,7 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 
 ```ad-statblock
 title: Allosaurus
-![](/compendium/bestiary/beast/token/allosaurus.png#token)
+![](compendium/bestiary/beast/token/allosaurus.png#token)
 *Large beast, Unaligned*
 
 - **Armor Class** 13  (natural armor)
@@ -44,7 +44,7 @@ title: Allosaurus
 
 ## Traits
 
-***Pounce.*** If the allosaurus moves at least 30 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked [prone](/compendium/rules/conditions.md#prone). If the target is [prone](/compendium/rules/conditions.md#prone), the allosaurus can make one bite attack against it as a bonus action.
+***Pounce.*** If the allosaurus moves at least 30 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked [prone](rules/conditions.md#prone). If the target is [prone](rules/conditions.md#prone), the allosaurus can make one bite attack against it as a bonus action.
 
 ## Actions
 

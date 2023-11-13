@@ -9,9 +9,9 @@ aliases: ["Charlatan"]
 # Charlatan
 *Source: Player's Handbook p. 128*  
 
-- **Skill Proficiencies.** [Deception](/compendium/rules/skills.md#Deception), [Sleight of Hand](/compendium/rules/skills.md#Sleight%20of%20Hand)  
-- **Tool Proficiencies.** [Disguise kit](/compendium/items/disguise-kit.md), [Forgery kit](/compendium/items/forgery-kit.md)  
-- **Equipment.** A set of [fine clothes](/compendium/items/fine-clothes.md), a [disguise kit](/compendium/items/disguise-kit.md), tools of the con of your choice (ten stoppered bottles filled with colored liquid, a set of weighted dice, a deck of marked cards, or a signet ring of an imaginary duke), and a belt [pouch](/compendium/items/pouch.md) containing 15 gp  
+- **Skill Proficiencies.** [Deception](rules/skills.md#Deception), [Sleight of Hand](rules/skills.md#Sleight%20of%20Hand)  
+- **Tool Proficiencies.** [Disguise kit](compendium/items/disguise-kit.md), [Forgery kit](compendium/items/forgery-kit.md)  
+- **Equipment.** A set of [fine clothes](compendium/items/fine-clothes.md), a [disguise kit](compendium/items/disguise-kit.md), tools of the con of your choice (ten stoppered bottles filled with colored liquid, a set of weighted dice, a deck of marked cards, or a signet ring of an imaginary duke), and a belt [pouch](compendium/items/pouch.md) containing 15 gp  
 
 You have always had a way with people. You know what makes them tick, you can tease out their hearts' desires after a few minutes of conversation, and with a few leading questions you can read like they were children's books. It's a useful talent, and one that you're perfectly willing to use for your advantage
 

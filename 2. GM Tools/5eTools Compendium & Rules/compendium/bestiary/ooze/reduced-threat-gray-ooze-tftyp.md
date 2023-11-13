@@ -13,7 +13,7 @@ aliases: ["Reduced-Threat Gray Ooze"]
 
 ```ad-statblock
 title: Reduced-Threat Gray Ooze
-![](/compendium/bestiary/ooze/token/reduced-threat-gray-ooze.png#token)
+![](compendium/bestiary/ooze/token/reduced-threat-gray-ooze.png#token)
 *Medium ooze, Unaligned*
 
 - **Armor Class** 8 

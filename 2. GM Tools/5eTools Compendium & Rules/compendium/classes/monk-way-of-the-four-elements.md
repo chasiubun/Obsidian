@@ -31,7 +31,7 @@ Whenever you learn a new elemental discipline, you can also replace one elementa
 
 Some elemental disciplines allow you to cast spells. See "chapter 10" of the Player's Handbook for the general rules of spellcasting. To cast one of these spells, you use its casting time and other rules, but you don't need to provide material components for it.
 
-Once you reach 5th level in this class, you can spend additional ki points to increase the level of an elemental discipline spell that you cast, provided that the spell has an enhanced effect at a higher level, as [burning hands](/compendium/spells/burning-hands.md) does. The spell's level increases by 1 for each additional ki point you spend. For example, if you are a 5th-level monk and use Sweeping Cinder Strike to cast [burning hands](/compendium/spells/burning-hands.md), you can spend 3 ki points to cast it as a 2nd-level spell (the discipline's base cost of 2 ki points plus 1).
+Once you reach 5th level in this class, you can spend additional ki points to increase the level of an elemental discipline spell that you cast, provided that the spell has an enhanced effect at a higher level, as [burning hands](compendium/spells/burning-hands.md) does. The spell's level increases by 1 for each additional ki point you spend. For example, if you are a 5th-level monk and use Sweeping Cinder Strike to cast [burning hands](compendium/spells/burning-hands.md), you can spend 3 ki points to cast it as a 2nd-level spell (the discipline's base cost of 2 ki points plus 1).
 
 The maximum number of ki points you can spend to cast a spell in this way (including its base ki point cost and any additional ki points you spend to increase its level) is determined by your monk level, as shown in the Spells and Ki Points table. At 5th level, you may spend up to 3 ki points; this increases to 4 ki points at 9th level, 5 at 13th level, and 6 at 17th level.
 
@@ -49,23 +49,23 @@ The maximum number of ki points you can spend to cast a spell in this way (inclu
 
 The elemental disciplines are presented in alphabetical order. If a discipline requires a level, you must be the level in this class to learn the discipline.
 
-- [Breath of Winter](/compendium/optional-features/breath-of-winter.md)  
-- [Clench of the North Wind](/compendium/optional-features/clench-of-the-north-wind.md)  
-- [Elemental Attunement](/compendium/optional-features/elemental-attunement.md)  
-- [Eternal Mountain Defense](/compendium/optional-features/eternal-mountain-defense.md)  
-- [Fangs of the Fire Snake](/compendium/optional-features/fangs-of-the-fire-snake.md)  
-- [Fist of Four Thunders](/compendium/optional-features/fist-of-four-thunders.md)  
-- [Unbroken Air](/compendium/optional-features/unbroken-air.md)  
-- [Flames of the Phoenix](/compendium/optional-features/flames-of-the-phoenix.md)  
-- [Gong of the Summit](/compendium/optional-features/gong-of-the-summit.md)  
-- [Mist Stance](/compendium/optional-features/mist-stance.md)  
-- [Ride the Wind](/compendium/optional-features/ride-the-wind.md)  
-- [River of Hungry Flame](/compendium/optional-features/river-of-hungry-flame.md)  
-- [Rush of the Gale Spirits](/compendium/optional-features/rush-of-the-gale-spirits.md)  
-- [Shape the Flowing River](/compendium/optional-features/shape-the-flowing-river.md)  
-- [Sweeping Cinder Strike](/compendium/optional-features/sweeping-cinder-strike.md)  
-- [Water Whip](/compendium/optional-features/water-whip.md)  
-- [Wave of Rolling Earth](/compendium/optional-features/wave-of-rolling-earth.md)  
+- [Breath of Winter](compendium/optional-features/breath-of-winter.md)  
+- [Clench of the North Wind](compendium/optional-features/clench-of-the-north-wind.md)  
+- [Elemental Attunement](compendium/optional-features/elemental-attunement.md)  
+- [Eternal Mountain Defense](compendium/optional-features/eternal-mountain-defense.md)  
+- [Fangs of the Fire Snake](compendium/optional-features/fangs-of-the-fire-snake.md)  
+- [Fist of Four Thunders](compendium/optional-features/fist-of-four-thunders.md)  
+- [Unbroken Air](compendium/optional-features/unbroken-air.md)  
+- [Flames of the Phoenix](compendium/optional-features/flames-of-the-phoenix.md)  
+- [Gong of the Summit](compendium/optional-features/gong-of-the-summit.md)  
+- [Mist Stance](compendium/optional-features/mist-stance.md)  
+- [Ride the Wind](compendium/optional-features/ride-the-wind.md)  
+- [River of Hungry Flame](compendium/optional-features/river-of-hungry-flame.md)  
+- [Rush of the Gale Spirits](compendium/optional-features/rush-of-the-gale-spirits.md)  
+- [Shape the Flowing River](compendium/optional-features/shape-the-flowing-river.md)  
+- [Sweeping Cinder Strike](compendium/optional-features/sweeping-cinder-strike.md)  
+- [Water Whip](compendium/optional-features/water-whip.md)  
+- [Wave of Rolling Earth](compendium/optional-features/wave-of-rolling-earth.md)  
 
 ### Extra Elemental Discipline (Level 6)
 
@@ -88,5 +88,5 @@ Whenever you learn a new elemental discipline, you can also replace one elementa
 ## Optional Features
 
 > [!example]- Elemental Discipline
-> ![Elemental Discipline](/compendium/optional-features/list-elemental-discipline.md#Elemental%20Discipline)
+> ![Elemental Discipline](compendium/optional-features/list-elemental-discipline.md#Elemental%20Discipline)
 ^list-elemental-discipline

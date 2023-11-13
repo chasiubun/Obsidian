@@ -24,7 +24,7 @@ The Gnoll Lord is covered in matted fur and leathery hide, and his face resemble
 
 ## Yeenoghu's Lair
 
-Yeenoghu's lair in the Abyss is called the Death Dells. Its barren hills and ravines serve as a hunting ground, where he pursues captured mortals in a cruel game. Yeenoghu's lair is a place of blood and death, populated by [gnolls](/compendium/bestiary/humanoid/gnoll.md), [hyenas](/compendium/bestiary/beast/hyena.md), and [ghouls](/compendium/bestiary/undead/ghoul.md), and there are few structures or signs of civilization on his layer of the Abyss.
+Yeenoghu's lair in the Abyss is called the Death Dells. Its barren hills and ravines serve as a hunting ground, where he pursues captured mortals in a cruel game. Yeenoghu's lair is a place of blood and death, populated by [gnolls](compendium/bestiary/humanoid/gnoll.md), [hyenas](compendium/bestiary/beast/hyena.md), and [ghouls](compendium/bestiary/undead/ghoul.md), and there are few structures or signs of civilization on his layer of the Abyss.
 
 The challenge rating of Yeenoghu is 25 (75,000 XP) when he's encountered in his lair.
 
@@ -32,7 +32,7 @@ The challenge rating of Yeenoghu is 25 (75,000 XP) when he's encountered in his 
 
 ```ad-statblock
 title: Yeenoghu
-![](/compendium/bestiary/npc/token/yeenoghu.png#token)
+![](compendium/bestiary/npc/token/yeenoghu.png#token)
 *Huge fiend (demon), Chaotic Evil*
 
 - **Armor Class** 20  (natural armor)
@@ -58,11 +58,11 @@ title: Yeenoghu
 
 ***Spellcasting.*** Yeenoghu casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 17):
 
-**At will**: [detect magic](/compendium/spells/detect-magic.md)
+**At will**: [detect magic](compendium/spells/detect-magic.md)
 
-**1/day**: [teleport](/compendium/spells/teleport.md)
+**1/day**: [teleport](compendium/spells/teleport.md)
 
-**3/day each**: [dispel magic](/compendium/spells/dispel-magic.md), [fear](/compendium/spells/fear.md), [invisibility](/compendium/spells/invisibility.md)
+**3/day each**: [dispel magic](compendium/spells/dispel-magic.md), [fear](compendium/spells/fear.md), [invisibility](compendium/spells/invisibility.md)
 
 ## Actions
 
@@ -72,7 +72,7 @@ title: Yeenoghu
 
 - **Confusion.** The target must succeed on a DC 17 Wisdom saving throw or be affected by the confusion spell until the start of Yeenoghu's next turn.  
 - **Force.** The target takes an extra 13 (`2d12`) force damage.  
-- **Paralysis.** The target must succeed on a DC 17 Constitution saving throw or be [paralyzed](/compendium/rules/conditions.md#paralyzed) until the start of Yeenoghu's next turn.  
+- **Paralysis.** The target must succeed on a DC 17 Constitution saving throw or be [paralyzed](rules/conditions.md#paralyzed) until the start of Yeenoghu's next turn.  
 
 ***Bite.*** *Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:* 20 (`2d10 + 9`) acid damage.
 
@@ -84,10 +84,10 @@ title: Yeenoghu
 
 ***Charge.*** Yeenoghu moves up to his speed.
 
-***Swat Away.*** Yeenoghu makes one Flail attack. If the attack hits, the target must succeed on a DC 24 Strength saving throw or be pushed up to 15 feet in a straight line away from Yeenoghu. If the saving throw fails by 5 or more, the target is also knocked [prone](/compendium/rules/conditions.md#prone).
+***Swat Away.*** Yeenoghu makes one Flail attack. If the attack hits, the target must succeed on a DC 24 Strength saving throw or be pushed up to 15 feet in a straight line away from Yeenoghu. If the saving throw fails by 5 or more, the target is also knocked [prone](rules/conditions.md#prone).
 
 ***Savage (Costs 2 Actions).*** Yeenoghu makes a separate Bite attack against each creature within 10 feet of him.
 
-![Yeenoghu](/compendium/bestiary/legendary-group/yeenoghu-mpmm.md)
+![Yeenoghu](compendium/bestiary/legendary-group/yeenoghu-mpmm.md)
 ```
 ^statblock

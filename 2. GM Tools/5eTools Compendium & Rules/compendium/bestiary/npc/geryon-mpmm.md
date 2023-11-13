@@ -28,7 +28,7 @@ Geryon has recently reclaimed his ancient fortress, Coldsteel, a sprawling compl
 
 ```ad-statblock
 title: Geryon
-![](/compendium/bestiary/npc/token/geryon.png#token)
+![](compendium/bestiary/npc/token/geryon.png#token)
 *Huge fiend (devil), Lawful Evil*
 
 - **Armor Class** 19  (natural armor)
@@ -56,28 +56,28 @@ title: Geryon
 
 ***Spellcasting.*** Geryon casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 21):
 
-**At will**: [alter self](/compendium/spells/alter-self.md) (can become Medium when changing his appearance), [detect magic](/compendium/spells/detect-magic.md), [ice storm](/compendium/spells/ice-storm.md), [invisibility](/compendium/spells/invisibility.md) (self only), [locate object](/compendium/spells/locate-object.md), [suggestion](/compendium/spells/suggestion.md), [wall of ice](/compendium/spells/wall-of-ice.md)
+**At will**: [alter self](compendium/spells/alter-self.md) (can become Medium when changing his appearance), [detect magic](compendium/spells/detect-magic.md), [ice storm](compendium/spells/ice-storm.md), [invisibility](compendium/spells/invisibility.md) (self only), [locate object](compendium/spells/locate-object.md), [suggestion](compendium/spells/suggestion.md), [wall of ice](compendium/spells/wall-of-ice.md)
 
-**1/day**: [banishment](/compendium/spells/banishment.md)
+**1/day**: [banishment](compendium/spells/banishment.md)
 
 ## Actions
 
 ***Multiattack.*** Geryon makes one Claw attack and one Stinger attack.
 
-***Claw.*** *Melee Weapon Attack:* +16 to hit, reach 15 ft., one target. *Hit:* 23 (`4d6 + 9`) cold damage. If the target is Large or smaller, it is [grappled](/compendium/rules/conditions.md#grappled) (DC 24), and it is [restrained](/compendium/rules/conditions.md#restrained) until the grapple ends. Geryon can grapple one creature at a time. If the target is already [grappled](/compendium/rules/conditions.md#grappled) by Geryon, the target takes an extra 27 (`6d8`) cold damage.
+***Claw.*** *Melee Weapon Attack:* +16 to hit, reach 15 ft., one target. *Hit:* 23 (`4d6 + 9`) cold damage. If the target is Large or smaller, it is [grappled](rules/conditions.md#grappled) (DC 24), and it is [restrained](rules/conditions.md#restrained) until the grapple ends. Geryon can grapple one creature at a time. If the target is already [grappled](rules/conditions.md#grappled) by Geryon, the target takes an extra 27 (`6d8`) cold damage.
 
-***Stinger.*** *Melee Weapon Attack:* +16 to hit, reach 20 ft., one creature. *Hit:* 14 (`2d4 + 9`) force damage, and the target must succeed on a DC 21 Constitution saving throw or take 13 (`2d12`) poison damage and become [poisoned](/compendium/rules/conditions.md#poisoned) until it finishes a short or long rest. The target's hit point maximum is reduced by an amount equal to half the poison damage taken. This reduction lasts until the [poisoned](/compendium/rules/conditions.md#poisoned) condition is removed. The target dies if its hit point maximum is reduced to 0.
+***Stinger.*** *Melee Weapon Attack:* +16 to hit, reach 20 ft., one creature. *Hit:* 14 (`2d4 + 9`) force damage, and the target must succeed on a DC 21 Constitution saving throw or take 13 (`2d12`) poison damage and become [poisoned](rules/conditions.md#poisoned) until it finishes a short or long rest. The target's hit point maximum is reduced by an amount equal to half the poison damage taken. This reduction lasts until the [poisoned](rules/conditions.md#poisoned) condition is removed. The target dies if its hit point maximum is reduced to 0.
 
 ***Teleport.*** Geryon teleports, along with any equipment he is wearing and carrying, up to 120 feet to an unoccupied space he can see.
 
 ## Legendary Actions
 
-***Infernal Glare.*** Geryon targets one creature he can see within 60 feet of him. The target must succeed on a DC 23 Wisdom saving throw or become [frightened](/compendium/rules/conditions.md#frightened) of Geryon until the end of its next turn.
+***Infernal Glare.*** Geryon targets one creature he can see within 60 feet of him. The target must succeed on a DC 23 Wisdom saving throw or become [frightened](rules/conditions.md#frightened) of Geryon until the end of its next turn.
 
 ***Teleport.*** Geryon uses Teleport.
 
 ***Swift Sting (Costs 2 Actions).*** Geryon makes one Stinger attack.
 
-![Geryon](/compendium/bestiary/legendary-group/geryon-mpmm.md)
+![Geryon](compendium/bestiary/legendary-group/geryon-mpmm.md)
 ```
 ^statblock

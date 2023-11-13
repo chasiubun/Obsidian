@@ -23,6 +23,6 @@ You bless up to three creatures of your choice within range. Whenever a target m
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
-**Classes**: [Cleric (Life Domain)](/compendium/classes/cleric-life-domain.md), [Cleric](/compendium/classes/cleric.md), [Paladin](/compendium/classes/paladin.md), [Sorcerer (Divine Soul)](/compendium/classes/sorcerer-divine-soul-xge.md)
+**Classes**: [Cleric (Life Domain)](compendium/classes/cleric-life-domain.md), [Cleric](compendium/classes/cleric.md), [Paladin](compendium/classes/paladin.md), [Sorcerer (Divine Soul)](compendium/classes/sorcerer-divine-soul-xge.md)
 
 *Source: Player's Handbook p. 219. Available in the SRD and the Basic Rules.*

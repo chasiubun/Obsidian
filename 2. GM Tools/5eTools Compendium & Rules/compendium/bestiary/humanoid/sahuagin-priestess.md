@@ -44,7 +44,7 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
 
 ```ad-statblock
 title: Sahuagin Priestess
-![](/compendium/bestiary/humanoid/token/sahuagin-priestess.png#token)
+![](compendium/bestiary/humanoid/token/sahuagin-priestess.png#token)
 *Medium humanoid (sahuagin), Lawful Evil*
 
 - **Armor Class** 12  (natural armor)
@@ -72,13 +72,13 @@ title: Sahuagin Priestess
 
 ***Spellcasting.*** The sahuagin is a 6th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). She has the following cleric spells prepared:
 
-**Cantrips (at will)**: [guidance](/compendium/spells/guidance.md), [thaumaturgy](/compendium/spells/thaumaturgy.md)
+**Cantrips (at will)**: [guidance](compendium/spells/guidance.md), [thaumaturgy](compendium/spells/thaumaturgy.md)
 
-**1st level (4 slots)**: [bless](/compendium/spells/bless.md), [detect magic](/compendium/spells/detect-magic.md), [guiding bolt](/compendium/spells/guiding-bolt.md)
+**1st level (4 slots)**: [bless](compendium/spells/bless.md), [detect magic](compendium/spells/detect-magic.md), [guiding bolt](compendium/spells/guiding-bolt.md)
 
-**2nd level (3 slots)**: [hold person](/compendium/spells/hold-person.md), [spiritual weapon](/compendium/spells/spiritual-weapon.md) (trident)
+**2nd level (3 slots)**: [hold person](compendium/spells/hold-person.md), [spiritual weapon](compendium/spells/spiritual-weapon.md) (trident)
 
-**3rd level (3 slots)**: [mass healing word](/compendium/spells/mass-healing-word.md), [tongues](/compendium/spells/tongues.md)
+**3rd level (3 slots)**: [mass healing word](compendium/spells/mass-healing-word.md), [tongues](compendium/spells/tongues.md)
 
 ## Actions
 

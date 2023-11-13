@@ -24,7 +24,7 @@ Githzerai are otherworldly folk with psionic powers who share an ancestral link 
 
 ```ad-statblock
 title: Githzerai Enlightened
-![](/compendium/bestiary/humanoid/token/githzerai-enlightened.png#token)
+![](compendium/bestiary/humanoid/token/githzerai-enlightened.png#token)
 *Medium humanoid (gith), Any alignment*
 
 - **Armor Class** 18  (psychic defense)
@@ -48,11 +48,11 @@ title: Githzerai Enlightened
 
 ***Spellcasting (Psionics).*** The githzerai casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability (spell save DC 16):
 
-**At will**: [mage hand](/compendium/spells/mage-hand.md) (the hand is invisible)
+**At will**: [mage hand](compendium/spells/mage-hand.md) (the hand is invisible)
 
-**1/day each**: [plane shift](/compendium/spells/plane-shift.md), [teleport](/compendium/spells/teleport.md)
+**1/day each**: [plane shift](compendium/spells/plane-shift.md), [teleport](compendium/spells/teleport.md)
 
-**3/day**: [see invisibility](/compendium/spells/see-invisibility.md)
+**3/day**: [see invisibility](compendium/spells/see-invisibility.md)
 
 ## Actions
 

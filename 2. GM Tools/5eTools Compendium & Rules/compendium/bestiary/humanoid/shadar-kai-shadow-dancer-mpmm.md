@@ -36,10 +36,10 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
 
 ```ad-statblock
 title: Shadar-kai Shadow Dancer
-![](/compendium/bestiary/humanoid/token/shadar-kai-shadow-dancer.png#token)
+![](compendium/bestiary/humanoid/token/shadar-kai-shadow-dancer.png#token)
 *Medium humanoid (elf), Any alignment*
 
-- **Armor Class** 15  ([studded leather](/compendium/items/studded-leather-armor.md))
+- **Armor Class** 15  ([studded leather](compendium/items/studded-leather-armor.md))
 - **Hit Points** 71 (`13d8 + 13`)
 - **Speed** 30 ft.
 
@@ -56,7 +56,7 @@ title: Shadar-kai Shadow Dancer
 
 ## Traits
 
-***Fey Ancestry.*** The shadar-kai has advantage on saving throws against being [charmed](/compendium/rules/conditions.md#charmed), and magic can't put it to sleep.
+***Fey Ancestry.*** The shadar-kai has advantage on saving throws against being [charmed](rules/conditions.md#charmed), and magic can't put it to sleep.
 
 ## Actions
 
@@ -67,8 +67,8 @@ It can use Shadow Jump after one of these attacks.
 ***Spiked Chain.*** *Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 10 (`2d6 + 3`) piercing damage. The target must succeed on a DC 14 Dexterity saving throw or suffer one of the following effects (choose one or roll a `d6`):
 
 - **1–2 Decay.** The target takes 22 (`4d10`) necrotic damage.  
-- **3–4 Grapple.** The target is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 14) if it is a Medium or smaller creature. Until the grapple ends, the target is [restrained](/compendium/rules/conditions.md#restrained), and the shadar-kai can't grapple another target.  
-- **5–6 Topple.** The target is knocked [prone](/compendium/rules/conditions.md#prone).  
+- **3–4 Grapple.** The target is [grappled](rules/conditions.md#grappled) (escape DC 14) if it is a Medium or smaller creature. Until the grapple ends, the target is [restrained](rules/conditions.md#restrained), and the shadar-kai can't grapple another target.  
+- **5–6 Topple.** The target is knocked [prone](rules/conditions.md#prone).  
 
 ## Bonus Actions
 

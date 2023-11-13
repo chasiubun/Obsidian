@@ -14,7 +14,7 @@ aliases: ["Black Bear"]
 
 ```ad-statblock
 title: Black Bear
-![](/compendium/bestiary/beast/token/black-bear.png#token)
+![](compendium/bestiary/beast/token/black-bear.png#token)
 *Medium beast, Unaligned*
 
 - **Armor Class** 11  (natural armor)
@@ -34,7 +34,7 @@ title: Black Bear
 
 ## Traits
 
-***Keen Smell.*** The bear has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on smell.
+***Keen Smell.*** The bear has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on smell.
 
 ## Actions
 

@@ -13,10 +13,10 @@ aliases: ["Hill Giant Servant"]
 
 ```ad-statblock
 title: Hill Giant Servant
-![](/compendium/bestiary/giant/token/hill-giant-servant.png#token)
+![](compendium/bestiary/giant/token/hill-giant-servant.png#token)
 *Large giant, Chaotic Evil*
 
-- **Armor Class** 11  ([hide armor](/compendium/items/hide-armor.md))
+- **Armor Class** 11  ([hide armor](compendium/items/hide-armor.md))
 - **Hit Points** 59 (`7d10 + 21`)
 - **Speed** 40 ft.
 

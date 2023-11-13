@@ -14,7 +14,7 @@ aliases:
 *Melee Weapon, rare (requires attunement by a druid or ranger)*  
 
 - **Damage**: 1d4 S
-- **Properties**: [Light](/compendium/rules/item-properties.md#Light)
+- **Properties**: [Light](rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 This silver-bladed sickle glimmers softly with moonlight. While holding this magic weapon, you gain a +2 bonus to attack and damage rolls made with it, and you gain a +2 bonus to spell attack rolls and the saving throw DCs of your druid and ranger spells. In addition, you can use the sickle as a spellcasting focus for your druid and ranger spells.

@@ -18,7 +18,7 @@ Quippers can adapt to any aquatic environment, including cold subterranean lakes
 
 ```ad-statblock
 title: Quipper
-![](/compendium/bestiary/beast/token/quipper.png#token)
+![](compendium/bestiary/beast/token/quipper.png#token)
 *Tiny beast, Unaligned*
 
 - **Armor Class** 13 

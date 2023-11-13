@@ -26,6 +26,6 @@ You create a magical zone that guards against deception in a 15-foot-radius sphe
 
 An affected creature is aware of the spell and can thus avoid answering questions to which it would normally respond with a lie. Such creatures can be evasive in its answers as long as it remains within the boundaries of the truth.
 
-**Classes**: [Bard](/compendium/classes/bard.md), [Cleric (Order Domain)](/compendium/classes/cleric-order-domain-tce.md), [Cleric](/compendium/classes/cleric.md), [Paladin (Oath of Devotion)](/compendium/classes/paladin-oath-of-devotion.md), [Paladin](/compendium/classes/paladin.md), [Ranger (Monster Slayer)](/compendium/classes/ranger-monster-slayer-xge.md), [Sorcerer (Divine Soul)](/compendium/classes/sorcerer-divine-soul-xge.md)
+**Classes**: [Bard](compendium/classes/bard.md), [Cleric (Order Domain)](compendium/classes/cleric-order-domain-tce.md), [Cleric](compendium/classes/cleric.md), [Paladin (Oath of Devotion)](compendium/classes/paladin-oath-of-devotion.md), [Paladin](compendium/classes/paladin.md), [Ranger (Monster Slayer)](compendium/classes/ranger-monster-slayer-xge.md), [Sorcerer (Divine Soul)](compendium/classes/sorcerer-divine-soul-xge.md)
 
 *Source: Player's Handbook p. 289. Available in the SRD.*

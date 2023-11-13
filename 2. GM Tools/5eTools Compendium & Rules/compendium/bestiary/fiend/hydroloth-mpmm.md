@@ -17,7 +17,7 @@ For amphibious assaults or underwater conflicts, hydroloths have no equal among 
 
 ```ad-statblock
 title: Hydroloth
-![](/compendium/bestiary/fiend/token/hydroloth.png#token)
+![](compendium/bestiary/fiend/token/hydroloth.png#token)
 *Medium fiend (yugoloth), Typically  Neutral Evil*
 
 - **Armor Class** 15 
@@ -35,7 +35,7 @@ title: Hydroloth
 - **Damage Vulnerabilities** fire
 - **Damage Resistances** cold; lightning; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** acid, poison
-- **Condition Immunities** [poisoned](/compendium/rules/conditions.md#poisoned)
+- **Condition Immunities** [poisoned](rules/conditions.md#poisoned)
 - **Languages** Abyssal, Infernal, telepathy 60 ft.
 - **Challenge** 9
 
@@ -51,9 +51,9 @@ title: Hydroloth
 
 ***Spellcasting.*** The hydroloth casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 16):
 
-**At will**: [darkness](/compendium/spells/darkness.md), [detect magic](/compendium/spells/detect-magic.md), [dispel magic](/compendium/spells/dispel-magic.md), [invisibility](/compendium/spells/invisibility.md) (self only)
+**At will**: [darkness](compendium/spells/darkness.md), [detect magic](compendium/spells/detect-magic.md), [dispel magic](compendium/spells/dispel-magic.md), [invisibility](compendium/spells/invisibility.md) (self only)
 
-**3/day each**: [control water](/compendium/spells/control-water.md), [crown of madness](/compendium/spells/crown-of-madness.md), [fear](/compendium/spells/fear.md), [suggestion](/compendium/spells/suggestion.md)
+**3/day each**: [control water](compendium/spells/control-water.md), [crown of madness](compendium/spells/crown-of-madness.md), [fear](compendium/spells/fear.md), [suggestion](compendium/spells/suggestion.md)
 
 ## Actions
 
@@ -63,7 +63,7 @@ title: Hydroloth
 
 ***Claw.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target.  *Hit:* 14 (`2d8 + 5`) force damage plus 9 (`2d10`) psychic damage.
 
-***Steal Memory (1/Day).*** The hydroloth targets one creature it can see within 60 feet of it. The target takes 14 (`4d6`) psychic damage, and it must make a DC 16 Intelligence saving throw. On a successful save, the target becomes immune to this hydroloth's Steal Memory for 24 hours. On a failed save, the target loses all proficiencies; it can't cast spells; it can't understand language; and if its Intelligence and Charisma scores are higher than 5, they become 5. Each time the target finishes a long rest, it can repeat the saving throw, ending the effect on itself on a success. A [greater restoration](/compendium/spells/greater-restoration.md) or [remove curse](/compendium/spells/remove-curse.md) spell cast on the target ends this effect early.
+***Steal Memory (1/Day).*** The hydroloth targets one creature it can see within 60 feet of it. The target takes 14 (`4d6`) psychic damage, and it must make a DC 16 Intelligence saving throw. On a successful save, the target becomes immune to this hydroloth's Steal Memory for 24 hours. On a failed save, the target loses all proficiencies; it can't cast spells; it can't understand language; and if its Intelligence and Charisma scores are higher than 5, they become 5. Each time the target finishes a long rest, it can repeat the saving throw, ending the effect on itself on a success. A [greater restoration](compendium/spells/greater-restoration.md) or [remove curse](compendium/spells/remove-curse.md) spell cast on the target ends this effect early.
 
 ***Teleport.*** The hydroloth teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
 ```

@@ -14,7 +14,7 @@ aliases: ["Githyanki Supreme Commander"]
 # Githyanki Supreme Commander
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 141, Mordenkainen's Tome of Foes p. 206*  
 
-Supreme commanders lead armies, each one commanding ten kith'raks, who in turn lead the rest of their forces. Most supreme commanders ride [red dragons](/compendium/bestiary/dragon/adult-red-dragon.md) into battle.
+Supreme commanders lead armies, each one commanding ten kith'raks, who in turn lead the rest of their forces. Most supreme commanders ride [red dragons](compendium/bestiary/dragon/adult-red-dragon.md) into battle.
 
 ## Githyanki
 
@@ -24,10 +24,10 @@ Githyanki descend from an ancient people who were also the progenitors of githze
 
 ```ad-statblock
 title: Githyanki Supreme Commander
-![](/compendium/bestiary/humanoid/token/githyanki-supreme-commander.png#token)
+![](compendium/bestiary/humanoid/token/githyanki-supreme-commander.png#token)
 *Medium humanoid (gith), Any alignment*
 
-- **Armor Class** 18  ([plate](/compendium/items/plate-armor.md))
+- **Armor Class** 18  ([plate](compendium/items/plate-armor.md))
 - **Hit Points** 187 (`22d8 + 88`)
 - **Speed** 30 ft.
 
@@ -48,17 +48,17 @@ title: Githyanki Supreme Commander
 
 ***Spellcasting (Psionics).*** The githyanki casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 16):
 
-**At will**: [mage hand](/compendium/spells/mage-hand.md) (the hand is invisible)
+**At will**: [mage hand](compendium/spells/mage-hand.md) (the hand is invisible)
 
-**1/day each**: [Bigby's hand](/compendium/spells/bigbys-hand.md), [mass suggestion](/compendium/spells/mass-suggestion.md), [plane shift](/compendium/spells/plane-shift.md), [telekinesis](/compendium/spells/telekinesis.md)
+**1/day each**: [Bigby's hand](compendium/spells/bigbys-hand.md), [mass suggestion](compendium/spells/mass-suggestion.md), [plane shift](compendium/spells/plane-shift.md), [telekinesis](compendium/spells/telekinesis.md)
 
-**3/day each**: [levitate](/compendium/spells/levitate.md) (self only), [nondetection](/compendium/spells/nondetection.md) (self only)
+**3/day each**: [levitate](compendium/spells/levitate.md) (self only), [nondetection](compendium/spells/nondetection.md) (self only)
 
 ## Actions
 
 ***Multiattack.*** The githyanki makes two Silver Greatsword attacks.
 
-***Silver Greatsword.*** *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 14 (`2d6 + 7`) slashing damage plus 17 (`5d6`) psychic damage. On a critical hit against a target in an astral body (as with the [astral projection](/compendium/spells/astral-projection.md) spell), the githyanki can cut the silvery cord that tethers the target to its material body, instead of dealing damage.
+***Silver Greatsword.*** *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 14 (`2d6 + 7`) slashing damage plus 17 (`5d6`) psychic damage. On a critical hit against a target in an astral body (as with the [astral projection](compendium/spells/astral-projection.md) spell), the githyanki can cut the silvery cord that tethers the target to its material body, instead of dealing damage.
 
 ## Bonus Actions
 

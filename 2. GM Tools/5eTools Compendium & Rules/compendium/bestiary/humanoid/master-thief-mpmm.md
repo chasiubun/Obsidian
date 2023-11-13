@@ -34,10 +34,10 @@ When a master thief completes a challenging heist, they often leave behind a cal
 
 ```ad-statblock
 title: Master Thief
-![](/compendium/bestiary/humanoid/token/master-thief.png#token)
+![](compendium/bestiary/humanoid/token/master-thief.png#token)
 *Medium humanoid, Any alignment*
 
-- **Armor Class** 16  ([studded leather](/compendium/items/studded-leather-armor.md))
+- **Armor Class** 16  ([studded leather](compendium/items/studded-leather-armor.md))
 - **Hit Points** 84 (`13d8 + 26`)
 - **Speed** 30 ft.
 
@@ -54,7 +54,7 @@ title: Master Thief
 
 ## Traits
 
-***Evasion.*** If the thief is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the thief instead takes no damage if it succeeds on the saving throw and only half damage if it fails, provided the thief isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Evasion.*** If the thief is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the thief instead takes no damage if it succeeds on the saving throw and only half damage if it fails, provided the thief isn't [incapacitated](rules/conditions.md#incapacitated).
 
 ## Actions
 
@@ -66,7 +66,7 @@ title: Master Thief
 
 ## Bonus Actions
 
-***Cunning Action.*** The thief takes the [Dash](/compendium/rules/actions.md#Dash), [Disengage](/compendium/rules/actions.md#Disengage), or [Hide](/compendium/rules/actions.md#Hide) action.
+***Cunning Action.*** The thief takes the [Dash](rules/actions.md#Dash), [Disengage](rules/actions.md#Disengage), or [Hide](rules/actions.md#Hide) action.
 
 ## Reactions
 

@@ -9,9 +9,9 @@ aliases: ["Entertainer (Gladiator) (Variant)"]
 # Entertainer (Gladiator) (Variant)
 *Source: Player's Handbook p. 131, Derived from *  
 
-- **Skill Proficiencies.** [Acrobatics](/compendium/rules/skills.md#Acrobatics), [Performance](/compendium/rules/skills.md#Performance)  
-- **Tool Proficiencies.** [Disguise kit](/compendium/items/disguise-kit.md), one type of musical instrument  
-- **Equipment.** An inexpensive but unusual weapon, such as a [trident](/compendium/items/trident.md) or [net](/compendium/items/net.md) (one of your choice), the favor of an admirer (love letter, lock of hair, or trinket), [costume clothes](/compendium/items/costume-clothes.md), and a belt [pouch](/compendium/items/pouch.md) containing 15 gp  
+- **Skill Proficiencies.** [Acrobatics](rules/skills.md#Acrobatics), [Performance](rules/skills.md#Performance)  
+- **Tool Proficiencies.** [Disguise kit](compendium/items/disguise-kit.md), one type of musical instrument  
+- **Equipment.** An inexpensive but unusual weapon, such as a [trident](compendium/items/trident.md) or [net](compendium/items/net.md) (one of your choice), the favor of an admirer (love letter, lock of hair, or trinket), [costume clothes](compendium/items/costume-clothes.md), and a belt [pouch](compendium/items/pouch.md) containing 15 gp  
 
 A gladiator is as much an entertainer as any minstrel or circus performer, trained to make the arts of combat into a spectacle the crowd can enjoy. This kind of flashy combat is your entertainer routine, though you might also have some skills as a tumbler or actor. Using your By Popular Demand feature, you can find a place to perform in any place that features combat for entertainment–perhaps a gladiatorial arena or secret pit fighting club. You can replace the musical instrument in your equipment package with an inexpensive but unusual weapon, such as a trident or net.
 

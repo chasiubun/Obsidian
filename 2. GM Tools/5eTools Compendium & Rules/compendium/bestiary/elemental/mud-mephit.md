@@ -30,7 +30,7 @@ Mud mephits are slow, unctuous creatures of earth and water. They drone their co
 
 ```ad-statblock
 title: Mud Mephit
-![](/compendium/bestiary/elemental/token/mud-mephit.png#token)
+![](compendium/bestiary/elemental/token/mud-mephit.png#token)
 *Small elemental, Neutral Evil*
 
 - **Armor Class** 11 
@@ -50,7 +50,7 @@ title: Mud Mephit
 
 ## Traits
 
-***Death Burst.*** When the mephit dies, it explodes in a burst of sticky mud. Each Medium or smaller creature within 5 feet of it must succeed on a DC 11 Dexterity saving throw or be [restrained](/compendium/rules/conditions.md#restrained) until the end of the creature's next turn.
+***Death Burst.*** When the mephit dies, it explodes in a burst of sticky mud. Each Medium or smaller creature within 5 feet of it must succeed on a DC 11 Dexterity saving throw or be [restrained](rules/conditions.md#restrained) until the end of the creature's next turn.
 
 ***False Appearance.*** While the mephit remains motionless, it is indistinguishable from an ordinary mound of mud.
 
@@ -58,7 +58,7 @@ title: Mud Mephit
 
 ***Fists.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 4 (`1d6 + 1`) bludgeoning damage.
 
-***Mud Breath (Recharge 6).*** The mephit belches viscid mud onto one creature within 5 feet of it. If the target is Medium or smaller, it must succeed on a DC 11 Dexterity saving throw or be [restrained](/compendium/rules/conditions.md#restrained) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Mud Breath (Recharge 6).*** The mephit belches viscid mud onto one creature within 5 feet of it. If the target is Medium or smaller, it must succeed on a DC 11 Dexterity saving throw or be [restrained](rules/conditions.md#restrained) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ```
 ^statblock
 

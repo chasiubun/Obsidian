@@ -22,6 +22,6 @@ aliases: ["Shield of Faith"]
 
 A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
 
-**Classes**: [Artificer](/compendium/classes/artificer-tce.md), [Cleric (War Domain)](/compendium/classes/cleric-war-domain.md), [Cleric](/compendium/classes/cleric.md), [Paladin](/compendium/classes/paladin.md), [Sorcerer (Divine Soul)](/compendium/classes/sorcerer-divine-soul-xge.md)
+**Classes**: [Artificer](compendium/classes/artificer-tce.md), [Cleric (War Domain)](compendium/classes/cleric-war-domain.md), [Cleric](compendium/classes/cleric.md), [Paladin](compendium/classes/paladin.md), [Sorcerer (Divine Soul)](compendium/classes/sorcerer-divine-soul-xge.md)
 
 *Source: Player's Handbook p. 275. Available in the SRD and the Basic Rules.*

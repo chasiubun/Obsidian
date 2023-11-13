@@ -47,7 +47,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 
 ```ad-statblock
 title: Star Spawn Mangler
-![](/compendium/bestiary/aberration/token/star-spawn-mangler.png#token)
+![](compendium/bestiary/aberration/token/star-spawn-mangler.png#token)
 *Medium aberration, Typically  Chaotic Evil*
 
 - **Armor Class** 14 
@@ -79,6 +79,6 @@ title: Star Spawn Mangler
 
 ## Bonus Actions
 
-***Shadow Stealth.*** While in dim light or darkness, the mangler takes the [Hide](/compendium/rules/actions.md#Hide) action.
+***Shadow Stealth.*** While in dim light or darkness, the mangler takes the [Hide](rules/actions.md#Hide) action.
 ```
 ^statblock

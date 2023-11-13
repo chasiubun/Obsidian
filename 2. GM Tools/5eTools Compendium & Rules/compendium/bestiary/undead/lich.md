@@ -25,7 +25,7 @@ With its phylactery prepared, the future lich drinks a potion of transformation-
 
 ## Soul Sacrifices
 
-A lich must periodically feed souls to its phylactery to sustain the magic preserving its body and consciousness. It does this using the [imprisonment](/compendium/spells/imprisonment.md) spell. Instead of choosing one of the normal options of the spell, the lich uses the spell to magically trap the target's body and soul inside its phylactery. The phylactery must be on the same plane as the lich for the spell to work. A lich's phylactery can hold only one creature at a time, and a [dispel magic](/compendium/spells/dispel-magic.md) cast as a 9th-level spell upon the phylactery releases any creature imprisoned within it. A creature imprisoned in the phylactery for 24 hours is consumed and destroyed utterly, whereupon nothing short of divine intervention can restore it to life.
+A lich must periodically feed souls to its phylactery to sustain the magic preserving its body and consciousness. It does this using the [imprisonment](compendium/spells/imprisonment.md) spell. Instead of choosing one of the normal options of the spell, the lich uses the spell to magically trap the target's body and soul inside its phylactery. The phylactery must be on the same plane as the lich for the spell to work. A lich's phylactery can hold only one creature at a time, and a [dispel magic](compendium/spells/dispel-magic.md) cast as a 9th-level spell upon the phylactery releases any creature imprisoned within it. A creature imprisoned in the phylactery for 24 hours is consumed and destroyed utterly, whereupon nothing short of divine intervention can restore it to life.
 
 A lich that fails or forgets to maintain its body with sacrificed souls begins to physically fall apart, and might eventually become a demilich.
 
@@ -59,7 +59,7 @@ A lich encountered in its lair has a challenge rating of 22 (41,000 XP).
 
 ```ad-statblock
 title: Lich
-![](/compendium/bestiary/undead/token/lich.png#token)
+![](compendium/bestiary/undead/token/lich.png#token)
 *Medium undead, Any Evil alignment*
 
 - **Armor Class** 17  (natural armor)
@@ -87,29 +87,29 @@ title: Lich
 
 ***Spellcasting.*** The lich is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). The lich has the following wizard spells prepared:
 
-**Cantrips (at will)**: [mage hand](/compendium/spells/mage-hand.md), [prestidigitation](/compendium/spells/prestidigitation.md), [ray of frost](/compendium/spells/ray-of-frost.md)
+**Cantrips (at will)**: [mage hand](compendium/spells/mage-hand.md), [prestidigitation](compendium/spells/prestidigitation.md), [ray of frost](compendium/spells/ray-of-frost.md)
 
-**1st level (4 slots)**: [detect magic](/compendium/spells/detect-magic.md), [magic missile](/compendium/spells/magic-missile.md), [shield](/compendium/spells/shield.md), [thunderwave](/compendium/spells/thunderwave.md)
+**1st level (4 slots)**: [detect magic](compendium/spells/detect-magic.md), [magic missile](compendium/spells/magic-missile.md), [shield](compendium/spells/shield.md), [thunderwave](compendium/spells/thunderwave.md)
 
-**2nd level (3 slots)**: [detect thoughts](/compendium/spells/detect-thoughts.md), [invisibility](/compendium/spells/invisibility.md), [Melf's acid arrow](/compendium/spells/melfs-acid-arrow.md), [mirror image](/compendium/spells/mirror-image.md)
+**2nd level (3 slots)**: [detect thoughts](compendium/spells/detect-thoughts.md), [invisibility](compendium/spells/invisibility.md), [Melf's acid arrow](compendium/spells/melfs-acid-arrow.md), [mirror image](compendium/spells/mirror-image.md)
 
-**3rd level (3 slots)**: [animate dead](/compendium/spells/animate-dead.md), [counterspell](/compendium/spells/counterspell.md), [dispel magic](/compendium/spells/dispel-magic.md), [fireball](/compendium/spells/fireball.md)
+**3rd level (3 slots)**: [animate dead](compendium/spells/animate-dead.md), [counterspell](compendium/spells/counterspell.md), [dispel magic](compendium/spells/dispel-magic.md), [fireball](compendium/spells/fireball.md)
 
-**4th level (3 slots)**: [blight](/compendium/spells/blight.md), [dimension door](/compendium/spells/dimension-door.md)
+**4th level (3 slots)**: [blight](compendium/spells/blight.md), [dimension door](compendium/spells/dimension-door.md)
 
-**5th level (3 slots)**: [cloudkill](/compendium/spells/cloudkill.md), [scrying](/compendium/spells/scrying.md)
+**5th level (3 slots)**: [cloudkill](compendium/spells/cloudkill.md), [scrying](compendium/spells/scrying.md)
 
-**6th level (1 slots)**: [disintegrate](/compendium/spells/disintegrate.md), [globe of invulnerability](/compendium/spells/globe-of-invulnerability.md)
+**6th level (1 slots)**: [disintegrate](compendium/spells/disintegrate.md), [globe of invulnerability](compendium/spells/globe-of-invulnerability.md)
 
-**7th level (1 slots)**: [finger of death](/compendium/spells/finger-of-death.md), [plane shift](/compendium/spells/plane-shift.md)
+**7th level (1 slots)**: [finger of death](compendium/spells/finger-of-death.md), [plane shift](compendium/spells/plane-shift.md)
 
-**8th level (1 slots)**: [dominate monster](/compendium/spells/dominate-monster.md), [power word stun](/compendium/spells/power-word-stun.md)
+**8th level (1 slots)**: [dominate monster](compendium/spells/dominate-monster.md), [power word stun](compendium/spells/power-word-stun.md)
 
-**9th level (1 slots)**: [power word kill](/compendium/spells/power-word-kill.md)
+**9th level (1 slots)**: [power word kill](compendium/spells/power-word-kill.md)
 
 ## Actions
 
-***Paralyzing Touch.*** *Melee Spell Attack:* +12 to hit, reach 5 ft., one creature. *Hit:* 10 (`3d6`) cold damage. The target must succeed on a DC 18 Constitution saving throw or be [paralyzed](/compendium/rules/conditions.md#paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Paralyzing Touch.*** *Melee Spell Attack:* +12 to hit, reach 5 ft., one creature. *Hit:* 10 (`3d6`) cold damage. The target must succeed on a DC 18 Constitution saving throw or be [paralyzed](rules/conditions.md#paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ## Legendary Actions
 
@@ -117,10 +117,10 @@ title: Lich
 
 ***Paralyzing Touch (Costs 2 Actions).*** The lich uses its Paralyzing Touch.
 
-***Frightening Gaze (Costs 2 Actions).*** The lich fixes its gaze on one creature it can see within 10 feet of it. The target must succeed on a DC 18 Wisdom saving throw against this magic or become [frightened](/compendium/rules/conditions.md#frightened) for 1 minute. The [frightened](/compendium/rules/conditions.md#frightened) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the lich's gaze for the next 24 hours.
+***Frightening Gaze (Costs 2 Actions).*** The lich fixes its gaze on one creature it can see within 10 feet of it. The target must succeed on a DC 18 Wisdom saving throw against this magic or become [frightened](rules/conditions.md#frightened) for 1 minute. The [frightened](rules/conditions.md#frightened) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the lich's gaze for the next 24 hours.
 
 ***Disrupt Life (Costs 3 Actions).*** Each non-undead creature within 20 feet of the lich must make a DC 18 Constitution saving throw against this magic, taking 21 (`6d6`) necrotic damage on a failed save, or half as much damage on a successful one.
 
-![Lich](/compendium/bestiary/legendary-group/lich.md)
+![Lich](compendium/bestiary/legendary-group/lich.md)
 ```
 ^statblock

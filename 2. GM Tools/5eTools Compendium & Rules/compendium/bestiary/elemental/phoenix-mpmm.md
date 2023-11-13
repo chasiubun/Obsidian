@@ -21,7 +21,7 @@ Releasing a phoenix from the Inner Planes creates an explosion of fire that spre
 
 ```ad-statblock
 title: Phoenix
-![](/compendium/bestiary/elemental/token/phoenix.png#token)
+![](compendium/bestiary/elemental/token/phoenix.png#token)
 *Gargantuan elemental, Typically  Neutral*
 
 - **Armor Class** 18 

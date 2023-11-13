@@ -24,7 +24,7 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 
 ```ad-statblock
 title: Hungry Sorrowsworn
-![](/compendium/bestiary/monstrosity/token/hungry-sorrowsworn.png#token)
+![](compendium/bestiary/monstrosity/token/hungry-sorrowsworn.png#token)
 *Medium monstrosity, Typically  Neutral Evil*
 
 - **Armor Class** 17  (natural armor)
@@ -52,7 +52,7 @@ title: Hungry Sorrowsworn
 
 ***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 8 (`1d8 + 4`) piercing damage plus 13 (`3d8`) necrotic damage.
 
-***Claw.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 18 (`4d6 + 4`) slashing damage. If the target is Medium or smaller, it is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 16), and it is [restrained](/compendium/rules/conditions.md#restrained) until the grapple ends. While grappling a creature, the sorrowsworn can't make a Claw attack.
+***Claw.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 18 (`4d6 + 4`) slashing damage. If the target is Medium or smaller, it is [grappled](rules/conditions.md#grappled) (escape DC 16), and it is [restrained](rules/conditions.md#restrained) until the grapple ends. While grappling a creature, the sorrowsworn can't make a Claw attack.
 ```
 ^statblock
 

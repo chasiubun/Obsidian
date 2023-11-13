@@ -24,6 +24,6 @@ Up to three creatures of your choice that you can see within range must make Cha
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
-**Classes**: [Bard](/compendium/classes/bard.md), [Cleric (Grave Domain)](/compendium/classes/cleric-grave-domain-xge.md), [Cleric](/compendium/classes/cleric.md), [Paladin (Oath of Vengeance)](/compendium/classes/paladin-oath-of-vengeance.md), [Sorcerer (Divine Soul)](/compendium/classes/sorcerer-divine-soul-xge.md)
+**Classes**: [Bard](compendium/classes/bard.md), [Cleric (Grave Domain)](compendium/classes/cleric-grave-domain-xge.md), [Cleric](compendium/classes/cleric.md), [Paladin (Oath of Vengeance)](compendium/classes/paladin-oath-of-vengeance.md), [Sorcerer (Divine Soul)](compendium/classes/sorcerer-divine-soul-xge.md)
 
 *Source: Player's Handbook p. 216. Available in the SRD.*

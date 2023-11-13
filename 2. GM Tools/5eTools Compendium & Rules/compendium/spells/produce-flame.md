@@ -24,6 +24,6 @@ You can also attack with the flame, although doing so ends the spell. When you c
 
 This spell's damage increases by `1d8` when you reach 5th level (`2d8`), 11th level (`3d8`), and 17th level (`4d8`).
 
-**Classes**: [Cleric (Nature Domain)](/compendium/classes/cleric-nature-domain.md), [Druid (Circle of the Land)](/compendium/classes/druid-circle-of-the-land.md), [Druid](/compendium/classes/druid.md)
+**Classes**: [Cleric (Nature Domain)](compendium/classes/cleric-nature-domain.md), [Druid (Circle of the Land)](compendium/classes/druid-circle-of-the-land.md), [Druid](compendium/classes/druid.md)
 
 *Source: Player's Handbook p. 269. Available in the SRD.*

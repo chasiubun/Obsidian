@@ -29,7 +29,7 @@ Some troglodytes venerate Laogzed, a demonic, monstrously fat toad-lizard that s
 
 ```ad-statblock
 title: Kaarghaz
-![](/compendium/bestiary/npc/token/kaarghaz.png#token)
+![](compendium/bestiary/npc/token/kaarghaz.png#token)
 *Medium humanoid (troglodyte), Chaotic Evil*
 
 - **Armor Class** 13  (natural armor)
@@ -51,17 +51,17 @@ title: Kaarghaz
 
 ***Chameleon Skin.*** The troglodyte has advantage on Dexterity (Stealth) checks made to hide.
 
-***Stench.*** Any creature other than a troglodyte that starts its turn within 5 feet of the troglodyte must succeed on a DC 12 Constitution saving throw or be [poisoned](/compendium/rules/conditions.md#poisoned) until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all troglodytes for 1 hour.
+***Stench.*** Any creature other than a troglodyte that starts its turn within 5 feet of the troglodyte must succeed on a DC 12 Constitution saving throw or be [poisoned](rules/conditions.md#poisoned) until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all troglodytes for 1 hour.
 
-***Sunlight Sensitivity.*** While in sunlight, the troglodyte has disadvantage on attack rolls, as well as on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the troglodyte has disadvantage on attack rolls, as well as on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ***Spellcasting.*** Kaarghaz is a 4th-level spellcaster. His spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). He knows the following sorcerer spells:
 
-**Cantrips (at will)**: [fire bolt](/compendium/spells/fire-bolt.md), [mage hand](/compendium/spells/mage-hand.md), [poison spray](/compendium/spells/poison-spray.md), [prestidigitation](/compendium/spells/prestidigitation.md), [ray of frost](/compendium/spells/ray-of-frost.md)
+**Cantrips (at will)**: [fire bolt](compendium/spells/fire-bolt.md), [mage hand](compendium/spells/mage-hand.md), [poison spray](compendium/spells/poison-spray.md), [prestidigitation](compendium/spells/prestidigitation.md), [ray of frost](compendium/spells/ray-of-frost.md)
 
-**1st level (6 slots)**: [burning hands](/compendium/spells/burning-hands.md), [shield](/compendium/spells/shield.md), [sleep](/compendium/spells/sleep.md)
+**1st level (6 slots)**: [burning hands](compendium/spells/burning-hands.md), [shield](compendium/spells/shield.md), [sleep](compendium/spells/sleep.md)
 
-**2nd level (3 slots)**: [invisibility](/compendium/spells/invisibility.md), [scorching ray](/compendium/spells/scorching-ray.md)
+**2nd level (3 slots)**: [invisibility](compendium/spells/invisibility.md), [scorching ray](compendium/spells/scorching-ray.md)
 
 ## Actions
 

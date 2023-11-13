@@ -40,7 +40,7 @@ An elemental doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Earth Elemental
-![](/compendium/bestiary/elemental/token/earth-elemental.png#token)
+![](compendium/bestiary/elemental/token/earth-elemental.png#token)
 *Large elemental, Neutral*
 
 - **Armor Class** 17  (natural armor)
@@ -58,7 +58,7 @@ title: Earth Elemental
 - **Damage Vulnerabilities** thunder
 - **Damage Resistances** bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** poison
-- **Condition Immunities** [exhaustion](/compendium/rules/conditions.md#exhaustion), [paralyzed](/compendium/rules/conditions.md#paralyzed), [petrified](/compendium/rules/conditions.md#petrified), [poisoned](/compendium/rules/conditions.md#poisoned), [unconscious](/compendium/rules/conditions.md#unconscious)
+- **Condition Immunities** [exhaustion](rules/conditions.md#exhaustion), [paralyzed](rules/conditions.md#paralyzed), [petrified](rules/conditions.md#petrified), [poisoned](rules/conditions.md#poisoned), [unconscious](rules/conditions.md#unconscious)
 - **Languages** Terran
 - **Challenge** 5
 

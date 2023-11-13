@@ -15,7 +15,7 @@ aliases: ["Morkoth"]
 
 Ancient and devious, morkoths are voracious collectors. Each one floats through the planes on a strange, mobile island, amassing the valuables, oddities, and castoffs of the multiverse in a massive, ever-growing collection.
 
-The first morkoths arose in the Astral Plane when the [petrified](/compendium/rules/conditions.md#petrified) body of a deity of greed and strife collided with a remnant of celestial matter imbued with life-giving magic. The collision released a storm of chaotic energy and sent countless islands spinning away into the void. Within some of them, bits of the god's [petrified](/compendium/rules/conditions.md#petrified) flesh came back to life as morkoths: tentacled monstrosities brimming with malice and greed.
+The first morkoths arose in the Astral Plane when the [petrified](rules/conditions.md#petrified) body of a deity of greed and strife collided with a remnant of celestial matter imbued with life-giving magic. The collision released a storm of chaotic energy and sent countless islands spinning away into the void. Within some of them, bits of the god's [petrified](rules/conditions.md#petrified) flesh came back to life as morkoths: tentacled monstrosities brimming with malice and greed.
 
 Morkoths are driven by greed and selfishness mixed with a yearning for conflict. They hoard vast stores of treasure, knowledge, and captives on their islands. Some of these prisoners are the descendants of people captured generations before; they might know of no other world outside their island. A morkoth may allow a visitor to bargain for something or someone it has claimed if that visitor offers the morkoth something it desires more. It shows no mercy, however, to those who break a deal or try to steal from it. A morkoth knows every person and object in its collection.
 
@@ -35,7 +35,7 @@ A morkoth encountered in its lair has a challenge rating of 12 (8,400 XP).
 
 ```ad-statblock
 title: Morkoth
-![](/compendium/bestiary/aberration/token/morkoth.png#token)
+![](compendium/bestiary/aberration/token/morkoth.png#token)
 *Large aberration, Typically  Chaotic Evil*
 
 - **Armor Class** 17  (natural armor)
@@ -59,9 +59,9 @@ title: Morkoth
 
 ***Spellcasting.*** The morkoth casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 17):
 
-**At will**: [detect magic](/compendium/spells/detect-magic.md), [mage hand](/compendium/spells/mage-hand.md)
+**At will**: [detect magic](compendium/spells/detect-magic.md), [mage hand](compendium/spells/mage-hand.md)
 
-**3/day each**: [darkness](/compendium/spells/darkness.md), [dimension door](/compendium/spells/dimension-door.md), [dispel magic](/compendium/spells/dispel-magic.md), [lightning bolt](/compendium/spells/lightning-bolt.md), [sending](/compendium/spells/sending.md)
+**3/day each**: [darkness](compendium/spells/darkness.md), [dimension door](compendium/spells/dimension-door.md), [dispel magic](compendium/spells/dispel-magic.md), [lightning bolt](compendium/spells/lightning-bolt.md), [sending](compendium/spells/sending.md)
 
 ## Actions
 
@@ -69,15 +69,15 @@ title: Morkoth
 
 ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (`2d6 + 2`) slashing damage plus 10 (`3d6`) psychic damage.
 
-***Tentacles.*** *Melee Weapon Attack:* +6 to hit, reach 15 ft., one target. *Hit:* 15 (`3d8 + 2`) bludgeoning damage, and the target is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 14) if it is a Large or smaller creature. Until this grapple ends, the target is [restrained](/compendium/rules/conditions.md#restrained) and takes 15 (`3d8 + 2`) bludgeoning damage at the start of each of its turns, and the morkoth can't use its tentacles on another target.
+***Tentacles.*** *Melee Weapon Attack:* +6 to hit, reach 15 ft., one target. *Hit:* 15 (`3d8 + 2`) bludgeoning damage, and the target is [grappled](rules/conditions.md#grappled) (escape DC 14) if it is a Large or smaller creature. Until this grapple ends, the target is [restrained](rules/conditions.md#restrained) and takes 15 (`3d8 + 2`) bludgeoning damage at the start of each of its turns, and the morkoth can't use its tentacles on another target.
 
-***Hypnosis.*** The morkoth projects a 30-foot cone of magical energy. Each creature in that area must make a DC 17 Wisdom saving throw. On a failed save, the creature is [charmed](/compendium/rules/conditions.md#charmed) by the morkoth for 1 minute. While [charmed](/compendium/rules/conditions.md#charmed) in this way, the target tries to get as close to the morkoth as possible, using its actions to [Dash](/compendium/rules/actions.md#Dash) until it is within 5 feet of the morkoth. A [charmed](/compendium/rules/conditions.md#charmed) target can repeat the saving throw at the end of each of its turns and whenever it takes damage, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature has advantage on saving throws against the morkoth's Hypnosis for 24 hours.
+***Hypnosis.*** The morkoth projects a 30-foot cone of magical energy. Each creature in that area must make a DC 17 Wisdom saving throw. On a failed save, the creature is [charmed](rules/conditions.md#charmed) by the morkoth for 1 minute. While [charmed](rules/conditions.md#charmed) in this way, the target tries to get as close to the morkoth as possible, using its actions to [Dash](rules/actions.md#Dash) until it is within 5 feet of the morkoth. A [charmed](rules/conditions.md#charmed) target can repeat the saving throw at the end of each of its turns and whenever it takes damage, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature has advantage on saving throws against the morkoth's Hypnosis for 24 hours.
 
 ## Reactions
 
 ***Spell Reflection.*** If the morkoth makes a successful saving throw against a spell or a spell attack misses it, the morkoth can choose another creature (including the spellcaster) it can see within 120 feet of it. The spell targets the chosen creature instead of the morkoth. If the spell forced a saving throw, the chosen creature makes its own save. If the spell was an attack, the attack roll is rerolled against the chosen creature.
 
-![Morkoth](/compendium/bestiary/legendary-group/morkoth-mpmm.md)
+![Morkoth](compendium/bestiary/legendary-group/morkoth-mpmm.md)
 ```
 ^statblock
 

@@ -58,7 +58,7 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
 
 ```ad-statblock
 title: Androsphinx
-![](/compendium/bestiary/monstrosity/token/androsphinx.png#token)
+![](compendium/bestiary/monstrosity/token/androsphinx.png#token)
 *Large monstrosity, Lawful Neutral*
 
 - **Armor Class** 17  (natural armor)
@@ -84,19 +84,19 @@ title: Androsphinx
 
 ***Spellcasting.*** The sphinx is a 12th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following cleric spells prepared:
 
-**Cantrips (at will)**: [sacred flame](/compendium/spells/sacred-flame.md), [spare the dying](/compendium/spells/spare-the-dying.md), [thaumaturgy](/compendium/spells/thaumaturgy.md)
+**Cantrips (at will)**: [sacred flame](compendium/spells/sacred-flame.md), [spare the dying](compendium/spells/spare-the-dying.md), [thaumaturgy](compendium/spells/thaumaturgy.md)
 
-**1st level (4 slots)**: [command](/compendium/spells/command.md), [detect evil and good](/compendium/spells/detect-evil-and-good.md), [detect magic](/compendium/spells/detect-magic.md)
+**1st level (4 slots)**: [command](compendium/spells/command.md), [detect evil and good](compendium/spells/detect-evil-and-good.md), [detect magic](compendium/spells/detect-magic.md)
 
-**2nd level (3 slots)**: [lesser restoration](/compendium/spells/lesser-restoration.md), [zone of truth](/compendium/spells/zone-of-truth.md)
+**2nd level (3 slots)**: [lesser restoration](compendium/spells/lesser-restoration.md), [zone of truth](compendium/spells/zone-of-truth.md)
 
-**3rd level (3 slots)**: [dispel magic](/compendium/spells/dispel-magic.md), [tongues](/compendium/spells/tongues.md)
+**3rd level (3 slots)**: [dispel magic](compendium/spells/dispel-magic.md), [tongues](compendium/spells/tongues.md)
 
-**4th level (3 slots)**: [banishment](/compendium/spells/banishment.md), [freedom of movement](/compendium/spells/freedom-of-movement.md)
+**4th level (3 slots)**: [banishment](compendium/spells/banishment.md), [freedom of movement](compendium/spells/freedom-of-movement.md)
 
-**5th level (2 slots)**: [flame strike](/compendium/spells/flame-strike.md), [greater restoration](/compendium/spells/greater-restoration.md)
+**5th level (2 slots)**: [flame strike](compendium/spells/flame-strike.md), [greater restoration](compendium/spells/greater-restoration.md)
 
-**6th level (1 slots)**: [heroes' feast](/compendium/spells/heroes-feast.md)
+**6th level (1 slots)**: [heroes' feast](compendium/spells/heroes-feast.md)
 
 ## Actions
 
@@ -106,9 +106,9 @@ title: Androsphinx
 
 ***Roar (3/Day).*** The sphinx emits a magical roar. Each time it roars before finishing a long rest, the roar is louder and the effect is different, as detailed below. Each creature within 500 feet of the sphinx and able to hear the roar must make a saving throw.
 
-- **First Roar.** Each creature that fails a DC 18 Wisdom saving throw is [frightened](/compendium/rules/conditions.md#frightened) for 1 minute. A [frightened](/compendium/rules/conditions.md#frightened) creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
-- **Second Roar.** Each creature that fails a DC 18 Wisdom saving throw is [deafened](/compendium/rules/conditions.md#deafened) and [frightened](/compendium/rules/conditions.md#frightened) for 1 minute. A [frightened](/compendium/rules/conditions.md#frightened) creature is [paralyzed](/compendium/rules/conditions.md#paralyzed) and can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
-- **Third Roar.** Each creature makes a DC 18 Constitution saving throw. On a failed save, a creature takes 44 (`8d10`) thunder damage and is knocked [prone](/compendium/rules/conditions.md#prone). On a successful save, the creature takes half as much damage and isn't knocked [prone](/compendium/rules/conditions.md#prone).  
+- **First Roar.** Each creature that fails a DC 18 Wisdom saving throw is [frightened](rules/conditions.md#frightened) for 1 minute. A [frightened](rules/conditions.md#frightened) creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
+- **Second Roar.** Each creature that fails a DC 18 Wisdom saving throw is [deafened](rules/conditions.md#deafened) and [frightened](rules/conditions.md#frightened) for 1 minute. A [frightened](rules/conditions.md#frightened) creature is [paralyzed](rules/conditions.md#paralyzed) and can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
+- **Third Roar.** Each creature makes a DC 18 Constitution saving throw. On a failed save, a creature takes 44 (`8d10`) thunder damage and is knocked [prone](rules/conditions.md#prone). On a successful save, the creature takes half as much damage and isn't knocked [prone](rules/conditions.md#prone).  
 
 ## Legendary Actions
 
@@ -118,7 +118,7 @@ title: Androsphinx
 
 ***Cast a Spell (Costs 3 Actions).*** The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.
 
-![Sphinx](/compendium/bestiary/legendary-group/sphinx.md)
+![Sphinx](compendium/bestiary/legendary-group/sphinx.md)
 ```
 ^statblock
 

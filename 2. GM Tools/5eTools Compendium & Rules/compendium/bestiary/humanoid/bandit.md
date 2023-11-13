@@ -23,10 +23,10 @@ Pirates are bandits of the high seas. They might be freebooters interested only 
 
 ```ad-statblock
 title: Bandit
-![](/compendium/bestiary/humanoid/token/bandit.png#token)
+![](compendium/bestiary/humanoid/token/bandit.png#token)
 *Medium humanoid (any race), Any Non-Lawful alignment*
 
-- **Armor Class** 12  ([leather armor](/compendium/items/leather-armor.md))
+- **Armor Class** 12  ([leather armor](compendium/items/leather-armor.md))
 - **Hit Points** 11 (`2d8 + 2`)
 - **Speed** 30 ft.
 

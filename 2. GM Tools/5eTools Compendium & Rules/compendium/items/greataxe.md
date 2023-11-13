@@ -14,7 +14,7 @@ aliases:
 *Melee Weapon*  
 
 - **Damage**: 1d12 S
-- **Properties**: [Heavy](/compendium/rules/item-properties.md#Heavy), Martial, [Two-handed](/compendium/rules/item-properties.md#Two-handed)
+- **Properties**: [Heavy](rules/item-properties.md#Heavy), Martial, [Two-handed](rules/item-properties.md#Two-handed)
 - **Cost**: 30 gp
 - **Weight**: 7.0 lbs.
 

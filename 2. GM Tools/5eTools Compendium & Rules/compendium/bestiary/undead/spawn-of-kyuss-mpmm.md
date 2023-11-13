@@ -21,7 +21,7 @@ Spawn of Kyuss are expressions of Orcus's intent to replace all life with undeat
 
 ```ad-statblock
 title: Spawn of Kyuss
-![](/compendium/bestiary/undead/token/spawn-of-kyuss.png#token)
+![](compendium/bestiary/undead/token/spawn-of-kyuss.png#token)
 *Medium undead, Typically  Chaotic Evil*
 
 - **Armor Class** 10 

@@ -20,7 +20,7 @@ Mind whisperers are elusive, manipulative, unpredictable, and willing to cheat o
 
 ```ad-statblock
 title: Yuan-ti Mind Whisperer
-![](/compendium/bestiary/monstrosity/token/yuan-ti-mind-whisperer.png#token)
+![](compendium/bestiary/monstrosity/token/yuan-ti-mind-whisperer.png#token)
 *Medium monstrosity (warlock), Typically  Neutral Evil*
 
 - **Armor Class** 14  (natural armor)
@@ -40,7 +40,7 @@ title: Yuan-ti Mind Whisperer
 
 ## Traits
 
-***Devil's Sight.*** Magical darkness doesn't impede the yuan-ti's [darkvision](/compendium/rules/senses.md#darkvision).
+***Devil's Sight.*** Magical darkness doesn't impede the yuan-ti's [darkvision](rules/senses.md#darkvision).
 
 ***Magic Resistance.*** The yuan-ti has advantage on saving throws against spells and other magical effects.
 
@@ -48,11 +48,11 @@ title: Yuan-ti Mind Whisperer
 
 ***Spellcasting (Yuan-ti Form Only).*** The yuan-ti casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 13):
 
-**At will**: [animal friendship](/compendium/spells/animal-friendship.md) (snakes only), [message](/compendium/spells/message.md), [minor illusion](/compendium/spells/minor-illusion.md), [prestidigitation](/compendium/spells/prestidigitation.md)
+**At will**: [animal friendship](compendium/spells/animal-friendship.md) (snakes only), [message](compendium/spells/message.md), [minor illusion](compendium/spells/minor-illusion.md), [prestidigitation](compendium/spells/prestidigitation.md)
 
-**2/day each**: [detect thoughts](/compendium/spells/detect-thoughts.md), [hypnotic pattern](/compendium/spells/hypnotic-pattern.md)
+**2/day each**: [detect thoughts](compendium/spells/detect-thoughts.md), [hypnotic pattern](compendium/spells/hypnotic-pattern.md)
 
-**3/day**: [suggestion](/compendium/spells/suggestion.md)
+**3/day**: [suggestion](compendium/spells/suggestion.md)
 
 ## Actions
 

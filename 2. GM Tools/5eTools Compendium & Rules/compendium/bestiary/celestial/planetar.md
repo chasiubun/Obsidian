@@ -39,7 +39,7 @@ Planetars are muscular and hairless and have opalescent green skin and white-fea
 
 ```ad-statblock
 title: Planetar
-![](/compendium/bestiary/celestial/token/planetar.png#token)
+![](compendium/bestiary/celestial/token/planetar.png#token)
 *Large celestial, Lawful Good*
 
 - **Armor Class** 19  (natural armor)
@@ -67,11 +67,11 @@ title: Planetar
 
 ***Innate Spellcasting.*** The planetar's spellcasting ability is Charisma (spell save DC 20). The planetar can innately cast the following spells, requiring no material components:
 
-**At will**: [detect evil and good](/compendium/spells/detect-evil-and-good.md), [invisibility](/compendium/spells/invisibility.md) (self only)
+**At will**: [detect evil and good](compendium/spells/detect-evil-and-good.md), [invisibility](compendium/spells/invisibility.md) (self only)
 
-**1/day each**: [commune](/compendium/spells/commune.md), [control weather](/compendium/spells/control-weather.md), [insect plague](/compendium/spells/insect-plague.md)
+**1/day each**: [commune](compendium/spells/commune.md), [control weather](compendium/spells/control-weather.md), [insect plague](compendium/spells/insect-plague.md)
 
-**3/day each**: [blade barrier](/compendium/spells/blade-barrier.md), [dispel evil and good](/compendium/spells/dispel-evil-and-good.md), [flame strike](/compendium/spells/flame-strike.md), [raise dead](/compendium/spells/raise-dead.md)
+**3/day each**: [blade barrier](compendium/spells/blade-barrier.md), [dispel evil and good](compendium/spells/dispel-evil-and-good.md), [flame strike](compendium/spells/flame-strike.md), [raise dead](compendium/spells/raise-dead.md)
 
 ## Actions
 

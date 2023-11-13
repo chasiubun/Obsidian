@@ -24,14 +24,14 @@ When you cast the spell, choose one or both of the following effects. The effect
 
 ## False Aura
 
-You change the way the target appears to spells and magical effects, such as [detect magic](/compendium/spells/detect-magic.md), that detect magical auras. You can make a nonmagical object appear magical, a magical object appear nonmagical, or change the object's magical aura so that it appears to belong to a specific school of magic that you choose. When you use this effect on an object, you can make the false magic apparent to any creature that handles the item.
+You change the way the target appears to spells and magical effects, such as [detect magic](compendium/spells/detect-magic.md), that detect magical auras. You can make a nonmagical object appear magical, a magical object appear nonmagical, or change the object's magical aura so that it appears to belong to a specific school of magic that you choose. When you use this effect on an object, you can make the false magic apparent to any creature that handles the item.
 
 ## Mask
 
-You change the way the target appears to spells and magical effects that detect creature types, such as a paladin's [Divine Sense](/compendium/classes/paladin.md#Divine%20Sense%20(Level%201)) or the trigger of a [symbol](/compendium/spells/symbol.md) spell. You choose a creature type and other spells and magical effects treat the target as if it were a creature of that type or of that alignment.
+You change the way the target appears to spells and magical effects that detect creature types, such as a paladin's [Divine Sense](compendium/classes/paladin.md#Divine%20Sense%20(Level%201)) or the trigger of a [symbol](compendium/spells/symbol.md) spell. You choose a creature type and other spells and magical effects treat the target as if it were a creature of that type or of that alignment.
 
 ## Summary
 
-**Classes**: [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 263. Available in the SRD (as 'Arcanist's Magic Aura').*

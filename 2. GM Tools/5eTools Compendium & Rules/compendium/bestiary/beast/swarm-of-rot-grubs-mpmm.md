@@ -21,13 +21,13 @@ Rot grubs recoil from flames, and fire is the main weapon against rot grubs once
 
 Rot grubs pose a threat both singly and as a swarm. See the stat block for the mechanics of a swarm of rot grubs. A single rot grub has no stat block.
 
-Any creature that comes into contact with a single rot grub must succeed on a DC 10 Constitution saving throw or be [poisoned](/compendium/rules/conditions.md#poisoned), as the rot grub burrows into the creature. The [poisoned](/compendium/rules/conditions.md#poisoned) creature takes 3 (`1d6`) poison damage at the end of each of its turns. Whenever the [poisoned](/compendium/rules/conditions.md#poisoned) creature takes fire damage, the creature can repeat the saving throw, ending the effect on itself on a success. If the [poisoned](/compendium/rules/conditions.md#poisoned) creature ends its turn with 0 hit points, it dies, as the rot grub kills it.
+Any creature that comes into contact with a single rot grub must succeed on a DC 10 Constitution saving throw or be [poisoned](rules/conditions.md#poisoned), as the rot grub burrows into the creature. The [poisoned](rules/conditions.md#poisoned) creature takes 3 (`1d6`) poison damage at the end of each of its turns. Whenever the [poisoned](rules/conditions.md#poisoned) creature takes fire damage, the creature can repeat the saving throw, ending the effect on itself on a success. If the [poisoned](rules/conditions.md#poisoned) creature ends its turn with 0 hit points, it dies, as the rot grub kills it.
 
 ## Statblock
 
 ```ad-statblock
 title: Swarm of Rot Grubs
-![](/compendium/bestiary/beast/token/swarm-of-rot-grubs.png#token)
+![](compendium/bestiary/beast/token/swarm-of-rot-grubs.png#token)
 *Medium beast, Unaligned*
 
 - **Armor Class** 8 
@@ -51,7 +51,7 @@ title: Swarm of Rot Grubs
 
 ## Actions
 
-***Bites.*** *Melee Weapon Attack:* +0 to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 7 (`2d6`) piercing damage, and the target must succeed on a DC 10 Constitution saving throw or be [poisoned](/compendium/rules/conditions.md#poisoned). At the end of each of the [poisoned](/compendium/rules/conditions.md#poisoned) target's turns, the target takes 3 (`1d6`) poison damage. Whenever the [poisoned](/compendium/rules/conditions.md#poisoned) target takes fire damage, the target can repeat the saving throw, ending the effect on itself on a success. If the [poisoned](/compendium/rules/conditions.md#poisoned) target ends its turn with 0 hit points, it dies.
+***Bites.*** *Melee Weapon Attack:* +0 to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 7 (`2d6`) piercing damage, and the target must succeed on a DC 10 Constitution saving throw or be [poisoned](rules/conditions.md#poisoned). At the end of each of the [poisoned](rules/conditions.md#poisoned) target's turns, the target takes 3 (`1d6`) poison damage. Whenever the [poisoned](rules/conditions.md#poisoned) target takes fire damage, the target can repeat the saving throw, ending the effect on itself on a success. If the [poisoned](rules/conditions.md#poisoned) target ends its turn with 0 hit points, it dies.
 ```
 ^statblock
 

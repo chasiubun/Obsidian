@@ -34,10 +34,10 @@ A death knight doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Death Knight
-![](/compendium/bestiary/undead/token/death-knight.png#token)
+![](compendium/bestiary/undead/token/death-knight.png#token)
 *Medium undead, Chaotic Evil*
 
-- **Armor Class** 20  ([plate armor](/compendium/items/plate-armor.md), [shield](/compendium/items/shield.md))
+- **Armor Class** 20  ([plate armor](compendium/items/plate-armor.md), [shield](compendium/items/shield.md))
 - **Hit Points** 180 (`19d8 + 95`)
 - **Speed** 30 ft.
 
@@ -56,19 +56,19 @@ title: Death Knight
 
 ***Magic Resistance.*** The death knight has advantage on saving throws against spells and other magical effects.
 
-***Marshal Undead.*** Unless the death knight is [incapacitated](/compendium/rules/conditions.md#incapacitated), it and undead creatures of its choice within 60 feet of it have advantage on saving throws against features that turn undead.
+***Marshal Undead.*** Unless the death knight is [incapacitated](rules/conditions.md#incapacitated), it and undead creatures of its choice within 60 feet of it have advantage on saving throws against features that turn undead.
 
 ***Spellcasting.*** The death knight is a 19th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). It has the following paladin spells prepared:
 
-**1st level (4 slots)**: [command](/compendium/spells/command.md), [compelled duel](/compendium/spells/compelled-duel.md), [searing smite](/compendium/spells/searing-smite.md)
+**1st level (4 slots)**: [command](compendium/spells/command.md), [compelled duel](compendium/spells/compelled-duel.md), [searing smite](compendium/spells/searing-smite.md)
 
-**2nd level (3 slots)**: [hold person](/compendium/spells/hold-person.md), [magic weapon](/compendium/spells/magic-weapon.md)
+**2nd level (3 slots)**: [hold person](compendium/spells/hold-person.md), [magic weapon](compendium/spells/magic-weapon.md)
 
-**3rd level (3 slots)**: [dispel magic](/compendium/spells/dispel-magic.md), [elemental weapon](/compendium/spells/elemental-weapon.md)
+**3rd level (3 slots)**: [dispel magic](compendium/spells/dispel-magic.md), [elemental weapon](compendium/spells/elemental-weapon.md)
 
-**4th level (3 slots)**: [banishment](/compendium/spells/banishment.md), [staggering smite](/compendium/spells/staggering-smite.md)
+**4th level (3 slots)**: [banishment](compendium/spells/banishment.md), [staggering smite](compendium/spells/staggering-smite.md)
 
-**5th level (2 slots)**: [destructive wave](/compendium/spells/destructive-wave.md) (necrotic)
+**5th level (2 slots)**: [destructive wave](compendium/spells/destructive-wave.md) (necrotic)
 
 ## Actions
 

@@ -13,7 +13,7 @@ aliases: ["Amanisha Manivarshi"]
 
 ```ad-statblock
 title: Amanisha Manivarshi
-![](/compendium/bestiary/npc/token/amanisha-manivarshi.png#token)
+![](compendium/bestiary/npc/token/amanisha-manivarshi.png#token)
 *Medium humanoid (human), Neutral Good*
 
 - **Armor Class** 12 
@@ -35,7 +35,7 @@ title: Amanisha Manivarshi
 
 ***Cunning Action.*** On each of its turns, Amanisha can use a bonus action to take the Dash, Disengage, or Hide action.
 
-***Sneak Attack (1/Turn).*** Amanisha deals an extra 7 (`2d6`) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of Amanisha that isn't [incapacitated](/compendium/rules/conditions.md#incapacitated) and Amanisha doesn't have disadvantage on the attack roll.
+***Sneak Attack (1/Turn).*** Amanisha deals an extra 7 (`2d6`) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of Amanisha that isn't [incapacitated](rules/conditions.md#incapacitated) and Amanisha doesn't have disadvantage on the attack roll.
 
 ## Actions
 

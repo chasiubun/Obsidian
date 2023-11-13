@@ -11,4 +11,4 @@ aliases: ["Ascendant Step"]
 
 **Prerequisite**: 9th-level Warlock
 
-You can cast [levitate](/compendium/spells/levitate.md) on yourself at will, without expending a spell slot or material components.
+You can cast [levitate](compendium/spells/levitate.md) on yourself at will, without expending a spell slot or material components.

@@ -9,9 +9,9 @@ aliases: ["Soldier"]
 # Soldier
 *Source: Player's Handbook p. 140. Available in the Basic Rules.*  
 
-- **Skill Proficiencies.** [Athletics](/compendium/rules/skills.md#Athletics), [Intimidation](/compendium/rules/skills.md#Intimidation)  
+- **Skill Proficiencies.** [Athletics](rules/skills.md#Athletics), [Intimidation](rules/skills.md#Intimidation)  
 - **Tool Proficiencies.** One type of gaming set, vehicles (land)  
-- **Equipment.** An insignia of rank, a trophy taken from a fallen enemy (a [dagger](/compendium/items/dagger.md), broken blade, or piece of a banner), a bone [dice set](/compendium/items/dice-set.md) or [playing card set](/compendium/items/playing-card-set.md), a set of [common clothes](/compendium/items/common-clothes.md), and a belt [pouch](/compendium/items/pouch.md) containing 10 gp  
+- **Equipment.** An insignia of rank, a trophy taken from a fallen enemy (a [dagger](compendium/items/dagger.md), broken blade, or piece of a banner), a bone [dice set](compendium/items/dice-set.md) or [playing card set](compendium/items/playing-card-set.md), a set of [common clothes](compendium/items/common-clothes.md), and a belt [pouch](compendium/items/pouch.md) containing 10 gp  
 
 War has been your life for as long as you care to remember. You trained as a youth, studied the use of weapons and armor, learned basic survival techniques, including how to stay alive on the battlefield. You might have been part of a standing national army or a mercenary company, or perhaps a member of a local militia who rose to prominence during a recent war.
 

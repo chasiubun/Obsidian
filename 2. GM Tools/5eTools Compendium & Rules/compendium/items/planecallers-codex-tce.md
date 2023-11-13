@@ -14,7 +14,7 @@ aliases:
 
 - **Weight**: 3.0 lbs.
 
-The pages of this book are bound in fiend hide, and its cover is embossed with a diagram of the Great Wheel of the multiverse. When found, the book contains the following spells: [banishment](/compendium/spells/banishment.md), [find familiar](/compendium/spells/find-familiar.md), [gate](/compendium/spells/gate.md), [magic circle](/compendium/spells/magic-circle.md), [planar binding](/compendium/spells/planar-binding.md), and [summon elemental](/compendium/spells/summon-elemental-tce.md). It functions as a spellbook for you.
+The pages of this book are bound in fiend hide, and its cover is embossed with a diagram of the Great Wheel of the multiverse. When found, the book contains the following spells: [banishment](compendium/spells/banishment.md), [find familiar](compendium/spells/find-familiar.md), [gate](compendium/spells/gate.md), [magic circle](compendium/spells/magic-circle.md), [planar binding](compendium/spells/planar-binding.md), and [summon elemental](compendium/spells/summon-elemental-tce.md). It functions as a spellbook for you.
 
 While you are holding the book, you can use it as a spellcasting focus for your wizard spells.
 

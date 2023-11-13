@@ -35,9 +35,9 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
 
 ## Player Characters as Vampires
 
-The game statistics of a player character transformed into a vampire spawn and then a vampire don't change, except that the character's Strength, Dexterity, and Constitution scores become 18 if they aren't higher. In addition, the character gains the vampire's damage resistances, [darkvision](/compendium/rules/senses.md#darkvision), traits, and actions. Attack and damage rolls for the vampire's attacks are based on Strength.
+The game statistics of a player character transformed into a vampire spawn and then a vampire don't change, except that the character's Strength, Dexterity, and Constitution scores become 18 if they aren't higher. In addition, the character gains the vampire's damage resistances, [darkvision](rules/senses.md#darkvision), traits, and actions. Attack and damage rolls for the vampire's attacks are based on Strength.
 
-The save DC for Charm is 8 + the vampire's proficiency bonus + the vampire's Charisma modifier. The character's alignment becomes lawful evil, and the DM might take control of the character until the vampirism is reversed with a [wish](/compendium/spells/wish.md) spell or the character is killed and brought back to life.
+The save DC for Charm is 8 + the vampire's proficiency bonus + the vampire's Charisma modifier. The character's alignment becomes lawful evil, and the DM might take control of the character until the vampirism is reversed with a [wish](compendium/spells/wish.md) spell or the character is killed and brought back to life.
 
 > [!note] Strahd von Zarovich
 > 
@@ -54,7 +54,7 @@ The save DC for Charm is 8 + the vampire's proficiency bonus + the vampire's Cha
 
 ```ad-statblock
 title: Tloques-Popolocas
-![](/compendium/bestiary/npc/token/tloques-popolocas.png#token)
+![](compendium/bestiary/npc/token/tloques-popolocas.png#token)
 *Medium undead, Neutral Evil*
 
 - **Armor Class** 15  (natural armor)
@@ -82,16 +82,16 @@ title: Tloques-Popolocas
 
 - Forbiddance. The vampire can't enter a residence without an invitation from one of the occupants.  
 - Harmed by Running Water. The vampire takes 20 acid damage when it ends its turn in running water.  
-- Stake to the Heart. The vampire is destroyed if a piercing weapon made of wood is driven into its heart while it is [incapacitated](/compendium/rules/conditions.md#incapacitated) in its resting place.  
+- Stake to the Heart. The vampire is destroyed if a piercing weapon made of wood is driven into its heart while it is [incapacitated](rules/conditions.md#incapacitated) in its resting place.  
 - Sunlight Hypersensitivity. The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.  
 
 ***Shapechanger.*** If the vampire isn't in sunlight or running water, it can use its action to Polymorph into a Tiny bat, or back into its true form.
 
 While in bat form, the vampire can't speak, its walking speed is 5 feet, and it has a flying speed of 30 feet. Its Statistics, other than its size and speed, are unchanged. Anything it is wearing transforms with it, but nothing it is carrying does. It reverts to its true form if it dies.
 
-***Innate Spellcasting.*** Tloques can cast [hold person](/compendium/spells/hold-person.md) (DC 14) at will, requiring no components, but his target must be able to see him.
+***Innate Spellcasting.*** Tloques can cast [hold person](compendium/spells/hold-person.md) (DC 14) at will, requiring no components, but his target must be able to see him.
 
-**At will**: [hold person](/compendium/spells/hold-person.md)
+**At will**: [hold person](compendium/spells/hold-person.md)
 
 ## Actions
 

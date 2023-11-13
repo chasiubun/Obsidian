@@ -31,7 +31,7 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 
 ```ad-statblock
 title: Rot Troll
-![](/compendium/bestiary/giant/token/rot-troll.png#token)
+![](compendium/bestiary/giant/token/rot-troll.png#token)
 *Large giant, Typically  Chaotic Evil*
 
 - **Armor Class** 16  (natural armor)

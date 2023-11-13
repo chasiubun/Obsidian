@@ -27,7 +27,7 @@ Of all their enemies, the githyanki most hate their former masters, the mind fla
 
 In ancient times, gith knights created special weapons to combat their mind flayer masters.
 
-These silver swords channel the force of the wielder's will, dealing psychic as well as physical damage. A githyanki can't become a knight until it masters the singular discipline needed to will such a blade into existence. A silver sword is equivalent to a [greatsword](/compendium/items/greatsword.md), and takes on the properties of a [+3 greatsword](/compendium/items/3-weapon.md) in the hands of its creator.
+These silver swords channel the force of the wielder's will, dealing psychic as well as physical damage. A githyanki can't become a knight until it masters the singular discipline needed to will such a blade into existence. A silver sword is equivalent to a [greatsword](compendium/items/greatsword.md), and takes on the properties of a [+3 greatsword](compendium/items/3-weapon.md) in the hands of its creator.
 
 In the eyes of the githyanki, each silver sword is a priceless relic and a work of art. Githyanki knights will hunt down and destroy any non-githyanki that dares to carry or wield a silver sword, reclaiming it for their people.
 
@@ -41,13 +41,13 @@ Since creatures that dwell on the Astral Plane don't age, the githyanki establis
 
 ## Gith
 
-The warlike githyanki and the contemplative githzerai are a sundered people-two cultures that utterly despise one another. Before there were githyanki or githzerai, these creatures were a single race enslaved by the [mind flayers](/compendium/bestiary/aberration/mind-flayer.md). Although they attempted to overthrow their masters many times, their rebellions were repeatedly crushed until a great leader named Gith arose.
+The warlike githyanki and the contemplative githzerai are a sundered people-two cultures that utterly despise one another. Before there were githyanki or githzerai, these creatures were a single race enslaved by the [mind flayers](compendium/bestiary/aberration/mind-flayer.md). Although they attempted to overthrow their masters many times, their rebellions were repeatedly crushed until a great leader named Gith arose.
 
 After much bloodshed, Gith and her followers threw off the yoke of their illithid masters, but another leader named Zerthimon emerged in the aftermath of battle.
 
 Zerthimon challenged Gith's motives, claiming that her strict martial leadership and desire for vengeance amounted to little more than another form of slavery for her people. A rift erupted between followers of each leader, and they eventually became the two races whose enmity endures to this day.
 
-Whether these tall, gaunt creatures were peaceful or savage, cultured or primitive before the [mind flayers](/compendium/bestiary/aberration/mind-flayer.md) enslaved and changed them, none can say. Not even the original name of their race remains from that distant time.
+Whether these tall, gaunt creatures were peaceful or savage, cultured or primitive before the [mind flayers](compendium/bestiary/aberration/mind-flayer.md) enslaved and changed them, none can say. Not even the original name of their race remains from that distant time.
 
 > [!quote]- A quote from Aristul the Yellow, master of planar lore  
 > 
@@ -58,10 +58,10 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
 
 ```ad-statblock
 title: Githyanki Warrior
-![](/compendium/bestiary/humanoid/token/githyanki-warrior.png#token)
+![](compendium/bestiary/humanoid/token/githyanki-warrior.png#token)
 *Medium humanoid (gith), Lawful Evil*
 
-- **Armor Class** 17  ([half plate armor](/compendium/items/half-plate-armor.md))
+- **Armor Class** 17  ([half plate armor](compendium/items/half-plate-armor.md))
 - **Hit Points** 49 (`9d8 + 9`)
 - **Speed** 30 ft.
 
@@ -78,9 +78,9 @@ title: Githyanki Warrior
 
 ***Innate Spellcasting (Psionics).*** The githyanki's innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no components:
 
-**At will**: [mage hand](/compendium/spells/mage-hand.md) (the hand is invisible)
+**At will**: [mage hand](compendium/spells/mage-hand.md) (the hand is invisible)
 
-**3/day each**: [jump](/compendium/spells/jump.md), [misty step](/compendium/spells/misty-step.md), [nondetection](/compendium/spells/nondetection.md) (self only)
+**3/day each**: [jump](compendium/spells/jump.md), [misty step](compendium/spells/misty-step.md), [nondetection](compendium/spells/nondetection.md) (self only)
 
 ## Actions
 

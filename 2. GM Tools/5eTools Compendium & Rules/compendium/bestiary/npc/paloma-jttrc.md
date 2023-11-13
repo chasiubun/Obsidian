@@ -13,10 +13,10 @@ aliases: ["Paloma"]
 
 ```ad-statblock
 title: Paloma
-![](/compendium/bestiary/npc/token/paloma.png#token)
+![](compendium/bestiary/npc/token/paloma.png#token)
 *Small humanoid (Rock gnome), Chaotic Good*
 
-- **Armor Class** 15  ([studded leather](/compendium/items/studded-leather-armor.md))
+- **Armor Class** 15  ([studded leather](compendium/items/studded-leather-armor.md))
 - **Hit Points** 78 (`12d8 + 24`)
 - **Speed** 25 ft.
 
@@ -37,7 +37,7 @@ title: Paloma
 
 ***Evasion.*** If Paloma is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, Paloma instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
 
-***Sneak Attack (1/Turn).*** Paloma deals an extra 14 (`4d6`) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of Paloma that isn't [incapacitated](/compendium/rules/conditions.md#incapacitated) and Paloma doesn't have disadvantage on the attack roll.
+***Sneak Attack (1/Turn).*** Paloma deals an extra 14 (`4d6`) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of Paloma that isn't [incapacitated](rules/conditions.md#incapacitated) and Paloma doesn't have disadvantage on the attack roll.
 
 ## Actions
 

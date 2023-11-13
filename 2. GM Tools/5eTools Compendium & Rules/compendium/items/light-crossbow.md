@@ -15,7 +15,7 @@ aliases:
 
 - **Damage**: 1d8 P
 - **Range**: 80/320
-- **Properties**: [Ammunition](/compendium/rules/item-properties.md#Ammunition), [Loading](/compendium/rules/item-properties.md#Loading), [Two-handed](/compendium/rules/item-properties.md#Two-handed)
+- **Properties**: [Ammunition](rules/item-properties.md#Ammunition), [Loading](rules/item-properties.md#Loading), [Two-handed](rules/item-properties.md#Two-handed)
 - **Cost**: 25 gp
 - **Weight**: 5.0 lbs.
 

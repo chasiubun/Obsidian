@@ -30,7 +30,7 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 
 ```ad-statblock
 title: Lost Sorrowsworn
-![](/compendium/bestiary/monstrosity/token/lost-sorrowsworn.png#token)
+![](compendium/bestiary/monstrosity/token/lost-sorrowsworn.png#token)
 *Medium monstrosity, Typically  Neutral Evil*
 
 - **Armor Class** 15  (natural armor)
@@ -54,11 +54,11 @@ title: Lost Sorrowsworn
 
 ***Arm Spike.*** *Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 14 (`2d10 + 3`) piercing damage.
 
-***Embrace (Recharge 4-6).*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 25 (`4d10 + 3`) piercing damage, and the target is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 14) if it is a Medium or smaller creature. Until the grapple ends, the target is [frightened](/compendium/rules/conditions.md#frightened), and it takes 27 (`6d8`) psychic damage at the end of each of its turns. The sorrowsworn can grapple only one creature at a time.
+***Embrace (Recharge 4-6).*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 25 (`4d10 + 3`) piercing damage, and the target is [grappled](rules/conditions.md#grappled) (escape DC 14) if it is a Medium or smaller creature. Until the grapple ends, the target is [frightened](rules/conditions.md#frightened), and it takes 27 (`6d8`) psychic damage at the end of each of its turns. The sorrowsworn can grapple only one creature at a time.
 
 ## Reactions
 
-***Tightening Embrace.*** If the sorrowsworn takes damage, the creature [grappled](/compendium/rules/conditions.md#grappled) by Embrace takes 18 (`4d8`) psychic damage.
+***Tightening Embrace.*** If the sorrowsworn takes damage, the creature [grappled](rules/conditions.md#grappled) by Embrace takes 18 (`4d8`) psychic damage.
 ```
 ^statblock
 

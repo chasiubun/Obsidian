@@ -13,10 +13,10 @@ aliases: ["Kasem Aroon"]
 
 ```ad-statblock
 title: Kasem Aroon
-![](/compendium/bestiary/npc/token/kasem-aroon.png#token)
+![](compendium/bestiary/npc/token/kasem-aroon.png#token)
 *Medium humanoid (human), Chaotic Neutral*
 
-- **Armor Class** 15  ([breastplate](/compendium/items/breastplate.md))
+- **Armor Class** 15  ([breastplate](compendium/items/breastplate.md))
 - **Hit Points** 9 (`2d8`)
 - **Speed** 30 ft.
 

@@ -34,7 +34,7 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 
 ```ad-statblock
 title: Dire Troll
-![](/compendium/bestiary/giant/token/dire-troll.png#token)
+![](compendium/bestiary/giant/token/dire-troll.png#token)
 *Huge giant, Typically  Chaotic Evil*
 
 - **Armor Class** 15  (natural armor)

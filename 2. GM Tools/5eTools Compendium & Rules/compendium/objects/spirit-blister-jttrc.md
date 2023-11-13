@@ -14,7 +14,7 @@ If destroyed, the blister bursts with a chorus of distant sighs. A moment later,
 
 ```ad-statblock
 title: Spirit Blister
-![](/compendium/objects/token/spirit-blister.png#token)
+![](compendium/objects/token/spirit-blister.png#token)
 *Medium Siege weapon*
 
 - **Armor Class** 17 

@@ -17,7 +17,7 @@ In truth, archaics are the reincarnated souls of the oracles of Strixhaven. When
 
 ```ad-statblock
 title: Archaic
-![](/compendium/bestiary/celestial/token/archaic.png#token)
+![](compendium/bestiary/celestial/token/archaic.png#token)
 *Gargantuan celestial, typically  Neutral*
 
 - **Armor Class** 20  (natural armor)
@@ -45,9 +45,9 @@ title: Archaic
 
 ***Spellcasting.*** The archaic casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 22):
 
-**At will**: [detect magic](/compendium/spells/detect-magic.md), [divination](/compendium/spells/divination.md), [sending](/compendium/spells/sending.md)
+**At will**: [detect magic](compendium/spells/detect-magic.md), [divination](compendium/spells/divination.md), [sending](compendium/spells/sending.md)
 
-**1/day each**: [banishment](/compendium/spells/banishment.md), [forcecage](/compendium/spells/forcecage.md)
+**1/day each**: [banishment](compendium/spells/banishment.md), [forcecage](compendium/spells/forcecage.md)
 
 ## Actions
 

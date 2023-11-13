@@ -37,7 +37,7 @@ Pegasi mate for life, build their nests in hard-to-reach locations, and give bir
 
 ```ad-statblock
 title: Pegasus
-![](/compendium/bestiary/celestial/token/pegasus.png#token)
+![](compendium/bestiary/celestial/token/pegasus.png#token)
 *Large celestial, Chaotic Good*
 
 - **Armor Class** 12 

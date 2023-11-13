@@ -35,6 +35,6 @@ When you cast this spell using a spell slot of 2nd level or higher, you create o
 
 ## Summary
 
-**Classes**: [Cleric](/compendium/classes/cleric.md), [Druid](/compendium/classes/druid.md), [Sorcerer (Divine Soul)](/compendium/classes/sorcerer-divine-soul-xge.md), [Warlock (The Fathomless)](/compendium/classes/warlock-the-fathomless-tce.md)
+**Classes**: [Cleric](compendium/classes/cleric.md), [Druid](compendium/classes/druid.md), [Sorcerer (Divine Soul)](compendium/classes/sorcerer-divine-soul-xge.md), [Warlock (The Fathomless)](compendium/classes/warlock-the-fathomless-tce.md)
 
 *Source: Player's Handbook p. 229. Available in the SRD.*

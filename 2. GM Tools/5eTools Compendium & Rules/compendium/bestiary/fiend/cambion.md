@@ -35,10 +35,10 @@ The demon lord Graz'zt is fond of procreating with humanoids who have made pacts
 
 ```ad-statblock
 title: Cambion
-![](/compendium/bestiary/fiend/token/cambion.png#token)
+![](compendium/bestiary/fiend/token/cambion.png#token)
 *Medium fiend, Any Evil alignment*
 
-- **Armor Class** 19  ([scale mail](/compendium/items/scale-mail.md))
+- **Armor Class** 19  ([scale mail](compendium/items/scale-mail.md))
 - **Hit Points** 82 (`11d8 + 33`)
 - **Speed** 30 ft., fly 60 ft.
 
@@ -59,9 +59,9 @@ title: Cambion
 
 ***Innate Spellcasting.*** The cambion's spellcasting ability is Charisma (spell save DC 14). The cambion can innately cast the following spells, requiring no material components:
 
-**1/day**: [plane shift](/compendium/spells/plane-shift.md) (self only)
+**1/day**: [plane shift](compendium/spells/plane-shift.md) (self only)
 
-**3/day each**: [alter self](/compendium/spells/alter-self.md), [command](/compendium/spells/command.md), [detect magic](/compendium/spells/detect-magic.md)
+**3/day each**: [alter self](compendium/spells/alter-self.md), [command](compendium/spells/command.md), [detect magic](compendium/spells/detect-magic.md)
 
 ## Actions
 
@@ -71,7 +71,7 @@ title: Cambion
 
 ***Fire Ray.*** *Ranged Spell Attack:* +7 to hit, range 120 ft., one target. *Hit:* 10 (`3d6`) fire damage.
 
-***Fiendish Charm.*** One humanoid the cambion can see within 30 feet of it must succeed on a DC 14 Wisdom saving throw or be magically [charmed](/compendium/rules/conditions.md#charmed) for 1 day. The [charmed](/compendium/rules/conditions.md#charmed) target obeys the cambion's spoken commands. If the target suffers any harm from the cambion or another creature or receives a suicidal command from the cambion, the target can repeat the saving throw, ending the effect on itself on a success. If a target's saving throw is successful, or if the effect ends for it, the creature is immune to the cambion's Fiendish Charm for the next 24 hours.
+***Fiendish Charm.*** One humanoid the cambion can see within 30 feet of it must succeed on a DC 14 Wisdom saving throw or be magically [charmed](rules/conditions.md#charmed) for 1 day. The [charmed](rules/conditions.md#charmed) target obeys the cambion's spoken commands. If the target suffers any harm from the cambion or another creature or receives a suicidal command from the cambion, the target can repeat the saving throw, ending the effect on itself on a success. If a target's saving throw is successful, or if the effect ends for it, the creature is immune to the cambion's Fiendish Charm for the next 24 hours.
 ```
 ^statblock
 

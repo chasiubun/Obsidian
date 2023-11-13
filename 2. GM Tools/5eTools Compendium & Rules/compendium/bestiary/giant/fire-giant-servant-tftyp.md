@@ -13,7 +13,7 @@ aliases: ["Fire Giant Servant"]
 
 ```ad-statblock
 title: Fire Giant Servant
-![](/compendium/bestiary/giant/token/fire-giant-servant.png#token)
+![](compendium/bestiary/giant/token/fire-giant-servant.png#token)
 *Huge giant, Chaotic Evil*
 
 - **Armor Class** 13  (natural armor)

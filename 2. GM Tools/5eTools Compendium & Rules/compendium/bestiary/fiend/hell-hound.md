@@ -29,7 +29,7 @@ Hell hounds are smarter than mundane beasts, and their lawful nature makes them 
 
 ```ad-statblock
 title: Hell Hound
-![](/compendium/bestiary/fiend/token/hell-hound.png#token)
+![](compendium/bestiary/fiend/token/hell-hound.png#token)
 *Medium fiend, Lawful Evil*
 
 - **Armor Class** 15  (natural armor)
@@ -49,9 +49,9 @@ title: Hell Hound
 
 ## Traits
 
-***Keen Hearing and Smell.*** The hound has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on hearing or smell.
+***Keen Hearing and Smell.*** The hound has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on hearing or smell.
 
-***Pack Tactics.*** The hound has advantage on an attack roll against a creature if at least one of the hound's allies is within 5 feet of the creature and the ally isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Pack Tactics.*** The hound has advantage on an attack roll against a creature if at least one of the hound's allies is within 5 feet of the creature and the ally isn't [incapacitated](rules/conditions.md#incapacitated).
 
 ## Actions
 

@@ -30,7 +30,7 @@ Smoke mephits are crude, lazy creatures of air and fire that billow smoke consta
 
 ```ad-statblock
 title: Smoke Mephit
-![](/compendium/bestiary/elemental/token/smoke-mephit.png#token)
+![](compendium/bestiary/elemental/token/smoke-mephit.png#token)
 *Small elemental, Neutral Evil*
 
 - **Armor Class** 12 
@@ -52,15 +52,15 @@ title: Smoke Mephit
 
 ***Death Burst.*** When the mephit dies, it leaves behind a cloud of smoke that fills a 5-foot-radius sphere centered on its space. The sphere is heavily obscured. Wind disperses the cloud, which otherwise lasts for 1 minute.
 
-***Innate Spellcasting (1/Day).*** The mephit can innately cast [dancing lights](/compendium/spells/dancing-lights.md), requiring no material components. Its innate spellcasting ability is Charisma.
+***Innate Spellcasting (1/Day).*** The mephit can innately cast [dancing lights](compendium/spells/dancing-lights.md), requiring no material components. Its innate spellcasting ability is Charisma.
 
-**At will**: [dancing lights](/compendium/spells/dancing-lights.md)
+**At will**: [dancing lights](compendium/spells/dancing-lights.md)
 
 ## Actions
 
 ***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4 (`1d4 + 2`) slashing damage.
 
-***Cinder Breath (Recharge 6).*** The mephit exhales a 15-foot cone of smoldering ash. Each creature in that area must succeed on a DC 10 Dexterity saving throw or be [blinded](/compendium/rules/conditions.md#blinded) until the end of the mephit's next turn.
+***Cinder Breath (Recharge 6).*** The mephit exhales a 15-foot cone of smoldering ash. Each creature in that area must succeed on a DC 10 Dexterity saving throw or be [blinded](rules/conditions.md#blinded) until the end of the mephit's next turn.
 ```
 ^statblock
 

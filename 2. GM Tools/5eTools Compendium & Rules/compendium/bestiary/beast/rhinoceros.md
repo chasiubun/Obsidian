@@ -14,7 +14,7 @@ aliases: ["Rhinoceros"]
 
 ```ad-statblock
 title: Rhinoceros
-![](/compendium/bestiary/beast/token/rhinoceros.png#token)
+![](compendium/bestiary/beast/token/rhinoceros.png#token)
 *Large beast, Unaligned*
 
 - **Armor Class** 11  (natural armor)
@@ -34,7 +34,7 @@ title: Rhinoceros
 
 ## Traits
 
-***Charge.*** If the rhinoceros moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (`2d8`) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked [prone](/compendium/rules/conditions.md#prone).
+***Charge.*** If the rhinoceros moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (`2d8`) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked [prone](rules/conditions.md#prone).
 
 ## Actions
 

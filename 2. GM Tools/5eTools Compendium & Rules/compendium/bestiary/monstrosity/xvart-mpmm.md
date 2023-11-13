@@ -25,10 +25,10 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
 
 ```ad-statblock
 title: Xvart
-![](/compendium/bestiary/monstrosity/token/xvart.png#token)
+![](compendium/bestiary/monstrosity/token/xvart.png#token)
 *Small monstrosity, Typically  Chaotic Evil*
 
-- **Armor Class** 13  ([leather armor](/compendium/items/leather-armor.md))
+- **Armor Class** 13  ([leather armor](compendium/items/leather-armor.md))
 - **Hit Points** 7 (`2d6`)
 - **Speed** 30 ft.
 
@@ -45,7 +45,7 @@ title: Xvart
 
 ## Traits
 
-***Raxivort's Tongue.*** The xvart can communicate with ordinary [bats](/compendium/bestiary/beast/bat.md) and [rats](/compendium/bestiary/beast/rat.md), as well as [giant bats](/compendium/bestiary/beast/giant-bat.md) and [giant rats](/compendium/bestiary/beast/giant-rat.md).
+***Raxivort's Tongue.*** The xvart can communicate with ordinary [bats](compendium/bestiary/beast/bat.md) and [rats](compendium/bestiary/beast/rat.md), as well as [giant bats](compendium/bestiary/beast/giant-bat.md) and [giant rats](compendium/bestiary/beast/giant-rat.md).
 
 ## Actions
 
@@ -55,7 +55,7 @@ title: Xvart
 
 ## Bonus Actions
 
-***Low Cunning.*** The xvart takes the [Disengage](/compendium/rules/actions.md#Disengage) action.
+***Low Cunning.*** The xvart takes the [Disengage](rules/actions.md#Disengage) action.
 ```
 ^statblock
 

@@ -17,7 +17,7 @@ aliases:
 *Melee Weapon, major, very rare (requires attunement)*  
 
 - **Damage**: 1d6 S
-- **Properties**: [Finesse](/compendium/rules/item-properties.md#Finesse), [Light](/compendium/rules/item-properties.md#Light), Martial
+- **Properties**: [Finesse](rules/item-properties.md#Finesse), [Light](rules/item-properties.md#Light), Martial
 - **Weight**: 3.0 lbs.
 
 You gain a +2 bonus to attack and damage rolls made with this magic weapon. In addition, you can make one attack with it as a bonus action on each of your turns.

@@ -32,11 +32,11 @@ You can see in dim light within 60 feet of you as if it were bright light and in
 
 ### Fey Ancestry
 
-You have advantage on saving throws you make to avoid or end the [charmed](/compendium/rules/conditions.md#charmed) condition on yourself.
+You have advantage on saving throws you make to avoid or end the [charmed](rules/conditions.md#charmed) condition on yourself.
 
 ### Keen Senses
 
-You have proficiency in the [Perception](/compendium/rules/skills.md#Perception) skill.
+You have proficiency in the [Perception](rules/skills.md#Perception) skill.
 
 ### Necrotic Resistance
 
@@ -62,7 +62,7 @@ Like other elves, shadar-kai can live to be over 750 years old.
 > 
 > Created by the god Corellon, the first elves were Fey beings who cavorted on various planes of existence, changing their physical forms at will. Outside the glory of Arvandor, their favourite place was the feywild—a realm of unbridled passion. It was to that place of splendors that elves fled after they were exiled from Corellon's presence for plotting with their god's rival, Lolth. And it was there that they transformed from Fey creatures into Humanoids and lost their ability to shape-shift at will. Afterward, they often wept as they realized what they had lost, their sorrow made even deeper by the Feywild's influence. But in the Feywild, they also discovered the potential joys of being people of fixed forms, and they rediscovered hope once they renounced Lolth's treachery.
 > 
-> Most elves eventually spread from the Feywild to other worlds, as wanderlust and curiosity drove them to the far reaches of the multiverse. In those other worlds, elves developed the physical forms now associated with them. Because of their original mutable nature, each group of elves mystically took on characteristics of the environment with which they bonded, whether forests ([wood elves](/compendium/races/elf-wood.md)), fey crossings in the Material Plane ([high elves](/compendium/races/elf-high.md)), the Underdark ([drow](/compendium/races/elf-drow.md)), the Shadowfell ([shadar-kai](/compendium/races/shadar-kai-mpmm.md)), the Feywild ([eladrin](/compendium/races/eladrin-mpmm.md)), or oceans ([sea elves](/compendium/races/sea-elf-mpmm.md)).
+> Most elves eventually spread from the Feywild to other worlds, as wanderlust and curiosity drove them to the far reaches of the multiverse. In those other worlds, elves developed the physical forms now associated with them. Because of their original mutable nature, each group of elves mystically took on characteristics of the environment with which they bonded, whether forests ([wood elves](compendium/races/elf-wood.md)), fey crossings in the Material Plane ([high elves](compendium/races/elf-high.md)), the Underdark ([drow](compendium/races/elf-drow.md)), the Shadowfell ([shadar-kai](compendium/races/shadar-kai-mpmm.md)), the Feywild ([eladrin](compendium/races/eladrin-mpmm.md)), or oceans ([sea elves](compendium/races/sea-elf-mpmm.md)).
 > 
 > In some places, Corellon has passed from elves' memory, but the god's blood flows within them still, even if they know nothing of its source. That blood is what causes them to evolve after spending centuries connected to a particular environment, so it is only a matter of time before other kinds of elves emerge.
 ^elves-of-many-realms

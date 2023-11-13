@@ -77,10 +77,10 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 
 ```ad-statblock
 title: Storm Giant
-![](/compendium/bestiary/giant/token/storm-giant.png#token)
+![](compendium/bestiary/giant/token/storm-giant.png#token)
 *Huge giant, Chaotic Good*
 
-- **Armor Class** 16  ([scale mail](/compendium/items/scale-mail.md))
+- **Armor Class** 16  ([scale mail](compendium/items/scale-mail.md))
 - **Hit Points** 230 (`20d12 + 100`)
 - **Speed** 50 ft., swim 50 ft.
 
@@ -101,9 +101,9 @@ title: Storm Giant
 
 ***Innate Spellcasting.*** The giant's innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components:
 
-**At will**: [detect magic](/compendium/spells/detect-magic.md), [feather fall](/compendium/spells/feather-fall.md), [levitate](/compendium/spells/levitate.md), [light](/compendium/spells/light.md)
+**At will**: [detect magic](compendium/spells/detect-magic.md), [feather fall](compendium/spells/feather-fall.md), [levitate](compendium/spells/levitate.md), [light](compendium/spells/light.md)
 
-**3/day each**: [control weather](/compendium/spells/control-weather.md), [water breathing](/compendium/spells/water-breathing.md)
+**3/day each**: [control weather](compendium/spells/control-weather.md), [water breathing](compendium/spells/water-breathing.md)
 
 ## Actions
 

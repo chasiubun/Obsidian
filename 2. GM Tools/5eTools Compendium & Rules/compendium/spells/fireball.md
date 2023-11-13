@@ -29,6 +29,6 @@ The fire spreads around corners. It ignites flammable objects in the area that a
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
 
-**Classes**: [Artificer (Artillerist)](/compendium/classes/artificer-artillerist-tce.md), [Cleric (Light Domain)](/compendium/classes/cleric-light-domain.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Sorcerer](/compendium/classes/sorcerer.md), [Warlock (The Fiend)](/compendium/classes/warlock-the-fiend.md), [Warlock (The Genie)](/compendium/classes/warlock-the-genie-tce.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Artificer (Artillerist)](compendium/classes/artificer-artillerist-tce.md), [Cleric (Light Domain)](compendium/classes/cleric-light-domain.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Sorcerer](compendium/classes/sorcerer.md), [Warlock (The Fiend)](compendium/classes/warlock-the-fiend.md), [Warlock (The Genie)](compendium/classes/warlock-the-genie-tce.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 241. Available in the SRD and the Basic Rules.*

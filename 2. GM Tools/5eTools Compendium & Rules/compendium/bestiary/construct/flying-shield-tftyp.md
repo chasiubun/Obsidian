@@ -13,7 +13,7 @@ aliases: ["Flying Shield"]
 
 ```ad-statblock
 title: Flying Shield
-![](/compendium/bestiary/construct/token/flying-shield.png#token)
+![](compendium/bestiary/construct/token/flying-shield.png#token)
 *Small construct, Unaligned*
 
 - **Armor Class** 17  (natural armor)
@@ -33,7 +33,7 @@ title: Flying Shield
 
 ## Traits
 
-***Antimagic Susceptibility.*** The shield is [incapacitated](/compendium/rules/conditions.md#incapacitated) while in the area of an [antimagic field](/compendium/spells/antimagic-field.md). If targeted by [dispel magic](/compendium/spells/dispel-magic.md), the shield must succeed on a Constitution saving throw against the caster's spell save DC or fall [unconscious](/compendium/rules/conditions.md#unconscious) for 1 minute.
+***Antimagic Susceptibility.*** The shield is [incapacitated](rules/conditions.md#incapacitated) while in the area of an [antimagic field](compendium/spells/antimagic-field.md). If targeted by [dispel magic](compendium/spells/dispel-magic.md), the shield must succeed on a Constitution saving throw against the caster's spell save DC or fall [unconscious](rules/conditions.md#unconscious) for 1 minute.
 
 ***False Appearance.*** While the shield remains motionless and isn't flying, it is indistinguishable from a normal shield.
 ```

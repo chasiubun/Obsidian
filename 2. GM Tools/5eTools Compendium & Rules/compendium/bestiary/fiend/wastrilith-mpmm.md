@@ -19,11 +19,11 @@ Found in the waters of the Abyss and other bodies of water contaminated by that 
 
 A wastrilith pollutes the waters around it. Its noxious presence even affects nearby sources of water when the demon travels on land. The corrupted water, which contains a measure of the demon's essence, responds to the wastrilith's commands—perhaps hardening to prevent foes from escaping or erupting in a surge that drags victims into its reach.
 
-Creatures that ingest water corrupted by a wastrilith risk their very souls. Those who drink the poisonous liquid might wither away until they finally die, or they remain alive only to become thralls of chaos and evil. To represent this defilementchapter 2 of the Dungeon Master's Guide, you can use the [optional rule on abyssal corruption](/compendium/tables/optional-rule-abyssal-corruption-abyssal-corruption.md) in "chapter 2 of the Dungeon Master's Guide", causing the poisoned creature to be corrupted.
+Creatures that ingest water corrupted by a wastrilith risk their very souls. Those who drink the poisonous liquid might wither away until they finally die, or they remain alive only to become thralls of chaos and evil. To represent this defilementchapter 2 of the Dungeon Master's Guide, you can use the [optional rule on abyssal corruption](compendium/tables/optional-rule-abyssal-corruption-abyssal-corruption.md) in "chapter 2 of the Dungeon Master's Guide", causing the poisoned creature to be corrupted.
 
 ```ad-statblock
 title: Wastrilith
-![](/compendium/bestiary/fiend/token/wastrilith.png#token)
+![](compendium/bestiary/fiend/token/wastrilith.png#token)
 *Large fiend (demon), Typically  Chaotic Evil*
 
 - **Armor Class** 18  (natural armor)
@@ -47,7 +47,7 @@ title: Wastrilith
 
 ***Corrupt Water.*** At the start of each of the wastrilith's turns, exposed water within 30 feet of it is befouled. Underwater, this effect lightly obscures the area until a current clears it away. Water in containers remains corrupted until it evaporates.
 
-A creature that consumes this foul water or swims in it must make a DC 18 Constitution saving throw. On a successful save, the creature is immune to the foul water for 24 hours. On a failed save, the creature takes 14 (`4d6`) poison damage and is [poisoned](/compendium/rules/conditions.md#poisoned) for 1 minute. At the end of this time, the [poisoned](/compendium/rules/conditions.md#poisoned) creature must repeat the saving throw. On a failure, the creature takes 18 (`4d8`) poison damage and is [poisoned](/compendium/rules/conditions.md#poisoned) until it finishes a long rest.
+A creature that consumes this foul water or swims in it must make a DC 18 Constitution saving throw. On a successful save, the creature is immune to the foul water for 24 hours. On a failed save, the creature takes 14 (`4d6`) poison damage and is [poisoned](rules/conditions.md#poisoned) for 1 minute. At the end of this time, the [poisoned](rules/conditions.md#poisoned) creature must repeat the saving throw. On a failure, the creature takes 18 (`4d8`) poison damage and is [poisoned](rules/conditions.md#poisoned) until it finishes a long rest.
 
 If another demon drinks the foul water as an action, it gains 11 (`2d10`) temporary hit points.
 

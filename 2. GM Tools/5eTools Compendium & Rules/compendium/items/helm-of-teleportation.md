@@ -14,6 +14,6 @@ aliases:
 *Wondrous Item, major, rare (requires attunement)*  
 
 
-This helm has 3 charges. While wearing it, you can use an action and expend 1 charge to cast the [teleport](/compendium/spells/teleport.md) spell from it. The helm regains `1d3` expended charges daily at dawn.
+This helm has 3 charges. While wearing it, you can use an action and expend 1 charge to cast the [teleport](compendium/spells/teleport.md) spell from it. The helm regains `1d3` expended charges daily at dawn.
 
 *Source: Dungeon Master's Guide p. 174. Available in the SRD.*

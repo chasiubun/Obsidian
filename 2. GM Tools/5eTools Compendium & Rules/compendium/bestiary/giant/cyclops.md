@@ -37,7 +37,7 @@ Cyclopes aren't great thinkers or strategists. Slow to learn and bound to their 
 
 ```ad-statblock
 title: Cyclops
-![](/compendium/bestiary/giant/token/cyclops.png#token)
+![](compendium/bestiary/giant/token/cyclops.png#token)
 *Huge giant, Chaotic Neutral*
 
 - **Armor Class** 14  (natural armor)

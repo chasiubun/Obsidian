@@ -14,8 +14,8 @@ aliases: ["5,000 gp Gemstones"]
 
 | dice: d4 | Stone Description |
 |----------|-------------------|
-| 1 | [Black sapphire](/compendium/items/black-sapphire.md) (translucent lustrous black with glowing highlights) |
-| 2 | [Diamond](/compendium/items/diamond.md) (transparent blue-white, canary, pink, brown, or blue) |
-| 3 | [Jacinth](/compendium/items/jacinth.md) (transparent fiery orange) |
-| 4 | [Ruby](/compendium/items/ruby.md) (transparent clear red to deep crimson) |
+| 1 | [Black sapphire](compendium/items/black-sapphire.md) (translucent lustrous black with glowing highlights) |
+| 2 | [Diamond](compendium/items/diamond.md) (transparent blue-white, canary, pink, brown, or blue) |
+| 3 | [Jacinth](compendium/items/jacinth.md) (transparent fiery orange) |
+| 4 | [Ruby](compendium/items/ruby.md) (transparent clear red to deep crimson) |
 ^5000-gp-gemstones

@@ -17,7 +17,7 @@ This massive four-legged dinosaur is large enough that most predators leave it a
 
 ```ad-statblock
 title: Brontosaurus
-![](/compendium/bestiary/beast/token/brontosaurus.png#token)
+![](compendium/bestiary/beast/token/brontosaurus.png#token)
 *Gargantuan beast (dinosaur), Unaligned*
 
 - **Armor Class** 15  (natural armor)
@@ -37,7 +37,7 @@ title: Brontosaurus
 
 ## Actions
 
-***Stomp.*** *Melee Weapon Attack:* +8 to hit, reach 20 ft., one target. *Hit:* 27 (`5d8 + 5`) bludgeoning damage, and the target must succeed on a DC 14 Strength saving throw or be knocked [prone](/compendium/rules/conditions.md#prone).
+***Stomp.*** *Melee Weapon Attack:* +8 to hit, reach 20 ft., one target. *Hit:* 27 (`5d8 + 5`) bludgeoning damage, and the target must succeed on a DC 14 Strength saving throw or be knocked [prone](rules/conditions.md#prone).
 
 ***Tail.*** *Melee Weapon Attack:* +8 to hit, reach 20 ft., one target. *Hit:* 32 (`6d8 + 5`) bludgeoning damage
 ```

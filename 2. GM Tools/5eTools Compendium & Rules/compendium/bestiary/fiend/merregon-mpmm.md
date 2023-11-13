@@ -19,7 +19,7 @@ Because of their unshakable loyalty, merregons form the backbone of many devils'
 
 ```ad-statblock
 title: Merregon
-![](/compendium/bestiary/fiend/token/merregon.png#token)
+![](compendium/bestiary/fiend/token/merregon.png#token)
 *Medium fiend (devil), Typically  Lawful Evil*
 
 - **Armor Class** 16  (natural armor)
@@ -39,7 +39,7 @@ title: Merregon
 
 ## Traits
 
-***Devil's Sight.*** Magical darkness doesn't impede the merregon's [darkvision](/compendium/rules/senses.md#darkvision).
+***Devil's Sight.*** Magical darkness doesn't impede the merregon's [darkvision](rules/senses.md#darkvision).
 
 ***Magic Resistance.*** The merregon has advantage on saving throws against spells and other magical effects.
 

@@ -32,7 +32,7 @@ When a spectator has fulfilled its service, it is free to do as it pleases. Many
 
 ```ad-statblock
 title: Spectator
-![](/compendium/bestiary/aberration/token/spectator.png#token)
+![](compendium/bestiary/aberration/token/spectator.png#token)
 *Medium aberration, Lawful Neutral*
 
 - **Armor Class** 14  (natural armor)
@@ -57,8 +57,8 @@ title: Spectator
 ***Eye Rays.*** The spectator shoots up to two of the following magical eye rays at one or two creatures it can see within 90 feet of it. It can use each ray only once on a turn.
 
 - **1. Confusion Ray.** The target must succeed on a DC 13 Wisdom saving throw, or it can't take reactions until the end of its next turn. On its turn, the target can't move, and it uses its action to make a melee or ranged attack against a randomly determined creature within range. If the target can't attack, it does nothing on its turn.  
-- **2. Paralyzing Ray.** The target must succeed on a DC 13 Constitution saving throw or be [paralyzed](/compendium/rules/conditions.md#paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
-- **3. Fear Ray.** The target must succeed on a DC 13 Wisdom saving throw or be [frightened](/compendium/rules/conditions.md#frightened) for 1 minute. The target can repeat the saving throw at the end of each of its turns, with disadvantage if the spectator is visible to the target, ending the effect on itself on a success.  
+- **2. Paralyzing Ray.** The target must succeed on a DC 13 Constitution saving throw or be [paralyzed](rules/conditions.md#paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
+- **3. Fear Ray.** The target must succeed on a DC 13 Wisdom saving throw or be [frightened](rules/conditions.md#frightened) for 1 minute. The target can repeat the saving throw at the end of each of its turns, with disadvantage if the spectator is visible to the target, ending the effect on itself on a success.  
 - **4. Wounding Ray.** The target must make a DC 13 Constitution saving throw, taking 16 (`3d10`) necrotic damage on a failed save, or half as much damage on a successful one.  
 
 ***Create Food and Water.*** The spectator magically creates enough food and water to sustain itself for 24 hours.

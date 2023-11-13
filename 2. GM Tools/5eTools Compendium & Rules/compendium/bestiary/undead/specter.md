@@ -37,7 +37,7 @@ A specter doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Specter
-![](/compendium/bestiary/undead/token/specter.png#token)
+![](compendium/bestiary/undead/token/specter.png#token)
 *Medium undead, Chaotic Evil*
 
 - **Armor Class** 12 
@@ -59,7 +59,7 @@ title: Specter
 
 ***Incorporeal Movement.*** The specter can move through other creatures and objects as if they were difficult terrain. It takes 5 (`1d10`) force damage if it ends its turn inside an object.
 
-***Sunlight Sensitivity.*** While in sunlight, the specter has disadvantage on attack rolls, as well as on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the specter has disadvantage on attack rolls, as well as on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 

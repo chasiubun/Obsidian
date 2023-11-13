@@ -14,7 +14,7 @@ aliases:
 
 - **Weight**: 3.0 lbs.
 
-This brass disc of articulated, concentric rings unfolds into an armillary sphere. As a bonus action, you can unfold it into the sphere or back into a disc. When found, it contains the following spells, which are wizard spells for you while you are attuned to it: [augury](/compendium/spells/augury.md), [divination](/compendium/spells/divination.md), [find the path](/compendium/spells/find-the-path.md), [foresight](/compendium/spells/foresight.md), [locate creature](/compendium/spells/locate-creature.md), and [locate object](/compendium/spells/locate-object.md). It functions as a spellbook for you, with spells encoded on the rings.
+This brass disc of articulated, concentric rings unfolds into an armillary sphere. As a bonus action, you can unfold it into the sphere or back into a disc. When found, it contains the following spells, which are wizard spells for you while you are attuned to it: [augury](compendium/spells/augury.md), [divination](compendium/spells/divination.md), [find the path](compendium/spells/find-the-path.md), [foresight](compendium/spells/foresight.md), [locate creature](compendium/spells/locate-creature.md), and [locate object](compendium/spells/locate-object.md). It functions as a spellbook for you, with spells encoded on the rings.
 
 While you are holding the archive, you can use it as a spellcasting focus for your wizard spells.
 

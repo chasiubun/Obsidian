@@ -41,7 +41,7 @@ A naga doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Guardian Naga
-![](/compendium/bestiary/monstrosity/token/guardian-naga.png#token)
+![](compendium/bestiary/monstrosity/token/guardian-naga.png#token)
 *Large monstrosity, Lawful Good*
 
 - **Armor Class** 18  (natural armor)
@@ -61,23 +61,23 @@ title: Guardian Naga
 
 ## Traits
 
-***Rejuvenation.*** If it dies, the naga returns to life in `1d6` days and regains all its hit points. Only a [wish](/compendium/spells/wish.md) spell can prevent this trait from functioning.
+***Rejuvenation.*** If it dies, the naga returns to life in `1d6` days and regains all its hit points. Only a [wish](compendium/spells/wish.md) spell can prevent this trait from functioning.
 
 ***Spellcasting.*** The naga is an 11th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following cleric spells prepared:
 
-**Cantrips (at will)**: [mending](/compendium/spells/mending.md), [sacred flame](/compendium/spells/sacred-flame.md), [thaumaturgy](/compendium/spells/thaumaturgy.md)
+**Cantrips (at will)**: [mending](compendium/spells/mending.md), [sacred flame](compendium/spells/sacred-flame.md), [thaumaturgy](compendium/spells/thaumaturgy.md)
 
-**1st level (4 slots)**: [command](/compendium/spells/command.md), [cure wounds](/compendium/spells/cure-wounds.md), [shield of faith](/compendium/spells/shield-of-faith.md)
+**1st level (4 slots)**: [command](compendium/spells/command.md), [cure wounds](compendium/spells/cure-wounds.md), [shield of faith](compendium/spells/shield-of-faith.md)
 
-**2nd level (3 slots)**: [calm emotions](/compendium/spells/calm-emotions.md), [hold person](/compendium/spells/hold-person.md)
+**2nd level (3 slots)**: [calm emotions](compendium/spells/calm-emotions.md), [hold person](compendium/spells/hold-person.md)
 
-**3rd level (3 slots)**: [bestow curse](/compendium/spells/bestow-curse.md), [clairvoyance](/compendium/spells/clairvoyance.md)
+**3rd level (3 slots)**: [bestow curse](compendium/spells/bestow-curse.md), [clairvoyance](compendium/spells/clairvoyance.md)
 
-**4th level (3 slots)**: [banishment](/compendium/spells/banishment.md), [freedom of movement](/compendium/spells/freedom-of-movement.md)
+**4th level (3 slots)**: [banishment](compendium/spells/banishment.md), [freedom of movement](compendium/spells/freedom-of-movement.md)
 
-**5th level (2 slots)**: [flame strike](/compendium/spells/flame-strike.md), [geas](/compendium/spells/geas.md)
+**5th level (2 slots)**: [flame strike](compendium/spells/flame-strike.md), [geas](compendium/spells/geas.md)
 
-**6th level (1 slots)**: [true seeing](/compendium/spells/true-seeing.md)
+**6th level (1 slots)**: [true seeing](compendium/spells/true-seeing.md)
 
 ## Actions
 

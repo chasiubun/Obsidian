@@ -28,7 +28,7 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
 
 ```ad-statblock
 title: Myconid Sovereign
-![](/compendium/bestiary/plant/token/myconid-sovereign.png#token)
+![](compendium/bestiary/plant/token/myconid-sovereign.png#token)
 *Large plant, Lawful Neutral*
 
 - **Armor Class** 13  (natural armor)
@@ -60,9 +60,9 @@ title: Myconid Sovereign
 
 ***Animating Spores (3/Day).*** The myconid targets one corpse of a humanoid or a Large or smaller beast within 5 feet of it and releases spores at the corpse. In 24 hours, the corpse rises as a spore servant. The corpse stays animated for `1d4 + 1` weeks or until destroyed, and it can't be animated again in this way.
 
-***Hallucination Spores.*** The myconid ejects spores at one creature it can see within 5 feet of it. The target must succeed on a DC 12 Constitution saving throw or be [poisoned](/compendium/rules/conditions.md#poisoned) for 1 minute. The [poisoned](/compendium/rules/conditions.md#poisoned) target is [incapacitated](/compendium/rules/conditions.md#incapacitated) while it hallucinates. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Hallucination Spores.*** The myconid ejects spores at one creature it can see within 5 feet of it. The target must succeed on a DC 12 Constitution saving throw or be [poisoned](rules/conditions.md#poisoned) for 1 minute. The [poisoned](rules/conditions.md#poisoned) target is [incapacitated](rules/conditions.md#incapacitated) while it hallucinates. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-***Pacifying Spores.*** The myconid ejects spores at one creature it can see within 5 feet of it. The target must succeed on a DC 12 Constitution saving throw or be [stunned](/compendium/rules/conditions.md#stunned) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Pacifying Spores.*** The myconid ejects spores at one creature it can see within 5 feet of it. The target must succeed on a DC 12 Constitution saving throw or be [stunned](rules/conditions.md#stunned) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Rapport Spores.*** A 30-foot radius of spores extends from the myconid. These spores can go around corners and affect only creatures with an Intelligence of 2 or higher that aren't undead, constructs, or elementals. Affected creatures can communicate telepathically with one another while they are within 30 feet of each other. The effect lasts for 1 hour.
 ```

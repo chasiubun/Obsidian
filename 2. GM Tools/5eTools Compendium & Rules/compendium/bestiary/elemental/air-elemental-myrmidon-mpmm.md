@@ -17,10 +17,10 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 
 ```ad-statblock
 title: Air Elemental Myrmidon
-![](/compendium/bestiary/elemental/token/air-elemental-myrmidon.png#token)
+![](compendium/bestiary/elemental/token/air-elemental-myrmidon.png#token)
 *Medium elemental, Typically  Neutral*
 
-- **Armor Class** 18  ([plate](/compendium/items/plate-armor.md))
+- **Armor Class** 18  ([plate](compendium/items/plate-armor.md))
 - **Hit Points** 117 (`18d8 + 36`)
 - **Speed** 30 ft., fly 30 ft. (hover)
 
@@ -41,6 +41,6 @@ title: Air Elemental Myrmidon
 
 ***Flail.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (`1d8 + 4`) force damage.
 
-***Lightning Strike (Recharge 6).*** The myrmidon makes one Flail attack. On a hit, the target takes an extra 18 (`4d8`) lightning damage, and the target must succeed on a DC 13 Constitution saving throw or be [stunned](/compendium/rules/conditions.md#stunned) until the end of the myrmidon's next turn.
+***Lightning Strike (Recharge 6).*** The myrmidon makes one Flail attack. On a hit, the target takes an extra 18 (`4d8`) lightning damage, and the target must succeed on a DC 13 Constitution saving throw or be [stunned](rules/conditions.md#stunned) until the end of the myrmidon's next turn.
 ```
 ^statblock

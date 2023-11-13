@@ -13,10 +13,10 @@ aliases: ["Bandagh"]
 
 ```ad-statblock
 title: Bandagh
-![](/compendium/bestiary/npc/token/bandagh.png#token)
+![](compendium/bestiary/npc/token/bandagh.png#token)
 *Medium humanoid (orc), Chaotic Evil*
 
-- **Armor Class** 13  ([hide armor](/compendium/items/hide-armor.md))
+- **Armor Class** 13  ([hide armor](compendium/items/hide-armor.md))
 - **Hit Points** 15 (`2d8 + 6`)
 - **Speed** 30 ft.
 

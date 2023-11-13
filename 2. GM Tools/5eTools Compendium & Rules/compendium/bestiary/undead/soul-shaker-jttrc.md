@@ -19,7 +19,7 @@ If defeated, a soul shaker disperses into several skittering, animate limbs. The
 
 ```ad-statblock
 title: Soul Shaker
-![](/compendium/bestiary/undead/token/soul-shaker.png#token)
+![](compendium/bestiary/undead/token/soul-shaker.png#token)
 *Large undead, typically  Chaotic Evil*
 
 - **Armor Class** 13  (natural armor)
@@ -39,7 +39,7 @@ title: Soul Shaker
 
 ## Traits
 
-***Enthralled Lure (1/Day).*** The soul shaker can cast the [geas](/compendium/spells/geas.md) spell, requiring no spell components and using Charisma as the spellcasting ability (spell save DC 12).
+***Enthralled Lure (1/Day).*** The soul shaker can cast the [geas](compendium/spells/geas.md) spell, requiring no spell components and using Charisma as the spellcasting ability (spell save DC 12).
 
 ***Reconstruction.*** When the soul shaker is reduced to 0 hit points, it explodes into 7 (`1d4 + 5`) crawling claws. After 6 (`1d12`) days, if at least two of those crawling claws are alive, they teleport to the location of the soul shaker's death and merge together, whereupon the soul shaker reforms and regains all its hit points.
 
@@ -47,7 +47,7 @@ title: Soul Shaker
 
 ## Actions
 
-***Crushing Grasp.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 14 (`2d8 + 5`) bludgeoning damage. If the target is a Medium or smaller creature, it is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 15). The soul shaker can have only one creature [grappled](/compendium/rules/conditions.md#grappled) in this way at a time.
+***Crushing Grasp.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 14 (`2d8 + 5`) bludgeoning damage. If the target is a Medium or smaller creature, it is [grappled](rules/conditions.md#grappled) (escape DC 15). The soul shaker can have only one creature [grappled](rules/conditions.md#grappled) in this way at a time.
 
 ## Bonus Actions
 

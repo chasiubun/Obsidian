@@ -13,7 +13,7 @@ aliases: ["Thorn Slinger"]
 
 ```ad-statblock
 title: Thorn Slinger
-![](/compendium/bestiary/plant/token/thorn-slinger.png#token)
+![](compendium/bestiary/plant/token/thorn-slinger.png#token)
 *Large plant, Unaligned*
 
 - **Armor Class** 11 
@@ -33,9 +33,9 @@ title: Thorn Slinger
 
 ## Traits
 
-***Adhesive Blossoms.*** The thorn slinger adheres to anything that touches it. A Medium or smaller creature adhered to the thorn slinger is also [grappled](/compendium/rules/conditions.md#grappled) by it (escape DC 11). Ability checks made to escape this grapple have disadvantage.
+***Adhesive Blossoms.*** The thorn slinger adheres to anything that touches it. A Medium or smaller creature adhered to the thorn slinger is also [grappled](rules/conditions.md#grappled) by it (escape DC 11). Ability checks made to escape this grapple have disadvantage.
 
-At the end of each of the thorn slinger's turns, anything [grappled](/compendium/rules/conditions.md#grappled) by it takes 3 (`1d6`) acid damage.
+At the end of each of the thorn slinger's turns, anything [grappled](rules/conditions.md#grappled) by it takes 3 (`1d6`) acid damage.
 
 ***False Appearance.*** While the thorn slinger remains motionless, it is indistinguishable from an inanimate bush.
 

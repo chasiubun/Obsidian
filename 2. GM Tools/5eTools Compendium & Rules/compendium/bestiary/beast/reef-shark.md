@@ -16,7 +16,7 @@ Smaller than giant sharks and hunter sharks, reef sharks inhabit shallow waters 
 
 ```ad-statblock
 title: Reef Shark
-![](/compendium/bestiary/beast/token/reef-shark.png#token)
+![](compendium/bestiary/beast/token/reef-shark.png#token)
 *Medium beast, Unaligned*
 
 - **Armor Class** 12  (natural armor)
@@ -36,7 +36,7 @@ title: Reef Shark
 
 ## Traits
 
-***Pack Tactics.*** The shark has advantage on an attack roll against a creature if at least one of the shark's allies is within 5 feet of the creature and the ally isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Pack Tactics.*** The shark has advantage on an attack roll against a creature if at least one of the shark's allies is within 5 feet of the creature and the ally isn't [incapacitated](rules/conditions.md#incapacitated).
 
 ***Water Breathing.*** The shark can breathe only underwater.
 

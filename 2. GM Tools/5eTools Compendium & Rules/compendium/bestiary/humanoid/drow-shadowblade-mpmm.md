@@ -18,10 +18,10 @@ A shadowblade gains their powers over shadow via a ritual in which they kill a s
 
 ```ad-statblock
 title: Drow Shadowblade
-![](/compendium/bestiary/humanoid/token/drow-shadowblade.png#token)
+![](compendium/bestiary/humanoid/token/drow-shadowblade.png#token)
 *Medium humanoid (elf), Any alignment*
 
-- **Armor Class** 17  ([studded leather](/compendium/items/studded-leather-armor.md))
+- **Armor Class** 17  ([studded leather](compendium/items/studded-leather-armor.md))
 - **Hit Points** 150 (`20d8 + 60`)
 - **Speed** 30 ft.
 
@@ -38,17 +38,17 @@ title: Drow Shadowblade
 
 ## Traits
 
-***Devil's Sight.*** Magical darkness doesn't impede the drow's [darkvision](/compendium/rules/senses.md#darkvision).
+***Devil's Sight.*** Magical darkness doesn't impede the drow's [darkvision](rules/senses.md#darkvision).
 
-***Fey Ancestry.*** The drow has advantage on saving throws against being [charmed](/compendium/rules/conditions.md#charmed), and magic can't put the drow to sleep.
+***Fey Ancestry.*** The drow has advantage on saving throws against being [charmed](rules/conditions.md#charmed), and magic can't put the drow to sleep.
 
-***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ***Spellcasting.*** The drow casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 13):
 
-**At will**: [dancing lights](/compendium/spells/dancing-lights.md), [darkness](/compendium/spells/darkness.md)
+**At will**: [dancing lights](compendium/spells/dancing-lights.md), [darkness](compendium/spells/darkness.md)
 
-**1/day each**: [faerie fire](/compendium/spells/faerie-fire.md), [levitate](/compendium/spells/levitate.md) (self only)
+**1/day each**: [faerie fire](compendium/spells/faerie-fire.md), [levitate](compendium/spells/levitate.md) (self only)
 
 ## Actions
 
@@ -56,7 +56,7 @@ title: Drow Shadowblade
 
 ***Shadow Sword.*** *Melee or Ranged Weapon Attack:* +9 to hit, reach 5 ft. or range 30/60 ft., one target. *Hit:* 27 (`7d6 + 5`) necrotic damage.
 
-***Hand Crossbow.*** *Ranged Weapon Attack:* +9 to hit, range 30/120 ft., one target. *Hit:* 8 (`1d6 + 5`) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be [poisoned](/compendium/rules/conditions.md#poisoned) for 1 hour. If the saving throw fails by 5 or more, the target is also [unconscious](/compendium/rules/conditions.md#unconscious) while [poisoned](/compendium/rules/conditions.md#poisoned) in this way. The target regains consciousness if it takes damage or if another creature takes an action to shake it.
+***Hand Crossbow.*** *Ranged Weapon Attack:* +9 to hit, range 30/120 ft., one target. *Hit:* 8 (`1d6 + 5`) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be [poisoned](rules/conditions.md#poisoned) for 1 hour. If the saving throw fails by 5 or more, the target is also [unconscious](rules/conditions.md#unconscious) while [poisoned](rules/conditions.md#poisoned) in this way. The target regains consciousness if it takes damage or if another creature takes an action to shake it.
 
 ## Bonus Actions
 

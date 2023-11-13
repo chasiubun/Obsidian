@@ -42,5 +42,5 @@ At 18th level, you attain the pinnacle of resilience in battle. At the start of 
 ## Optional Features
 
 > [!example]- Fighting Style, Fighter
-> ![Fighting Style, Fighter](/compendium/optional-features/list-fighting-style-fighter.md#Fighting%20Style,%20Fighter)
+> ![Fighting Style, Fighter](compendium/optional-features/list-fighting-style-fighter.md#Fighting%20Style,%20Fighter)
 ^list-fighting-style-fighter

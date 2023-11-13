@@ -13,7 +13,7 @@ aliases: ["Awa"]
 
 ```ad-statblock
 title: Awa
-![](/compendium/bestiary/npc/token/awa.png#token)
+![](compendium/bestiary/npc/token/awa.png#token)
 *Medium humanoid (any race), Any alignment*
 
 - **Armor Class** 10 

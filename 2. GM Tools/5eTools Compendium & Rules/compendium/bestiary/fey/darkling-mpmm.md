@@ -25,10 +25,10 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
 
 ```ad-statblock
 title: Darkling
-![](/compendium/bestiary/fey/token/darkling.png#token)
+![](compendium/bestiary/fey/token/darkling.png#token)
 *Small fey, Typically  Chaotic Neutral*
 
-- **Armor Class** 14  ([leather armor](/compendium/items/leather-armor.md))
+- **Armor Class** 14  ([leather armor](compendium/items/leather-armor.md))
 - **Hit Points** 13 (`3d6 + 3`)
 - **Speed** 30 ft.
 
@@ -45,9 +45,9 @@ title: Darkling
 
 ## Traits
 
-***Death Flash.*** When the darkling dies, nonmagical light flashes out from it in a 10-foot radius as its body and possessions, other than metal or magic objects, burn to ash. Any creature in that area must succeed on a DC 10 Constitution saving throw or be [blinded](/compendium/rules/conditions.md#blinded) until the end of its next turn.
+***Death Flash.*** When the darkling dies, nonmagical light flashes out from it in a 10-foot radius as its body and possessions, other than metal or magic objects, burn to ash. Any creature in that area must succeed on a DC 10 Constitution saving throw or be [blinded](rules/conditions.md#blinded) until the end of its next turn.
 
-***Light Sensitivity.*** While in bright light, the darkling has disadvantage on attack rolls, as well as on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Light Sensitivity.*** While in bright light, the darkling has disadvantage on attack rolls, as well as on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 

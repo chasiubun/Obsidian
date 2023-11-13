@@ -13,7 +13,7 @@ aliases: ["Nundro Rockseeker"]
 
 ```ad-statblock
 title: Nundro Rockseeker
-![](/compendium/bestiary/npc/token/nundro-rockseeker.png#token)
+![](compendium/bestiary/npc/token/nundro-rockseeker.png#token)
 *Medium humanoid (Mountain dwarf), Any alignment*
 
 - **Armor Class** 10 

@@ -13,10 +13,10 @@ aliases: ["Thayan Warrior"]
 
 ```ad-statblock
 title: Thayan Warrior
-![](/compendium/bestiary/humanoid/token/thayan-warrior.png#token)
+![](compendium/bestiary/humanoid/token/thayan-warrior.png#token)
 *Medium humanoid (human), Any Non-Good alignment*
 
-- **Armor Class** 16  ([chain shirt](/compendium/items/chain-shirt.md), [shield](/compendium/items/shield.md))
+- **Armor Class** 16  ([chain shirt](compendium/items/chain-shirt.md), [shield](compendium/items/shield.md))
 - **Hit Points** 52 (`8d8 + 16`)
 - **Speed** 30 ft.
 
@@ -33,9 +33,9 @@ title: Thayan Warrior
 
 ## Traits
 
-***Doomvault Devotion.*** Within the Doomvault, the warrior has advantage on saving throws against being [charmed](/compendium/rules/conditions.md#charmed) or [frightened](/compendium/rules/conditions.md#frightened).
+***Doomvault Devotion.*** Within the Doomvault, the warrior has advantage on saving throws against being [charmed](rules/conditions.md#charmed) or [frightened](rules/conditions.md#frightened).
 
-***Pack Tactics.*** The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Pack Tactics.*** The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally isn't [incapacitated](rules/conditions.md#incapacitated).
 
 ## Actions
 

@@ -22,10 +22,10 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 
 ```ad-statblock
 title: Enchanter Wizard
-![](/compendium/bestiary/humanoid/token/enchanter-wizard.png#token)
+![](compendium/bestiary/humanoid/token/enchanter-wizard.png#token)
 *Medium humanoid, Any alignment*
 
-- **Armor Class** 12  (15 with [mage armor](/compendium/spells/mage-armor.md))
+- **Armor Class** 12  (15 with [mage armor](compendium/spells/mage-armor.md))
 - **Hit Points** 49 (`11d8`)
 - **Speed** 30 ft.
 
@@ -42,9 +42,9 @@ title: Enchanter Wizard
 
 ***Spellcasting.*** The enchanter casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 14):
 
-**At will**: [friends](/compendium/spells/friends.md), [mage hand](/compendium/spells/mage-hand.md), [message](/compendium/spells/message.md)
+**At will**: [friends](compendium/spells/friends.md), [mage hand](compendium/spells/mage-hand.md), [message](compendium/spells/message.md)
 
-**2/day each**: [charm person](/compendium/spells/charm-person.md), [mage armor](/compendium/spells/mage-armor.md), [hold person](/compendium/spells/hold-person.md), [invisibility](/compendium/spells/invisibility.md), [suggestion](/compendium/spells/suggestion.md), [tongues](/compendium/spells/tongues.md)
+**2/day each**: [charm person](compendium/spells/charm-person.md), [mage armor](compendium/spells/mage-armor.md), [hold person](compendium/spells/hold-person.md), [invisibility](compendium/spells/invisibility.md), [suggestion](compendium/spells/suggestion.md), [tongues](compendium/spells/tongues.md)
 
 ## Actions
 

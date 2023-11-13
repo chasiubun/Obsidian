@@ -26,7 +26,7 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
 
 ```ad-statblock
 title: Barghest
-![](/compendium/bestiary/fiend/token/barghest.png#token)
+![](compendium/bestiary/fiend/token/barghest.png#token)
 *Large fiend, Typically  Neutral Evil*
 
 - **Armor Class** 17  (natural armor)
@@ -52,9 +52,9 @@ title: Barghest
 
 ***Spellcasting.*** The barghest casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 12):
 
-**At will**: [levitate](/compendium/spells/levitate.md), [minor illusion](/compendium/spells/minor-illusion.md), [pass without trace](/compendium/spells/pass-without-trace.md)
+**At will**: [levitate](compendium/spells/levitate.md), [minor illusion](compendium/spells/minor-illusion.md), [pass without trace](compendium/spells/pass-without-trace.md)
 
-**1/day each**: [charm person](/compendium/spells/charm-person.md), [dimension door](/compendium/spells/dimension-door.md), [suggestion](/compendium/spells/suggestion.md)
+**1/day each**: [charm person](compendium/spells/charm-person.md), [dimension door](compendium/spells/dimension-door.md), [suggestion](compendium/spells/suggestion.md)
 
 ## Actions
 

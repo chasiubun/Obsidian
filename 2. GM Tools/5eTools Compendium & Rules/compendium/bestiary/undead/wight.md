@@ -39,10 +39,10 @@ A wight doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Wight
-![](/compendium/bestiary/undead/token/wight.png#token)
+![](compendium/bestiary/undead/token/wight.png#token)
 *Medium undead, Neutral Evil*
 
-- **Armor Class** 14  ([studded leather](/compendium/items/studded-leather-armor.md))
+- **Armor Class** 14  ([studded leather](compendium/items/studded-leather-armor.md))
 - **Hit Points** 45 (`6d8 + 18`)
 - **Speed** 30 ft.
 
@@ -59,7 +59,7 @@ title: Wight
 
 ## Traits
 
-***Sunlight Sensitivity.*** While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
@@ -67,7 +67,7 @@ title: Wight
 
 ***Life Drain.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 5 (`1d6 + 2`) necrotic damage. The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
-A humanoid slain by this attack rises 24 hours later as a [zombie](/compendium/bestiary/undead/zombie.md) under the wight's control, unless the humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at one time.
+A humanoid slain by this attack rises 24 hours later as a [zombie](compendium/bestiary/undead/zombie.md) under the wight's control, unless the humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at one time.
 
 ***Longsword.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (`1d8 + 2`) slashing damage, or 7 (`1d10 + 2`) slashing damage if used with two hands.
 

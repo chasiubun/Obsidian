@@ -9,16 +9,16 @@ aliases: ["Quandrix Student"]
 # Quandrix Student
 *Source: Strixhaven: A Curriculum of Chaos p. 33*  
 
-- **Skill Proficiencies.** [Arcana](/compendium/rules/skills.md#Arcana), [Nature](/compendium/rules/skills.md#Nature)  
+- **Skill Proficiencies.** [Arcana](rules/skills.md#Arcana), [Nature](rules/skills.md#Nature)  
 - **Tool Proficiencies.** One type of artisan's tools  
 - **Languages.** One of your choice  
-- **Equipment.** A [bottle of black ink](/compendium/items/ink-1-ounce-bottle.md), an [ink pen](/compendium/items/ink-pen.md), an [abacus](/compendium/items/abacus.md), a book of arcane theory, a school uniform, and a [pouch](/compendium/items/pouch.md) containing 15 gp  
+- **Equipment.** A [bottle of black ink](compendium/items/ink-1-ounce-bottle.md), an [ink pen](compendium/items/ink-pen.md), an [abacus](compendium/items/abacus.md), a book of arcane theory, a school uniform, and a [pouch](compendium/items/pouch.md) containing 15 gp  
 
 In preparation to become a student of Quandrix College, you have spent years working through the college's math problems for prospective students. Your interests concentrate on the mathematical principles and patterns found in the natural world. You might lean more toward mathematics or physics, or you delve into more abstract studies of metaphysics, arcana, or logic.
 
 ## Feature: Quandrix Initiate
 
-You gain the [Strixhaven Initiate](/compendium/feats/strixhaven-initiate-scc.md) feat and must choose Quandrix within it.
+You gain the [Strixhaven Initiate](compendium/feats/strixhaven-initiate-scc.md) feat and must choose Quandrix within it.
 
 In addition, if you have the Spellcasting or Pact Magic feature, the spells on the Quandrix Spells table are added to the spell list of your spellcasting class. (If you are a multiclass character with multiple spell lists, these spells are added to all of them.)
 
@@ -26,18 +26,18 @@ In addition, if you have the Spellcasting or Pact Magic feature, the spells on t
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [Entangle](/compendium/spells/entangle.md), [Guiding Bolt](/compendium/spells/guiding-bolt.md) |
-| 2nd | [Enlarge/Reduce](/compendium/spells/enlarge-reduce.md), [Vortex Warp](/compendium/spells/vortex-warp-scc.md) |
-| 3rd | [Aura of Vitality](/compendium/spells/aura-of-vitality.md), [Haste](/compendium/spells/haste.md) |
-| 4th | [Control Water](/compendium/spells/control-water.md), [Freedom of Movement](/compendium/spells/freedom-of-movement.md) |
-| 5th | [Circle of Power](/compendium/spells/circle-of-power.md), [Passwall](/compendium/spells/passwall.md) |
+| 1st | [Entangle](compendium/spells/entangle.md), [Guiding Bolt](compendium/spells/guiding-bolt.md) |
+| 2nd | [Enlarge/Reduce](compendium/spells/enlarge-reduce.md), [Vortex Warp](compendium/spells/vortex-warp-scc.md) |
+| 3rd | [Aura of Vitality](compendium/spells/aura-of-vitality.md), [Haste](compendium/spells/haste.md) |
+| 4th | [Control Water](compendium/spells/control-water.md), [Freedom of Movement](compendium/spells/freedom-of-movement.md) |
+| 5th | [Circle of Power](compendium/spells/circle-of-power.md), [Passwall](compendium/spells/passwall.md) |
 ^quandrix-spells
 
 Consider customizing how your spells look when you cast them. Your Quandrix spells might manifest amid kaleidoscopic swirls of fractal patterns, amplifying the tiniest movements of your somatic components. When your magic creates or alters creatures, it might briefly surround the targets with shimmering fractal designs or tessellated patterns.
 
 ## Building a Quandrix Character
 
-Any spellcasting class or subclass can work well for a Quandrix character. Both the scholarly focus of wizards (especially those who study the Schools of [Abjuration](/compendium/classes/wizard-school-of-abjuration.md), [Illusion](/compendium/classes/wizard-school-of-illusion.md), or [Transmutation](/compendium/classes/wizard-school-of-transmutation.md)) and the metamagic manipulations of sorcerers are welcome in Quandrix, and many druids explore the patterns of nature in Quandrix as well. A few clerics, particularly those with the [Knowledge](/compendium/classes/cleric-knowledge-domain.md) or [Nature](/compendium/classes/cleric-nature-domain.md) domains, study in Quandrix as well.
+Any spellcasting class or subclass can work well for a Quandrix character. Both the scholarly focus of wizards (especially those who study the Schools of [Abjuration](compendium/classes/wizard-school-of-abjuration.md), [Illusion](compendium/classes/wizard-school-of-illusion.md), or [Transmutation](compendium/classes/wizard-school-of-transmutation.md)) and the metamagic manipulations of sorcerers are welcome in Quandrix, and many druids explore the patterns of nature in Quandrix as well. A few clerics, particularly those with the [Knowledge](compendium/classes/cleric-knowledge-domain.md) or [Nature](compendium/classes/cleric-nature-domain.md) domains, study in Quandrix as well.
 
 Aside from traditional spellcasters, a few characters of other classes find homes in Quandrix. Some fighters, monks, rangers, and rogues study here, using Quandrix principles to train their minds.
 
@@ -59,6 +59,6 @@ With subjects ranging from the physical and tangible to the paradoxical and stra
 
 ### Quandrix Trinkets
 
-When you make your character, you may roll once on the Quandrix Trinkets table, instead of on the [Trinkets table](/compendium/items/trinket.md) in the "Player's Handbook", for your starting trinket.
+When you make your character, you may roll once on the Quandrix Trinkets table, instead of on the [Trinkets table](compendium/items/trinket.md) in the "Player's Handbook", for your starting trinket.
 
-![Quandrix Trinkets](/compendium/tables/quandrix-trinkets-scc.md)
+![Quandrix Trinkets](compendium/tables/quandrix-trinkets-scc.md)

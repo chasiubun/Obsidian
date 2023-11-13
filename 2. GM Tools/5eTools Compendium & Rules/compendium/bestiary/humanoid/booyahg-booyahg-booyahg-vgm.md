@@ -11,7 +11,7 @@ aliases: ["Booyahg Booyahg Booyahg"]
 # Booyahg Booyahg Booyahg
 *Source: Volo's Guide to Monsters p. 43, Derived from *  
 
-This goblin is a sorcerer with the wild magic origin whose every casting, including cantrips, is accompanied by a wild magic surge. Each time the goblin casts a spell, there is an accompanying surge of wild magic; roll on the [Wild Magic Surge](/compendium/tables/wild-magic-surge.md) table in the "Player's Handbook" to determine the wild magic effect.
+This goblin is a sorcerer with the wild magic origin whose every casting, including cantrips, is accompanied by a wild magic surge. Each time the goblin casts a spell, there is an accompanying surge of wild magic; roll on the [Wild Magic Surge](compendium/tables/wild-magic-surge.md) table in the "Player's Handbook" to determine the wild magic effect.
 
 ## Booyahgs
 
@@ -25,10 +25,10 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 
 ```ad-statblock
 title: Booyahg Booyahg Booyahg
-![](/compendium/bestiary/humanoid/token/booyahg-booyahg-booyahg.png#token)
+![](compendium/bestiary/humanoid/token/booyahg-booyahg-booyahg.png#token)
 *Small humanoid (goblinoid), Any alignment*
 
-- **Armor Class** 12  (15 with [mage armor](/compendium/spells/mage-armor.md))
+- **Armor Class** 12  (15 with [mage armor](compendium/spells/mage-armor.md))
 - **Hit Points** 40 (`9d8`)
 - **Speed** 30 ft.
 
@@ -45,17 +45,17 @@ title: Booyahg Booyahg Booyahg
 
 ***Spellcasting.*** The goblin is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The goblin has the following wizard spells prepared:
 
-**Cantrips (at will)**: [fire bolt](/compendium/spells/fire-bolt.md), [light](/compendium/spells/light.md), [mage hand](/compendium/spells/mage-hand.md), [prestidigitation](/compendium/spells/prestidigitation.md)
+**Cantrips (at will)**: [fire bolt](compendium/spells/fire-bolt.md), [light](compendium/spells/light.md), [mage hand](compendium/spells/mage-hand.md), [prestidigitation](compendium/spells/prestidigitation.md)
 
-**1st level (4 slots)**: [detect magic](/compendium/spells/detect-magic.md), [mage armor](/compendium/spells/mage-armor.md), [magic missile](/compendium/spells/magic-missile.md), [shield](/compendium/spells/shield.md)
+**1st level (4 slots)**: [detect magic](compendium/spells/detect-magic.md), [mage armor](compendium/spells/mage-armor.md), [magic missile](compendium/spells/magic-missile.md), [shield](compendium/spells/shield.md)
 
-**2nd level (3 slots)**: [misty step](/compendium/spells/misty-step.md), [suggestion](/compendium/spells/suggestion.md)
+**2nd level (3 slots)**: [misty step](compendium/spells/misty-step.md), [suggestion](compendium/spells/suggestion.md)
 
-**3rd level (3 slots)**: [counterspell](/compendium/spells/counterspell.md), [fireball](/compendium/spells/fireball.md), [fly](/compendium/spells/fly.md)
+**3rd level (3 slots)**: [counterspell](compendium/spells/counterspell.md), [fireball](compendium/spells/fireball.md), [fly](compendium/spells/fly.md)
 
-**4th level (3 slots)**: [greater invisibility](/compendium/spells/greater-invisibility.md), [ice storm](/compendium/spells/ice-storm.md)
+**4th level (3 slots)**: [greater invisibility](compendium/spells/greater-invisibility.md), [ice storm](compendium/spells/ice-storm.md)
 
-**5th level (1 slots)**: [cone of cold](/compendium/spells/cone-of-cold.md)
+**5th level (1 slots)**: [cone of cold](compendium/spells/cone-of-cold.md)
 
 ## Actions
 

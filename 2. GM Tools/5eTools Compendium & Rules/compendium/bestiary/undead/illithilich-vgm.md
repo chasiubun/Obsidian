@@ -50,7 +50,7 @@ Unlike with true lichdom, the periapt of mind trapping doesn't restore the alhoo
 
 ## Variant: Mind Flayer Lich (Illithilich)
 
-The path to true lichdom is something only the most powerful mind flayer mages can pursue, since it requires the ability to craft a phylactery and cast the [imprisonment](/compendium/spells/imprisonment.md) spell. A mind flayer lich uses the lich stat block (see the Monster Manual), with the following changes:
+The path to true lichdom is something only the most powerful mind flayer mages can pursue, since it requires the ability to craft a phylactery and cast the [imprisonment](compendium/spells/imprisonment.md) spell. A mind flayer lich uses the lich stat block (see the Monster Manual), with the following changes:
 
 - It has a challenge rating of 22 (41,000 XP).  
 - It speaks Deep Speech and Undercommon, and has telepathy out to a range of 120 feet.  
@@ -73,15 +73,15 @@ The lich's innate spellcasting ability is Intelligence (spell save DC 20). It ca
 
 ### Tentacles
 
-Melee Weapon Attack: +12 to hit, reach 5 ft., one creature. Hit: 21 (`3d10 + 5`) psychic damage. If the target is Large or smaller, it is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 15) and must succeed on a DC 20 Intelligence saving throw or be [stunned](/compendium/rules/conditions.md#stunned) until this grapple ends.
+Melee Weapon Attack: +12 to hit, reach 5 ft., one creature. Hit: 21 (`3d10 + 5`) psychic damage. If the target is Large or smaller, it is [grappled](rules/conditions.md#grappled) (escape DC 15) and must succeed on a DC 20 Intelligence saving throw or be [stunned](rules/conditions.md#stunned) until this grapple ends.
 
 ### Extract Brain
 
-Melee Weapon Attack: +12 to hit, reach 5 ft., one [incapacitated](/compendium/rules/conditions.md#incapacitated) humanoid [grappled](/compendium/rules/conditions.md#grappled) by the lich. Hit: 55 (`10d10`) piercing damage. If this damage reduces the target to 0 hit points, the lich kills the target by extracting and devouring its brain.
+Melee Weapon Attack: +12 to hit, reach 5 ft., one [incapacitated](rules/conditions.md#incapacitated) humanoid [grappled](rules/conditions.md#grappled) by the lich. Hit: 55 (`10d10`) piercing damage. If this damage reduces the target to 0 hit points, the lich kills the target by extracting and devouring its brain.
 
 ### Mind Blast (Recharge 5-6)
 
-The lich magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 18 Intelligence saving throw or take 27 (`5d8 + 5`) psychic damage and be [stunned](/compendium/rules/conditions.md#stunned) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+The lich magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 18 Intelligence saving throw or take 27 (`5d8 + 5`) psychic damage and be [stunned](rules/conditions.md#stunned) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ## Illithilich Legendary Actions
 
@@ -107,7 +107,7 @@ The lich uses a spell slot to cast a 1st-, 2nd-, or 3rd-level spell that it has 
 
 ```ad-statblock
 title: Illithilich
-![](/compendium/bestiary/undead/token/illithilich.png#token)
+![](compendium/bestiary/undead/token/illithilich.png#token)
 *Medium undead, Any Evil alignment*
 
 - **Armor Class** 17  (natural armor)
@@ -137,41 +137,41 @@ title: Illithilich
 
 ***Innate Spellcasting (Psionics).*** The illithilich's innate spellcasting ability is Intelligence (spell save DC 20). It can innately cast the following spells, requiring no components.
 
-**At will**: [detect thoughts](/compendium/spells/detect-thoughts.md), [levitate](/compendium/spells/levitate.md)
+**At will**: [detect thoughts](compendium/spells/detect-thoughts.md), [levitate](compendium/spells/levitate.md)
 
-**1/day each**: [dominate monster](/compendium/spells/dominate-monster.md), [plane shift](/compendium/spells/plane-shift.md) (self only)
+**1/day each**: [dominate monster](compendium/spells/dominate-monster.md), [plane shift](compendium/spells/plane-shift.md) (self only)
 
 ***Spellcasting.*** The illithilich is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). The lich has the following wizard spells prepared:
 
-**Cantrips (at will)**: [mage hand](/compendium/spells/mage-hand.md), [prestidigitation](/compendium/spells/prestidigitation.md), [ray of frost](/compendium/spells/ray-of-frost.md)
+**Cantrips (at will)**: [mage hand](compendium/spells/mage-hand.md), [prestidigitation](compendium/spells/prestidigitation.md), [ray of frost](compendium/spells/ray-of-frost.md)
 
-**1st level (4 slots)**: [detect magic](/compendium/spells/detect-magic.md), [magic missile](/compendium/spells/magic-missile.md), [shield](/compendium/spells/shield.md), [thunderwave](/compendium/spells/thunderwave.md)
+**1st level (4 slots)**: [detect magic](compendium/spells/detect-magic.md), [magic missile](compendium/spells/magic-missile.md), [shield](compendium/spells/shield.md), [thunderwave](compendium/spells/thunderwave.md)
 
-**2nd level (3 slots)**: [detect thoughts](/compendium/spells/detect-thoughts.md), [invisibility](/compendium/spells/invisibility.md), [Melf's acid arrow](/compendium/spells/melfs-acid-arrow.md), [mirror image](/compendium/spells/mirror-image.md)
+**2nd level (3 slots)**: [detect thoughts](compendium/spells/detect-thoughts.md), [invisibility](compendium/spells/invisibility.md), [Melf's acid arrow](compendium/spells/melfs-acid-arrow.md), [mirror image](compendium/spells/mirror-image.md)
 
-**3rd level (3 slots)**: [animate dead](/compendium/spells/animate-dead.md), [counterspell](/compendium/spells/counterspell.md), [dispel magic](/compendium/spells/dispel-magic.md), [fireball](/compendium/spells/fireball.md)
+**3rd level (3 slots)**: [animate dead](compendium/spells/animate-dead.md), [counterspell](compendium/spells/counterspell.md), [dispel magic](compendium/spells/dispel-magic.md), [fireball](compendium/spells/fireball.md)
 
-**4th level (3 slots)**: [blight](/compendium/spells/blight.md), [dimension door](/compendium/spells/dimension-door.md)
+**4th level (3 slots)**: [blight](compendium/spells/blight.md), [dimension door](compendium/spells/dimension-door.md)
 
-**5th level (3 slots)**: [cloudkill](/compendium/spells/cloudkill.md), [scrying](/compendium/spells/scrying.md)
+**5th level (3 slots)**: [cloudkill](compendium/spells/cloudkill.md), [scrying](compendium/spells/scrying.md)
 
-**6th level (1 slots)**: [disintegrate](/compendium/spells/disintegrate.md), [globe of invulnerability](/compendium/spells/globe-of-invulnerability.md)
+**6th level (1 slots)**: [disintegrate](compendium/spells/disintegrate.md), [globe of invulnerability](compendium/spells/globe-of-invulnerability.md)
 
-**7th level (1 slots)**: [finger of death](/compendium/spells/finger-of-death.md), [plane shift](/compendium/spells/plane-shift.md)
+**7th level (1 slots)**: [finger of death](compendium/spells/finger-of-death.md), [plane shift](compendium/spells/plane-shift.md)
 
-**8th level (1 slots)**: [dominate monster](/compendium/spells/dominate-monster.md), [power word stun](/compendium/spells/power-word-stun.md)
+**8th level (1 slots)**: [dominate monster](compendium/spells/dominate-monster.md), [power word stun](compendium/spells/power-word-stun.md)
 
-**9th level (1 slots)**: [power word kill](/compendium/spells/power-word-kill.md)
+**9th level (1 slots)**: [power word kill](compendium/spells/power-word-kill.md)
 
 ## Actions
 
-***Paralyzing Touch.*** *Melee Spell Attack:* +12 to hit, reach 5 ft., one creature. *Hit:* 10 (`3d6`) cold damage. The target must succeed on a DC 18 Constitution saving throw or be [paralyzed](/compendium/rules/conditions.md#paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Paralyzing Touch.*** *Melee Spell Attack:* +12 to hit, reach 5 ft., one creature. *Hit:* 10 (`3d6`) cold damage. The target must succeed on a DC 18 Constitution saving throw or be [paralyzed](rules/conditions.md#paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-***Tentacles.*** *Melee Weapon Attack:* +12 to hit, reach 5 ft., one creature. *Hit:* 21 (`3d10 + 5`) psychic damage. If the target is Large or smaller, it is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 15) and must succeed on a DC 20 Intelligence saving throw or be [stunned](/compendium/rules/conditions.md#stunned) until this grapple ends.
+***Tentacles.*** *Melee Weapon Attack:* +12 to hit, reach 5 ft., one creature. *Hit:* 21 (`3d10 + 5`) psychic damage. If the target is Large or smaller, it is [grappled](rules/conditions.md#grappled) (escape DC 15) and must succeed on a DC 20 Intelligence saving throw or be [stunned](rules/conditions.md#stunned) until this grapple ends.
 
-***Extract Brain.*** *Melee Weapon Attack:* +12 to hit, reach 5 ft., one [incapacitated](/compendium/rules/conditions.md#incapacitated) humanoid [grappled](/compendium/rules/conditions.md#grappled) by the lich. *Hit:* 55 (`10d10`) piercing damage. If this damage reduces the target to 0 hit points, the lich kills the target by extracting and devouring its brain.
+***Extract Brain.*** *Melee Weapon Attack:* +12 to hit, reach 5 ft., one [incapacitated](rules/conditions.md#incapacitated) humanoid [grappled](rules/conditions.md#grappled) by the lich. *Hit:* 55 (`10d10`) piercing damage. If this damage reduces the target to 0 hit points, the lich kills the target by extracting and devouring its brain.
 
-***Mind Blast (Recharge 5-6).*** The illithilich magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 18 Intelligence saving throw or take 27 (`5d8 + 5`) psychic damage and be [stunned](/compendium/rules/conditions.md#stunned) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Mind Blast (Recharge 5-6).*** The illithilich magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 18 Intelligence saving throw or take 27 (`5d8 + 5`) psychic damage and be [stunned](rules/conditions.md#stunned) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ## Legendary Actions
 
@@ -183,7 +183,7 @@ title: Illithilich
 
 ***Cast Spell (Costs 1–3 Actions).*** The illithilich uses a spell slot to cast a 1st-, 2nd-, or 3rd-level spell that it has prepared. Doing so costs 1 legendary action per level of the spell.
 
-![Illithilich](/compendium/bestiary/legendary-group/illithilich-vgm.md)
+![Illithilich](compendium/bestiary/legendary-group/illithilich-vgm.md)
 ```
 ^statblock
 

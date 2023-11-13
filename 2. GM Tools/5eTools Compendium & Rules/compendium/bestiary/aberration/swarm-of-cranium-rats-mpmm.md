@@ -21,7 +21,7 @@ A single cranium rat uses its natural telepathy to communicate hunger, fear, and
 
 ```ad-statblock
 title: Swarm of Cranium Rats
-![](/compendium/bestiary/aberration/token/swarm-of-cranium-rats.png#token)
+![](compendium/bestiary/aberration/token/swarm-of-cranium-rats.png#token)
 *Medium aberration, Typically  Lawful Evil*
 
 - **Armor Class** 12 
@@ -47,9 +47,9 @@ title: Swarm of Cranium Rats
 
 ***Spellcasting (Psionics).*** As long as it has more than half of its hit points remaining, the swarm casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 13):
 
-**At will**: [command](/compendium/spells/command.md), [comprehend languages](/compendium/spells/comprehend-languages.md), [detect thoughts](/compendium/spells/detect-thoughts.md)
+**At will**: [command](compendium/spells/command.md), [comprehend languages](compendium/spells/comprehend-languages.md), [detect thoughts](compendium/spells/detect-thoughts.md)
 
-**1/day each**: [confusion](/compendium/spells/confusion.md), [dominate monster](/compendium/spells/dominate-monster.md)
+**1/day each**: [confusion](compendium/spells/confusion.md), [dominate monster](compendium/spells/dominate-monster.md)
 
 ## Actions
 

@@ -37,9 +37,9 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
 
 > [!note] Player Characters as Vampires
 > 
-> The game statistics of a player character transformed into a vampire spawn and then a vampire don't change, except that the character's Strength, Dexterity, and Constitution scores become 18 if they aren't higher. In addition, the character gains the vampire's damage resistances, [darkvision](/compendium/rules/senses.md#darkvision), traits, and actions. Attack and damage rolls for the vampire's attacks are based on Strength.
+> The game statistics of a player character transformed into a vampire spawn and then a vampire don't change, except that the character's Strength, Dexterity, and Constitution scores become 18 if they aren't higher. In addition, the character gains the vampire's damage resistances, [darkvision](rules/senses.md#darkvision), traits, and actions. Attack and damage rolls for the vampire's attacks are based on Strength.
 > 
-> The save DC for Charm is 8 + the vampire's proficiency bonus + the vampire's Charisma modifier. The character's alignment becomes lawful evil, and the DM might take control of the character until the vampirism is reversed with a [wish](/compendium/spells/wish.md) spell or the character is killed and brought back to life.
+> The save DC for Charm is 8 + the vampire's proficiency bonus + the vampire's Charisma modifier. The character's alignment becomes lawful evil, and the DM might take control of the character until the vampirism is reversed with a [wish](compendium/spells/wish.md) spell or the character is killed and brought back to life.
 ^player-characters-as-vampires
 
 > [!note] Strahd von Zarovich
@@ -62,7 +62,7 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
 
 ```ad-statblock
 title: Vampire Spawn
-![](/compendium/bestiary/undead/token/vampire-spawn.png#token)
+![](compendium/bestiary/undead/token/vampire-spawn.png#token)
 *Medium undead, Neutral Evil*
 
 - **Armor Class** 15  (natural armor)
@@ -92,7 +92,7 @@ title: Vampire Spawn
 
 *Harmed by Running Water.* The vampire takes 20 acid damage when it ends its turn in running water.
 
-*Stake to the Heart.* The vampire is destroyed if a piercing weapon made of wood is driven into its heart while it is [incapacitated](/compendium/rules/conditions.md#incapacitated) in its resting place.
+*Stake to the Heart.* The vampire is destroyed if a piercing weapon made of wood is driven into its heart while it is [incapacitated](rules/conditions.md#incapacitated) in its resting place.
 
 *Sunlight Hypersensitivity.* The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 
@@ -100,7 +100,7 @@ title: Vampire Spawn
 
 ***Multiattack.*** The vampire makes two attacks, only one of which can be a bite attack.
 
-***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one willing creature, or a creature that is [grappled](/compendium/rules/conditions.md#grappled) by the vampire, [incapacitated](/compendium/rules/conditions.md#incapacitated), or [restrained](/compendium/rules/conditions.md#restrained). *Hit:* 6 (`1d6 + 3`) piercing damage plus 7 (`2d6`) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one willing creature, or a creature that is [grappled](rules/conditions.md#grappled) by the vampire, [incapacitated](rules/conditions.md#incapacitated), or [restrained](rules/conditions.md#restrained). *Hit:* 6 (`1d6 + 3`) piercing damage plus 7 (`2d6`) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
 ***Claws.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 8 (`2d4 + 3`) slashing damage. Instead of dealing damage, the vampire can grapple the target (escape DC 13).
 ```

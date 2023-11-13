@@ -16,10 +16,10 @@ Drow spellcasters who seek to devote themselves wholly to Lolth, the Spider Quee
 
 ```ad-statblock
 title: Drow Arachnomancer
-![](/compendium/bestiary/humanoid/token/drow-arachnomancer.png#token)
+![](compendium/bestiary/humanoid/token/drow-arachnomancer.png#token)
 *Medium humanoid (elf), Typically  Chaotic Evil*
 
-- **Armor Class** 15  ([studded leather](/compendium/items/studded-leather-armor.md))
+- **Armor Class** 15  ([studded leather](compendium/items/studded-leather-armor.md))
 - **Hit Points** 162 (`25d8 + 50`)
 - **Speed** 30 ft., climb 30 ft.
 
@@ -36,29 +36,29 @@ title: Drow Arachnomancer
 
 ## Traits
 
-***Fey Ancestry.*** The drow has advantage on saving throws against being [charmed](/compendium/rules/conditions.md#charmed), and magic can't put the drow to sleep.
+***Fey Ancestry.*** The drow has advantage on saving throws against being [charmed](rules/conditions.md#charmed), and magic can't put the drow to sleep.
 
 ***Spider Climb.*** The drow can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ***Web Walker.*** The drow ignores movement restrictions caused by webbing.
 
 ***Spellcasting.*** The drow casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 17):
 
-**At will**: [dancing lights](/compendium/spells/dancing-lights.md), [mage hand](/compendium/spells/mage-hand.md)
+**At will**: [dancing lights](compendium/spells/dancing-lights.md), [mage hand](compendium/spells/mage-hand.md)
 
-**1/day each**: [darkness](/compendium/spells/darkness.md), [dispel magic](/compendium/spells/dispel-magic.md), [etherealness](/compendium/spells/etherealness.md), [faerie fire](/compendium/spells/faerie-fire.md), [fly](/compendium/spells/fly.md), [insect plague](/compendium/spells/insect-plague.md), [invisibility](/compendium/spells/invisibility.md)
+**1/day each**: [darkness](compendium/spells/darkness.md), [dispel magic](compendium/spells/dispel-magic.md), [etherealness](compendium/spells/etherealness.md), [faerie fire](compendium/spells/faerie-fire.md), [fly](compendium/spells/fly.md), [insect plague](compendium/spells/insect-plague.md), [invisibility](compendium/spells/invisibility.md)
 
 ## Actions
 
 ***Multiattack.*** The drow makes three attacks, using Bite, Poisonous Touch, Web, or a combination of them. One attack can be replaced by a use of Spellcasting.
 
-***Bite (Spider Form Only).*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 12 (`2d8 + 3`) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 31 (`7d8`) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but [poisoned](/compendium/rules/conditions.md#poisoned) for 1 hour, even after regaining hit points, and is [paralyzed](/compendium/rules/conditions.md#paralyzed) while [poisoned](/compendium/rules/conditions.md#poisoned) in this way.
+***Bite (Spider Form Only).*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 12 (`2d8 + 3`) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 31 (`7d8`) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but [poisoned](rules/conditions.md#poisoned) for 1 hour, even after regaining hit points, and is [paralyzed](rules/conditions.md#paralyzed) while [poisoned](rules/conditions.md#poisoned) in this way.
 
 ***Poisonous Touch (Humanoid Form Only).*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 35 (`10d6`) poison damage.
 
-***Web (Spider Form Only; (Recharge 5-6)).*** *Ranged Weapon Attack:* +8 to hit, range 30/60 ft., one target. *Hit:* The target is [restrained](/compendium/rules/conditions.md#restrained) by webbing. As an action, the [restrained](/compendium/rules/conditions.md#restrained) target can make a DC 15 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).
+***Web (Spider Form Only; (Recharge 5-6)).*** *Ranged Weapon Attack:* +8 to hit, range 30/60 ft., one target. *Hit:* The target is [restrained](rules/conditions.md#restrained) by webbing. As an action, the [restrained](rules/conditions.md#restrained) target can make a DC 15 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).
 
 ## Bonus Actions
 

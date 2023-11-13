@@ -30,6 +30,6 @@ A nonmagical object that isn't being worn or carried also takes the damage if it
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
 
-**Classes**: [Artificer (Armorer)](/compendium/classes/artificer-armorer-tce.md), [Artificer (Artillerist)](/compendium/classes/artificer-artillerist-tce.md), [Bard](/compendium/classes/bard.md), [Cleric (Tempest Domain)](/compendium/classes/cleric-tempest-domain.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Sorcerer](/compendium/classes/sorcerer.md), [Warlock](/compendium/classes/warlock.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Artificer (Armorer)](compendium/classes/artificer-armorer-tce.md), [Artificer (Artillerist)](compendium/classes/artificer-artillerist-tce.md), [Bard](compendium/classes/bard.md), [Cleric (Tempest Domain)](compendium/classes/cleric-tempest-domain.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Sorcerer](compendium/classes/sorcerer.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 275. Available in the SRD and the Basic Rules.*

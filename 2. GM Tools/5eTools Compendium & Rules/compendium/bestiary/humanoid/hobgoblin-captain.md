@@ -77,10 +77,10 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
 
 ```ad-statblock
 title: Hobgoblin Captain
-![](/compendium/bestiary/humanoid/token/hobgoblin-captain.png#token)
+![](compendium/bestiary/humanoid/token/hobgoblin-captain.png#token)
 *Medium humanoid (goblinoid), Lawful Evil*
 
-- **Armor Class** 17  ([half plate armor](/compendium/items/half-plate-armor.md))
+- **Armor Class** 17  ([half plate armor](compendium/items/half-plate-armor.md))
 - **Hit Points** 39 (`6d8 + 12`)
 - **Speed** 30 ft.
 
@@ -97,7 +97,7 @@ title: Hobgoblin Captain
 
 ## Traits
 
-***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 10 (`3d6`) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 10 (`3d6`) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't [incapacitated](rules/conditions.md#incapacitated).
 
 ## Actions
 
@@ -107,7 +107,7 @@ title: Hobgoblin Captain
 
 ***Javelin.*** *Melee or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 5 (`1d6 + 2`) piercing damage.
 
-***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the hobgoblin can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a `d4` to its roll provided it can hear and understand the hobgoblin. A creature can benefit from only one Leadership die at a time. This effect ends if the hobgoblin is [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the hobgoblin can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a `d4` to its roll provided it can hear and understand the hobgoblin. A creature can benefit from only one Leadership die at a time. This effect ends if the hobgoblin is [incapacitated](rules/conditions.md#incapacitated).
 ```
 ^statblock
 

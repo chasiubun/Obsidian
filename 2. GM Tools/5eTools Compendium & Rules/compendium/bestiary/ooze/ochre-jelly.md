@@ -46,7 +46,7 @@ An ooze doesn't require sleep.
 
 ```ad-statblock
 title: Ochre Jelly
-![](/compendium/bestiary/ooze/token/ochre-jelly.png#token)
+![](compendium/bestiary/ooze/token/ochre-jelly.png#token)
 *Large ooze, Unaligned*
 
 - **Armor Class** 8 

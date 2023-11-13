@@ -19,10 +19,10 @@ aliases: ["Power Word Stun"]
 - **Components:** V
 - **Duration:** Instantaneous
 
-You speak a word of power that can overwhelm the mind of one creature you can see within range, leaving it dumbfounded. If the target has 150 hit points or fewer, it is [stunned](/compendium/rules/conditions.md#stunned). Otherwise, the spell has no effect.
+You speak a word of power that can overwhelm the mind of one creature you can see within range, leaving it dumbfounded. If the target has 150 hit points or fewer, it is [stunned](rules/conditions.md#stunned). Otherwise, the spell has no effect.
 
-The [stunned](/compendium/rules/conditions.md#stunned) target must make a Constitution saving throw at the end of each of its turns. On a successful save, this stunning effect ends.
+The [stunned](rules/conditions.md#stunned) target must make a Constitution saving throw at the end of each of its turns. On a successful save, this stunning effect ends.
 
-**Classes**: [Bard](/compendium/classes/bard.md), [Sorcerer](/compendium/classes/sorcerer.md), [Warlock](/compendium/classes/warlock.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Bard](compendium/classes/bard.md), [Sorcerer](compendium/classes/sorcerer.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 267. Available in the SRD and the Basic Rules.*

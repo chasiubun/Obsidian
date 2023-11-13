@@ -14,10 +14,10 @@ aliases: ["Random Dungeon Hazards; Dungeon Hazards"]
 
 | dice: d20 | Hazard |
 |-----------|--------|
-| 1-3 | [Brown mold](/compendium/traps-hazards/brown-mold.md) |
-| 4-8 | [Green slime](/compendium/traps-hazards/green-slime.md) |
-| 9-10 | [Shrieker](/compendium/bestiary/plant/shrieker.md) |
-| 11-15 | [Spiderwebs](/compendium/traps-hazards/webs.md) |
-| 16-17 | [Violet fungus](/compendium/bestiary/plant/violet-fungus.md) |
-| 18-20 | [Yellow mold](/compendium/traps-hazards/yellow-mold.md) |
+| 1-3 | [Brown mold](compendium/traps-hazards/brown-mold.md) |
+| 4-8 | [Green slime](compendium/traps-hazards/green-slime.md) |
+| 9-10 | [Shrieker](compendium/bestiary/plant/shrieker.md) |
+| 11-15 | [Spiderwebs](compendium/traps-hazards/webs.md) |
+| 16-17 | [Violet fungus](compendium/bestiary/plant/violet-fungus.md) |
+| 18-20 | [Yellow mold](compendium/traps-hazards/yellow-mold.md) |
 ^dungeon-hazards

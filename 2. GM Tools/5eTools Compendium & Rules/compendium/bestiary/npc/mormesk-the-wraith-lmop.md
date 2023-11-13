@@ -15,7 +15,7 @@ A wraith is the incorporeal remnant of a particularly hateful being. Most wraith
 
 ```ad-statblock
 title: Mormesk the Wraith
-![](/compendium/bestiary/npc/token/mormesk-the-wraith.png#token)
+![](compendium/bestiary/npc/token/mormesk-the-wraith.png#token)
 *Medium undead, Neutral Evil*
 
 - **Armor Class** 13 
@@ -37,7 +37,7 @@ title: Mormesk the Wraith
 
 ***Incorporeal Movement.*** The wraith can move through an object or another creature, but can't stop there.
 
-***Sunlight Sensitivity.*** While in sunlight, the wraith has disadvantage on attack rolls and on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the wraith has disadvantage on attack rolls and on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 

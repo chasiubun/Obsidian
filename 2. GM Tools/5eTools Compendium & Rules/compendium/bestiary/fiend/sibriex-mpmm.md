@@ -20,7 +20,7 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
 
 ```ad-statblock
 title: Sibriex
-![](/compendium/bestiary/fiend/token/sibriex.png#token)
+![](compendium/bestiary/fiend/token/sibriex.png#token)
 *Huge fiend (demon), Typically  Chaotic Evil*
 
 - **Armor Class** 19  (natural armor)
@@ -48,9 +48,9 @@ title: Sibriex
 
 ***Spellcasting.*** The sibriex casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 21):
 
-**At will**: [command](/compendium/spells/command.md), [dispel magic](/compendium/spells/dispel-magic.md), [hold monster](/compendium/spells/hold-monster.md)
+**At will**: [command](compendium/spells/command.md), [dispel magic](compendium/spells/dispel-magic.md), [hold monster](compendium/spells/hold-monster.md)
 
-**1/day**: [feeblemind](/compendium/spells/feeblemind.md)
+**1/day**: [feeblemind](compendium/spells/feeblemind.md)
 
 ## Actions
 
@@ -60,7 +60,7 @@ title: Sibriex
 
 ***Squirt Bile.*** The sibriex targets one creature it can see within 120 feet of it. The target must succeed on a DC 20 Dexterity saving throw or take 31 (`9d6`) acid damage.
 
-***Warp Creature.*** The sibriex targets up to three creatures it can see within 120 feet of it. Each target must make a DC 20 Constitution saving throw. On a successful save, a creature becomes immune to this sibriex's Warp Creature. On a failed save, the target is [poisoned](/compendium/rules/conditions.md#poisoned), which causes it to also gain 1 level of [exhaustion](/compendium/rules/conditions.md#exhaustion). While [poisoned](/compendium/rules/conditions.md#poisoned) in this way, the target must repeat the saving throw at the start of each of its turns. Three successful saves against the poison end it, and ending the poison removes any levels of [exhaustion](/compendium/rules/conditions.md#exhaustion) caused by it. Each failed save causes the target to gain another level of [exhaustion](/compendium/rules/conditions.md#exhaustion). Once the target reaches 6 levels of [exhaustion](/compendium/rules/conditions.md#exhaustion), it dies and instantly transforms into a living [manes](/compendium/bestiary/fiend/manes.md) under the sibriex's control. The transformation of the body can be undone only by a [wish](/compendium/spells/wish.md) spell.
+***Warp Creature.*** The sibriex targets up to three creatures it can see within 120 feet of it. Each target must make a DC 20 Constitution saving throw. On a successful save, a creature becomes immune to this sibriex's Warp Creature. On a failed save, the target is [poisoned](rules/conditions.md#poisoned), which causes it to also gain 1 level of [exhaustion](rules/conditions.md#exhaustion). While [poisoned](rules/conditions.md#poisoned) in this way, the target must repeat the saving throw at the start of each of its turns. Three successful saves against the poison end it, and ending the poison removes any levels of [exhaustion](rules/conditions.md#exhaustion) caused by it. Each failed save causes the target to gain another level of [exhaustion](rules/conditions.md#exhaustion). Once the target reaches 6 levels of [exhaustion](rules/conditions.md#exhaustion), it dies and instantly transforms into a living [manes](compendium/bestiary/fiend/manes.md) under the sibriex's control. The transformation of the body can be undone only by a [wish](compendium/spells/wish.md) spell.
 
 ## Legendary Actions
 

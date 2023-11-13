@@ -42,6 +42,6 @@ At the end of each of its turns, an affected target can make a Wisdom saving thr
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the radius of the sphere increases by 5 feet for each slot level above 4th.
 
-**Classes**: [Bard](/compendium/classes/bard.md), [Cleric (Knowledge Domain)](/compendium/classes/cleric-knowledge-domain.md), [Druid (Circle of Spores)](/compendium/classes/druid-circle-of-spores-tce.md), [Druid](/compendium/classes/druid.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Paladin (Oathbreaker)](/compendium/classes/paladin-oathbreaker.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Sorcerer](/compendium/classes/sorcerer.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Bard](compendium/classes/bard.md), [Cleric (Knowledge Domain)](compendium/classes/cleric-knowledge-domain.md), [Druid (Circle of Spores)](compendium/classes/druid-circle-of-spores-tce.md), [Druid](compendium/classes/druid.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Paladin (Oathbreaker)](compendium/classes/paladin-oathbreaker.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 224. Available in the SRD.*

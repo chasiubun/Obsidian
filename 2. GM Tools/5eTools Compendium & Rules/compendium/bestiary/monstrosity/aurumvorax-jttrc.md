@@ -23,7 +23,7 @@ Alone or in small groups, aurumvoraxes dig deep in search of precious metals. Su
 
 ```ad-statblock
 title: Aurumvorax
-![](/compendium/bestiary/monstrosity/token/aurumvorax.png#token)
+![](compendium/bestiary/monstrosity/token/aurumvorax.png#token)
 *Small monstrosity, Unaligned*
 
 - **Armor Class** 15  (natural armor)
@@ -51,6 +51,6 @@ title: Aurumvorax
 
 ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (`1d8 + 2`) piercing damage. If the target is a creature wearing armor of any type, the aurumvorax regains 4 (`1d6 + 1`) hit points.
 
-***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (`1d6 + 2`) slashing damage. If the target is a Medium or smaller creature, it is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 12). Until this grapple ends, the aurumvorax can't use its Claw attack on another target, and when it moves, it can drag the [grappled](/compendium/rules/conditions.md#grappled) creature with it, without the aurumvorax's speed being halved.
+***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (`1d6 + 2`) slashing damage. If the target is a Medium or smaller creature, it is [grappled](rules/conditions.md#grappled) (escape DC 12). Until this grapple ends, the aurumvorax can't use its Claw attack on another target, and when it moves, it can drag the [grappled](rules/conditions.md#grappled) creature with it, without the aurumvorax's speed being halved.
 ```
 ^statblock

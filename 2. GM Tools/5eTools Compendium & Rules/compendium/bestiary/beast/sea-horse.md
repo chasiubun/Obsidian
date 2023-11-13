@@ -13,7 +13,7 @@ aliases: ["Sea Horse"]
 
 ```ad-statblock
 title: Sea Horse
-![](/compendium/bestiary/beast/token/sea-horse.png#token)
+![](compendium/bestiary/beast/token/sea-horse.png#token)
 *Tiny beast, Unaligned*
 
 - **Armor Class** 11 

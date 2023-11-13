@@ -32,10 +32,10 @@ Warlords urge their troops into the fray with shouted exhortations. You can roll
 
 ```ad-statblock
 title: Warlord
-![](/compendium/bestiary/humanoid/token/warlord.png#token)
+![](compendium/bestiary/humanoid/token/warlord.png#token)
 *Medium humanoid, Any alignment*
 
-- **Armor Class** 18  ([plate](/compendium/items/plate-armor.md))
+- **Armor Class** 18  ([plate](compendium/items/plate-armor.md))
 - **Hit Points** 229 (`27d8 + 108`)
 - **Speed** 30 ft.
 
@@ -70,7 +70,7 @@ title: Warlord
 
 ***Weapon Attack.*** The warlord makes one Greatsword or Shortbow attack.
 
-***Frighten Foe (Costs 2 Actions).*** The warlord targets one creature it can see within 30 feet of it. If the target can see and hear it, the target must succeed on a DC 16 Wisdom saving throw or be [frightened](/compendium/rules/conditions.md#frightened) until the end of warlord's next turn.
+***Frighten Foe (Costs 2 Actions).*** The warlord targets one creature it can see within 30 feet of it. If the target can see and hear it, the target must succeed on a DC 16 Wisdom saving throw or be [frightened](rules/conditions.md#frightened) until the end of warlord's next turn.
 ```
 ^statblock
 

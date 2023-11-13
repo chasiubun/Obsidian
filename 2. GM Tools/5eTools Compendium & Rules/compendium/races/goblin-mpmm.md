@@ -26,7 +26,7 @@ You can see in dim light within 60 feet of you as if it were bright light and in
 
 ### Fey Ancestry
 
-You have advantage on saving throws you make to avoid or end the [charmed](/compendium/rules/conditions.md#charmed) condition on yourself.
+You have advantage on saving throws you make to avoid or end the [charmed](rules/conditions.md#charmed) condition on yourself.
 
 ### Fury of the Small
 
@@ -36,7 +36,7 @@ You can use this trait a number of times equal to your proficiency bonus, regain
 
 ### Nimble Escape
 
-You can take the [Disengage](/compendium/rules/actions.md#Disengage) or [Hide](/compendium/rules/actions.md#Hide) action as a bonus action on each of your turns.
+You can take the [Disengage](rules/actions.md#Disengage) or [Hide](rules/actions.md#Hide) action as a bonus action on each of your turns.
 
 ## Description
 

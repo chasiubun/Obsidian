@@ -25,10 +25,10 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
 
 ```ad-statblock
 title: Gnoll Flesh Gnawer
-![](/compendium/bestiary/monstrosity/token/gnoll-flesh-gnawer.png#token)
+![](compendium/bestiary/monstrosity/token/gnoll-flesh-gnawer.png#token)
 *Medium monstrosity, Typically  Chaotic Evil*
 
-- **Armor Class** 14  ([studded leather](/compendium/items/studded-leather-armor.md))
+- **Armor Class** 14  ([studded leather](compendium/items/studded-leather-armor.md))
 - **Hit Points** 22 (`4d8 + 4`)
 - **Speed** 30 ft.
 

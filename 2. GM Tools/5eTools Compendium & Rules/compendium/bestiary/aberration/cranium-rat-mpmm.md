@@ -21,7 +21,7 @@ A single cranium rat uses its natural telepathy to communicate hunger, fear, and
 
 ```ad-statblock
 title: Cranium Rat
-![](/compendium/bestiary/aberration/token/cranium-rat.png#token)
+![](compendium/bestiary/aberration/token/cranium-rat.png#token)
 *Tiny aberration, Unaligned*
 
 - **Armor Class** 12 

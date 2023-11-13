@@ -13,7 +13,7 @@ aliases: ["Drow Favored Consort"]
 # Drow Favored Consort
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 100, Mordenkainen's Tome of Foes p. 183*  
 
-Nearly every priestess of Lolth, including the powerful [drow matron mother](/compendium/bestiary/humanoid/drow-matron-mother-mpmm.md) in this book, takes an attractive drow as consort. Chosen as much for beauty as for magical might, a drow favored consort can hold their own in both conversation and combat. Combining the roles of advisor, protector, and beloved, some favored consorts are content with a supporting role, while more ambitious consorts aspire to be the power behind the throne—or even to claim the throne themselves.
+Nearly every priestess of Lolth, including the powerful [drow matron mother](compendium/bestiary/humanoid/drow-matron-mother-mpmm.md) in this book, takes an attractive drow as consort. Chosen as much for beauty as for magical might, a drow favored consort can hold their own in both conversation and combat. Combining the roles of advisor, protector, and beloved, some favored consorts are content with a supporting role, while more ambitious consorts aspire to be the power behind the throne—or even to claim the throne themselves.
 
 Those favored consorts who prove their cunning gain the ear, and perhaps even the heart, of their priestess and are relied on to provide useful advice. No position of consort is assured for long, though; Lolth's priestesses are notoriously fickle, and a consort must often contend with rivals.
 
@@ -21,7 +21,7 @@ Some favored consorts work behind the scenes to undermine the evils encouraged b
 
 ```ad-statblock
 title: Drow Favored Consort
-![](/compendium/bestiary/humanoid/token/drow-favored-consort.png#token)
+![](compendium/bestiary/humanoid/token/drow-favored-consort.png#token)
 *Medium humanoid (elf, wizard), Any alignment*
 
 - **Armor Class** 15 
@@ -41,17 +41,17 @@ title: Drow Favored Consort
 
 ## Traits
 
-***Fey Ancestry.*** The drow has advantage on saving throws against being [charmed](/compendium/rules/conditions.md#charmed), and magic can't put the drow to sleep.
+***Fey Ancestry.*** The drow has advantage on saving throws against being [charmed](rules/conditions.md#charmed), and magic can't put the drow to sleep.
 
-***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ***Spellcasting.*** The drow casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 18):
 
-**At will**: [dancing lights](/compendium/spells/dancing-lights.md), [mage armor](/compendium/spells/mage-armor.md), [mage hand](/compendium/spells/mage-hand.md), [message](/compendium/spells/message.md)
+**At will**: [dancing lights](compendium/spells/dancing-lights.md), [mage armor](compendium/spells/mage-armor.md), [mage hand](compendium/spells/mage-hand.md), [message](compendium/spells/message.md)
 
-**1/day each**: [darkness](/compendium/spells/darkness.md), [faerie fire](/compendium/spells/faerie-fire.md), [levitate](/compendium/spells/levitate.md) (self only)
+**1/day each**: [darkness](compendium/spells/darkness.md), [faerie fire](compendium/spells/faerie-fire.md), [levitate](compendium/spells/levitate.md) (self only)
 
-**3/day each**: [dimension door](/compendium/spells/dimension-door.md), [fireball](/compendium/spells/fireball.md), [invisibility](/compendium/spells/invisibility.md)
+**3/day each**: [dimension door](compendium/spells/dimension-door.md), [fireball](compendium/spells/fireball.md), [invisibility](compendium/spells/invisibility.md)
 
 ## Actions
 

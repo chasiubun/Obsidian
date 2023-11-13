@@ -16,7 +16,7 @@ A giant fire beetle is a nocturnal creature that takes its name from a pair of g
 
 ```ad-statblock
 title: Giant Fire Beetle
-![](/compendium/bestiary/beast/token/giant-fire-beetle.png#token)
+![](compendium/bestiary/beast/token/giant-fire-beetle.png#token)
 *Small beast, Unaligned*
 
 - **Armor Class** 13  (natural armor)

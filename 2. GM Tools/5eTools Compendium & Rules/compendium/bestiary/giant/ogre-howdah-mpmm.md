@@ -14,7 +14,7 @@ aliases: ["Ogre Howdah"]
 # Ogre Howdah
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 201, Mordenkainen's Tome of Foes p. 221*  
 
-The most unusual of the specialized ogres, the howdah carries a palisaded wooden fort on its back. The fort serves as a fighting platform for up to four Small people. Ogre howdahs are most often seen bearing bow- and spear-wielding [goblins](/compendium/bestiary/humanoid/goblin.md) into battle, or perhaps [kobolds](/compendium/bestiary/humanoid/kobold.md) or [deep gnomes](/compendium/bestiary/humanoid/deep-gnome-svirfneblin.md), but they might also transport other Small folk.
+The most unusual of the specialized ogres, the howdah carries a palisaded wooden fort on its back. The fort serves as a fighting platform for up to four Small people. Ogre howdahs are most often seen bearing bow- and spear-wielding [goblins](compendium/bestiary/humanoid/goblin.md) into battle, or perhaps [kobolds](compendium/bestiary/humanoid/kobold.md) or [deep gnomes](compendium/bestiary/humanoid/deep-gnome-svirfneblin.md), but they might also transport other Small folk.
 
 ## Ogres of War
 
@@ -24,10 +24,10 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
 
 ```ad-statblock
 title: Ogre Howdah
-![](/compendium/bestiary/giant/token/ogre-howdah.png#token)
+![](compendium/bestiary/giant/token/ogre-howdah.png#token)
 *Large giant, Typically  Chaotic Evil*
 
-- **Armor Class** 15  ([breastplate](/compendium/items/breastplate.md), [shield](/compendium/items/shield.md))
+- **Armor Class** 15  ([breastplate](compendium/items/breastplate.md), [shield](compendium/items/shield.md))
 - **Hit Points** 59 (`7d10 + 21`)
 - **Speed** 40 ft.
 

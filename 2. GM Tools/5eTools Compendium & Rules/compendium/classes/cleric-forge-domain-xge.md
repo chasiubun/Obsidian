@@ -24,16 +24,16 @@ At each indicated cleric level, add the listed spells to your spells prepared.
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [identify](/compendium/spells/identify.md), [searing smite](/compendium/spells/searing-smite.md) |
-| 3rd | [heat metal](/compendium/spells/heat-metal.md), [magic weapon](/compendium/spells/magic-weapon.md) |
-| 5th | [elemental weapon](/compendium/spells/elemental-weapon.md), [protection from energy](/compendium/spells/protection-from-energy.md) |
-| 7th | [fabricate](/compendium/spells/fabricate.md), [wall of fire](/compendium/spells/wall-of-fire.md) |
-| 9th | [animate objects](/compendium/spells/animate-objects.md), [creation](/compendium/spells/creation.md) |
+| 1st | [identify](compendium/spells/identify.md), [searing smite](compendium/spells/searing-smite.md) |
+| 3rd | [heat metal](compendium/spells/heat-metal.md), [magic weapon](compendium/spells/magic-weapon.md) |
+| 5th | [elemental weapon](compendium/spells/elemental-weapon.md), [protection from energy](compendium/spells/protection-from-energy.md) |
+| 7th | [fabricate](compendium/spells/fabricate.md), [wall of fire](compendium/spells/wall-of-fire.md) |
+| 9th | [animate objects](compendium/spells/animate-objects.md), [creation](compendium/spells/creation.md) |
 ^forge-domain-spells
 
 ### Bonus Proficiency (Level 1)
 
-When you choose this domain at 1st level, you gain proficiency with heavy armor and [smith's tools](/compendium/items/smiths-tools.md).
+When you choose this domain at 1st level, you gain proficiency with heavy armor and [smith's tools](compendium/items/smiths-tools.md).
 
 ### Blessing of the Forge (Level 1)
 
@@ -63,7 +63,7 @@ At 8th level, you gain the ability to infuse your weapon strikes with the fiery 
 ### Blessed Strikes (Level 8)
 _Source: Tasha's Cauldron of Everything p. 30_
 
-*8th-level cleric [optional class features](/compendium/rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*
+*8th-level cleric [optional class features](rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*
 
 You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `1d8` radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 

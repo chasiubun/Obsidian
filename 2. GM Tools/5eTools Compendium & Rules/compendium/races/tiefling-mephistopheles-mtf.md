@@ -35,7 +35,7 @@ You have resistance to fire damage.
 
 ### Legacy of Cania
 
-You know the [mage hand](/compendium/spells/mage-hand.md) cantrip. When you reach 3rd level, you can cast the [burning hands](/compendium/spells/burning-hands.md) spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [flame blade](/compendium/spells/flame-blade.md) spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [mage hand](compendium/spells/mage-hand.md) cantrip. When you reach 3rd level, you can cast the [burning hands](compendium/spells/burning-hands.md) spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [flame blade](compendium/spells/flame-blade.md) spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Languages
 

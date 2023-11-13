@@ -20,7 +20,7 @@ An iron shadow is usually recruited from the ranks of the Feywild's hobgoblin ar
 
 ```ad-statblock
 title: Hobgoblin Iron Shadow
-![](/compendium/bestiary/fey/token/hobgoblin-iron-shadow.png#token)
+![](compendium/bestiary/fey/token/hobgoblin-iron-shadow.png#token)
 *Medium fey (goblinoid), Typically  Lawful Neutral*
 
 - **Armor Class** 15  (Unarmored Defense)
@@ -44,9 +44,9 @@ title: Hobgoblin Iron Shadow
 
 ***Spellcasting.*** The hobgoblin casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 12):
 
-**At will**: [minor illusion](/compendium/spells/minor-illusion.md), [prestidigitation](/compendium/spells/prestidigitation.md)
+**At will**: [minor illusion](compendium/spells/minor-illusion.md), [prestidigitation](compendium/spells/prestidigitation.md)
 
-**1/day each**: [charm person](/compendium/spells/charm-person.md), [disguise self](/compendium/spells/disguise-self.md), [silent image](/compendium/spells/silent-image.md)
+**1/day each**: [charm person](compendium/spells/charm-person.md), [disguise self](compendium/spells/disguise-self.md), [silent image](compendium/spells/silent-image.md)
 
 ## Actions
 

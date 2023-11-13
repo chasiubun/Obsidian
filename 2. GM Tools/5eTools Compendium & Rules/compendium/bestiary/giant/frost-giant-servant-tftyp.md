@@ -13,7 +13,7 @@ aliases: ["Frost Giant Servant"]
 
 ```ad-statblock
 title: Frost Giant Servant
-![](/compendium/bestiary/giant/token/frost-giant-servant.png#token)
+![](compendium/bestiary/giant/token/frost-giant-servant.png#token)
 *Huge giant, Chaotic Evil*
 
 - **Armor Class** 13  (natural armor)

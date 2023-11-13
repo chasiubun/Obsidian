@@ -19,7 +19,7 @@ aliases: ["Find Familiar"]
 - **Components:** V, S, 10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier
 - **Duration:** Instantaneous
 
-You gain the service of a familiar, a spirit that takes an animal form you choose: [bat](/compendium/bestiary/beast/bat.md), [cat](/compendium/bestiary/beast/cat.md), [crab](/compendium/bestiary/beast/crab.md), [frog](/compendium/bestiary/beast/frog.md) (toad), [hawk](/compendium/bestiary/beast/hawk.md), [lizard](/compendium/bestiary/beast/lizard.md), [octopus](/compendium/bestiary/beast/octopus.md), [owl](/compendium/bestiary/beast/owl.md), [poisonous snake](/compendium/bestiary/beast/poisonous-snake.md), fish ([quipper](/compendium/bestiary/beast/quipper.md)), [rat](/compendium/bestiary/beast/rat.md), [raven](/compendium/bestiary/beast/raven.md), [sea horse](/compendium/bestiary/beast/sea-horse.md), [spider](/compendium/bestiary/beast/spider.md), or [weasel](/compendium/bestiary/beast/weasel.md). Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form, though it is a celestial, fey, or fiend (your choice) instead of a beast.
+You gain the service of a familiar, a spirit that takes an animal form you choose: [bat](compendium/bestiary/beast/bat.md), [cat](compendium/bestiary/beast/cat.md), [crab](compendium/bestiary/beast/crab.md), [frog](compendium/bestiary/beast/frog.md) (toad), [hawk](compendium/bestiary/beast/hawk.md), [lizard](compendium/bestiary/beast/lizard.md), [octopus](compendium/bestiary/beast/octopus.md), [owl](compendium/bestiary/beast/owl.md), [poisonous snake](compendium/bestiary/beast/poisonous-snake.md), fish ([quipper](compendium/bestiary/beast/quipper.md)), [rat](compendium/bestiary/beast/rat.md), [raven](compendium/bestiary/beast/raven.md), [sea horse](compendium/bestiary/beast/sea-horse.md), [spider](compendium/bestiary/beast/spider.md), or [weasel](compendium/bestiary/beast/weasel.md). Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form, though it is a celestial, fey, or fiend (your choice) instead of a beast.
 
 > [!note]
 > Additional animal form choices may be available at the DM's discretion.
@@ -34,6 +34,6 @@ You can't have more than one familiar at a time. If you cast this spell while yo
 
 Finally, when you cast a spell with a range of touch, your familiar can deliver the spell as if it had cast the spell. Your familiar must be within 100 feet of you, and it must use its reaction to deliver the spell when you cast it. If the spell requires an attack roll, you use your attack modifier for the roll.
 
-**Classes**: [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 240. Available in the SRD.*

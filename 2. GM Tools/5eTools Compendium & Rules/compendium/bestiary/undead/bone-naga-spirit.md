@@ -38,7 +38,7 @@ A naga doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Bone Naga (Spirit)
-![](/compendium/bestiary/undead/token/bone-naga-spirit.png#token)
+![](compendium/bestiary/undead/token/bone-naga-spirit.png#token)
 *Large undead, Lawful Evil*
 
 - **Armor Class** 15  (natural armor)
@@ -58,13 +58,13 @@ title: Bone Naga (Spirit)
 
 ***Spellcasting.*** The naga is a 5th-level spellcaster (spell save DC 12, +4 to hit with spell attacks) that needs only verbal components to cast its spells. Its spellcasting ability is Intelligence, and it has the following wizard spells prepared:
 
-**Cantrips (at will)**: [mage hand](/compendium/spells/mage-hand.md), [minor illusion](/compendium/spells/minor-illusion.md), [ray of frost](/compendium/spells/ray-of-frost.md)
+**Cantrips (at will)**: [mage hand](compendium/spells/mage-hand.md), [minor illusion](compendium/spells/minor-illusion.md), [ray of frost](compendium/spells/ray-of-frost.md)
 
-**1st level (4 slots)**: [charm person](/compendium/spells/charm-person.md), [sleep](/compendium/spells/sleep.md)
+**1st level (4 slots)**: [charm person](compendium/spells/charm-person.md), [sleep](compendium/spells/sleep.md)
 
-**2nd level (3 slots)**: [detect thoughts](/compendium/spells/detect-thoughts.md), [hold person](/compendium/spells/hold-person.md)
+**2nd level (3 slots)**: [detect thoughts](compendium/spells/detect-thoughts.md), [hold person](compendium/spells/hold-person.md)
 
-**3rd level (2 slots)**: [lightning bolt](/compendium/spells/lightning-bolt.md)
+**3rd level (2 slots)**: [lightning bolt](compendium/spells/lightning-bolt.md)
 
 ## Actions
 

@@ -41,7 +41,7 @@ The target spends its turn moving away from you by the fastest available means.
 
 ## Grovel
 
-The target falls [prone](/compendium/rules/conditions.md#prone) and then ends its turn.
+The target falls [prone](rules/conditions.md#prone) and then ends its turn.
 
 ## Halt
 
@@ -53,6 +53,6 @@ When you cast this spell using a spell slot of 2nd level or higher, you can affe
 
 ## Summary
 
-**Classes**: [Bard (College of Glamour)](/compendium/classes/bard-college-of-glamour-xge.md), [Cleric (Knowledge Domain)](/compendium/classes/cleric-knowledge-domain.md), [Cleric (Order Domain)](/compendium/classes/cleric-order-domain-tce.md), [Cleric](/compendium/classes/cleric.md), [Paladin (Oath of Conquest)](/compendium/classes/paladin-oath-of-conquest-xge.md), [Paladin](/compendium/classes/paladin.md), [Sorcerer (Divine Soul)](/compendium/classes/sorcerer-divine-soul-xge.md), [Warlock (The Fiend)](/compendium/classes/warlock-the-fiend.md)
+**Classes**: [Bard (College of Glamour)](compendium/classes/bard-college-of-glamour-xge.md), [Cleric (Knowledge Domain)](compendium/classes/cleric-knowledge-domain.md), [Cleric (Order Domain)](compendium/classes/cleric-order-domain-tce.md), [Cleric](compendium/classes/cleric.md), [Paladin (Oath of Conquest)](compendium/classes/paladin-oath-of-conquest-xge.md), [Paladin](compendium/classes/paladin.md), [Sorcerer (Divine Soul)](compendium/classes/sorcerer-divine-soul-xge.md), [Warlock (The Fiend)](compendium/classes/warlock-the-fiend.md)
 
 *Source: Player's Handbook p. 223. Available in the SRD and the Basic Rules.*

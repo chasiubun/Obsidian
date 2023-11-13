@@ -31,7 +31,7 @@ Merrow dwell in undersea caves filled with treasures and trophies, taken from th
 
 ```ad-statblock
 title: Merrow
-![](/compendium/bestiary/monstrosity/token/merrow.png#token)
+![](compendium/bestiary/monstrosity/token/merrow.png#token)
 *Large monstrosity, Chaotic Evil*
 
 - **Armor Class** 13  (natural armor)

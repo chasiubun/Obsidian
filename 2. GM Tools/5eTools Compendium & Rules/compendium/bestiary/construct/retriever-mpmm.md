@@ -20,7 +20,7 @@ Though retrievers were created to operate only in the Abyss, they are sometimes 
 
 ```ad-statblock
 title: Retriever
-![](/compendium/bestiary/construct/token/retriever.png#token)
+![](compendium/bestiary/construct/token/retriever.png#token)
 *Large construct, Typically  Lawful Evil*
 
 - **Armor Class** 19  (natural armor)
@@ -44,7 +44,7 @@ title: Retriever
 
 ***Spellcasting.*** The retriever casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 13):
 
-**3/day each**: [plane shift](/compendium/spells/plane-shift.md) (only self and up to one incapacitated creature, which is considered willing for the spell), [web](/compendium/spells/web.md)
+**3/day each**: [plane shift](compendium/spells/plane-shift.md) (only self and up to one incapacitated creature, which is considered willing for the spell), [web](compendium/spells/web.md)
 
 ## Actions
 
@@ -54,9 +54,9 @@ title: Retriever
 
 ***Force Beam.*** The retriever targets one creature it can see within 60 feet of it. The target must make a DC 16 Dexterity saving throw, taking 27 (`5d10`) force damage on a failed save, or half as much damage on a successful one.
 
-***Paralyzing Beam (Recharge 5-6).*** The retriever targets one creature it can see within 60 feet of it. The target must succeed on a DC 18 Constitution saving throw or be [paralyzed](/compendium/rules/conditions.md#paralyzed) for 1 minute. The [paralyzed](/compendium/rules/conditions.md#paralyzed) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Paralyzing Beam (Recharge 5-6).*** The retriever targets one creature it can see within 60 feet of it. The target must succeed on a DC 18 Constitution saving throw or be [paralyzed](rules/conditions.md#paralyzed) for 1 minute. The [paralyzed](rules/conditions.md#paralyzed) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-If the [paralyzed](/compendium/rules/conditions.md#paralyzed) creature is Medium or smaller, the retriever can pick it up as part of the retriever's move and walk or climb with it at full speed.
+If the [paralyzed](rules/conditions.md#paralyzed) creature is Medium or smaller, the retriever can pick it up as part of the retriever's move and walk or climb with it at full speed.
 ```
 ^statblock
 

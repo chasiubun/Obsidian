@@ -23,7 +23,7 @@ The scholars of Silverquill College study the power of magic shaped through spok
 
 ```ad-statblock
 title: Silverquill Professor of Radiance
-![](/compendium/bestiary/humanoid/token/silverquill-professor-of-radiance.png#token)
+![](compendium/bestiary/humanoid/token/silverquill-professor-of-radiance.png#token)
 *Small or Medium humanoid (bard), Any alignment*
 
 - **Armor Class** 12 
@@ -43,16 +43,16 @@ title: Silverquill Professor of Radiance
 
 ***Spellcasting.*** The professor casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 15):
 
-**At will**: [dancing lights](/compendium/spells/dancing-lights.md), [friends](/compendium/spells/friends.md)
+**At will**: [dancing lights](compendium/spells/dancing-lights.md), [friends](compendium/spells/friends.md)
 
-**1/day each**: [hypnotic pattern](/compendium/spells/hypnotic-pattern.md), [tongues](/compendium/spells/tongues.md)
+**1/day each**: [hypnotic pattern](compendium/spells/hypnotic-pattern.md), [tongues](compendium/spells/tongues.md)
 
-**2/day each**: [bless](/compendium/spells/bless.md), [command](/compendium/spells/command.md), [cure wounds](/compendium/spells/cure-wounds.md), [daylight](/compendium/spells/daylight.md), [mage armor](/compendium/spells/mage-armor.md)
+**2/day each**: [bless](compendium/spells/bless.md), [command](compendium/spells/command.md), [cure wounds](compendium/spells/cure-wounds.md), [daylight](compendium/spells/daylight.md), [mage armor](compendium/spells/mage-armor.md)
 
 ## Actions
 
 ***Multiattack.*** The professor makes two Radiant Strike attacks. The professor can replace one of the attacks with a use of Spellcasting.
 
-***Radiant Strike.*** *Melee or Ranged Spell Attack:* +7 to hit, reach 5 ft. or range 120 ft., one target. *Hit:* 17 (`3d8 + 4`) radiant damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw be [blinded](/compendium/rules/conditions.md#blinded) until the end of its next turn.
+***Radiant Strike.*** *Melee or Ranged Spell Attack:* +7 to hit, reach 5 ft. or range 120 ft., one target. *Hit:* 17 (`3d8 + 4`) radiant damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw be [blinded](rules/conditions.md#blinded) until the end of its next turn.
 ```
 ^statblock

@@ -20,13 +20,13 @@ aliases: ["Hallow"]
 
 You touch a point and infuse an area around it with holy (or unholy) power. The area can have a radius up to 60 feet, and the spell fails if the radius includes an area already under the effect a hallow spell. The affected area is subject to the following effects.
 
-First, celestials, elementals, fey, fiends, and undead can't enter the area, nor can such creatures charm, frighten, or possess creatures within it. Any creature [charmed](/compendium/rules/conditions.md#charmed), [frightened](/compendium/rules/conditions.md#frightened), or possessed by such a creature is no longer [charmed](/compendium/rules/conditions.md#charmed), [frightened](/compendium/rules/conditions.md#frightened), or possessed upon entering the area. You can exclude one or more of those types of creatures from this effect.
+First, celestials, elementals, fey, fiends, and undead can't enter the area, nor can such creatures charm, frighten, or possess creatures within it. Any creature [charmed](rules/conditions.md#charmed), [frightened](rules/conditions.md#frightened), or possessed by such a creature is no longer [charmed](rules/conditions.md#charmed), [frightened](rules/conditions.md#frightened), or possessed upon entering the area. You can exclude one or more of those types of creatures from this effect.
 
 Second, you can bind an extra effect to the area. Choose the effect from the following list, or choose an effect offered by the DM. Some of these effects apply to creatures in the area; you can designate whether the effect applies to all creatures, creatures that follow a specific deity or leader, or creatures of a specific sort, such as orcs or trolls. When a creature that would be affected enters the spell's area for the first time on a turn or starts its turn there, it can make a Charisma saving throw. On a success, the creature ignores the extra effect until it leaves the area.
 
 ## Courage
 
-Affected creatures can't be [frightened](/compendium/rules/conditions.md#frightened) while in the area.
+Affected creatures can't be [frightened](rules/conditions.md#frightened) while in the area.
 
 ## Darkness
 
@@ -54,7 +54,7 @@ Affected creatures can't move or travel using teleportation or by extradimension
 
 ## Fear
 
-Affected creatures are [frightened](/compendium/rules/conditions.md#frightened) while in the area.
+Affected creatures are [frightened](rules/conditions.md#frightened) while in the area.
 
 ## Silence
 
@@ -66,6 +66,6 @@ Affected creatures can communicate with any other creature in the area, even if 
 
 ## Summary
 
-**Classes**: [Cleric](/compendium/classes/cleric.md), [Sorcerer (Divine Soul)](/compendium/classes/sorcerer-divine-soul-xge.md), [Warlock (The Fiend)](/compendium/classes/warlock-the-fiend.md)
+**Classes**: [Cleric](compendium/classes/cleric.md), [Sorcerer (Divine Soul)](compendium/classes/sorcerer-divine-soul-xge.md), [Warlock (The Fiend)](compendium/classes/warlock-the-fiend.md)
 
 *Source: Player's Handbook p. 249. Available in the SRD.*

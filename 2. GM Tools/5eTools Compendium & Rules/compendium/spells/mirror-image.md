@@ -31,8 +31,8 @@ If you have three duplicates, you must roll a 6 or higher to change the attack's
 
 A duplicate's AC equals 10 + your Dexterity modifier. If an attack hits a duplicate, the duplicate is destroyed. A duplicate can be destroyed only by an attack that hits it. It ignores all other damage and effects. The spell ends when all three duplicates are destroyed.
 
-A creature is unaffected by this spell if it can't see, if it relies on senses other than sight, such as blindsight, or if it can perceive illusions as false, as with [truesight](/compendium/rules/senses.md#truesight).
+A creature is unaffected by this spell if it can't see, if it relies on senses other than sight, such as blindsight, or if it can perceive illusions as false, as with [truesight](rules/senses.md#truesight).
 
-**Classes**: [Artificer (Armorer)](/compendium/classes/artificer-armorer-tce.md), [Cleric (Trickery Domain)](/compendium/classes/cleric-trickery-domain.md), [Druid (Circle of the Land)](/compendium/classes/druid-circle-of-the-land.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Sorcerer](/compendium/classes/sorcerer.md), [Warlock](/compendium/classes/warlock.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Artificer (Armorer)](compendium/classes/artificer-armorer-tce.md), [Cleric (Trickery Domain)](compendium/classes/cleric-trickery-domain.md), [Druid (Circle of the Land)](compendium/classes/druid-circle-of-the-land.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Sorcerer](compendium/classes/sorcerer.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 260. Available in the SRD.*

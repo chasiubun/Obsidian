@@ -13,7 +13,7 @@ aliases: ["Duergar Kavalrachni"]
 # Duergar Kavalrachni
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 107, Mordenkainen's Tome of Foes p. 189*  
 
-Kavalrachni are duergar cavalry trained to fight while riding [female steeders](/compendium/bestiary/monstrosity/female-steeder-mpmm.md) (in this book) or other Underdark creatures as mounts.
+Kavalrachni are duergar cavalry trained to fight while riding [female steeders](compendium/bestiary/monstrosity/female-steeder-mpmm.md) (in this book) or other Underdark creatures as mounts.
 
 ## Duergar
 
@@ -39,10 +39,10 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 
 ```ad-statblock
 title: Duergar Kavalrachni
-![](/compendium/bestiary/humanoid/token/duergar-kavalrachni.png#token)
+![](compendium/bestiary/humanoid/token/duergar-kavalrachni.png#token)
 *Medium humanoid (dwarf), Any alignment*
 
-- **Armor Class** 16  ([scale mail](/compendium/items/scale-mail.md), [shield](/compendium/items/shield.md))
+- **Armor Class** 16  ([scale mail](compendium/items/scale-mail.md), [shield](compendium/items/shield.md))
 - **Hit Points** 26 (`4d8 + 8`)
 - **Speed** 25 ft.
 
@@ -61,9 +61,9 @@ title: Duergar Kavalrachni
 
 ***Cavalry Training.*** When the duergar hits a target with a melee attack while mounted, the mount can use its reaction to make one melee attack against the same target.
 
-***Duergar Resilience.*** The duergar has advantage on saving throws against spells and the [charmed](/compendium/rules/conditions.md#charmed), [paralyzed](/compendium/rules/conditions.md#paralyzed), and [poisoned](/compendium/rules/conditions.md#poisoned) conditions.
+***Duergar Resilience.*** The duergar has advantage on saving throws against spells and the [charmed](rules/conditions.md#charmed), [paralyzed](rules/conditions.md#paralyzed), and [poisoned](rules/conditions.md#poisoned) conditions.
 
-***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
@@ -73,7 +73,7 @@ title: Duergar Kavalrachni
 
 ***Heavy Crossbow.*** *Ranged Weapon Attack:* +2 to hit, range 100/400 ft., one target. *Hit:* 5 (`1d10`) piercing damage.
 
-***Shared Invisibility (Recharges after a Short or Long Rest).*** The duergar magically turns [invisible](/compendium/rules/conditions.md#invisible) for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its [concentration](/compendium/rules/conditions.md#concentration) is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is [invisible](/compendium/rules/conditions.md#invisible) with it. While the [invisible](/compendium/rules/conditions.md#invisible) duergar is mounted, the mount is [invisible](/compendium/rules/conditions.md#invisible) as well. The invisibility ends early on the mount immediately after it attacks.
+***Shared Invisibility (Recharges after a Short or Long Rest).*** The duergar magically turns [invisible](rules/conditions.md#invisible) for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its [concentration](rules/conditions.md#concentration) is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is [invisible](rules/conditions.md#invisible) with it. While the [invisible](rules/conditions.md#invisible) duergar is mounted, the mount is [invisible](rules/conditions.md#invisible) as well. The invisibility ends early on the mount immediately after it attacks.
 ```
 ^statblock
 

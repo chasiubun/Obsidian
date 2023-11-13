@@ -28,6 +28,6 @@ Each creature that is completely within the cloud at the start of its turn must 
 
 A moderate wind (at least 10 miles per hour) disperses the cloud after 4 rounds. A strong wind (at least 20 miles per hour) disperses it after 1 round.
 
-**Classes**: [Bard](/compendium/classes/bard.md), [Druid (Circle of the Land)](/compendium/classes/druid-circle-of-the-land.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Sorcerer](/compendium/classes/sorcerer.md), [Warlock (The Fiend)](/compendium/classes/warlock-the-fiend.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Bard](compendium/classes/bard.md), [Druid (Circle of the Land)](compendium/classes/druid-circle-of-the-land.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Sorcerer](compendium/classes/sorcerer.md), [Warlock (The Fiend)](compendium/classes/warlock-the-fiend.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 278. Available in the SRD.*

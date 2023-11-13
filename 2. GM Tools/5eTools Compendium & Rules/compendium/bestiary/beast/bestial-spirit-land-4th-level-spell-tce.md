@@ -13,7 +13,7 @@ aliases: ["Bestial Spirit (Land, 4th-Level Spell)"]
 
 ```ad-statblock
 title: Bestial Spirit (Land, 4th-Level Spell)
-![](/compendium/bestiary/beast/token/bestial-spirit.png#token)
+![](compendium/bestiary/beast/token/bestial-spirit.png#token)
 *Small beast, Unaligned*
 
 - **Armor Class** 15  (natural armor)
@@ -37,7 +37,7 @@ title: Bestial Spirit (Land, 4th-Level Spell)
 
 ***Flyby (Air Only).*** The beast doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 
-***Pack Tactics (Land and Water Only).*** The beast has advantage on an attack roll against a creature if at least one of the beast's allies is within 5 feet of the creature and the ally isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Pack Tactics (Land and Water Only).*** The beast has advantage on an attack roll against a creature if at least one of the beast's allies is within 5 feet of the creature and the ally isn't [incapacitated](rules/conditions.md#incapacitated).
 
 ## Actions
 

@@ -41,7 +41,7 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
 
 ```ad-statblock
 title: Vine Blight
-![](/compendium/bestiary/plant/token/vine-blight.png#token)
+![](compendium/bestiary/plant/token/vine-blight.png#token)
 *Medium plant, Neutral Evil*
 
 - **Armor Class** 12  (natural armor)
@@ -65,9 +65,9 @@ title: Vine Blight
 
 ## Actions
 
-***Constrict.*** *Melee Weapon Attack:* +4 to hit, reach 10 ft., one target. *Hit:* 9 (`2d6 + 2`) bludgeoning damage, and a Large or smaller target is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 12). Until this grapple ends, the target is [restrained](/compendium/rules/conditions.md#restrained), and the blight can't constrict another target.
+***Constrict.*** *Melee Weapon Attack:* +4 to hit, reach 10 ft., one target. *Hit:* 9 (`2d6 + 2`) bludgeoning damage, and a Large or smaller target is [grappled](rules/conditions.md#grappled) (escape DC 12). Until this grapple ends, the target is [restrained](rules/conditions.md#restrained), and the blight can't constrict another target.
 
-***Entangling Plants (Recharge 5-6).*** Grasping roots and vines sprout in a 15-foot radius centered on the blight, withering away after 1 minute. For the duration, that area is difficult terrain for nonplant creatures. In addition, each creature of the blight's choice in that area when the plants appear must succeed on a DC 12 Strength saving throw or become [restrained](/compendium/rules/conditions.md#restrained). A creature can use its action to make a DC 12 Strength check, freeing itself or another entangled creature within reach on a success.
+***Entangling Plants (Recharge 5-6).*** Grasping roots and vines sprout in a 15-foot radius centered on the blight, withering away after 1 minute. For the duration, that area is difficult terrain for nonplant creatures. In addition, each creature of the blight's choice in that area when the plants appear must succeed on a DC 12 Strength saving throw or become [restrained](rules/conditions.md#restrained). A creature can use its action to make a DC 12 Strength check, freeing itself or another entangled creature within reach on a success.
 ```
 ^statblock
 

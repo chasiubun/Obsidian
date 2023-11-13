@@ -28,16 +28,16 @@ The Celestial lets you choose from an expanded list of spells when you learn a w
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [cure wounds](/compendium/spells/cure-wounds.md), [guiding bolt](/compendium/spells/guiding-bolt.md) |
-| 2nd | [flaming sphere](/compendium/spells/flaming-sphere.md), [lesser restoration](/compendium/spells/lesser-restoration.md) |
-| 3rd | [daylight](/compendium/spells/daylight.md), [revivify](/compendium/spells/revivify.md) |
-| 4th | [guardian of faith](/compendium/spells/guardian-of-faith.md), [wall of fire](/compendium/spells/wall-of-fire.md) |
-| 5th | [flame strike](/compendium/spells/flame-strike.md), [greater restoration](/compendium/spells/greater-restoration.md) |
+| 1st | [cure wounds](compendium/spells/cure-wounds.md), [guiding bolt](compendium/spells/guiding-bolt.md) |
+| 2nd | [flaming sphere](compendium/spells/flaming-sphere.md), [lesser restoration](compendium/spells/lesser-restoration.md) |
+| 3rd | [daylight](compendium/spells/daylight.md), [revivify](compendium/spells/revivify.md) |
+| 4th | [guardian of faith](compendium/spells/guardian-of-faith.md), [wall of fire](compendium/spells/wall-of-fire.md) |
+| 5th | [flame strike](compendium/spells/flame-strike.md), [greater restoration](compendium/spells/greater-restoration.md) |
 ^celestial-expanded-spells
 
 ### Bonus Cantrips (Level 1)
 
-At 1st level, you learn the [sacred flame](/compendium/spells/sacred-flame.md) and [light](/compendium/spells/light.md) cantrips. They count as warlock cantrips for you, but they don't count against your number of cantrips known.
+At 1st level, you learn the [sacred flame](compendium/spells/sacred-flame.md) and [light](compendium/spells/light.md) cantrips. They count as warlock cantrips for you, but they don't count against your number of cantrips known.
 
 ### Healing Light (Level 1)
 
@@ -57,6 +57,6 @@ Starting at 10th level, you gain temporary hit points whenever you finish a shor
 
 ### Searing Vengeance (Level 14)
 
-Starting at 14th level, the radiant energy you channel allows you to resist death. When you have to make a death saving throw at the start of your turn, you can instead spring back to your feet with a burst of radiant energy. You regain hit points equal to half your hit point maximum, and then you stand up if you so choose. Each creature of your choice that is within 30 feet of you takes radiant damage equal to `2d8` + your Charisma modifier, and it is [blinded](/compendium/rules/conditions.md#blinded) until the end of the current turn.
+Starting at 14th level, the radiant energy you channel allows you to resist death. When you have to make a death saving throw at the start of your turn, you can instead spring back to your feet with a burst of radiant energy. You regain hit points equal to half your hit point maximum, and then you stand up if you so choose. Each creature of your choice that is within 30 feet of you takes radiant damage equal to `2d8` + your Charisma modifier, and it is [blinded](rules/conditions.md#blinded) until the end of the current turn.
 
 Once you use this feature, you can't use it again until you finish a long rest.

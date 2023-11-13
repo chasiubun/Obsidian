@@ -23,7 +23,7 @@ An powerful necromancer might also discover the wicked methods of creating a dea
 
 ```ad-statblock
 title: Deathlock Wight
-![](/compendium/bestiary/undead/token/deathlock-wight.png#token)
+![](compendium/bestiary/undead/token/deathlock-wight.png#token)
 *Medium undead (warlock), Typically  Neutral Evil*
 
 - **Armor Class** 12 
@@ -43,15 +43,15 @@ title: Deathlock Wight
 
 ## Traits
 
-***Sunlight Sensitivity.*** While in sunlight, the deathlock has disadvantage on attack rolls, as well as on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the deathlock has disadvantage on attack rolls, as well as on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ***Unusual Nature.*** The deathlock doesn't require air, food, drink, or sleep.
 
 ***Spellcasting.*** The deathlock casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 13):
 
-**At will**: [detect magic](/compendium/spells/detect-magic.md), [disguise self](/compendium/spells/disguise-self.md), [mage armor](/compendium/spells/mage-armor.md)
+**At will**: [detect magic](compendium/spells/detect-magic.md), [disguise self](compendium/spells/disguise-self.md), [mage armor](compendium/spells/mage-armor.md)
 
-**1/day each**: [fear](/compendium/spells/fear.md), [hold person](/compendium/spells/hold-person.md)
+**1/day each**: [fear](compendium/spells/fear.md), [hold person](compendium/spells/hold-person.md)
 
 ## Actions
 
@@ -59,7 +59,7 @@ title: Deathlock Wight
 
 ***Life Drain.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 6 (`1d8 + 2`) necrotic damage. The target must succeed on a DC 13 Constitution saving throw, or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0.
 
-A Humanoid slain by this attack rises 24 hours later as a [zombie](/compendium/bestiary/undead/zombie.md) under the deathlock's control, unless the Humanoid is restored to life or its body is destroyed. The deathlock can have no more than twelve zombies under its control at one time.
+A Humanoid slain by this attack rises 24 hours later as a [zombie](compendium/bestiary/undead/zombie.md) under the deathlock's control, unless the Humanoid is restored to life or its body is destroyed. The deathlock can have no more than twelve zombies under its control at one time.
 
 ***Grave Bolt.*** *Ranged Spell Attack:* +5 to hit, range 60 ft., one target. *Hit:* 12 (`2d8 + 3`) necrotic damage.
 ```

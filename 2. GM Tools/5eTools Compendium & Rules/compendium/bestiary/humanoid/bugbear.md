@@ -32,10 +32,10 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
 
 ```ad-statblock
 title: Bugbear
-![](/compendium/bestiary/humanoid/token/bugbear.png#token)
+![](compendium/bestiary/humanoid/token/bugbear.png#token)
 *Medium humanoid (goblinoid), Chaotic Evil*
 
-- **Armor Class** 16  ([hide armor](/compendium/items/hide-armor.md), [shield](/compendium/items/shield.md))
+- **Armor Class** 16  ([hide armor](compendium/items/hide-armor.md), [shield](compendium/items/shield.md))
 - **Hit Points** 27 (`5d8 + 5`)
 - **Speed** 30 ft.
 

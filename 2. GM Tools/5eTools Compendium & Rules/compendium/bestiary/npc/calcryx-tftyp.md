@@ -89,7 +89,7 @@ Tiamat's most hated enemy is Bahamut the Platinum Dragon, with whom she shares c
 
 ```ad-statblock
 title: Calcryx
-![](/compendium/bestiary/npc/token/calcryx.png#token)
+![](compendium/bestiary/npc/token/calcryx.png#token)
 *Medium dragon, Chaotic Evil*
 
 - **Armor Class** 16  (natural armor)

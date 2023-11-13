@@ -23,10 +23,10 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 
 ```ad-statblock
 title: Sword Wraith Commander
-![](/compendium/bestiary/undead/token/sword-wraith-commander.png#token)
+![](compendium/bestiary/undead/token/sword-wraith-commander.png#token)
 *Medium undead, Typically  Lawful Evil*
 
-- **Armor Class** 18  ([breastplate](/compendium/items/breastplate.md), [shield](/compendium/items/shield.md))
+- **Armor Class** 18  ([breastplate](compendium/items/breastplate.md), [shield](compendium/items/shield.md))
 - **Hit Points** 127 (`15d8 + 60`)
 - **Speed** 30 ft.
 
@@ -55,7 +55,7 @@ title: Sword Wraith Commander
 
 ***Longbow.*** *Ranged Weapon Attack:* +5 to hit, range 150/600 ft., one target. *Hit:* 6 (`1d8 + 2`) piercing damage.
 
-***Call to Honor (1/Day).*** If the commander has taken damage during this combat, it gives itself advantage on attack rolls until the end of its next turn, and `1d4 + 1` [sword wraith warriors](/compendium/bestiary/undead/sword-wraith-warrior-mpmm.md) appear in unoccupied spaces within 30 feet of it. The warriors last until they drop to 0 hit points, and they take their turns immediately after the commander's turn on the same initiative count.
+***Call to Honor (1/Day).*** If the commander has taken damage during this combat, it gives itself advantage on attack rolls until the end of its next turn, and `1d4 + 1` [sword wraith warriors](compendium/bestiary/undead/sword-wraith-warrior-mpmm.md) appear in unoccupied spaces within 30 feet of it. The warriors last until they drop to 0 hit points, and they take their turns immediately after the commander's turn on the same initiative count.
 
 ## Bonus Actions
 

@@ -26,7 +26,7 @@ An powerful necromancer might also discover the wicked methods of creating a dea
 
 ```ad-statblock
 title: Deathlock
-![](/compendium/bestiary/undead/token/deathlock.png#token)
+![](compendium/bestiary/undead/token/deathlock.png#token)
 *Medium undead (warlock), Typically  Neutral Evil*
 
 - **Armor Class** 12 
@@ -52,9 +52,9 @@ title: Deathlock
 
 ***Spellcasting.*** The deathlock casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 13):
 
-**At will**: [detect magic](/compendium/spells/detect-magic.md), [disguise self](/compendium/spells/disguise-self.md), [mage armor](/compendium/spells/mage-armor.md), [mage hand](/compendium/spells/mage-hand.md)
+**At will**: [detect magic](compendium/spells/detect-magic.md), [disguise self](compendium/spells/disguise-self.md), [mage armor](compendium/spells/mage-armor.md), [mage hand](compendium/spells/mage-hand.md)
 
-**1/day each**: [dispel magic](/compendium/spells/dispel-magic.md), [hunger of Hadar](/compendium/spells/hunger-of-hadar.md), [invisibility](/compendium/spells/invisibility.md), [spider climb](/compendium/spells/spider-climb.md)
+**1/day each**: [dispel magic](compendium/spells/dispel-magic.md), [hunger of Hadar](compendium/spells/hunger-of-hadar.md), [invisibility](compendium/spells/invisibility.md), [spider climb](compendium/spells/spider-climb.md)
 
 ## Actions
 

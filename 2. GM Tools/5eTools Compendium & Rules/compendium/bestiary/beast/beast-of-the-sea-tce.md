@@ -13,7 +13,7 @@ aliases: ["Beast of the Sea"]
 
 ```ad-statblock
 title: Beast of the Sea
-![](/compendium/bestiary/beast/token/beast-of-the-sea.png#token)
+![](compendium/bestiary/beast/token/beast-of-the-sea.png#token)
 *Medium beast, Unaligned*
 
 
@@ -38,6 +38,6 @@ title: Beast of the Sea
 
 ## Actions
 
-***Binding Strike.*** *Melee Weapon Attack:* the summoner's spell attack modifier to hit, reach 5 ft., one target. *Hit:* `1d6 + 2 + PB` piercing damage or `1d6 + 2 + PB` bludgeoning damage (your choice), and the target is [grappled](/compendium/rules/conditions.md#grappled) (escape DC equal to your spellcasting save DC). Until this grapple ends, the beast can't use this attack on another target.
+***Binding Strike.*** *Melee Weapon Attack:* the summoner's spell attack modifier to hit, reach 5 ft., one target. *Hit:* `1d6 + 2 + PB` piercing damage or `1d6 + 2 + PB` bludgeoning damage (your choice), and the target is [grappled](rules/conditions.md#grappled) (escape DC equal to your spellcasting save DC). Until this grapple ends, the beast can't use this attack on another target.
 ```
 ^statblock

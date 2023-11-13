@@ -26,7 +26,7 @@ In the Shadowfell, balhannoths make their lairs near places inhabited by creatur
 
 ```ad-statblock
 title: Balhannoth
-![](/compendium/bestiary/aberration/token/balhannoth.png#token)
+![](compendium/bestiary/aberration/token/balhannoth.png#token)
 *Large aberration, Typically  Chaotic Evil*
 
 - **Armor Class** 17  (natural armor)
@@ -54,17 +54,17 @@ title: Balhannoth
 
 ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 19 (`3d10 + 3`) piercing damage.
 
-***Tentacle.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 10 (`2d6 + 3`) bludgeoning damage, and the target is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 15) and is moved up to 5 feet toward the balhannoth. Until this grapple ends, the target is [restrained](/compendium/rules/conditions.md#restrained), and the balhannoth can't use this tentacle against other targets. The balhannoth has four tentacles.
+***Tentacle.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 10 (`2d6 + 3`) bludgeoning damage, and the target is [grappled](rules/conditions.md#grappled) (escape DC 15) and is moved up to 5 feet toward the balhannoth. Until this grapple ends, the target is [restrained](rules/conditions.md#restrained), and the balhannoth can't use this tentacle against other targets. The balhannoth has four tentacles.
 
 ## Legendary Actions
 
-***Bite.*** The balhannoth makes one Bite attack against one creature it has [grappled](/compendium/rules/conditions.md#grappled).
+***Bite.*** The balhannoth makes one Bite attack against one creature it has [grappled](rules/conditions.md#grappled).
 
-***Teleport.*** The balhannoth teleports, along with any equipment it is wearing or carrying and any creatures it has [grappled](/compendium/rules/conditions.md#grappled), up to 60 feet to an unoccupied space it can see.
+***Teleport.*** The balhannoth teleports, along with any equipment it is wearing or carrying and any creatures it has [grappled](rules/conditions.md#grappled), up to 60 feet to an unoccupied space it can see.
 
-***Vanish.*** The balhannoth magically becomes [invisible](/compendium/rules/conditions.md#invisible) for up to 10 minutes or until immediately after it makes an attack roll.
+***Vanish.*** The balhannoth magically becomes [invisible](rules/conditions.md#invisible) for up to 10 minutes or until immediately after it makes an attack roll.
 
-![Balhannoth](/compendium/bestiary/legendary-group/balhannoth-mpmm.md)
+![Balhannoth](compendium/bestiary/legendary-group/balhannoth-mpmm.md)
 ```
 ^statblock
 

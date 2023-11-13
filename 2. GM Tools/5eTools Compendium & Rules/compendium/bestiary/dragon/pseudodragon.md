@@ -48,7 +48,7 @@ The pseudodragon can serve another creature as a familiar, forming a magic, tele
 
 ```ad-statblock
 title: Pseudodragon
-![](/compendium/bestiary/dragon/token/pseudodragon.png#token)
+![](compendium/bestiary/dragon/token/pseudodragon.png#token)
 *Tiny dragon, Neutral Good*
 
 - **Armor Class** 13 
@@ -68,7 +68,7 @@ title: Pseudodragon
 
 ## Traits
 
-***Keen Senses.*** The pseudodragon has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight, hearing, or smell.
+***Keen Senses.*** The pseudodragon has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight, hearing, or smell.
 
 ***Magic Resistance.*** The pseudodragon has advantage on saving throws against spells and other magical effects.
 
@@ -78,7 +78,7 @@ title: Pseudodragon
 
 ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (`1d4 + 2`) piercing damage.
 
-***Sting.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4 (`1d4 + 2`) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or become [poisoned](/compendium/rules/conditions.md#poisoned) for 1 hour. If the saving throw fails by 5 or more, the target falls [unconscious](/compendium/rules/conditions.md#unconscious) for the same duration, or until it takes damage or another creature uses an action to shake it awake.
+***Sting.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4 (`1d4 + 2`) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or become [poisoned](rules/conditions.md#poisoned) for 1 hour. If the saving throw fails by 5 or more, the target falls [unconscious](rules/conditions.md#unconscious) for the same duration, or until it takes damage or another creature uses an action to shake it awake.
 ```
 ^statblock
 

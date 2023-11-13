@@ -13,7 +13,7 @@ aliases: ["Brother Broumane"]
 
 ```ad-statblock
 title: Brother Broumane
-![](/compendium/bestiary/npc/token/brother-broumane.png#token)
+![](compendium/bestiary/npc/token/brother-broumane.png#token)
 *Medium humanoid (merfolk), Chaotic Neutral*
 
 - **Armor Class** 11 

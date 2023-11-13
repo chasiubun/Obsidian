@@ -39,7 +39,7 @@ You breathe air and water.
 
 ### Call to the Wave
 
-You know the [acid splash](/compendium/spells/acid-splash.md) cantrip. Starting at 3rd level, you can cast the [create or destroy water](/compendium/spells/create-or-destroy-water.md) spell with this trait. Starting at 5th level, you can also cast the [water walk](/compendium/spells/water-walk.md) spell with this trait, without requiring a material component. Once you cast [create or destroy water](/compendium/spells/create-or-destroy-water.md) or [water walk](/compendium/spells/water-walk.md) with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
+You know the [acid splash](compendium/spells/acid-splash.md) cantrip. Starting at 3rd level, you can cast the [create or destroy water](compendium/spells/create-or-destroy-water.md) spell with this trait. Starting at 5th level, you can also cast the [water walk](compendium/spells/water-walk.md) spell with this trait, without requiring a material component. Once you cast [create or destroy water](compendium/spells/create-or-destroy-water.md) or [water walk](compendium/spells/water-walk.md) with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
 

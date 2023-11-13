@@ -15,10 +15,10 @@ A pari is an angelic harbinger gifted with foresight. A visit from a pari is oft
 
 ```ad-statblock
 title: Pari
-![](/compendium/bestiary/celestial/token/pari.png#token)
+![](compendium/bestiary/celestial/token/pari.png#token)
 *Medium celestial, typically  Lawful Good*
 
-- **Armor Class** 16  ([breastplate](/compendium/items/breastplate.md))
+- **Armor Class** 16  ([breastplate](compendium/items/breastplate.md))
 - **Hit Points** 180 (`19d8 + 95`)
 - **Speed** 30 ft., fly 90 ft.
 
@@ -41,11 +41,11 @@ title: Pari
 
 ***Spellcasting.*** The pari casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 19):
 
-**At will**: [detect evil and good](/compendium/spells/detect-evil-and-good.md)
+**At will**: [detect evil and good](compendium/spells/detect-evil-and-good.md)
 
-**1/day each**: [commune](/compendium/spells/commune.md) (as an action), [dispel evil and good](/compendium/spells/dispel-evil-and-good.md)
+**1/day each**: [commune](compendium/spells/commune.md) (as an action), [dispel evil and good](compendium/spells/dispel-evil-and-good.md)
 
-**2/day each**: [cure wounds](/compendium/spells/cure-wounds.md) (as a 6th-level spell), [lesser restoration](/compendium/spells/lesser-restoration.md)
+**2/day each**: [cure wounds](compendium/spells/cure-wounds.md) (as a 6th-level spell), [lesser restoration](compendium/spells/lesser-restoration.md)
 
 ## Actions
 

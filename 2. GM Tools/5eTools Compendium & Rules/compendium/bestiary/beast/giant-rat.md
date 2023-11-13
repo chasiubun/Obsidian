@@ -17,7 +17,7 @@ aliases: ["Giant Rat"]
 
 ```ad-statblock
 title: Giant Rat
-![](/compendium/bestiary/beast/token/giant-rat.png#token)
+![](compendium/bestiary/beast/token/giant-rat.png#token)
 *Small beast, Unaligned*
 
 - **Armor Class** 12 
@@ -37,9 +37,9 @@ title: Giant Rat
 
 ## Traits
 
-***Keen Smell.*** The rat has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on smell.
+***Keen Smell.*** The rat has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on smell.
 
-***Pack Tactics.*** The rat has advantage on an attack roll against a creature if at least one of the rat's allies is within 5 feet of the creature and the ally isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Pack Tactics.*** The rat has advantage on an attack roll against a creature if at least one of the rat's allies is within 5 feet of the creature and the ally isn't [incapacitated](rules/conditions.md#incapacitated).
 
 ## Actions
 

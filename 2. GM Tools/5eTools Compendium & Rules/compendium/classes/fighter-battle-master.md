@@ -47,29 +47,29 @@ Some of your maneuvers require your target to make a saving throw to resist the 
 
 The maneuvers are presented in alphabetical order.
 
-- [Commander's Strike](/compendium/optional-features/commanders-strike.md)  
-- [Disarming Attack](/compendium/optional-features/disarming-attack.md)  
-- [Distracting Strike](/compendium/optional-features/distracting-strike.md)  
-- [Evasive Footwork](/compendium/optional-features/evasive-footwork.md)  
-- [Feinting Attack](/compendium/optional-features/feinting-attack.md)  
-- [Goading Attack](/compendium/optional-features/goading-attack.md)  
-- [Lunging Attack](/compendium/optional-features/lunging-attack.md)  
-- [Maneuvering Attack](/compendium/optional-features/maneuvering-attack.md)  
-- [Menacing Attack](/compendium/optional-features/menacing-attack.md)  
-- [Parry](/compendium/optional-features/parry.md)  
-- [Precision Attack](/compendium/optional-features/precision-attack.md)  
-- [Pushing Attack](/compendium/optional-features/pushing-attack.md)  
-- [Rally](/compendium/optional-features/rally.md)  
-- [Riposte](/compendium/optional-features/riposte.md)  
-- [Sweeping Attack](/compendium/optional-features/sweeping-attack.md)  
-- [Trip Attack](/compendium/optional-features/trip-attack.md)  
+- [Commander's Strike](compendium/optional-features/commanders-strike.md)  
+- [Disarming Attack](compendium/optional-features/disarming-attack.md)  
+- [Distracting Strike](compendium/optional-features/distracting-strike.md)  
+- [Evasive Footwork](compendium/optional-features/evasive-footwork.md)  
+- [Feinting Attack](compendium/optional-features/feinting-attack.md)  
+- [Goading Attack](compendium/optional-features/goading-attack.md)  
+- [Lunging Attack](compendium/optional-features/lunging-attack.md)  
+- [Maneuvering Attack](compendium/optional-features/maneuvering-attack.md)  
+- [Menacing Attack](compendium/optional-features/menacing-attack.md)  
+- [Parry](compendium/optional-features/parry.md)  
+- [Precision Attack](compendium/optional-features/precision-attack.md)  
+- [Pushing Attack](compendium/optional-features/pushing-attack.md)  
+- [Rally](compendium/optional-features/rally.md)  
+- [Riposte](compendium/optional-features/riposte.md)  
+- [Sweeping Attack](compendium/optional-features/sweeping-attack.md)  
+- [Trip Attack](compendium/optional-features/trip-attack.md)  
 
 ### Maneuver Options (Level 3)
 _Source: Tasha's Cauldron of Everything p. 41_
 
-*3rd-level fighter [optional class features](/compendium/rules/variant-rules/optional-class-features-tce.md)*
+*3rd-level fighter [optional class features](rules/variant-rules/optional-class-features-tce.md)*
 
-If you have access to maneuvers, the following maneuvers are added to the list of options available to you. Maneuvers are available to Battle Masters but also to characters who have a special feature like the [Superior Technique](/compendium/optional-features/superior-technique-tce.md) fighting style or the [Martial Adept](/compendium/feats/martial-adept.md) feat.
+If you have access to maneuvers, the following maneuvers are added to the list of options available to you. Maneuvers are available to Battle Masters but also to characters who have a special feature like the [Superior Technique](compendium/optional-features/superior-technique-tce.md) fighting style or the [Martial Adept](compendium/feats/martial-adept.md) feat.
 
 ### Additional Maneuvers (Level 7)
 
@@ -118,5 +118,5 @@ At 18th level, your superiority dice turn into `d12`s.
 ## Optional Features
 
 > [!example]- Maneuver, Battle Master
-> ![Maneuver, Battle Master](/compendium/optional-features/list-maneuver-battle-master.md#Maneuver,%20Battle%20Master)
+> ![Maneuver, Battle Master](compendium/optional-features/list-maneuver-battle-master.md#Maneuver,%20Battle%20Master)
 ^list-maneuver-battle-master

@@ -13,7 +13,7 @@ aliases: ["Grutha"]
 
 ```ad-statblock
 title: Grutha
-![](/compendium/bestiary/npc/token/grutha.png#token)
+![](compendium/bestiary/npc/token/grutha.png#token)
 *Huge giant, Chaotic Evil*
 
 - **Armor Class** 13  (natural armor)

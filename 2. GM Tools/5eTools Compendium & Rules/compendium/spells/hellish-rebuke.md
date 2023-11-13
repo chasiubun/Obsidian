@@ -21,6 +21,6 @@ You point your finger, and the creature that damaged you is momentarily surround
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.
 
-**Classes**: [Paladin (Oathbreaker)](/compendium/classes/paladin-oathbreaker.md), [Warlock](/compendium/classes/warlock.md)
+**Classes**: [Paladin (Oathbreaker)](compendium/classes/paladin-oathbreaker.md), [Warlock](compendium/classes/warlock.md)
 
 *Source: Player's Handbook p. 250. Available in the SRD.*

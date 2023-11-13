@@ -16,7 +16,7 @@ aliases: ["Brown Bear"]
 
 ```ad-statblock
 title: Brown Bear
-![](/compendium/bestiary/beast/token/brown-bear.png#token)
+![](compendium/bestiary/beast/token/brown-bear.png#token)
 *Large beast, Unaligned*
 
 - **Armor Class** 11  (natural armor)
@@ -36,7 +36,7 @@ title: Brown Bear
 
 ## Traits
 
-***Keen Smell.*** The bear has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on smell.
+***Keen Smell.*** The bear has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on smell.
 
 ## Actions
 

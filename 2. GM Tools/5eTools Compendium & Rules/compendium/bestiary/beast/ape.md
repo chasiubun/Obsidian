@@ -14,7 +14,7 @@ aliases: ["Ape"]
 
 ```ad-statblock
 title: Ape
-![](/compendium/bestiary/beast/token/ape.png#token)
+![](compendium/bestiary/beast/token/ape.png#token)
 *Medium beast, Unaligned*
 
 - **Armor Class** 12 

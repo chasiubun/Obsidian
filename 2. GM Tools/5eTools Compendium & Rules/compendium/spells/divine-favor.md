@@ -19,6 +19,6 @@ aliases: ["Divine Favor"]
 
 Your prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal an extra `1d4` radiant damage on a hit.
 
-**Classes**: [Cleric (War Domain)](/compendium/classes/cleric-war-domain.md), [Paladin](/compendium/classes/paladin.md)
+**Classes**: [Cleric (War Domain)](compendium/classes/cleric-war-domain.md), [Paladin](compendium/classes/paladin.md)
 
 *Source: Player's Handbook p. 234. Available in the SRD.*

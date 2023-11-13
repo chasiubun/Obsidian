@@ -22,7 +22,7 @@ A true horror, Juiblex is a mass of bubbling slime, swirling black and green, wi
 
 ## Juiblex's Lair
 
-Juiblex's principal lair is known as the Slime Pits, a realm that Juiblex shares with [Zuggtmoy](/compendium/bestiary/npc/zuggtmoy-mpmm.md) (who also appears in this book). This layer of the Abyss, which is also known as Shedaklah, is a bubbling morass of fetid sludge. The landscape is covered in vast expanses of caustic slimes, and strange organic forms rise from the oceans of ooze at Juiblex's command.
+Juiblex's principal lair is known as the Slime Pits, a realm that Juiblex shares with [Zuggtmoy](compendium/bestiary/npc/zuggtmoy-mpmm.md) (who also appears in this book). This layer of the Abyss, which is also known as Shedaklah, is a bubbling morass of fetid sludge. The landscape is covered in vast expanses of caustic slimes, and strange organic forms rise from the oceans of ooze at Juiblex's command.
 
 Juiblex's challenge rating is 24 (62,000 XP) when encountered in its lair.
 
@@ -30,7 +30,7 @@ Juiblex's challenge rating is 24 (62,000 XP) when encountered in its lair.
 
 ```ad-statblock
 title: Juiblex
-![](/compendium/bestiary/npc/token/juiblex.png#token)
+![](compendium/bestiary/npc/token/juiblex.png#token)
 *Huge fiend (demon), Chaotic Evil*
 
 - **Armor Class** 18  (natural armor)
@@ -50,7 +50,7 @@ title: Juiblex
 
 ## Traits
 
-***Foul.*** Any creature other than an Ooze that starts its turn within 10 feet of Juiblex must succeed on a DC 21 Constitution saving throw or be [poisoned](/compendium/rules/conditions.md#poisoned) until the start of the creature's next turn.
+***Foul.*** Any creature other than an Ooze that starts its turn within 10 feet of Juiblex must succeed on a DC 21 Constitution saving throw or be [poisoned](rules/conditions.md#poisoned) until the start of the creature's next turn.
 
 ***Legendary Resistance (3/Day).*** If Juiblex fails a saving throw, it can choose to succeed instead.
 
@@ -62,9 +62,9 @@ title: Juiblex
 
 ***Spellcasting.*** Juiblex casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 20):
 
-**At will**: [detect magic](/compendium/spells/detect-magic.md)
+**At will**: [detect magic](compendium/spells/detect-magic.md)
 
-**3/day each**: [contagion](/compendium/spells/contagion.md), [gaseous form](/compendium/spells/gaseous-form.md)
+**3/day each**: [contagion](compendium/spells/contagion.md), [gaseous form](compendium/spells/gaseous-form.md)
 
 ## Actions
 
@@ -72,14 +72,14 @@ title: Juiblex
 
 ***Acid Lash.*** *Melee or Ranged Weapon Attack:* +14 to hit, reach 10 ft. or range 60/120 ft., one target. *Hit:* 21 (`4d6 + 7`) acid damage. Any creature killed by this attack is drawn into Juiblex's body, where the corpse is dissolved after 1 minute.
 
-***Eject Slime (Recharge 5-6).*** Juiblex spews out a corrosive slime, targeting one creature that it can see within 60 feet of it. The target must succeed on a DC 21 Dexterity saving throw or take 55 (`10d10`) acid damage. Unless the target avoids taking all of this damage, any metal armor worn by the target takes a permanent −1 penalty to the AC it offers, and any metal weapon the target is carrying or wearing takes a permanent −1 penalty to damage rolls. The penalty worsens each time a target is subjected to this effect. If the penalty on an object drops to −5, the object is destroyed. The penalty on an object can be removed by the [mending](/compendium/spells/mending.md) spell.
+***Eject Slime (Recharge 5-6).*** Juiblex spews out a corrosive slime, targeting one creature that it can see within 60 feet of it. The target must succeed on a DC 21 Dexterity saving throw or take 55 (`10d10`) acid damage. Unless the target avoids taking all of this damage, any metal armor worn by the target takes a permanent −1 penalty to the AC it offers, and any metal weapon the target is carrying or wearing takes a permanent −1 penalty to damage rolls. The penalty worsens each time a target is subjected to this effect. If the penalty on an object drops to −5, the object is destroyed. The penalty on an object can be removed by the [mending](compendium/spells/mending.md) spell.
 
 ## Legendary Actions
 
 ***Attack.*** Juiblex makes one Acid Lash attack.
 
-***Corrupting Touch (Costs 2 Actions).*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one creature. *Hit:* 21 (`4d6 + 7`) poison damage, and the target is slimed. Until the slime is scraped off with an action, the target is [poisoned](/compendium/rules/conditions.md#poisoned), and any creature, other than an Ooze, is [poisoned](/compendium/rules/conditions.md#poisoned) while within 10 feet of the target.
+***Corrupting Touch (Costs 2 Actions).*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one creature. *Hit:* 21 (`4d6 + 7`) poison damage, and the target is slimed. Until the slime is scraped off with an action, the target is [poisoned](rules/conditions.md#poisoned), and any creature, other than an Ooze, is [poisoned](rules/conditions.md#poisoned) while within 10 feet of the target.
 
-![Juiblex](/compendium/bestiary/legendary-group/juiblex-mpmm.md)
+![Juiblex](compendium/bestiary/legendary-group/juiblex-mpmm.md)
 ```
 ^statblock

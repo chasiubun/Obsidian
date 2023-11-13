@@ -15,7 +15,7 @@ With cheerful dispositions and a knack for walking backward, Strixhaven campus g
 
 ```ad-statblock
 title: Strixhaven Campus Guide
-![](/compendium/bestiary/construct/token/strixhaven-campus-guide.png#token)
+![](compendium/bestiary/construct/token/strixhaven-campus-guide.png#token)
 *Small construct, typically  Lawful Good*
 
 - **Armor Class** 17  (natural armor)
@@ -47,9 +47,9 @@ title: Strixhaven Campus Guide
 
 ***Slam.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (`1d8 + 2`) bludgeoning damage.
 
-***Smile and Wave.*** Each creature of the guide's choice that is within 30 feet of the guide must succeed on a DC 11 Wisdom saving throw or be magically [charmed](/compendium/rules/conditions.md#charmed) by the guide for 1 hour.
+***Smile and Wave.*** Each creature of the guide's choice that is within 30 feet of the guide must succeed on a DC 11 Wisdom saving throw or be magically [charmed](rules/conditions.md#charmed) by the guide for 1 hour.
 
-A [charmed](/compendium/rules/conditions.md#charmed) target must move on its turn toward the guide, trying to get within 5 feet of the guide. The target doesn't move into obviously dangerous ground, such as a fire or a pit. Whenever the [charmed](/compendium/rules/conditions.md#charmed) target takes damage, it can repeat the saving throw, ending the effect on itself on a success.
+A [charmed](rules/conditions.md#charmed) target must move on its turn toward the guide, trying to get within 5 feet of the guide. The target doesn't move into obviously dangerous ground, such as a fire or a pit. Whenever the [charmed](rules/conditions.md#charmed) target takes damage, it can repeat the saving throw, ending the effect on itself on a success.
 
 A target that successfully saves is immune to any guide's Smile and Wave ability for the next 24 hours.
 

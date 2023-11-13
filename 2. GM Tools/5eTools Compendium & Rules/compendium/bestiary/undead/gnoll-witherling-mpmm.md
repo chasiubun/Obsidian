@@ -27,7 +27,7 @@ Witherlings travel with their comrades and try to kill anything in their path. T
 
 ```ad-statblock
 title: Gnoll Witherling
-![](/compendium/bestiary/undead/token/gnoll-witherling.png#token)
+![](compendium/bestiary/undead/token/gnoll-witherling.png#token)
 *Medium undead, Typically  Chaotic Evil*
 
 - **Armor Class** 12  (natural armor)

@@ -27,7 +27,7 @@ You can see in dim light within 60 feet of you as if it were bright light and in
 
 ### Unending Breath
 
-You can hold your breath indefinitely while you're not [incapacitated](/compendium/rules/conditions.md#incapacitated).
+You can hold your breath indefinitely while you're not [incapacitated](rules/conditions.md#incapacitated).
 
 ### Lightning Resistance
 
@@ -35,7 +35,7 @@ You have resistance to lightning damage.
 
 ### Mingle with the Wind
 
-You know the [shocking grasp](/compendium/spells/shocking-grasp.md) cantrip. Starting at 3rd level, you can cast the [feather fall](/compendium/spells/feather-fall.md) spell with this trait, without requiring a material component. Starting 5th level, you can also cast the [levitate](/compendium/spells/levitate.md) spell with this trait, without requiring a material component. Once you cast [feather fall](/compendium/spells/feather-fall.md) or [levitate](/compendium/spells/levitate.md) with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
+You know the [shocking grasp](compendium/spells/shocking-grasp.md) cantrip. Starting at 3rd level, you can cast the [feather fall](compendium/spells/feather-fall.md) spell with this trait, without requiring a material component. Starting 5th level, you can also cast the [levitate](compendium/spells/levitate.md) spell with this trait, without requiring a material component. Once you cast [feather fall](compendium/spells/feather-fall.md) or [levitate](compendium/spells/levitate.md) with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
 

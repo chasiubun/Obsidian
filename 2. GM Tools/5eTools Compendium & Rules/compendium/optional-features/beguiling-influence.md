@@ -9,4 +9,4 @@ aliases: ["Beguiling Influence"]
 # Beguiling Influence
 *Source: Player's Handbook p. 110. Available in the SRD.*  
 
-You gain proficiency in the [Deception](/compendium/rules/skills.md#Deception) and [Persuasion](/compendium/rules/skills.md#Persuasion) skills.
+You gain proficiency in the [Deception](rules/skills.md#Deception) and [Persuasion](rules/skills.md#Persuasion) skills.

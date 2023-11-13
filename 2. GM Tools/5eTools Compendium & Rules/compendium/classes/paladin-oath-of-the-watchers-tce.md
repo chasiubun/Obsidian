@@ -48,11 +48,11 @@ You gain oath spells at the paladin levels listed in the Oath of the Watchers ta
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [alarm](/compendium/spells/alarm.md), [detect magic](/compendium/spells/detect-magic.md) |
-| 5th | [moonbeam](/compendium/spells/moonbeam.md), [see invisibility](/compendium/spells/see-invisibility.md) |
-| 9th | [counterspell](/compendium/spells/counterspell.md), [nondetection](/compendium/spells/nondetection.md) |
-| 13th | [aura of purity](/compendium/spells/aura-of-purity.md), [banishment](/compendium/spells/banishment.md) |
-| 17th | [hold monster](/compendium/spells/hold-monster.md), [scrying](/compendium/spells/scrying.md) |
+| 3rd | [alarm](compendium/spells/alarm.md), [detect magic](compendium/spells/detect-magic.md) |
+| 5th | [moonbeam](compendium/spells/moonbeam.md), [see invisibility](compendium/spells/see-invisibility.md) |
+| 9th | [counterspell](compendium/spells/counterspell.md), [nondetection](compendium/spells/nondetection.md) |
+| 13th | [aura of purity](compendium/spells/aura-of-purity.md), [banishment](compendium/spells/banishment.md) |
+| 17th | [hold monster](compendium/spells/hold-monster.md), [scrying](compendium/spells/scrying.md) |
 ^oath-of-the-watchers-spells
 
 ### Channel Divinity (Level 3)
@@ -71,13 +71,13 @@ _Source: Tasha's Cauldron of Everything_
 
 You can use your Channel Divinity to castigate unworldly beings. As an action, you present your holy symbol and each aberration, celestial, elemental, fey, or fiend within 30 feet of you that can hear you must make a Wisdom saving throw. On a failed save, the creature is turned for 1 minute or until it takes damage.
 
-A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly end its move in a space within 30 feet of you. For its action, it can use only the [Dash](/compendium/rules/actions.md#Dash) action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can take the [Dodge](/compendium/rules/actions.md#Dodge) action.
+A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly end its move in a space within 30 feet of you. For its action, it can use only the [Dash](rules/actions.md#Dash) action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can take the [Dodge](rules/actions.md#Dodge) action.
 
 ### Aura of the Sentinel (Level 7)
 
 *7th-level Oath of the Watchers feature*
 
-You emit an aura of alertness while you aren't [incapacitated](/compendium/rules/conditions.md#incapacitated). When you and any creatures of your choice within 10 feet of you roll initiative, you all gain a bonus to initiative equal to your proficiency bonus.
+You emit an aura of alertness while you aren't [incapacitated](rules/conditions.md#incapacitated). When you and any creatures of your choice within 10 feet of you roll initiative, you all gain a bonus to initiative equal to your proficiency bonus.
 
 At 18th level, the range of this aura increases to 30 feet.
 
@@ -93,7 +93,7 @@ You've learned how to chastise anyone who dares wield beguilements against you a
 
 You manifest a spark of divine power in defense of the mortal realms. As a bonus action, you gain the following benefits for 1 minute:
 
-- You gain [truesight](/compendium/rules/senses.md#truesight) with a range of 120 feet.  
+- You gain [truesight](rules/senses.md#truesight) with a range of 120 feet.  
 - You have advantage on attack rolls against aberrations, celestials, elementals, fey, and fiends.  
 - When you hit a creature with an attack roll and deal damage to it, you can also force it to make a Charisma saving throw against your spell save DC. On a failed save, the creature is magically banished to its native plane of existence if it's currently not there. On a successful save, the creature can't be banished by this feature for 24 hours.  
 

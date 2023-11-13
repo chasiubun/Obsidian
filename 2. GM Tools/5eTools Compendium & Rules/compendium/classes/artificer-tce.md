@@ -39,8 +39,8 @@ aliases: ["Artificer"]
 
 > [!tldr]- Class progression
 > 
-> | Level | [Infusions Known](/compendium/optional-features/list-artificer-infusion-tce.md) | Infused Items | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th |
-> |-------|---------------------------------------------------------------------------------|---------------|----------------|-----|-----|-----|-----|-----|
+> | Level | [Infusions Known](compendium/optional-features/list-artificer-infusion-tce.md) | Infused Items | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th |
+> |-------|--------------------------------------------------------------------------------|---------------|----------------|-----|-----|-----|-----|-----|
 > | 1st | ⏤ | ⏤ | 2 | 2 | ⏤ | ⏤ | ⏤ | ⏤ |
 > | 2nd | 4 | 2 | 2 | 2 | ⏤ | ⏤ | ⏤ | ⏤ |
 > | 3rd | 4 | 2 | 2 | 3 | ⏤ | ⏤ | ⏤ | ⏤ |
@@ -76,17 +76,17 @@ aliases: ["Artificer"]
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
 
 - **Saving Throws**: Constitution, Intelligence
-- **Armor**: light, medium, [shields](/compendium/items/shield.md)
+- **Armor**: light, medium, [shields](compendium/items/shield.md)
 - **Weapons**: simple
-- **Tools**: [thieves' tools](/compendium/items/thieves-tools.md), [tinker's tools](/compendium/items/tinkers-tools.md), one type of [artisan's tools](/compendium/items/artisans-tools.md) of your choice
+- **Tools**: [thieves' tools](compendium/items/thieves-tools.md), [tinker's tools](compendium/items/tinkers-tools.md), one type of [artisan's tools](compendium/items/artisans-tools.md) of your choice
 - **Skills**: Choose 2 from *Arcana*, *History*, *Investigation*, *Medicine*, *Nature*, *Perception*, *Sleight of Hand*
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
 - any two simple weapons of your choice  
-- a [light crossbow](/compendium/items/light-crossbow.md) and [20 bolts](/compendium/items/crossbow-bolts-20.md)  
-- (a) [studded leather armor](/compendium/items/studded-leather-armor.md) or (b) [scale mail](/compendium/items/scale-mail.md)  
-- [thieves' tools](/compendium/items/thieves-tools.md) and a [dungeoneer's pack](/compendium/items/dungeoneers-pack.md)  
+- a [light crossbow](compendium/items/light-crossbow.md) and [20 bolts](compendium/items/crossbow-bolts-20.md)  
+- (a) [studded leather armor](compendium/items/studded-leather-armor.md) or (b) [scale mail](compendium/items/scale-mail.md)  
+- [thieves' tools](compendium/items/thieves-tools.md) and a [dungeoneer's pack](compendium/items/dungeoneers-pack.md)  
 
 Alternatively, you may start with 5d4 × 10 gp and choose your own equipment.
 
@@ -98,9 +98,9 @@ To multiclass as a Artificer, you must meet the following prerequisites:
 
 You gain the following proficiencies:
 
-- **Armor**: light, medium, [shields](/compendium/items/shield.md)
+- **Armor**: light, medium, [shields](compendium/items/shield.md)
 - **Weapons**: none
-- **Tools**: [thieves' tools](/compendium/items/thieves-tools.md), [tinker's tools](/compendium/items/tinkers-tools.md)
+- **Tools**: [thieves' tools](compendium/items/thieves-tools.md), [tinker's tools](compendium/items/tinkers-tools.md)
 
 ## Artificer
 
@@ -132,7 +132,7 @@ As a multiclass character, you must have at least an Intelligence score of 13 to
 
 #### Proficiencies Gained
 
-If artificer isn't your initial class, here are the proficiencies you gain when you take your first level as an artificer: light armor, medium armor, shields, [thieves' tools](/compendium/items/thieves-tools.md), [tinker's tools](/compendium/items/tinkers-tools.md).
+If artificer isn't your initial class, here are the proficiencies you gain when you take your first level as an artificer: light armor, medium armor, shields, [thieves' tools](compendium/items/thieves-tools.md), [tinker's tools](compendium/items/tinkers-tools.md).
 
 #### Spell Slots
 
@@ -141,7 +141,7 @@ Add half your levels (rounded up) in the artificer class to the appropriate leve
 ## Artificer
 _Source: Eberron: Rising from the Last War_
 
-Masters of unlocking magic in everyday objects, artificers are supreme inventors. They see magic as a complex system waiting to be decoded and controlled. Artificers use tools to channel arcane power, crafting magical objects. To cast a spell, an artificer could use [alchemist's supplies](/compendium/items/alchemists-supplies.md) to create a potent elixir, [calligrapher's supplies](/compendium/items/calligraphers-supplies.md) to inscribe a sigil of power on an ally's armor, or [tinker's tools](/compendium/items/tinkers-tools.md) to craft a temporary charm. The magic of artificers is tied to their tools and their talents.
+Masters of unlocking magic in everyday objects, artificers are supreme inventors. They see magic as a complex system waiting to be decoded and controlled. Artificers use tools to channel arcane power, crafting magical objects. To cast a spell, an artificer could use [alchemist's supplies](compendium/items/alchemists-supplies.md) to create a potent elixir, [calligrapher's supplies](compendium/items/calligraphers-supplies.md) to inscribe a sigil of power on an ally's armor, or [tinker's tools](compendium/items/tinkers-tools.md) to craft a temporary charm. The magic of artificers is tied to their tools and their talents.
 
 ### Arcane Science
 _Source: Eberron: Rising from the Last War_
@@ -170,7 +170,7 @@ When creating an artificer, think about your character's relationship with the a
 #### Quick Build
 _Source: Eberron: Rising from the Last War_
 
-You can make an artificer quickly by following these suggestions. First, put your highest ability score in Intelligence, followed by Constitution or Dexterity. Second, choose the [guild artisan](/compendium/backgrounds/guild-artisan.md) background.
+You can make an artificer quickly by following these suggestions. First, put your highest ability score in Intelligence, followed by Constitution or Dexterity. Second, choose the [guild artisan](compendium/backgrounds/guild-artisan.md) background.
 
 #### Optional Rule: Multiclassing
 _Source: Eberron: Rising from the Last War_
@@ -185,7 +185,7 @@ As a multiclass character, you must have at least an Intelligence score of 13 to
 ##### Proficiencies Gained
 _Source: Eberron: Rising from the Last War_
 
-If artificer isn't your initial class, here are the proficiencies you gain when you take your first level as an artificer: light armor, medium armor, shields, [thieves' tools](/compendium/items/thieves-tools.md), [tinker's tools](/compendium/items/tinkers-tools.md).
+If artificer isn't your initial class, here are the proficiencies you gain when you take your first level as an artificer: light armor, medium armor, shields, [thieves' tools](compendium/items/thieves-tools.md), [tinker's tools](compendium/items/tinkers-tools.md).
 
 ##### Spell Slots
 _Source: Eberron: Rising from the Last War_
@@ -200,7 +200,7 @@ The secrets of creating and operating gunpowder weapons have been discovered in 
 
 ### Magical Tinkering (Level 1)
 
-At 1st level, you learn how to invest a spark of magic into mundane objects. To use this ability, you must have [thieves' tools](/compendium/items/thieves-tools.md) or [artisan's tools](/compendium/items/artisans-tools.md) in hand. You then touch a Tiny nonmagical object as an action and give it one of the following magical properties of your choice:
+At 1st level, you learn how to invest a spark of magic into mundane objects. To use this ability, you must have [thieves' tools](compendium/items/thieves-tools.md) or [artisan's tools](compendium/items/artisans-tools.md) in hand. You then touch a Tiny nonmagical object as an action and give it one of the following magical properties of your choice:
 
 - The object sheds bright light in a 5-foot radius and dim light for an additional 5 feet.  
 - Whenever tapped by a creature, the object emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.  
@@ -217,15 +217,15 @@ You have studied the workings of magic and how to channel it through objects. As
 
 #### Tools Required
 
-You produce your artificer spell effects through your tools. You must have a spellcasting focus—specifically [thieves' tools](/compendium/items/thieves-tools.md) or some kind of [artisan's tool](/compendium/items/artisans-tools.md)—in hand when you cast any spell with this Spellcasting feature (meaning the spell has an 'M' component when you cast it). You must be proficient with the tool to use it in this way. See "chapter 5", "Equipment," in the "Player's Handbook" for descriptions of these tools.
+You produce your artificer spell effects through your tools. You must have a spellcasting focus—specifically [thieves' tools](compendium/items/thieves-tools.md) or some kind of [artisan's tool](compendium/items/artisans-tools.md)—in hand when you cast any spell with this Spellcasting feature (meaning the spell has an 'M' component when you cast it). You must be proficient with the tool to use it in this way. See "chapter 5", "Equipment," in the "Player's Handbook" for descriptions of these tools.
 
 After you gain the Infuse Item feature at 2nd level, you can also use any item bearing one of your infusions as a spellcasting focus.
 
 > [!note] The Magic of Artifice
 > 
-> As an artificer, you use tools when you cast your spells. When describing your spellcasting, think about how you're using a tool to perform the spell effect. If you cast [cure wounds](/compendium/spells/cure-wounds.md) using [alchemist's supplies](/compendium/items/alchemists-supplies.md), you could be quickly producing a salve. If you cast it using [tinker's tools](/compendium/items/tinkers-tools.md), you might have a miniature mechanical spider that binds wounds. When you cast [poison spray](/compendium/spells/poison-spray.md), you could fling foul chemicals or use a wand that spits venom. The effect of the spell is the same as for a spellcaster of any other class, but your method of spellcasting is special.
+> As an artificer, you use tools when you cast your spells. When describing your spellcasting, think about how you're using a tool to perform the spell effect. If you cast [cure wounds](compendium/spells/cure-wounds.md) using [alchemist's supplies](compendium/items/alchemists-supplies.md), you could be quickly producing a salve. If you cast it using [tinker's tools](compendium/items/tinkers-tools.md), you might have a miniature mechanical spider that binds wounds. When you cast [poison spray](compendium/spells/poison-spray.md), you could fling foul chemicals or use a wand that spits venom. The effect of the spell is the same as for a spellcaster of any other class, but your method of spellcasting is special.
 > 
-> The same principle applies when you prepare your spells. As an artificer, you don't study a spellbook or pray to prepare your spells. Instead, you work with your tools and create the specialized items you'll use to produce your effects. If you replace [cure wounds](/compendium/spells/cure-wounds.md) with [heat metal](/compendium/spells/heat-metal.md), you might be altering the device you use to heal—perhaps modifying a tool so that it channels heat instead of healing energy.
+> The same principle applies when you prepare your spells. As an artificer, you don't study a spellbook or pray to prepare your spells. Instead, you work with your tools and create the specialized items you'll use to produce your effects. If you replace [cure wounds](compendium/spells/cure-wounds.md) with [heat metal](compendium/spells/heat-metal.md), you might be altering the device you use to heal—perhaps modifying a tool so that it channels heat instead of healing energy.
 > 
 > Such details don't limit you in any way or provide you with any benefit beyond the spell's effects. You don't have to justify how you're using tools to cast a spell. But describing your spellcasting creatively is a fun way to distinguish yourself from other spellcasters.
 ^the-magic-of-artifice
@@ -242,7 +242,7 @@ The Artificer table shows how many spell slots you have to cast your artificer s
 
 You prepare the list of artificer spells that are available for you to cast, choosing from the artificer spell list. When you do so, choose a number of artificer spells equal to your Intelligence modifier + half your artificer level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you are a 5th-level artificer, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell [cure wounds](/compendium/spells/cure-wounds.md), you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you are a 5th-level artificer, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell [cure wounds](compendium/spells/cure-wounds.md), you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of artificer spells requires time spent tinkering with your spellcasting focuses: at least 1 minute per spell level for each spell on your list.
 
@@ -264,7 +264,7 @@ At 2nd level, you gain the ability to imbue mundane items with certain magical i
 
 ### Infusions Known (Level 2)
 
-When you gain this feature, pick four artificer infusions to learn, choosing from the "[Artificer Infusions](/compendium/optional-features/list-artificer-infusion-tce.md)" section at the end of the class's description. You learn additional infusions of your choice when you reach certain levels in this class, as shown in the Infusions Known column of the Artificer table.
+When you gain this feature, pick four artificer infusions to learn, choosing from the "[Artificer Infusions](compendium/optional-features/list-artificer-infusion-tce.md)" section at the end of the class's description. You learn additional infusions of your choice when you reach certain levels in this class, as shown in the Infusions Known column of the Artificer table.
 
 Whenever you gain a level in this class, you can replace one of the artificer infusions you learned with a new one.
 
@@ -295,7 +295,7 @@ At 3rd level, you choose the type of specialist you are, each of which is detail
 
 ### The Right Tool for the Job (Level 3)
 
-At 3rd level, you learn how to produce exactly the tool you need: with [thieves' tools](/compendium/items/thieves-tools.md) or [artisan's tools](/compendium/items/artisans-tools.md) in hand, you can magically create one set of [artisan's tools](/compendium/items/artisans-tools.md) in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again.
+At 3rd level, you learn how to produce exactly the tool you need: with [thieves' tools](compendium/items/thieves-tools.md) or [artisan's tools](compendium/items/artisans-tools.md) in hand, you can magically create one set of [artisan's tools](compendium/items/artisans-tools.md) in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again.
 
 ### Ability Score Improvement (Level 4)
 
@@ -338,7 +338,7 @@ When you reach 10th level, you achieve a profound understanding of how to use an
 
 At 11th level, you learn how to store a spell in an object. Whenever you finish a long rest, you can touch one simple or martial weapon or one item that you can use as a spellcasting focus, and you store a spell in it, choosing a 1st- or 2nd-level spell from the artificer spell list that requires 1 action to cast (you needn't have it prepared).
 
-While holding the object, a creature can take an action to produce the spell's effect from it, using your spellcasting ability modifier. If the spell requires [concentration](/compendium/rules/conditions.md#concentration), the creature must concentrate. The spell stays in the object until it's been used a number of times equal to twice your Intelligence modifier (minimum of twice) or until you use this feature again to store a spell in an object.
+While holding the object, a creature can take an action to produce the spell's effect from it, using your spellcasting ability modifier. If the spell requires [concentration](rules/conditions.md#concentration), the creature must concentrate. The spell stays in the object until it's been used a number of times equal to twice your Intelligence modifier (minimum of twice) or until you use this feature again to store a spell in an object.
 
 ### Ability Score Improvement (Level 12)
 
@@ -383,5 +383,5 @@ At 20th level, you develop a mystical connection to your magic items, which you 
 ## Optional Features
 
 > [!example]- Artificer Infusion
-> ![Artificer Infusion](/compendium/optional-features/list-artificer-infusion-tce.md#Artificer%20Infusion)
+> ![Artificer Infusion](compendium/optional-features/list-artificer-infusion-tce.md#Artificer%20Infusion)
 ^list-artificer-infusion

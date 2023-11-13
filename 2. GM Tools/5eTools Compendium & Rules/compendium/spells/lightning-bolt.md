@@ -28,6 +28,6 @@ The lightning ignites flammable objects in the area that aren't being worn or ca
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
 
-**Classes**: [Artificer (Armorer)](/compendium/classes/artificer-armorer-tce.md), [Druid (Circle of the Land)](/compendium/classes/druid-circle-of-the-land.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Sorcerer](/compendium/classes/sorcerer.md), [Warlock (The Fathomless)](/compendium/classes/warlock-the-fathomless-tce.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Artificer (Armorer)](compendium/classes/artificer-armorer-tce.md), [Druid (Circle of the Land)](compendium/classes/druid-circle-of-the-land.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Sorcerer](compendium/classes/sorcerer.md), [Warlock (The Fathomless)](compendium/classes/warlock-the-fathomless-tce.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 255. Available in the SRD and the Basic Rules.*

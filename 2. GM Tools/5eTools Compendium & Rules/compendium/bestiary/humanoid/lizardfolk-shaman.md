@@ -54,7 +54,7 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
 
 ```ad-statblock
 title: Lizardfolk Shaman
-![](/compendium/bestiary/humanoid/token/lizardfolk-shaman.png#token)
+![](compendium/bestiary/humanoid/token/lizardfolk-shaman.png#token)
 *Medium humanoid (lizardfolk), Neutral*
 
 - **Armor Class** 13  (natural armor)
@@ -78,23 +78,23 @@ title: Lizardfolk Shaman
 
 ***Spellcasting (Lizardfolk Form Only).*** The lizardfolk is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The lizardfolk has the following druid spells prepared:
 
-**Cantrips (at will)**: [druidcraft](/compendium/spells/druidcraft.md), [produce flame](/compendium/spells/produce-flame.md), [thorn whip](/compendium/spells/thorn-whip.md)
+**Cantrips (at will)**: [druidcraft](compendium/spells/druidcraft.md), [produce flame](compendium/spells/produce-flame.md), [thorn whip](compendium/spells/thorn-whip.md)
 
-**1st level (4 slots)**: [entangle](/compendium/spells/entangle.md), [fog cloud](/compendium/spells/fog-cloud.md)
+**1st level (4 slots)**: [entangle](compendium/spells/entangle.md), [fog cloud](compendium/spells/fog-cloud.md)
 
-**2nd level (3 slots)**: [heat metal](/compendium/spells/heat-metal.md), [spike growth](/compendium/spells/spike-growth.md)
+**2nd level (3 slots)**: [heat metal](compendium/spells/heat-metal.md), [spike growth](compendium/spells/spike-growth.md)
 
-**3rd level (2 slots)**: [conjure animals](/compendium/spells/conjure-animals.md) (reptiles only), [plant growth](/compendium/spells/plant-growth.md)
+**3rd level (2 slots)**: [conjure animals](compendium/spells/conjure-animals.md) (reptiles only), [plant growth](compendium/spells/plant-growth.md)
 
 ## Actions
 
 ***Multiattack (Lizardfolk Form Only).*** The lizardfolk makes two attacks: one with its bite and one with its claws.
 
-***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (`1d6 + 2`) piercing damage, or 7 (`1d10 + 2`) piercing damage in [crocodile](/compendium/bestiary/beast/crocodile.md) form. If the lizardfolk is in crocodile form and the target is a Large or smaller creature, the target is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 12). Until this grapple ends, the target is [restrained](/compendium/rules/conditions.md#restrained), and the lizardfolk can't bite another target. If the lizardfolk reverts to its true form, the grapple ends.
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (`1d6 + 2`) piercing damage, or 7 (`1d10 + 2`) piercing damage in [crocodile](compendium/bestiary/beast/crocodile.md) form. If the lizardfolk is in crocodile form and the target is a Large or smaller creature, the target is [grappled](rules/conditions.md#grappled) (escape DC 12). Until this grapple ends, the target is [restrained](rules/conditions.md#restrained), and the lizardfolk can't bite another target. If the lizardfolk reverts to its true form, the grapple ends.
 
 ***Claws (Lizardfolk Form Only).*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (`1d4 + 2`) slashing damage.
 
-***Change Shape (Recharges after a Short or Long Rest).*** The lizardfolk magically polymorphs into a [crocodile](/compendium/bestiary/beast/crocodile.md), remaining in that form for up to 1 hour. It can revert to its true form as a bonus action. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+***Change Shape (Recharges after a Short or Long Rest).*** The lizardfolk magically polymorphs into a [crocodile](compendium/bestiary/beast/crocodile.md), remaining in that form for up to 1 hour. It can revert to its true form as a bonus action. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 ```
 ^statblock
 

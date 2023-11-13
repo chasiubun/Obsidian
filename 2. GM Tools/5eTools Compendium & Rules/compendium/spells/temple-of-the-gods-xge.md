@@ -29,10 +29,10 @@ In addition, the sensors created by divination spells can't appear inside the te
 
 Finally, whenever any creature in the temple regains hit points from a spell of 1st level or higher, the creature regains additional hit points equal to your Wisdom modifier (minimum 1 hit point).
 
-The temple is made from opaque magical force that extends into the Ethereal Plane, thus blocking ethereal travel into the temple's interior. Nothing can physically pass through the temple's exterior. It can't be dispelled by [dispel magic](/compendium/spells/dispel-magic.md), and [antimagic field](/compendium/spells/antimagic-field.md) has no effect on it. A [disintegrate](/compendium/spells/disintegrate.md) spell destroys the temple instantly.
+The temple is made from opaque magical force that extends into the Ethereal Plane, thus blocking ethereal travel into the temple's interior. Nothing can physically pass through the temple's exterior. It can't be dispelled by [dispel magic](compendium/spells/dispel-magic.md), and [antimagic field](compendium/spells/antimagic-field.md) has no effect on it. A [disintegrate](compendium/spells/disintegrate.md) spell destroys the temple instantly.
 
 Casting this spell on the same spot every day for a year makes this effect permanent.
 
-**Classes**: [Cleric](/compendium/classes/cleric.md), [Sorcerer (Divine Soul)](/compendium/classes/sorcerer-divine-soul-xge.md)
+**Classes**: [Cleric](compendium/classes/cleric.md), [Sorcerer (Divine Soul)](compendium/classes/sorcerer-divine-soul-xge.md)
 
 *Source: Xanathar's Guide to Everything p. 167*

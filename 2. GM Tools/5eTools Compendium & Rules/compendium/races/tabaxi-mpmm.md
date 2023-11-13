@@ -30,7 +30,7 @@ You can use your claws to make unarmed strikes. When you hit with them, the stri
 
 ### Cat's Talent
 
-You have proficiency in the [Perception](/compendium/rules/skills.md#Perception) and [Stealth](/compendium/rules/skills.md#Stealth) skills.
+You have proficiency in the [Perception](rules/skills.md#Perception) and [Stealth](rules/skills.md#Stealth) skills.
 
 ### Darkvision
 

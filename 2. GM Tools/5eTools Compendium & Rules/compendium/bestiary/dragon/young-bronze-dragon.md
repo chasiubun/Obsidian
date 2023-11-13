@@ -82,7 +82,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ```ad-statblock
 title: Young Bronze Dragon
-![](/compendium/bestiary/dragon/token/young-bronze-dragon.png#token)
+![](compendium/bestiary/dragon/token/young-bronze-dragon.png#token)
 *Large dragon, Lawful Good*
 
 - **Armor Class** 18  (natural armor)

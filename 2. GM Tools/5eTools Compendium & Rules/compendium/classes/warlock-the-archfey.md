@@ -25,32 +25,32 @@ The Archfey lets you choose from an expanded list of spells when you learn a war
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [faerie fire](/compendium/spells/faerie-fire.md), [sleep](/compendium/spells/sleep.md) |
-| 2nd | [calm emotions](/compendium/spells/calm-emotions.md), [phantasmal force](/compendium/spells/phantasmal-force.md) |
-| 3rd | [blink](/compendium/spells/blink.md), [plant growth](/compendium/spells/plant-growth.md) |
-| 4th | [dominate beast](/compendium/spells/dominate-beast.md), [greater invisibility](/compendium/spells/greater-invisibility.md) |
-| 5th | [dominate person](/compendium/spells/dominate-person.md), [seeming](/compendium/spells/seeming.md) |
+| 1st | [faerie fire](compendium/spells/faerie-fire.md), [sleep](compendium/spells/sleep.md) |
+| 2nd | [calm emotions](compendium/spells/calm-emotions.md), [phantasmal force](compendium/spells/phantasmal-force.md) |
+| 3rd | [blink](compendium/spells/blink.md), [plant growth](compendium/spells/plant-growth.md) |
+| 4th | [dominate beast](compendium/spells/dominate-beast.md), [greater invisibility](compendium/spells/greater-invisibility.md) |
+| 5th | [dominate person](compendium/spells/dominate-person.md), [seeming](compendium/spells/seeming.md) |
 ^archfey-expanded-spells
 
 ### Fey Presence (Level 1)
 
-Starting at 1st level, your patron bestows upon you the ability to project the beguiling and fearsome presence of the fey. As an action, you can cause each creature in a 10-foot cube originating from you to make a Wisdom saving throw against your warlock spell save DC. The creatures that fail their saving throws are all [charmed](/compendium/rules/conditions.md#charmed) or [frightened](/compendium/rules/conditions.md#frightened) by you (your choice) until the end of your next turn.
+Starting at 1st level, your patron bestows upon you the ability to project the beguiling and fearsome presence of the fey. As an action, you can cause each creature in a 10-foot cube originating from you to make a Wisdom saving throw against your warlock spell save DC. The creatures that fail their saving throws are all [charmed](rules/conditions.md#charmed) or [frightened](rules/conditions.md#frightened) by you (your choice) until the end of your next turn.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
 ### Misty Escape (Level 6)
 
-Starting at 6th level, you can vanish in a puff of mist in response to harm. When you take damage, you can use your reaction to turn [invisible](/compendium/rules/conditions.md#invisible) and teleport up to 60 feet to an unoccupied space you can see. You remain [invisible](/compendium/rules/conditions.md#invisible) until the start of your next turn or until you attack or cast a spell.
+Starting at 6th level, you can vanish in a puff of mist in response to harm. When you take damage, you can use your reaction to turn [invisible](rules/conditions.md#invisible) and teleport up to 60 feet to an unoccupied space you can see. You remain [invisible](rules/conditions.md#invisible) until the start of your next turn or until you attack or cast a spell.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
 ### Beguiling Defenses (Level 10)
 
-Beginning at 10th level, your patron teaches you how to turn the mind-affecting magic of your enemies against them. You are immune to being [charmed](/compendium/rules/conditions.md#charmed), and when another creature attempts to charm you, you can use your reaction to attempt to turn the charm back on that creature. The creature must succeed on a Wisdom saving throw against your warlock spell save DC or be [charmed](/compendium/rules/conditions.md#charmed) by you for 1 minute or until the creature takes any damage.
+Beginning at 10th level, your patron teaches you how to turn the mind-affecting magic of your enemies against them. You are immune to being [charmed](rules/conditions.md#charmed), and when another creature attempts to charm you, you can use your reaction to attempt to turn the charm back on that creature. The creature must succeed on a Wisdom saving throw against your warlock spell save DC or be [charmed](rules/conditions.md#charmed) by you for 1 minute or until the creature takes any damage.
 
 ### Dark Delirium (Level 14)
 
-Starting at 14th level, you can plunge a creature into an illusory realm. As an action, choose a creature that you can see within 60 feet of you. It must make a Wisdom saving throw against your warlock spell save DC. On a failed save, it is [charmed](/compendium/rules/conditions.md#charmed) or [frightened](/compendium/rules/conditions.md#frightened) by you (your choice) for 1 minute or until your [concentration](/compendium/rules/conditions.md#concentration) is broken (as if you are concentrating on a spell). This effect ends early if the creature takes any damage.
+Starting at 14th level, you can plunge a creature into an illusory realm. As an action, choose a creature that you can see within 60 feet of you. It must make a Wisdom saving throw against your warlock spell save DC. On a failed save, it is [charmed](rules/conditions.md#charmed) or [frightened](rules/conditions.md#frightened) by you (your choice) for 1 minute or until your [concentration](rules/conditions.md#concentration) is broken (as if you are concentrating on a spell). This effect ends early if the creature takes any damage.
 
 Until this illusion ends, the creature thinks it is lost in a misty realm, the appearance of which you choose. The creature can see and hear only itself, you, and the illusion.
 

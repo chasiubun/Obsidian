@@ -84,7 +84,7 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 
 ```ad-statblock
 title: Cloud Giant
-![](/compendium/bestiary/giant/token/cloud-giant.png#token)
+![](compendium/bestiary/giant/token/cloud-giant.png#token)
 *Huge giant, Neutral Good or Neutral Evil*
 
 - **Armor Class** 14  (natural armor)
@@ -104,15 +104,15 @@ title: Cloud Giant
 
 ## Traits
 
-***Keen Smell.*** The giant has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on smell.
+***Keen Smell.*** The giant has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on smell.
 
 ***Innate Spellcasting.*** The giant's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
 
-**At will**: [detect magic](/compendium/spells/detect-magic.md), [fog cloud](/compendium/spells/fog-cloud.md), [light](/compendium/spells/light.md)
+**At will**: [detect magic](compendium/spells/detect-magic.md), [fog cloud](compendium/spells/fog-cloud.md), [light](compendium/spells/light.md)
 
-**1/day each**: [control weather](/compendium/spells/control-weather.md), [gaseous form](/compendium/spells/gaseous-form.md)
+**1/day each**: [control weather](compendium/spells/control-weather.md), [gaseous form](compendium/spells/gaseous-form.md)
 
-**3/day each**: [feather fall](/compendium/spells/feather-fall.md), [fly](/compendium/spells/fly.md), [misty step](/compendium/spells/misty-step.md), [telekinesis](/compendium/spells/telekinesis.md)
+**3/day each**: [feather fall](compendium/spells/feather-fall.md), [fly](compendium/spells/fly.md), [misty step](compendium/spells/misty-step.md), [telekinesis](compendium/spells/telekinesis.md)
 
 ## Actions
 

@@ -22,18 +22,18 @@ Gods of the grave watch over the line between life and death. To these deities, 
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [bane](/compendium/spells/bane.md), [false life](/compendium/spells/false-life.md) |
-| 3rd | [gentle repose](/compendium/spells/gentle-repose.md), [ray of enfeeblement](/compendium/spells/ray-of-enfeeblement.md) |
-| 5th | [revivify](/compendium/spells/revivify.md), [vampiric touch](/compendium/spells/vampiric-touch.md) |
-| 7th | [blight](/compendium/spells/blight.md), [death ward](/compendium/spells/death-ward.md) |
-| 9th | [antilife shell](/compendium/spells/antilife-shell.md), [raise dead](/compendium/spells/raise-dead.md) |
+| 1st | [bane](compendium/spells/bane.md), [false life](compendium/spells/false-life.md) |
+| 3rd | [gentle repose](compendium/spells/gentle-repose.md), [ray of enfeeblement](compendium/spells/ray-of-enfeeblement.md) |
+| 5th | [revivify](compendium/spells/revivify.md), [vampiric touch](compendium/spells/vampiric-touch.md) |
+| 7th | [blight](compendium/spells/blight.md), [death ward](compendium/spells/death-ward.md) |
+| 9th | [antilife shell](compendium/spells/antilife-shell.md), [raise dead](compendium/spells/raise-dead.md) |
 ^grave-domain-spells
 
 ### Circle of Mortality (Level 1)
 
 At 1st level, you gain the ability to manipulate the line between life and death. When you would normally roll one or more dice to restore hit points with a spell to a creature at 0 hit points, you instead use the highest number possible for each die.
 
-In addition, you learn the [spare the dying](/compendium/spells/spare-the-dying.md) cantrip, which doesn't count against the number of cleric cantrips you know. For you, it has a range of 30 feet, and you can cast it as a bonus action.
+In addition, you learn the [spare the dying](compendium/spells/spare-the-dying.md) cantrip, which doesn't count against the number of cleric cantrips you know. For you, it has a range of 30 feet, and you can cast it as a bonus action.
 
 ### Eyes of the Grave (Level 1)
 
@@ -60,10 +60,10 @@ Starting at 8th level, you add your Wisdom modifier to the damage you deal with 
 ### Blessed Strikes (Level 8)
 _Source: Tasha's Cauldron of Everything p. 30_
 
-*8th-level cleric [optional class features](/compendium/rules/variant-rules/optional-class-features-tce.md), which replaces the Potent Spellcasting feature*
+*8th-level cleric [optional class features](rules/variant-rules/optional-class-features-tce.md), which replaces the Potent Spellcasting feature*
 
 You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `1d8` radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 ### Keeper of Souls (Level 17)
 
-Starting at 17th level, you can seize a trace of vitality from a parting soul and use it to heal the living. When an enemy you can see dies within 60 feet of you, you or one creature of your choice that is within 60 feet of you regains hit points equal to the enemy's number of Hit Dice. You can use this feature only if you aren't [incapacitated](/compendium/rules/conditions.md#incapacitated). Once you use it, you can't do so again until the start of your next turn.
+Starting at 17th level, you can seize a trace of vitality from a parting soul and use it to heal the living. When an enemy you can see dies within 60 feet of you, you or one creature of your choice that is within 60 feet of you regains hit points equal to the enemy's number of Hit Dice. You can use this feature only if you aren't [incapacitated](rules/conditions.md#incapacitated). Once you use it, you can't do so again until the start of your next turn.

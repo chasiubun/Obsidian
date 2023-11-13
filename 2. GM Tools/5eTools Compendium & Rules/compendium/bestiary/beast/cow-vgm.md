@@ -16,7 +16,7 @@ There are many kinds of cattle, from common oxen to more unusual, magical varian
 
 ```ad-statblock
 title: Cow
-![](/compendium/bestiary/beast/token/cow.png#token)
+![](compendium/bestiary/beast/token/cow.png#token)
 *Large beast, Unaligned*
 
 - **Armor Class** 10 

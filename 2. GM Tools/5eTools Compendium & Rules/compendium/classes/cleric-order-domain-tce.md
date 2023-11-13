@@ -28,16 +28,16 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [command](/compendium/spells/command.md), [heroism](/compendium/spells/heroism.md) |
-| 3rd | [hold person](/compendium/spells/hold-person.md), [zone of truth](/compendium/spells/zone-of-truth.md) |
-| 5th | [mass healing word](/compendium/spells/mass-healing-word.md), [slow](/compendium/spells/slow.md) |
-| 7th | [compulsion](/compendium/spells/compulsion.md), [locate creature](/compendium/spells/locate-creature.md) |
-| 9th | [commune](/compendium/spells/commune.md), [dominate person](/compendium/spells/dominate-person.md) |
+| 1st | [command](compendium/spells/command.md), [heroism](compendium/spells/heroism.md) |
+| 3rd | [hold person](compendium/spells/hold-person.md), [zone of truth](compendium/spells/zone-of-truth.md) |
+| 5th | [mass healing word](compendium/spells/mass-healing-word.md), [slow](compendium/spells/slow.md) |
+| 7th | [compulsion](compendium/spells/compulsion.md), [locate creature](compendium/spells/locate-creature.md) |
+| 9th | [commune](compendium/spells/commune.md), [dominate person](compendium/spells/dominate-person.md) |
 ^order-domain-spells
 
 ### Bonus Proficiencies (Level 1)
 
-When you choose this domain at 1st level, you gain proficiency with heavy armor. You also gain proficiency in the [Intimidation](/compendium/rules/skills.md#Intimidation) or [Persuasion](/compendium/rules/skills.md#Persuasion) skill (your choice).
+When you choose this domain at 1st level, you gain proficiency with heavy armor. You also gain proficiency in the [Intimidation](rules/skills.md#Intimidation) or [Persuasion](rules/skills.md#Persuasion) skill (your choice).
 
 ### Voice of Authority (Level 1)
 
@@ -49,7 +49,7 @@ If the spell targets more than one ally, you choose the ally who can make the at
 
 Starting at 2nd level, you can use your Channel Divinity to exert an intimidating presence over others.
 
-As an action, you present your holy symbol, and each creature of your choice that can see or hear you within 30 feet of you must succeed on a Wisdom saving throw or be [charmed](/compendium/rules/conditions.md#charmed) by you until the end of your next turn or until the [charmed](/compendium/rules/conditions.md#charmed) creature takes any damage. You can also cause any of the [charmed](/compendium/rules/conditions.md#charmed) creatures to drop what they are holding when they fail the saving throw.
+As an action, you present your holy symbol, and each creature of your choice that can see or hear you within 30 feet of you must succeed on a Wisdom saving throw or be [charmed](rules/conditions.md#charmed) by you until the end of your next turn or until the [charmed](rules/conditions.md#charmed) creature takes any damage. You can also cause any of the [charmed](rules/conditions.md#charmed) creatures to drop what they are holding when they fail the saving throw.
 
 ### Embodiment of the Law (Level 6)
 
@@ -65,7 +65,7 @@ At 8th level, you gain the ability to infuse your weapon strikes with divine ene
 
 ### Blessed Strikes (Level 8)
 
-*8th-level cleric [optional class features](/compendium/rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*
+*8th-level cleric [optional class features](rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*
 
 You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `1d8` radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 

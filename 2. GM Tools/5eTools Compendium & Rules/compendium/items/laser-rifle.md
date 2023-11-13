@@ -16,7 +16,7 @@ aliases:
 
 - **Damage**: 3d8 R
 - **Range**: 100/300
-- **Properties**: [Ammunition (Firearm)](/compendium/rules/item-properties.md#Ammunition%20(Firearm)), Martial, [Reload](/compendium/rules/item-properties.md#Reload), [Two-handed](/compendium/rules/item-properties.md#Two-handed)
+- **Properties**: [Ammunition (Firearm)](rules/item-properties.md#Ammunition%20(Firearm)), Martial, [Reload](rules/item-properties.md#Reload), [Two-handed](rules/item-properties.md#Two-handed)
 - **Weight**: 7.0 lbs.
 
 *Source: Dungeon Master's Guide p. 268*

@@ -28,7 +28,7 @@ Firenewts prize giant striders and seek to adopt them whenever possible. They pr
 
 ```ad-statblock
 title: Giant Strider
-![](/compendium/bestiary/elemental/token/giant-strider.png#token)
+![](compendium/bestiary/elemental/token/giant-strider.png#token)
 *Large elemental, Unaligned*
 
 - **Armor Class** 14  (natural armor)

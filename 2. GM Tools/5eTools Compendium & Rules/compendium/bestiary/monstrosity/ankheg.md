@@ -31,7 +31,7 @@ As it burrows through earth, the ankheg leaves a narrow, partially collapsed tun
 
 ```ad-statblock
 title: Ankheg
-![](/compendium/bestiary/monstrosity/token/ankheg.png#token)
+![](compendium/bestiary/monstrosity/token/ankheg.png#token)
 *Large monstrosity, Unaligned*
 
 - **Armor Class** 14  (natural armor; 11 while prone)
@@ -51,9 +51,9 @@ title: Ankheg
 
 ## Actions
 
-***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) slashing damage plus 3 (`1d6`) acid damage. If the target is a Large or smaller creature, it is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 13). Until this grapple ends, the ankheg can bite only the [grappled](/compendium/rules/conditions.md#grappled) creature and has advantage on attack rolls to do so.
+***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) slashing damage plus 3 (`1d6`) acid damage. If the target is a Large or smaller creature, it is [grappled](rules/conditions.md#grappled) (escape DC 13). Until this grapple ends, the ankheg can bite only the [grappled](rules/conditions.md#grappled) creature and has advantage on attack rolls to do so.
 
-***Acid Spray (Recharge 6).*** The ankheg spits acid in a line that is 30 feet long and 5 feet wide, provided that it has no creature [grappled](/compendium/rules/conditions.md#grappled). Each creature in that line must make a DC 13 Dexterity saving throw, taking 10 (`3d6`) acid damage on a failed save, or half as much damage on a successful one.
+***Acid Spray (Recharge 6).*** The ankheg spits acid in a line that is 30 feet long and 5 feet wide, provided that it has no creature [grappled](rules/conditions.md#grappled). Each creature in that line must make a DC 13 Dexterity saving throw, taking 10 (`3d6`) acid damage on a failed save, or half as much damage on a successful one.
 ```
 ^statblock
 

@@ -16,7 +16,7 @@ A mammoth is an elephantine creature with thick fur and long tusks. Stockier and
 
 ```ad-statblock
 title: Mammoth
-![](/compendium/bestiary/beast/token/mammoth.png#token)
+![](compendium/bestiary/beast/token/mammoth.png#token)
 *Huge beast, Unaligned*
 
 - **Armor Class** 13  (natural armor)
@@ -36,13 +36,13 @@ title: Mammoth
 
 ## Traits
 
-***Trampling Charge.*** If the mammoth moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 18 Strength saving throw or be knocked [prone](/compendium/rules/conditions.md#prone). If the target is [prone](/compendium/rules/conditions.md#prone), the mammoth can make one stomp attack against it as a bonus action.
+***Trampling Charge.*** If the mammoth moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 18 Strength saving throw or be knocked [prone](rules/conditions.md#prone). If the target is [prone](rules/conditions.md#prone), the mammoth can make one stomp attack against it as a bonus action.
 
 ## Actions
 
 ***Gore.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 25 (`4d8 + 7`) piercing damage.
 
-***Stomp.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one [prone](/compendium/rules/conditions.md#prone) creature. *Hit:* 29 (`4d10 + 7`) bludgeoning damage.
+***Stomp.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one [prone](rules/conditions.md#prone) creature. *Hit:* 29 (`4d10 + 7`) bludgeoning damage.
 ```
 ^statblock
 

@@ -13,10 +13,10 @@ aliases: ["Lady Dre"]
 
 ```ad-statblock
 title: Lady Dre
-![](/compendium/bestiary/npc/token/lady-dre.png#token)
+![](compendium/bestiary/npc/token/lady-dre.png#token)
 *Medium humanoid (human), Chaotic Good*
 
-- **Armor Class** 13  ([leather armor](/compendium/items/leather-armor.md))
+- **Armor Class** 13  ([leather armor](compendium/items/leather-armor.md))
 - **Hit Points** 16 (`3d8 + 3`)
 - **Speed** 30 ft.
 
@@ -33,7 +33,7 @@ title: Lady Dre
 
 ## Traits
 
-***Keen Hearing and Sight.*** Lady Dre has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on hearing or sight.
+***Keen Hearing and Sight.*** Lady Dre has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on hearing or sight.
 
 ## Actions
 

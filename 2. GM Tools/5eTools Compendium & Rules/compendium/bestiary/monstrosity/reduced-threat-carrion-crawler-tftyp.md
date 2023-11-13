@@ -13,7 +13,7 @@ aliases: ["Reduced-Threat Carrion Crawler"]
 
 ```ad-statblock
 title: Reduced-Threat Carrion Crawler
-![](/compendium/bestiary/monstrosity/token/reduced-threat-carrion-crawler.png#token)
+![](compendium/bestiary/monstrosity/token/reduced-threat-carrion-crawler.png#token)
 *Large monstrosity, Unaligned*
 
 - **Armor Class** 13  (natural armor)
@@ -35,7 +35,7 @@ title: Reduced-Threat Carrion Crawler
 
 ***Reduced Threat.*** A reduced-threat monster takes a −2 penalty on attack rolls (included in the stat block), ability checks (included in the stat block for skill proficiencies), saving throws (included in the stat block for saving throw proficiencies), and saving throw DCs (included in the stat block).
 
-***Keen Smell.*** The carrion crawler has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on smell.
+***Keen Smell.*** The carrion crawler has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on smell.
 
 ***Spider Climb.*** The carrion crawler can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
@@ -43,7 +43,7 @@ title: Reduced-Threat Carrion Crawler
 
 ***Multiattack.*** The carrion crawler makes two attacks: one with its tentacles and one with its bite.
 
-***Tentacles.*** *Melee Weapon Attack:* +6 to hit, reach 10 ft., one creature. *Hit:* 4 (`1d4 + 2`) poison damage, and the target must succeed on a DC 11 Constitution saving throw or be [poisoned](/compendium/rules/conditions.md#poisoned) for 1 minute. Until this poison ends, the target is [paralyzed](/compendium/rules/conditions.md#paralyzed). The target can repeat the saving throw at the end of each of its turns, ending the poison on itself on a success.
+***Tentacles.*** *Melee Weapon Attack:* +6 to hit, reach 10 ft., one creature. *Hit:* 4 (`1d4 + 2`) poison damage, and the target must succeed on a DC 11 Constitution saving throw or be [poisoned](rules/conditions.md#poisoned) for 1 minute. Until this poison ends, the target is [paralyzed](rules/conditions.md#paralyzed). The target can repeat the saving throw at the end of each of its turns, ending the poison on itself on a success.
 
 ***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 7 (`2d4 + 2`) piercing damage.
 ```

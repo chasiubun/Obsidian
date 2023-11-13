@@ -41,10 +41,10 @@ A typical champion bears a coat of arms, heraldry that is associated with the ch
 
 ```ad-statblock
 title: Champion
-![](/compendium/bestiary/humanoid/token/champion.png#token)
+![](compendium/bestiary/humanoid/token/champion.png#token)
 *Medium humanoid, Any alignment*
 
-- **Armor Class** 18  ([plate](/compendium/items/plate-armor.md))
+- **Armor Class** 18  ([plate](compendium/items/plate-armor.md))
 - **Hit Points** 143 (`22d8 + 44`)
 - **Speed** 30 ft.
 

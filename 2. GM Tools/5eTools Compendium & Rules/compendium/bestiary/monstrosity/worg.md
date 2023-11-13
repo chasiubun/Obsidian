@@ -18,7 +18,7 @@ A worg is an evil predator that delights in hunting and devouring creatures weak
 
 ```ad-statblock
 title: Worg
-![](/compendium/bestiary/monstrosity/token/worg.png#token)
+![](compendium/bestiary/monstrosity/token/worg.png#token)
 *Large monstrosity, Neutral Evil*
 
 - **Armor Class** 13  (natural armor)
@@ -38,11 +38,11 @@ title: Worg
 
 ## Traits
 
-***Keen Hearing and Smell.*** The worg has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on hearing or smell.
+***Keen Hearing and Smell.*** The worg has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on hearing or smell.
 
 ## Actions
 
-***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked [prone](/compendium/rules/conditions.md#prone).
+***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked [prone](rules/conditions.md#prone).
 ```
 ^statblock
 

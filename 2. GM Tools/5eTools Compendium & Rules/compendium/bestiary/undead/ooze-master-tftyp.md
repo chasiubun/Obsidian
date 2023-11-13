@@ -13,7 +13,7 @@ aliases: ["Ooze Master"]
 
 ```ad-statblock
 title: Ooze Master
-![](/compendium/bestiary/undead/token/ooze-master.png#token)
+![](compendium/bestiary/undead/token/ooze-master.png#token)
 *Huge undead, Lawful Evil*
 
 - **Armor Class** 9  (natural armor)
@@ -43,17 +43,17 @@ The Ooze Master can eat through 2-inch-thick, nonmagical wood or metal in 1 roun
 
 ***Spellcasting.*** The Ooze Master is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). It has the following wizard spells prepared:
 
-**Cantrips (at will)**: [acid splash](/compendium/spells/acid-splash.md), [friends](/compendium/spells/friends.md), [mage hand](/compendium/spells/mage-hand.md), [poison spray](/compendium/spells/poison-spray.md)
+**Cantrips (at will)**: [acid splash](compendium/spells/acid-splash.md), [friends](compendium/spells/friends.md), [mage hand](compendium/spells/mage-hand.md), [poison spray](compendium/spells/poison-spray.md)
 
-**1st level (4 slots)**: [charm person](/compendium/spells/charm-person.md), [detect magic](/compendium/spells/detect-magic.md), [magic missile](/compendium/spells/magic-missile.md), [ray of sickness](/compendium/spells/ray-of-sickness.md)
+**1st level (4 slots)**: [charm person](compendium/spells/charm-person.md), [detect magic](compendium/spells/detect-magic.md), [magic missile](compendium/spells/magic-missile.md), [ray of sickness](compendium/spells/ray-of-sickness.md)
 
-**2nd level (3 slots)**: [detect thoughts](/compendium/spells/detect-thoughts.md), [Melf's acid arrow](/compendium/spells/melfs-acid-arrow.md), [suggestion](/compendium/spells/suggestion.md)
+**2nd level (3 slots)**: [detect thoughts](compendium/spells/detect-thoughts.md), [Melf's acid arrow](compendium/spells/melfs-acid-arrow.md), [suggestion](compendium/spells/suggestion.md)
 
-**3rd level (3 slots)**: [fear](/compendium/spells/fear.md), [slow](/compendium/spells/slow.md), [stinking cloud](/compendium/spells/stinking-cloud.md)
+**3rd level (3 slots)**: [fear](compendium/spells/fear.md), [slow](compendium/spells/slow.md), [stinking cloud](compendium/spells/stinking-cloud.md)
 
-**4th level (3 slots)**: [confusion](/compendium/spells/confusion.md), [Evard's black tentacles](/compendium/spells/evards-black-tentacles.md)
+**4th level (3 slots)**: [confusion](compendium/spells/confusion.md), [Evard's black tentacles](compendium/spells/evards-black-tentacles.md)
 
-**5th level (1 slots)**: [cloudkill](/compendium/spells/cloudkill.md)
+**5th level (1 slots)**: [cloudkill](compendium/spells/cloudkill.md)
 
 ## Actions
 
@@ -61,6 +61,6 @@ The Ooze Master can eat through 2-inch-thick, nonmagical wood or metal in 1 roun
 
 ## Reactions
 
-***Instinctive Charm.*** If a creature the Ooze Master can see makes an attack roll against it while within 30 feet of it, the Ooze Master can use a reaction to divert the attack if another creature is within the attack's range. The attacker must make a DC 15 Wisdom saving throw. On a failed save, the attacker targets the creature that is closest to it, not including itself or the Ooze Master. If multiple creatures are closest, the attacker chooses which one to target. On a successful save, the attacker is immune to this Instinctive Charm for 24 hours. Creatures that can't be [charmed](/compendium/rules/conditions.md#charmed) are immune to this effect.
+***Instinctive Charm.*** If a creature the Ooze Master can see makes an attack roll against it while within 30 feet of it, the Ooze Master can use a reaction to divert the attack if another creature is within the attack's range. The attacker must make a DC 15 Wisdom saving throw. On a failed save, the attacker targets the creature that is closest to it, not including itself or the Ooze Master. If multiple creatures are closest, the attacker chooses which one to target. On a successful save, the attacker is immune to this Instinctive Charm for 24 hours. Creatures that can't be [charmed](rules/conditions.md#charmed) are immune to this effect.
 ```
 ^statblock

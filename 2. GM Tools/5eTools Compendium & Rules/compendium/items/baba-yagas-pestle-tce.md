@@ -16,7 +16,7 @@ aliases:
 - **Damage**:
   - One-handed: 1d6 B
   - Two-handed: 1d8 B
-- **Properties**: [Versatile](/compendium/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 The pestle is a 6-inch-long, worn wooden tool. Once during your turn while you are holding the pestle, you can extend it into a quarterstaff or shrink it back into a pestle (no action required). As a quarterstaff, the pestle is a magic weapon that grants a +3 bonus to attack and damage rolls made with it.

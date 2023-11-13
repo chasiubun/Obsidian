@@ -13,10 +13,10 @@ aliases: ["Ogre Skeleton"]
 
 ```ad-statblock
 title: Ogre Skeleton
-![](/compendium/bestiary/undead/token/ogre-skeleton.png#token)
+![](compendium/bestiary/undead/token/ogre-skeleton.png#token)
 *Large undead, Chaotic Evil*
 
-- **Armor Class** 11  ([hide armor](/compendium/items/hide-armor.md))
+- **Armor Class** 11  ([hide armor](compendium/items/hide-armor.md))
 - **Hit Points** 59 (`7d10 + 21`)
 - **Speed** 40 ft.
 

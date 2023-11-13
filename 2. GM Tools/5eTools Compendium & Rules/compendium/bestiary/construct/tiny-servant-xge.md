@@ -13,7 +13,7 @@ aliases: ["Tiny Servant"]
 
 ```ad-statblock
 title: Tiny Servant
-![](/compendium/bestiary/construct/token/tiny-servant.png#token)
+![](compendium/bestiary/construct/token/tiny-servant.png#token)
 *Tiny construct, Unaligned*
 
 - **Armor Class** 15  (natural armor)

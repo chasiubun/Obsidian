@@ -13,7 +13,7 @@ aliases: ["Huge Giant Crab"]
 
 ```ad-statblock
 title: Huge Giant Crab
-![](/compendium/bestiary/beast/token/huge-giant-crab.png#token)
+![](compendium/bestiary/beast/token/huge-giant-crab.png#token)
 *Huge beast, Unaligned*
 
 - **Armor Class** 15  (natural armor)
@@ -33,12 +33,12 @@ title: Huge Giant Crab
 
 ## Traits
 
-***Banded Claw.*** On one of its claws, the crab wears a rune-covered copper band that makes it immune to being [charmed](/compendium/rules/conditions.md#charmed), [frightened](/compendium/rules/conditions.md#frightened), and [paralyzed](/compendium/rules/conditions.md#paralyzed). The copper band is worthless as a treasure, as the magic is keyed to this crab.
+***Banded Claw.*** On one of its claws, the crab wears a rune-covered copper band that makes it immune to being [charmed](rules/conditions.md#charmed), [frightened](rules/conditions.md#frightened), and [paralyzed](rules/conditions.md#paralyzed). The copper band is worthless as a treasure, as the magic is keyed to this crab.
 
 ***Amphibious.*** The crab can breathe air and water.
 
 ## Actions
 
-***Claw.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 27 (`4d10 + 5`) bludgeoning damage, and the target is [grappled](/compendium/rules/conditions.md#grappled), escape DC 14. The crab has two claws, each of which can grapple only one target.
+***Claw.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 27 (`4d10 + 5`) bludgeoning damage, and the target is [grappled](rules/conditions.md#grappled), escape DC 14. The crab has two claws, each of which can grapple only one target.
 ```
 ^statblock

@@ -9,10 +9,10 @@ aliases: ["Noble (Knight) (Variant)"]
 # Noble (Knight) (Variant)
 *Source: Player's Handbook p. 136, Derived from *  
 
-- **Skill Proficiencies.** [History](/compendium/rules/skills.md#History), [Persuasion](/compendium/rules/skills.md#Persuasion)  
+- **Skill Proficiencies.** [History](rules/skills.md#History), [Persuasion](rules/skills.md#Persuasion)  
 - **Tool Proficiencies.** One type of gaming set  
 - **Languages.** One of your choice  
-- **Equipment.** A set of [fine clothes](/compendium/items/fine-clothes.md), a [signet ring](/compendium/items/signet-ring.md), a scroll of pedigree, and a purse containing 25 gp  
+- **Equipment.** A set of [fine clothes](compendium/items/fine-clothes.md), a [signet ring](compendium/items/signet-ring.md), a scroll of pedigree, and a purse containing 25 gp  
 
 A knighthood is among the lowest noble titles in most societies, but it can be a path to higher status. If you wish to be a knight, choose the Retainers feature instead of the Position of Privilege feature. One of your commoner retainers is replaced by a noble who serves as your squire, aiding you in exchange for training on his or her own path to knighthood. Your two remaining retainers might include a groom to care for your horse and a servant who polishes your armor (and even helps you put it on).
 

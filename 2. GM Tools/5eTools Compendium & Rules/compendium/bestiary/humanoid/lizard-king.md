@@ -54,7 +54,7 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
 
 ```ad-statblock
 title: Lizard King
-![](/compendium/bestiary/humanoid/token/lizard-king.png#token)
+![](compendium/bestiary/humanoid/token/lizard-king.png#token)
 *Medium humanoid (lizardfolk), Chaotic Evil*
 
 - **Armor Class** 15  (natural armor)

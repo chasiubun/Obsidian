@@ -25,10 +25,10 @@ More than treasure, a bandit captain or pirate captain craves infamy. A prisoner
 
 ```ad-statblock
 title: Bandit Captain
-![](/compendium/bestiary/humanoid/token/bandit-captain.png#token)
+![](compendium/bestiary/humanoid/token/bandit-captain.png#token)
 *Medium humanoid (any race), Any Non-Lawful alignment*
 
-- **Armor Class** 15  ([studded leather](/compendium/items/studded-leather-armor.md))
+- **Armor Class** 15  ([studded leather](compendium/items/studded-leather-armor.md))
 - **Hit Points** 65 (`10d8 + 20`)
 - **Speed** 30 ft.
 

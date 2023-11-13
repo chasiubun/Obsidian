@@ -15,7 +15,7 @@ aliases: ["Cave Bear"]
 
 ```ad-statblock
 title: Cave Bear
-![](/compendium/bestiary/beast/token/cave-bear.png#token)
+![](compendium/bestiary/beast/token/cave-bear.png#token)
 *Large beast, Unaligned*
 
 - **Armor Class** 12  (natural armor)
@@ -35,7 +35,7 @@ title: Cave Bear
 
 ## Traits
 
-***Keen Smell.*** The bear has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on smell.
+***Keen Smell.*** The bear has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on smell.
 
 ## Actions
 

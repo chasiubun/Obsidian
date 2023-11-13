@@ -17,12 +17,12 @@ aliases: ["Swarm of Bats"]
 
 > [!note] The Nature of Swarms
 > 
-> The swarms presented here aren't ordinary or benign assemblies of little creatures. They form as a result of some sinister or unwholesome influence. A vampire can summon swarms of bats and rats from the darkest corners of the night, while the very presence of a mummy lord can cause scarab beetles to boil up from the sand-filled depths of its tomb. A hag might have the power to turn swarms of ravens against her enemies, while a [yuan-ti abomination](/compendium/bestiary/monstrosity/yuan-ti-abomination.md) might have [swarms of poisonous snakes](/compendium/bestiary/beast/swarm-of-poisonous-snakes.md) slithering in its wake. Even druids can't charm these swarms, and their aggressiveness is borderline unnatural.
+> The swarms presented here aren't ordinary or benign assemblies of little creatures. They form as a result of some sinister or unwholesome influence. A vampire can summon swarms of bats and rats from the darkest corners of the night, while the very presence of a mummy lord can cause scarab beetles to boil up from the sand-filled depths of its tomb. A hag might have the power to turn swarms of ravens against her enemies, while a [yuan-ti abomination](compendium/bestiary/monstrosity/yuan-ti-abomination.md) might have [swarms of poisonous snakes](compendium/bestiary/beast/swarm-of-poisonous-snakes.md) slithering in its wake. Even druids can't charm these swarms, and their aggressiveness is borderline unnatural.
 ^the-nature-of-swarms
 
 ```ad-statblock
 title: Swarm of Bats
-![](/compendium/bestiary/beast/token/swarm-of-bats.png#token)
+![](compendium/bestiary/beast/token/swarm-of-bats.png#token)
 *Medium beast, Unaligned*
 
 - **Armor Class** 12 
@@ -42,9 +42,9 @@ title: Swarm of Bats
 
 ## Traits
 
-***Echolocation.*** The swarm can't use its blindsight while [deafened](/compendium/rules/conditions.md#deafened).
+***Echolocation.*** The swarm can't use its blindsight while [deafened](rules/conditions.md#deafened).
 
-***Keen Hearing.*** The swarm has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on hearing.
+***Keen Hearing.*** The swarm has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on hearing.
 
 ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny bat. The swarm can't regain hit points or gain temporary hit points.
 

@@ -16,10 +16,10 @@ Trained in the use of poison, assassins are remorseless killers who work for nob
 
 ```ad-statblock
 title: Assassin
-![](/compendium/bestiary/humanoid/token/assassin.png#token)
+![](compendium/bestiary/humanoid/token/assassin.png#token)
 *Medium humanoid (any race), Any Non-Good alignment*
 
-- **Armor Class** 15  ([studded leather](/compendium/items/studded-leather-armor.md))
+- **Armor Class** 15  ([studded leather](compendium/items/studded-leather-armor.md))
 - **Hit Points** 78 (`12d8 + 24`)
 - **Speed** 30 ft.
 
@@ -40,7 +40,7 @@ title: Assassin
 
 ***Evasion.*** If the assassin is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the assassin instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
 
-***Sneak Attack (1/Turn).*** The assassin deals an extra 14 (`4d6`) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the assassin that isn't [incapacitated](/compendium/rules/conditions.md#incapacitated) and the assassin doesn't have disadvantage on the attack roll.
+***Sneak Attack (1/Turn).*** The assassin deals an extra 14 (`4d6`) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the assassin that isn't [incapacitated](rules/conditions.md#incapacitated) and the assassin doesn't have disadvantage on the attack roll.
 
 ## Actions
 

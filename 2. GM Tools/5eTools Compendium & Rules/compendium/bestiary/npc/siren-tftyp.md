@@ -15,7 +15,7 @@ Imprisoned inside a mist-filled chamber in the Tomb of Horrors, Siren serves as 
 
 ```ad-statblock
 title: Siren
-![](/compendium/bestiary/npc/token/siren.png#token)
+![](compendium/bestiary/npc/token/siren.png#token)
 *Medium fey, Chaotic Good*
 
 - **Armor Class** 14 
@@ -41,12 +41,12 @@ title: Siren
 
 ***Innate Spellcasting.*** Siren's innate spellcasting ability is Charisma (spell save DC 13). She can innately cast the following spells, requiring no material components:
 
-**1/day each**: [charm person](/compendium/spells/charm-person.md), [fog cloud](/compendium/spells/fog-cloud.md), [greater invisibility](/compendium/spells/greater-invisibility.md), [polymorph](/compendium/spells/polymorph.md) (self only)
+**1/day each**: [charm person](compendium/spells/charm-person.md), [fog cloud](compendium/spells/fog-cloud.md), [greater invisibility](compendium/spells/greater-invisibility.md), [polymorph](compendium/spells/polymorph.md) (self only)
 
 ## Actions
 
 ***Shortsword.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (`1d6 + 4`) piercing damage.
 
-***Stupefying Touch.*** Siren touches one creature she can see within 5 feet of her. The creature must succeed on a DC 13 Intelligence saving throw or take 13 (`3d6 + 3`) psychic damage and be [stunned](/compendium/rules/conditions.md#stunned) until the start of Siren's next turn.
+***Stupefying Touch.*** Siren touches one creature she can see within 5 feet of her. The creature must succeed on a DC 13 Intelligence saving throw or take 13 (`3d6 + 3`) psychic damage and be [stunned](rules/conditions.md#stunned) until the start of Siren's next turn.
 ```
 ^statblock

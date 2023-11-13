@@ -23,7 +23,7 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 
 ```ad-statblock
 title: Angry Sorrowsworn
-![](/compendium/bestiary/monstrosity/token/angry-sorrowsworn.png#token)
+![](compendium/bestiary/monstrosity/token/angry-sorrowsworn.png#token)
 *Medium monstrosity, Typically  Neutral Evil*
 
 - **Armor Class** 18  (natural armor)
@@ -43,7 +43,7 @@ title: Angry Sorrowsworn
 
 ## Traits
 
-***Two Heads.*** The sorrowsworn has advantage on saving throws against being [blinded](/compendium/rules/conditions.md#blinded), [charmed](/compendium/rules/conditions.md#charmed), [deafened](/compendium/rules/conditions.md#deafened), [frightened](/compendium/rules/conditions.md#frightened), [stunned](/compendium/rules/conditions.md#stunned), or knocked [unconscious](/compendium/rules/conditions.md#unconscious).
+***Two Heads.*** The sorrowsworn has advantage on saving throws against being [blinded](rules/conditions.md#blinded), [charmed](rules/conditions.md#charmed), [deafened](rules/conditions.md#deafened), [frightened](rules/conditions.md#frightened), [stunned](rules/conditions.md#stunned), or knocked [unconscious](rules/conditions.md#unconscious).
 
 ***Rising Anger.*** If another creature deals damage to the sorrowsworn, the sorrowsworn's attack rolls have advantage until the end of its next turn, and the first time it hits with a Hook attack on its next turn, the attack's target takes an extra 19 (`3d12`) psychic damage.
 

@@ -19,9 +19,9 @@ The creations of the immortal hag Baba Yaga defy the laws of mortal magic. Among
 
 This artifact has the following random properties, which you can determine by rolling on the tables in the "Artifacts" section of the "Dungeon Master's Guide":
 
-- 2 [minor beneficial](/compendium/tables/artifact-properties-minor-beneficial-properties.md) properties  
-- 1 [major beneficial](/compendium/tables/artifact-properties-major-beneficial-properties.md) property  
-- 1 [minor detrimental](/compendium/tables/artifact-properties-minor-detrimental-properties.md) property  
+- 2 [minor beneficial](compendium/tables/artifact-properties-minor-beneficial-properties.md) properties  
+- 1 [major beneficial](compendium/tables/artifact-properties-major-beneficial-properties.md) property  
+- 1 [minor detrimental](compendium/tables/artifact-properties-minor-detrimental-properties.md) property  
 
 ## Properties of the Mortar
 
@@ -37,7 +37,7 @@ The pestle has 12 charges. When you hit with a melee attack using the pestle, yo
 
 While holding the mortar and pestle, you can use your action to say the name of any nonmagical plant, mineral, or fluid and an amount of the material worth 10 gp or less. The mortar instantly fills with the desired amount of that material. Once you use this action, you can't do so again until you finish a short or long rest.
 
-You can also use the artifact as [alchemist's supplies](/compendium/items/alchemists-supplies.md), [brewer's supplies](/compendium/items/brewers-supplies.md), [cook's utensils](/compendium/items/cooks-utensils.md), an [herbalism kit](/compendium/items/herbalism-kit.md), and a [poisoner's kit](/compendium/items/poisoners-kit.md). You have advantage on any check you make using the artifact as one of these tools.
+You can also use the artifact as [alchemist's supplies](compendium/items/alchemists-supplies.md), [brewer's supplies](compendium/items/brewers-supplies.md), [cook's utensils](compendium/items/cooks-utensils.md), an [herbalism kit](compendium/items/herbalism-kit.md), and a [poisoner's kit](compendium/items/poisoners-kit.md). You have advantage on any check you make using the artifact as one of these tools.
 
 ## Primal Parts
 

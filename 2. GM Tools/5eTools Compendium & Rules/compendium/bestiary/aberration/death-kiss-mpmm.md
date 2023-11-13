@@ -22,7 +22,7 @@ A death kiss lacks the combat finesse and intelligence of a true beholder. In mo
 
 ```ad-statblock
 title: Death Kiss
-![](/compendium/bestiary/aberration/token/death-kiss.png#token)
+![](compendium/bestiary/aberration/token/death-kiss.png#token)
 *Large aberration (beholder), Typically  Neutral Evil*
 
 - **Armor Class** 15  (natural armor)
@@ -48,9 +48,9 @@ title: Death Kiss
 
 ***Multiattack.*** The death kiss makes three Tentacle attacks. Up to three of these attacks can be replaced by Blood Drain—one replacement per tentacle grappling a creature.
 
-***Tentacle.*** *Melee Weapon Attack:* +8 to hit, reach 20 ft., one target. *Hit:* 11 (`2d6 + 4`) piercing damage, and the target is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 14) if it is a Huge or smaller creature. Until this grapple ends, the target is [restrained](/compendium/rules/conditions.md#restrained), and the death kiss can't use the same tentacle on another target. The death kiss has ten tentacles.
+***Tentacle.*** *Melee Weapon Attack:* +8 to hit, reach 20 ft., one target. *Hit:* 11 (`2d6 + 4`) piercing damage, and the target is [grappled](rules/conditions.md#grappled) (escape DC 14) if it is a Huge or smaller creature. Until this grapple ends, the target is [restrained](rules/conditions.md#restrained), and the death kiss can't use the same tentacle on another target. The death kiss has ten tentacles.
 
-***Blood Drain.*** One creature [grappled](/compendium/rules/conditions.md#grappled) by a tentacle of the death kiss must make a DC 16 Constitution saving throw. On a failed save, the target takes 22 (`4d10`) lightning damage, and the death kiss regains half as many hit points.
+***Blood Drain.*** One creature [grappled](rules/conditions.md#grappled) by a tentacle of the death kiss must make a DC 16 Constitution saving throw. On a failed save, the target takes 22 (`4d10`) lightning damage, and the death kiss regains half as many hit points.
 ```
 ^statblock
 

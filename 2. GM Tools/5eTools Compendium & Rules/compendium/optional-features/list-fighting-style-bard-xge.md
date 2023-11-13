@@ -8,5 +8,5 @@ aliases: ["Fighting Style, Bard"]
 # Fighting Style, Bard
 *Source: Xanathar's Guide to Everything* 
 
-- [Dueling (UARSC)](/compendium/optional-features/dueling.md)
-- [Two-Weapon Fighting (UARSC)](/compendium/optional-features/two-weapon-fighting.md)
+- [Dueling (UARSC)](compendium/optional-features/dueling.md)
+- [Two-Weapon Fighting (UARSC)](compendium/optional-features/two-weapon-fighting.md)

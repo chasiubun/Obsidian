@@ -18,7 +18,7 @@ This larger cousin of the velociraptor kills by gripping its target with its cla
 
 ```ad-statblock
 title: Deinonychus
-![](/compendium/bestiary/beast/token/deinonychus.png#token)
+![](compendium/bestiary/beast/token/deinonychus.png#token)
 *Medium beast (dinosaur), Unaligned*
 
 - **Armor Class** 13  (natural armor)
@@ -38,7 +38,7 @@ title: Deinonychus
 
 ## Traits
 
-***Pounce.*** If the deinonychus moves at least 20 feet straight toward a creature and then hits it with a Claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked [prone](/compendium/rules/conditions.md#prone). If the target is [prone](/compendium/rules/conditions.md#prone), the deinonychus can make one Bite attack against it as a bonus action.
+***Pounce.*** If the deinonychus moves at least 20 feet straight toward a creature and then hits it with a Claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked [prone](rules/conditions.md#prone). If the target is [prone](rules/conditions.md#prone), the deinonychus can make one Bite attack against it as a bonus action.
 
 ## Actions
 

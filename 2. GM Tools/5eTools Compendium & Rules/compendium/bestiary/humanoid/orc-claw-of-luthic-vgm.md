@@ -29,10 +29,10 @@ Orc females devoted to Luthic are in charge of fortifying and maintaining an orc
 
 ```ad-statblock
 title: Orc Claw of Luthic
-![](/compendium/bestiary/humanoid/token/orc-claw-of-luthic.png#token)
+![](compendium/bestiary/humanoid/token/orc-claw-of-luthic.png#token)
 *Medium humanoid (orc), Chaotic Evil*
 
-- **Armor Class** 14  ([hide armor](/compendium/items/hide-armor.md))
+- **Armor Class** 14  ([hide armor](compendium/items/hide-armor.md))
 - **Hit Points** 45 (`6d8 + 18`)
 - **Speed** 30 ft.
 
@@ -53,13 +53,13 @@ title: Orc Claw of Luthic
 
 ***Spellcasting.*** The orc is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The orc has the following cleric spells prepared:
 
-**Cantrips (at will)**: [guidance](/compendium/spells/guidance.md), [mending](/compendium/spells/mending.md), [resistance](/compendium/spells/resistance.md), [thaumaturgy](/compendium/spells/thaumaturgy.md)
+**Cantrips (at will)**: [guidance](compendium/spells/guidance.md), [mending](compendium/spells/mending.md), [resistance](compendium/spells/resistance.md), [thaumaturgy](compendium/spells/thaumaturgy.md)
 
-**1st level (4 slots)**: [bane](/compendium/spells/bane.md), [cure wounds](/compendium/spells/cure-wounds.md), [guiding bolt](/compendium/spells/guiding-bolt.md)
+**1st level (4 slots)**: [bane](compendium/spells/bane.md), [cure wounds](compendium/spells/cure-wounds.md), [guiding bolt](compendium/spells/guiding-bolt.md)
 
-**2nd level (3 slots)**: [augury](/compendium/spells/augury.md), [warding bond](/compendium/spells/warding-bond.md)
+**2nd level (3 slots)**: [augury](compendium/spells/augury.md), [warding bond](compendium/spells/warding-bond.md)
 
-**3rd level (2 slots)**: [bestow curse](/compendium/spells/bestow-curse.md), [create food and water](/compendium/spells/create-food-and-water.md)
+**3rd level (2 slots)**: [bestow curse](compendium/spells/bestow-curse.md), [create food and water](compendium/spells/create-food-and-water.md)
 
 ## Actions
 

@@ -21,7 +21,7 @@ An artificer who specializes as an Armorer modifies armor to function almost lik
 
 *3rd-level Armorer feature*
 
-You gain proficiency with heavy armor. You also gain proficiency with [smith's tools](/compendium/items/smiths-tools.md). If you already have this tool proficiency, you gain proficiency with one other type of [artisan's tools](/compendium/items/artisans-tools.md) of your choice.
+You gain proficiency with heavy armor. You also gain proficiency with [smith's tools](compendium/items/smiths-tools.md). If you already have this tool proficiency, you gain proficiency with one other type of [artisan's tools](compendium/items/artisans-tools.md) of your choice.
 
 ### Armorer Spells (Level 3)
 
@@ -33,18 +33,18 @@ You always have certain spells prepared after you reach particular levels in thi
 
 | Artificer Level | Spell |
 |-----------------|-------|
-| 3rd | [magic missile](/compendium/spells/magic-missile.md), [thunderwave](/compendium/spells/thunderwave.md) |
-| 5th | [mirror image](/compendium/spells/mirror-image.md), [shatter](/compendium/spells/shatter.md) |
-| 9th | [hypnotic pattern](/compendium/spells/hypnotic-pattern.md), [lightning bolt](/compendium/spells/lightning-bolt.md) |
-| 13th | [fire shield](/compendium/spells/fire-shield.md), [greater invisibility](/compendium/spells/greater-invisibility.md) |
-| 17th | [passwall](/compendium/spells/passwall.md), [wall of force](/compendium/spells/wall-of-force.md) |
+| 3rd | [magic missile](compendium/spells/magic-missile.md), [thunderwave](compendium/spells/thunderwave.md) |
+| 5th | [mirror image](compendium/spells/mirror-image.md), [shatter](compendium/spells/shatter.md) |
+| 9th | [hypnotic pattern](compendium/spells/hypnotic-pattern.md), [lightning bolt](compendium/spells/lightning-bolt.md) |
+| 13th | [fire shield](compendium/spells/fire-shield.md), [greater invisibility](compendium/spells/greater-invisibility.md) |
+| 17th | [passwall](compendium/spells/passwall.md), [wall of force](compendium/spells/wall-of-force.md) |
 ^armorer-spells
 
 ### Arcane Armor (Level 3)
 
 *3rd-level Armorer feature*
 
-Your metallurgical pursuits have led to you making armor a conduit for your magic. As an action, you can turn a suit of armor you are wearing into Arcane Armor, provided you have [smith's tools](/compendium/items/smiths-tools.md) in hand.
+Your metallurgical pursuits have led to you making armor a conduit for your magic. As an action, you can turn a suit of armor you are wearing into Arcane Armor, provided you have [smith's tools](compendium/items/smiths-tools.md) in hand.
 
 You gain the following benefits while wearing this armor:
 
@@ -61,7 +61,7 @@ You can customize your Arcane Armor. When you do so, choose one of the following
 
 Each model includes a special weapon. When you attack with that weapon, you can add your Intelligence modifier, instead of Strength or Dexterity, to the attack and damage rolls.
 
-You can change the armor's model whenever you finish a short or long rest, provided you have [smith's tools](/compendium/items/smiths-tools.md) in hand.
+You can change the armor's model whenever you finish a short or long rest, provided you have [smith's tools](compendium/items/smiths-tools.md) in hand.
 
 #### Guardian
 
@@ -89,13 +89,13 @@ You customize your armor for subtle undertakings. It has the following features:
 
 - **Dampening Field**  
 
-    You have advantage on Dexterity ([Stealth](/compendium/rules/skills.md#Stealth)) checks. If the armor normally imposes disadvantage on such checks, the advantage and disadvantage cancel each other, as normal.  
+    You have advantage on Dexterity ([Stealth](rules/skills.md#Stealth)) checks. If the armor normally imposes disadvantage on such checks, the advantage and disadvantage cancel each other, as normal.  
 
 ### Extra Attack (Level 5)
 
 *5th-level Armorer feature*
 
-You can attack twice, rather than once, whenever you take the [Attack](/compendium/rules/actions.md#Attack) action on your turn.
+You can attack twice, rather than once, whenever you take the [Attack](rules/actions.md#Attack) action on your turn.
 
 ### Armor Modifications (Level 9)
 

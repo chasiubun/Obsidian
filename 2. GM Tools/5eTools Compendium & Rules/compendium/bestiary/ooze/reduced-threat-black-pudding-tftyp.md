@@ -13,7 +13,7 @@ aliases: ["Reduced-Threat Black Pudding"]
 
 ```ad-statblock
 title: Reduced-Threat Black Pudding
-![](/compendium/bestiary/ooze/token/reduced-threat-black-pudding.png#token)
+![](compendium/bestiary/ooze/token/reduced-threat-black-pudding.png#token)
 *Large ooze, Unaligned*
 
 - **Armor Class** 7 

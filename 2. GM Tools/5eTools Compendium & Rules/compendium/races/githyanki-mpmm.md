@@ -23,9 +23,9 @@ You can mystically access a reservoir of experiences of entities connected to th
 
 ### Githyanki Psionics
 
-You know the [mage hand](/compendium/spells/mage-hand.md) cantrip, and the hand is [invisible](/compendium/rules/conditions.md#invisible) when you cast the cantrip with this trait.
+You know the [mage hand](compendium/spells/mage-hand.md) cantrip, and the hand is [invisible](rules/conditions.md#invisible) when you cast the cantrip with this trait.
 
-Starting at 3rd level, you can cast the [jump](/compendium/spells/jump.md) spell with this trait. Starting at 5th level, you can also cast [misty step](/compendium/spells/misty-step.md) with it. Once you cast [jump](/compendium/spells/jump.md) or [misty step](/compendium/spells/misty-step.md) with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
+Starting at 3rd level, you can cast the [jump](compendium/spells/jump.md) spell with this trait. Starting at 5th level, you can also cast [misty step](compendium/spells/misty-step.md) with it. Once you cast [jump](compendium/spells/jump.md) or [misty step](compendium/spells/misty-step.md) with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race). None of these spells require spell components when you cast them with this trait.
 

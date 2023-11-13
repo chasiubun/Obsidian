@@ -23,7 +23,7 @@ The scholars of Quandrix College focus on the mathematical principles that gover
 
 ```ad-statblock
 title: Quandrix Professor of Substance
-![](/compendium/bestiary/humanoid/token/quandrix-professor-of-substance.png#token)
+![](compendium/bestiary/humanoid/token/quandrix-professor-of-substance.png#token)
 *Small or Medium humanoid (wizard), Any alignment*
 
 - **Armor Class** 12 
@@ -43,9 +43,9 @@ title: Quandrix Professor of Substance
 
 ***Spellcasting.*** The professor casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 15):
 
-**At will**: [guidance](/compendium/spells/guidance.md), [mage hand](/compendium/spells/mage-hand.md), [mending](/compendium/spells/mending.md) (as an action)
+**At will**: [guidance](compendium/spells/guidance.md), [mage hand](compendium/spells/mage-hand.md), [mending](compendium/spells/mending.md) (as an action)
 
-**1/day each**: [creation](/compendium/spells/creation.md) (as an action), [dimension door](/compendium/spells/dimension-door.md), [mage armor](/compendium/spells/mage-armor.md), [plant growth](/compendium/spells/plant-growth.md), [polymorph](/compendium/spells/polymorph.md)
+**1/day each**: [creation](compendium/spells/creation.md) (as an action), [dimension door](compendium/spells/dimension-door.md), [mage armor](compendium/spells/mage-armor.md), [plant growth](compendium/spells/plant-growth.md), [polymorph](compendium/spells/polymorph.md)
 
 ## Actions
 
@@ -55,7 +55,7 @@ title: Quandrix Professor of Substance
 
 ## Bonus Actions
 
-***Dilation (Recharge 5-6).*** The professor magically alters its physical form until it uses this bonus action again, until it is [incapacitated](/compendium/rules/conditions.md#incapacitated) or dies, or until it dismisses the effect (no action required). Choose one of the following options:
+***Dilation (Recharge 5-6).*** The professor magically alters its physical form until it uses this bonus action again, until it is [incapacitated](rules/conditions.md#incapacitated) or dies, or until it dismisses the effect (no action required). Choose one of the following options:
 
 ***Expand.*** The professor becomes Large if there is sufficient room for it to grow. It has advantage on attack rolls and on ability checks and saving throws that rely on Strength.
 

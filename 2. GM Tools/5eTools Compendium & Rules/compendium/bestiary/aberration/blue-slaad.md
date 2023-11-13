@@ -37,13 +37,13 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 > 
 > A slaad born from something other than the Spawning Stone has no gem in its brain, but it gains one if it ever comes into contact with the Spawning Stone. Slaadi on Limbo are attracted to the Spawning Stone, so most end up with a gem. A slaad with a control gem in its brain has the following additional trait.
 > 
-> **Control Gem.** Implanted in the slaad's brain is a magic control gem. The slaad must obey whoever possesses the gem and is immune to being [charmed](/compendium/rules/conditions.md#charmed) while so controlled.
+> **Control Gem.** Implanted in the slaad's brain is a magic control gem. The slaad must obey whoever possesses the gem and is immune to being [charmed](rules/conditions.md#charmed) while so controlled.
 > 
-> Certain spells can be used to acquire the gem. If the slaad fails its saving throw against imprisonment, the spell can transfer the gem to the spellcaster's open hand, instead of imprisoning the slaad. A [wish](/compendium/spells/wish.md) spell, if cast in the slaad's presence, can be worded to acquire the gem.
+> Certain spells can be used to acquire the gem. If the slaad fails its saving throw against imprisonment, the spell can transfer the gem to the spellcaster's open hand, instead of imprisoning the slaad. A [wish](compendium/spells/wish.md) spell, if cast in the slaad's presence, can be worded to acquire the gem.
 > 
-> A [greater restoration](/compendium/spells/greater-restoration.md) spell cast on the slaad destroys the gem without harming the slaad.
+> A [greater restoration](compendium/spells/greater-restoration.md) spell cast on the slaad destroys the gem without harming the slaad.
 > 
-> Someone who is proficient in Wisdom ([Medicine](/compendium/rules/skills.md#Medicine)) can remove the gem from an [incapacitated](/compendium/rules/conditions.md#incapacitated) slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([Medicine](/compendium/rules/skills.md#Medicine)) check. Each failed attempt deals 22 (`4d10`) psychic damage to the slaad.
+> Someone who is proficient in Wisdom ([Medicine](rules/skills.md#Medicine)) can remove the gem from an [incapacitated](rules/conditions.md#incapacitated) slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([Medicine](rules/skills.md#Medicine)) check. Each failed attempt deals 22 (`4d10`) psychic damage to the slaad.
 ^variant-slaad-control-gems
 
 > [!quote]-  
@@ -55,7 +55,7 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 
 ```ad-statblock
 title: Blue Slaad
-![](/compendium/bestiary/aberration/token/blue-slaad.png#token)
+![](compendium/bestiary/aberration/token/blue-slaad.png#token)
 *Large aberration, Chaotic Neutral*
 
 - **Armor Class** 15  (natural armor)
@@ -85,6 +85,6 @@ title: Blue Slaad
 
 ***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 12 (`2d6 + 5`) piercing damage.
 
-***Claw.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 12 (`2d6 + 5`) slashing damage. If the target is a humanoid, it must succeed on a DC 15 Constitution saving throw or be infected with a disease called chaos phage. While infected, the target can't regain hit points, and its hit point maximum is reduced by 10 (`3d6`) every 24 hours. If the disease reduces the target's hit point maximum to 0, the target instantly transforms into a [red slaad](/compendium/bestiary/aberration/red-slaad.md) or, if it has the ability to cast spells of 3rd level or higher, a [green slaad](/compendium/bestiary/aberration/green-slaad.md). Only a [wish](/compendium/spells/wish.md) spell can reverse the transformation.
+***Claw.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 12 (`2d6 + 5`) slashing damage. If the target is a humanoid, it must succeed on a DC 15 Constitution saving throw or be infected with a disease called chaos phage. While infected, the target can't regain hit points, and its hit point maximum is reduced by 10 (`3d6`) every 24 hours. If the disease reduces the target's hit point maximum to 0, the target instantly transforms into a [red slaad](compendium/bestiary/aberration/red-slaad.md) or, if it has the ability to cast spells of 3rd level or higher, a [green slaad](compendium/bestiary/aberration/green-slaad.md). Only a [wish](compendium/spells/wish.md) spell can reverse the transformation.
 ```
 ^statblock

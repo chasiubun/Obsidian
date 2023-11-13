@@ -18,7 +18,7 @@ It takes a minimum of four Medium creatures to operate a ram. Because of the gal
 
 ```ad-statblock
 title: Ram
-![](/compendium/objects/token/ram.png#token)
+![](compendium/objects/token/ram.png#token)
 *Large Siege weapon*
 
 - **Armor Class** 15 

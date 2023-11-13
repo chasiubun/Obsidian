@@ -23,10 +23,10 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
 
 ```ad-statblock
 title: Flind
-![](/compendium/bestiary/fiend/token/flind.png#token)
+![](compendium/bestiary/fiend/token/flind.png#token)
 *Medium fiend (gnoll), Typically  Chaotic Evil*
 
-- **Armor Class** 16  ([breastplate](/compendium/items/breastplate.md))
+- **Armor Class** 16  ([breastplate](compendium/items/breastplate.md))
 - **Hit Points** 127 (`15d8 + 60`)
 - **Speed** 30 ft.
 
@@ -43,7 +43,7 @@ title: Flind
 
 ## Traits
 
-***Aura of Blood Thirst.*** If the flind isn't [incapacitated](/compendium/rules/conditions.md#incapacitated), any creature with the Rampage trait can make a Bite attack as a bonus action while within 10 feet of the flind.
+***Aura of Blood Thirst.*** If the flind isn't [incapacitated](rules/conditions.md#incapacitated), any creature with the Rampage trait can make a Bite attack as a bonus action while within 10 feet of the flind.
 
 ## Actions
 
@@ -53,7 +53,7 @@ title: Flind
 
 ***Flail of Pain.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 10 (`1d10 + 5`) bludgeoning damage plus 16 (`3d10`) psychic damage.
 
-***Flail of Paralysis.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 10 (`1d10 + 5`) bludgeoning damage, and the target must succeed on a DC 16 Constitution saving throw or be [paralyzed](/compendium/rules/conditions.md#paralyzed) until the end of its next turn.
+***Flail of Paralysis.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 10 (`1d10 + 5`) bludgeoning damage, and the target must succeed on a DC 16 Constitution saving throw or be [paralyzed](rules/conditions.md#paralyzed) until the end of its next turn.
 
 ***Longbow.*** *Ranged Weapon Attack:* +6 to hit, range 150/600 ft., one target. *Hit:* 6 (`1d8 + 2`) piercing damage.
 ```

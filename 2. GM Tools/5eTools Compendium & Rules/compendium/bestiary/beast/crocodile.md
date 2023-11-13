@@ -15,7 +15,7 @@ aliases: ["Crocodile"]
 
 ```ad-statblock
 title: Crocodile
-![](/compendium/bestiary/beast/token/crocodile.png#token)
+![](compendium/bestiary/beast/token/crocodile.png#token)
 *Large beast, Unaligned*
 
 - **Armor Class** 12  (natural armor)
@@ -39,7 +39,7 @@ title: Crocodile
 
 ## Actions
 
-***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 7 (`1d10 + 2`) piercing damage, and the target is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 12). Until this grapple ends, the target is [restrained](/compendium/rules/conditions.md#restrained), and the crocodile can't bite another target
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 7 (`1d10 + 2`) piercing damage, and the target is [grappled](rules/conditions.md#grappled) (escape DC 12). Until this grapple ends, the target is [restrained](rules/conditions.md#restrained), and the crocodile can't bite another target
 ```
 ^statblock
 

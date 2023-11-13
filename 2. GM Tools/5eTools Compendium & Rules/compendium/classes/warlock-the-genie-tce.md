@@ -23,10 +23,10 @@ You choose your patron's kind or determine it randomly, using the Genie Kind tab
 
 | dice: d4 | Kind | Element |
 |----------|------|---------|
-| 1 | [Dao](/compendium/bestiary/elemental/dao.md) | Earth |
-| 2 | [Djinni](/compendium/bestiary/elemental/djinni.md) | Air |
-| 3 | [Efreeti](/compendium/bestiary/elemental/efreeti.md) | Fire |
-| 4 | [Marid](/compendium/bestiary/elemental/marid.md) | Water |
+| 1 | [Dao](compendium/bestiary/elemental/dao.md) | Earth |
+| 2 | [Djinni](compendium/bestiary/elemental/djinni.md) | Air |
+| 3 | [Efreeti](compendium/bestiary/elemental/efreeti.md) | Fire |
+| 4 | [Marid](compendium/bestiary/elemental/marid.md) | Water |
 ^genie-kind
 
 #### Expanded Spell List
@@ -40,12 +40,12 @@ The Genie lets you choose from an expanded list of spells when you learn a warlo
 
 | Spell Level | Genie Spells | Dao Spells | Djinni Spells | Efreeti Spells | Marid Spells |
 |-------------|--------------|------------|---------------|----------------|--------------|
-| 1st | [detect evil and good](/compendium/spells/detect-evil-and-good.md) | [sanctuary](/compendium/spells/sanctuary.md) | [thunderwave](/compendium/spells/thunderwave.md) | [burning hands](/compendium/spells/burning-hands.md) | [fog cloud](/compendium/spells/fog-cloud.md) |
-| 2nd | [phantasmal force](/compendium/spells/phantasmal-force.md) | [spike growth](/compendium/spells/spike-growth.md) | [gust of wind](/compendium/spells/gust-of-wind.md) | [scorching ray](/compendium/spells/scorching-ray.md) | [blur](/compendium/spells/blur.md) |
-| 3rd | [create food and water](/compendium/spells/create-food-and-water.md) | [meld into stone](/compendium/spells/meld-into-stone.md) | [wind wall](/compendium/spells/wind-wall.md) | [fireball](/compendium/spells/fireball.md) | [sleet storm](/compendium/spells/sleet-storm.md) |
-| 4th | [phantasmal killer](/compendium/spells/phantasmal-killer.md) | [stone shape](/compendium/spells/stone-shape.md) | [greater invisibility](/compendium/spells/greater-invisibility.md) | [fire shield](/compendium/spells/fire-shield.md) | [control water](/compendium/spells/control-water.md) |
-| 5th | [creation](/compendium/spells/creation.md) | [wall of stone](/compendium/spells/wall-of-stone.md) | [seeming](/compendium/spells/seeming.md) | [flame strike](/compendium/spells/flame-strike.md) | [cone of cold](/compendium/spells/cone-of-cold.md) |
-| 9th | [wish](/compendium/spells/wish.md) | — | — | — | — |
+| 1st | [detect evil and good](compendium/spells/detect-evil-and-good.md) | [sanctuary](compendium/spells/sanctuary.md) | [thunderwave](compendium/spells/thunderwave.md) | [burning hands](compendium/spells/burning-hands.md) | [fog cloud](compendium/spells/fog-cloud.md) |
+| 2nd | [phantasmal force](compendium/spells/phantasmal-force.md) | [spike growth](compendium/spells/spike-growth.md) | [gust of wind](compendium/spells/gust-of-wind.md) | [scorching ray](compendium/spells/scorching-ray.md) | [blur](compendium/spells/blur.md) |
+| 3rd | [create food and water](compendium/spells/create-food-and-water.md) | [meld into stone](compendium/spells/meld-into-stone.md) | [wind wall](compendium/spells/wind-wall.md) | [fireball](compendium/spells/fireball.md) | [sleet storm](compendium/spells/sleet-storm.md) |
+| 4th | [phantasmal killer](compendium/spells/phantasmal-killer.md) | [stone shape](compendium/spells/stone-shape.md) | [greater invisibility](compendium/spells/greater-invisibility.md) | [fire shield](compendium/spells/fire-shield.md) | [control water](compendium/spells/control-water.md) |
+| 5th | [creation](compendium/spells/creation.md) | [wall of stone](compendium/spells/wall-of-stone.md) | [seeming](compendium/spells/seeming.md) | [flame strike](compendium/spells/flame-strike.md) | [cone of cold](compendium/spells/cone-of-cold.md) |
+| 9th | [wish](compendium/spells/wish.md) | — | — | — | — |
 ^genie-expanded-spells
 
 ### Genie's Vessel (Level 1)

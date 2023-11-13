@@ -31,13 +31,13 @@ The magic flowing through eladrin responds to their emotional state by transform
 
 ### Changeable Natures
 
-Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [incapacitated](/compendium/rules/conditions.md#incapacitated). When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
+Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [incapacitated](rules/conditions.md#incapacitated). When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
 
 ## Statblock
 
 ```ad-statblock
 title: Winter Eladrin
-![](/compendium/bestiary/fey/token/winter-eladrin.png#token)
+![](compendium/bestiary/fey/token/winter-eladrin.png#token)
 *Medium fey (elf), Typically  Chaotic Neutral*
 
 - **Armor Class** 19  (natural armor)
@@ -59,13 +59,13 @@ title: Winter Eladrin
 
 ***Magic Resistance.*** The eladrin has advantage on saving throws against spells and other magical effects.
 
-***Sorrowful Presence.*** Any non-eladrin creature that starts its turn within 60 feet of the eladrin must make a DC 13 Wisdom saving throw. On a failed save, the creature becomes [charmed](/compendium/rules/conditions.md#charmed) by the eladrin for 1 minute. While [charmed](/compendium/rules/conditions.md#charmed) in this way, the creature has disadvantage on ability checks and saving throws. The [charmed](/compendium/rules/conditions.md#charmed) creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to any eladrin's Sorrowful Presence for the next 24 hours.
+***Sorrowful Presence.*** Any non-eladrin creature that starts its turn within 60 feet of the eladrin must make a DC 13 Wisdom saving throw. On a failed save, the creature becomes [charmed](rules/conditions.md#charmed) by the eladrin for 1 minute. While [charmed](rules/conditions.md#charmed) in this way, the creature has disadvantage on ability checks and saving throws. The [charmed](rules/conditions.md#charmed) creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to any eladrin's Sorrowful Presence for the next 24 hours.
 
-Whenever the eladrin deals damage to the [charmed](/compendium/rules/conditions.md#charmed) creature, the [charmed](/compendium/rules/conditions.md#charmed) creature can repeat the saving throw, ending the effect on itself on a success.
+Whenever the eladrin deals damage to the [charmed](rules/conditions.md#charmed) creature, the [charmed](rules/conditions.md#charmed) creature can repeat the saving throw, ending the effect on itself on a success.
 
 ***Spellcasting.*** The eladrin casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 16):
 
-**At will**: [fog cloud](/compendium/spells/fog-cloud.md), [gust of wind](/compendium/spells/gust-of-wind.md), [sleet storm](/compendium/spells/sleet-storm.md)
+**At will**: [fog cloud](compendium/spells/fog-cloud.md), [gust of wind](compendium/spells/gust-of-wind.md), [sleet storm](compendium/spells/sleet-storm.md)
 
 ## Actions
 

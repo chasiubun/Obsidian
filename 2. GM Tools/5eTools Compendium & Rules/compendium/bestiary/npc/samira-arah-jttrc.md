@@ -13,7 +13,7 @@ aliases: ["Samira Arah"]
 
 ```ad-statblock
 title: Samira Arah
-![](/compendium/bestiary/npc/token/samira-arah.png#token)
+![](compendium/bestiary/npc/token/samira-arah.png#token)
 *Medium humanoid (High elf), Neutral*
 
 - **Armor Class** 12 
@@ -35,7 +35,7 @@ title: Samira Arah
 
 ***Cunning Action.*** On each of its turns, Samira can use a bonus action to take the Dash, Disengage, or Hide action.
 
-***Sneak Attack (1/Turn).*** Samira deals an extra 7 (`2d6`) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of Samira that isn't [incapacitated](/compendium/rules/conditions.md#incapacitated) and Samira doesn't have disadvantage on the attack roll.
+***Sneak Attack (1/Turn).*** Samira deals an extra 7 (`2d6`) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of Samira that isn't [incapacitated](rules/conditions.md#incapacitated) and Samira doesn't have disadvantage on the attack roll.
 
 ## Actions
 

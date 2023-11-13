@@ -46,7 +46,7 @@ The dracolich has immunity to poison. It also retains any immunities it had prio
 
 ### Condition Immunities
 
-The dracolich can't be [charmed](/compendium/rules/conditions.md#charmed), [frightened](/compendium/rules/conditions.md#frightened), [paralyzed](/compendium/rules/conditions.md#paralyzed), or [poisoned](/compendium/rules/conditions.md#poisoned). It also doesn't suffer from [exhaustion](/compendium/rules/conditions.md#exhaustion).
+The dracolich can't be [charmed](rules/conditions.md#charmed), [frightened](rules/conditions.md#frightened), [paralyzed](rules/conditions.md#paralyzed), or [poisoned](rules/conditions.md#poisoned). It also doesn't suffer from [exhaustion](rules/conditions.md#exhaustion).
 
 ### Magic Resistance
 
@@ -56,7 +56,7 @@ The dracolich has advantage on saving throws against spells and other magical ef
 
 ```ad-statblock
 title: Adult Blue Dracolich
-![](/compendium/bestiary/undead/token/adult-blue-dracolich.png#token)
+![](compendium/bestiary/undead/token/adult-blue-dracolich.png#token)
 *Huge undead, Lawful Evil*
 
 - **Armor Class** 19  (natural armor)
@@ -90,19 +90,19 @@ title: Adult Blue Dracolich
 
 ***Tail.*** *Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 16 (`2d8 + 7`) bludgeoning damage.
 
-***Frightful Presence.*** Each creature of the dracolich's choice that is within 120 feet of the dracolich and aware of it must succeed on a DC 18 Wisdom saving throw or become [frightened](/compendium/rules/conditions.md#frightened) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dracolich's Frightful Presence for the next 24 hours.
+***Frightful Presence.*** Each creature of the dracolich's choice that is within 120 feet of the dracolich and aware of it must succeed on a DC 18 Wisdom saving throw or become [frightened](rules/conditions.md#frightened) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dracolich's Frightful Presence for the next 24 hours.
 
 ***Lightning Breath (Recharge 5-6).*** The dracolich exhales lightning in a 90-foot line that is 5 feet wide. Each creature in that line must make a DC 20 Dexterity saving throw, taking 66 (`12d10`) lightning damage on a failed save, or half as much damage on a successful one.
 
 ## Legendary Actions
 
-***Detect.*** The dracolich makes a Wisdom ([Perception](/compendium/rules/skills.md#Perception)) check.
+***Detect.*** The dracolich makes a Wisdom ([Perception](rules/skills.md#Perception)) check.
 
 ***Tail Attack.*** The dracolich makes a tail attack.
 
-***Wing Attack (Costs 2 Actions).*** The dracolich beats its tattered wings. Each creature within 10 feet of the dracolich must succeed on a DC 21 Dexterity saving throw or take 14 (`2d6 + 7`) bludgeoning damage and be knocked [prone](/compendium/rules/conditions.md#prone). After beating its wings this way, the dracolich can fly up to half its flying speed.
+***Wing Attack (Costs 2 Actions).*** The dracolich beats its tattered wings. Each creature within 10 feet of the dracolich must succeed on a DC 21 Dexterity saving throw or take 14 (`2d6 + 7`) bludgeoning damage and be knocked [prone](rules/conditions.md#prone). After beating its wings this way, the dracolich can fly up to half its flying speed.
 
-![Blue Dragon](/compendium/bestiary/legendary-group/blue-dragon.md)
+![Blue Dragon](compendium/bestiary/legendary-group/blue-dragon.md)
 ```
 ^statblock
 

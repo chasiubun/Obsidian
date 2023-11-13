@@ -17,7 +17,7 @@ This feathered dinosaur is about the size of a large turkey. It is an aggressive
 
 ```ad-statblock
 title: Velociraptor
-![](/compendium/bestiary/beast/token/velociraptor.png#token)
+![](compendium/bestiary/beast/token/velociraptor.png#token)
 *Tiny beast (dinosaur), Unaligned*
 
 - **Armor Class** 13  (natural armor)
@@ -37,7 +37,7 @@ title: Velociraptor
 
 ## Traits
 
-***Pack Tactics.*** The velociraptor has advantage on an attack roll against a creature if at least one of the velociraptor's allies is within 5 feet of the creature and the ally isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Pack Tactics.*** The velociraptor has advantage on an attack roll against a creature if at least one of the velociraptor's allies is within 5 feet of the creature and the ally isn't [incapacitated](rules/conditions.md#incapacitated).
 
 ## Actions
 

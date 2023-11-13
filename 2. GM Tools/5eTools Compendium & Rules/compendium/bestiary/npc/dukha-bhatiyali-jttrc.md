@@ -14,7 +14,7 @@ aliases: ["Dukha Bhatiyali"]
 
 ```ad-statblock
 title: Dukha Bhatiyali
-![](/compendium/bestiary/npc/token/dukha-bhatiyali.png#token)
+![](compendium/bestiary/npc/token/dukha-bhatiyali.png#token)
 *Medium humanoid (human, shapechanger), Neutral*
 
 - **Armor Class** 12 
@@ -36,9 +36,9 @@ title: Dukha Bhatiyali
 
 ***Shapechanger.*** Dukha can use its action to polymorph into a tiger-humanoid hybrid or into a tiger, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
-***Keen Hearing and Smell.*** Dukha has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on hearing or smell.
+***Keen Hearing and Smell.*** Dukha has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on hearing or smell.
 
-***Pounce (Tiger or Hybrid Form Only).*** If Dukha moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked [prone](/compendium/rules/conditions.md#prone). If the target is [prone](/compendium/rules/conditions.md#prone), Dukha can make one bite attack against it as a bonus action.
+***Pounce (Tiger or Hybrid Form Only).*** If Dukha moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked [prone](rules/conditions.md#prone). If the target is [prone](rules/conditions.md#prone), Dukha can make one bite attack against it as a bonus action.
 
 ## Actions
 

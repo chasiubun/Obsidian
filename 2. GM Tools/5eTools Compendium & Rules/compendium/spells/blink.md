@@ -27,6 +27,6 @@ Roll a `d20` at the end of each of your turns for the duration of the spell. On 
 
 While on the Ethereal Plane, you can see and hear the plane you originated from, which is cast in shades of gray, and you can't see anything there more than 60 feet away. You can only affect and be affected by other creatures on the Ethereal Plane. Creatures that aren't there can't perceive you or interact with you, unless they have the ability to do so.
 
-**Classes**: [Artificer](/compendium/classes/artificer-tce.md), [Cleric (Trickery Domain)](/compendium/classes/cleric-trickery-domain.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Sorcerer](/compendium/classes/sorcerer.md), [Warlock (The Archfey)](/compendium/classes/warlock-the-archfey.md), [Warlock (The Hexblade)](/compendium/classes/warlock-the-hexblade-xge.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Artificer](compendium/classes/artificer-tce.md), [Cleric (Trickery Domain)](compendium/classes/cleric-trickery-domain.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Sorcerer](compendium/classes/sorcerer.md), [Warlock (The Archfey)](compendium/classes/warlock-the-archfey.md), [Warlock (The Hexblade)](compendium/classes/warlock-the-hexblade-xge.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 219. Available in the SRD.*

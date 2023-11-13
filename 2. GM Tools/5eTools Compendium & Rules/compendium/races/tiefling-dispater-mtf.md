@@ -35,7 +35,7 @@ You have resistance to fire damage.
 
 ### Legacy of Dis
 
-You know the [thaumaturgy](/compendium/spells/thaumaturgy.md) cantrip. When you reach 3rd level, you can cast the [disguise self](/compendium/spells/disguise-self.md) spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [detect thoughts](/compendium/spells/detect-thoughts.md) spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [thaumaturgy](compendium/spells/thaumaturgy.md) cantrip. When you reach 3rd level, you can cast the [disguise self](compendium/spells/disguise-self.md) spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [detect thoughts](compendium/spells/detect-thoughts.md) spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Languages
 

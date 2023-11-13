@@ -21,7 +21,7 @@ A zombie doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Greater Zombie
-![](/compendium/bestiary/undead/token/greater-zombie.png#token)
+![](compendium/bestiary/undead/token/greater-zombie.png#token)
 *Medium undead, Neutral Evil*
 
 - **Armor Class** 15  (natural armor)

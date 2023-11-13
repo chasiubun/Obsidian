@@ -24,7 +24,7 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
 
 ```ad-statblock
 title: Tortle
-![](/compendium/bestiary/humanoid/token/tortle.png#token)
+![](compendium/bestiary/humanoid/token/tortle.png#token)
 *Medium humanoid, Any alignment*
 
 - **Armor Class** 17  (natural armor)
@@ -54,7 +54,7 @@ title: Tortle
 
 ***Light Crossbow.*** *Ranged Weapon Attack:* +2 to hit, range 80/320 ft., one target. *Hit:* 4 (`1d8`) piercing damage.
 
-***Shell Defense.*** The tortle withdraws into its shell. Until it emerges, it gains a +4 bonus to AC and has advantage on Strength and Constitution saving throws. While in its shell, the tortle is [prone](/compendium/rules/conditions.md#prone), its speed is 0 and can't increase, it has disadvantage on Dexterity saving throws, it can't take reactions, and the only action it can take is a bonus action to emerge.
+***Shell Defense.*** The tortle withdraws into its shell. Until it emerges, it gains a +4 bonus to AC and has advantage on Strength and Constitution saving throws. While in its shell, the tortle is [prone](rules/conditions.md#prone), its speed is 0 and can't increase, it has disadvantage on Dexterity saving throws, it can't take reactions, and the only action it can take is a bonus action to emerge.
 ```
 ^statblock
 

@@ -23,7 +23,7 @@ The archaeomancers of Lorehold College draw their magical might from the flow of
 
 ```ad-statblock
 title: Lorehold Apprentice
-![](/compendium/bestiary/humanoid/token/lorehold-apprentice.png#token)
+![](compendium/bestiary/humanoid/token/lorehold-apprentice.png#token)
 *Small or Medium humanoid (wizard), Any alignment*
 
 - **Armor Class** 12 
@@ -43,9 +43,9 @@ title: Lorehold Apprentice
 
 ***Spellcasting.*** The apprentice casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 12):
 
-**At will**: [guidance](/compendium/spells/guidance.md), [light](/compendium/spells/light.md)
+**At will**: [guidance](compendium/spells/guidance.md), [light](compendium/spells/light.md)
 
-**1/day each**: [comprehend languages](/compendium/spells/comprehend-languages.md), [locate object](/compendium/spells/locate-object.md), [mage armor](/compendium/spells/mage-armor.md)
+**1/day each**: [comprehend languages](compendium/spells/comprehend-languages.md), [locate object](compendium/spells/locate-object.md), [mage armor](compendium/spells/mage-armor.md)
 
 ## Actions
 

@@ -24,7 +24,7 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 
 ```ad-statblock
 title: Wretched Sorrowsworn
-![](/compendium/bestiary/monstrosity/token/wretched-sorrowsworn.png#token)
+![](compendium/bestiary/monstrosity/token/wretched-sorrowsworn.png#token)
 *Small monstrosity, Typically  Neutral Evil*
 
 - **Armor Class** 15  (natural armor)
@@ -44,7 +44,7 @@ title: Wretched Sorrowsworn
 
 ## Traits
 
-***Wretched Pack Tactics.*** The sorrowsworn has advantage on an attack roll against a creature if at least one of the sorrowsworn's allies is within 5 feet of the creature and the ally isn't [incapacitated](/compendium/rules/conditions.md#incapacitated). The sorrowsworn otherwise has disadvantage on attack rolls.
+***Wretched Pack Tactics.*** The sorrowsworn has advantage on an attack roll against a creature if at least one of the sorrowsworn's allies is within 5 feet of the creature and the ally isn't [incapacitated](rules/conditions.md#incapacitated). The sorrowsworn otherwise has disadvantage on attack rolls.
 
 ## Actions
 

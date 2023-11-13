@@ -15,10 +15,10 @@ Redbrand ruffians are petty thugs and ruthless enforcers skilled at intimidation
 
 ```ad-statblock
 title: Redbrand Ruffian
-![](/compendium/bestiary/humanoid/token/redbrand-ruffian.png#token)
+![](compendium/bestiary/humanoid/token/redbrand-ruffian.png#token)
 *Medium humanoid (human), Neutral Evil*
 
-- **Armor Class** 14  ([studded leather](/compendium/items/studded-leather-armor.md))
+- **Armor Class** 14  ([studded leather](compendium/items/studded-leather-armor.md))
 - **Hit Points** 16 (`3d8 + 3`)
 - **Speed** 30 ft.
 

@@ -24,7 +24,7 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
 
 ```ad-statblock
 title: Tortle Druid
-![](/compendium/bestiary/humanoid/token/tortle-druid.png#token)
+![](compendium/bestiary/humanoid/token/tortle-druid.png#token)
 *Medium humanoid, Any alignment*
 
 - **Armor Class** 17  (natural armor)
@@ -48,9 +48,9 @@ title: Tortle Druid
 
 ***Spellcasting.*** The tortle casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 12):
 
-**At will**: [druidcraft](/compendium/spells/druidcraft.md), [guidance](/compendium/spells/guidance.md)
+**At will**: [druidcraft](compendium/spells/druidcraft.md), [guidance](compendium/spells/guidance.md)
 
-**2/day each**: [cure wounds](/compendium/spells/cure-wounds.md), [hold person](/compendium/spells/hold-person.md), [speak with animals](/compendium/spells/speak-with-animals.md), [thunderwave](/compendium/spells/thunderwave.md)
+**2/day each**: [cure wounds](compendium/spells/cure-wounds.md), [hold person](compendium/spells/hold-person.md), [speak with animals](compendium/spells/speak-with-animals.md), [thunderwave](compendium/spells/thunderwave.md)
 
 ## Actions
 
@@ -60,7 +60,7 @@ title: Tortle Druid
 
 ***Nature's Wrath.*** *Ranged Spell Attack:* +4 to hit, range 90 ft., one target. *Hit:* 9 (`2d6 + 2`) damage of a type chosen by the tortle: cold, fire, lightning, or thunder.
 
-***Shell Defense.*** The tortle withdraws into its shell. Until it emerges, it gains a +4 bonus to AC and has advantage on Strength and Constitution saving throws. While in its shell, the tortle is [prone](/compendium/rules/conditions.md#prone), its speed is 0 and can't increase, it has disadvantage on Dexterity saving throws, it can't take reactions, and the only action it can take is a bonus action to emerge.
+***Shell Defense.*** The tortle withdraws into its shell. Until it emerges, it gains a +4 bonus to AC and has advantage on Strength and Constitution saving throws. While in its shell, the tortle is [prone](rules/conditions.md#prone), its speed is 0 and can't increase, it has disadvantage on Dexterity saving throws, it can't take reactions, and the only action it can take is a bonus action to emerge.
 ```
 ^statblock
 

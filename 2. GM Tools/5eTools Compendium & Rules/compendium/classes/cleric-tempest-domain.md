@@ -24,11 +24,11 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [fog cloud](/compendium/spells/fog-cloud.md), [thunderwave](/compendium/spells/thunderwave.md) |
-| 3rd | [gust of wind](/compendium/spells/gust-of-wind.md), [shatter](/compendium/spells/shatter.md) |
-| 5th | [call lightning](/compendium/spells/call-lightning.md), [sleet storm](/compendium/spells/sleet-storm.md) |
-| 7th | [control water](/compendium/spells/control-water.md), [ice storm](/compendium/spells/ice-storm.md) |
-| 9th | [destructive wave](/compendium/spells/destructive-wave.md), [insect plague](/compendium/spells/insect-plague.md) |
+| 1st | [fog cloud](compendium/spells/fog-cloud.md), [thunderwave](compendium/spells/thunderwave.md) |
+| 3rd | [gust of wind](compendium/spells/gust-of-wind.md), [shatter](compendium/spells/shatter.md) |
+| 5th | [call lightning](compendium/spells/call-lightning.md), [sleet storm](compendium/spells/sleet-storm.md) |
+| 7th | [control water](compendium/spells/control-water.md), [ice storm](compendium/spells/ice-storm.md) |
+| 9th | [destructive wave](compendium/spells/destructive-wave.md), [insect plague](compendium/spells/insect-plague.md) |
 ^tempest-domain-spells
 
 ### Bonus Proficiencies (Level 1)
@@ -58,7 +58,7 @@ At 8th level, you gain the ability to infuse your weapon strikes with divine ene
 ### Blessed Strikes (Level 8)
 _Source: Tasha's Cauldron of Everything p. 30_
 
-*8th-level cleric [optional class features](/compendium/rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*
+*8th-level cleric [optional class features](rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*
 
 You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `1d8` radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 

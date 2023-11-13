@@ -13,10 +13,10 @@ aliases: ["Fire Giant Royal Headsman"]
 
 ```ad-statblock
 title: Fire Giant Royal Headsman
-![](/compendium/bestiary/giant/token/fire-giant-royal-headsman.png#token)
+![](compendium/bestiary/giant/token/fire-giant-royal-headsman.png#token)
 *Huge giant, Lawful Evil*
 
-- **Armor Class** 18  ([plate armor](/compendium/items/plate-armor.md))
+- **Armor Class** 18  ([plate armor](compendium/items/plate-armor.md))
 - **Hit Points** 162 (`13d12 + 78`)
 - **Speed** 30 ft.
 

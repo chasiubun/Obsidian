@@ -29,7 +29,7 @@ A storm giant quintessent has no need for castles or dungeon lairs. Their lair i
 
 ```ad-statblock
 title: Storm Giant Quintessent
-![](/compendium/bestiary/giant/token/storm-giant-quintessent.png#token)
+![](compendium/bestiary/giant/token/storm-giant-quintessent.png#token)
 *Huge giant, Typically  Chaotic Good*
 
 - **Armor Class** 12 
@@ -67,9 +67,9 @@ title: Storm Giant Quintessent
 
 ***Thunderbolt (Costs 2 Actions).*** The giant hurls a thunderbolt at a creature it can see within 600 feet of it. The target must make a DC 18 Dexterity saving throw, taking 22 (`4d10`) thunder damage on a failed save, or half as much damage on a successful one.
 
-***One with the Storm (Costs 3 Actions).*** The giant vanishes, dispersing itself into the storm surrounding its lair. The giant can end this effect at the start of any of its turns, becoming a giant once more and appearing in any location it chooses within its lair. While dispersed, the giant can't take any actions other than lair actions, and it can't be targeted by attacks, spells, or other effects. The giant can't use this ability outside its lair, nor can it use this ability if another creature is using a [control weather](/compendium/spells/control-weather.md) spell or similar magic to quell the storm.
+***One with the Storm (Costs 3 Actions).*** The giant vanishes, dispersing itself into the storm surrounding its lair. The giant can end this effect at the start of any of its turns, becoming a giant once more and appearing in any location it chooses within its lair. While dispersed, the giant can't take any actions other than lair actions, and it can't be targeted by attacks, spells, or other effects. The giant can't use this ability outside its lair, nor can it use this ability if another creature is using a [control weather](compendium/spells/control-weather.md) spell or similar magic to quell the storm.
 
-![Storm Giant Quintessent](/compendium/bestiary/legendary-group/storm-giant-quintessent-mpmm.md)
+![Storm Giant Quintessent](compendium/bestiary/legendary-group/storm-giant-quintessent-mpmm.md)
 ```
 ^statblock
 

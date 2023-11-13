@@ -13,7 +13,7 @@ aliases: ["Kobold Commoner"]
 
 ```ad-statblock
 title: Kobold Commoner
-![](/compendium/bestiary/humanoid/token/kobold-commoner.png#token)
+![](compendium/bestiary/humanoid/token/kobold-commoner.png#token)
 *Small humanoid (kobold), Any alignment*
 
 - **Armor Class** 10 

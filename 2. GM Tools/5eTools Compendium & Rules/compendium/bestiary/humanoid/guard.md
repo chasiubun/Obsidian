@@ -22,10 +22,10 @@ Guards include members of a city watch, sentries in a citadel or fortified town,
 
 ```ad-statblock
 title: Guard
-![](/compendium/bestiary/humanoid/token/guard.png#token)
+![](compendium/bestiary/humanoid/token/guard.png#token)
 *Medium humanoid (any race), Any alignment*
 
-- **Armor Class** 16  ([chain shirt](/compendium/items/chain-shirt.md), [shield](/compendium/items/shield.md))
+- **Armor Class** 16  ([chain shirt](compendium/items/chain-shirt.md), [shield](compendium/items/shield.md))
 - **Hit Points** 11 (`2d8 + 2`)
 - **Speed** 30 ft.
 

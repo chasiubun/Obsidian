@@ -63,7 +63,7 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 
 ```ad-statblock
 title: Yuan-ti Abomination
-![](/compendium/bestiary/monstrosity/token/yuan-ti-abomination.png#token)
+![](compendium/bestiary/monstrosity/token/yuan-ti-abomination.png#token)
 *Large monstrosity (shapechanger, yuan-ti), Neutral Evil*
 
 - **Armor Class** 15  (natural armor)
@@ -89,11 +89,11 @@ title: Yuan-ti Abomination
 
 ***Innate Spellcasting (Abomination Form Only).*** The yuan-ti's innate spellcasting ability is Charisma (spell save DC 15). The yuan-ti can innately cast the following spells, requiring no material components:
 
-**At will**: [animal friendship](/compendium/spells/animal-friendship.md) (snakes only)
+**At will**: [animal friendship](compendium/spells/animal-friendship.md) (snakes only)
 
-**1/day**: [fear](/compendium/spells/fear.md)
+**1/day**: [fear](compendium/spells/fear.md)
 
-**3/day**: [suggestion](/compendium/spells/suggestion.md)
+**3/day**: [suggestion](compendium/spells/suggestion.md)
 
 ## Actions
 
@@ -101,7 +101,7 @@ title: Yuan-ti Abomination
 
 ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:* 7 (`1d6 + 4`) piercing damage plus 10 (`3d6`) poison damage.
 
-***Constrict.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 11 (`2d6 + 4`) bludgeoning damage, and the target is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 14). Until this grapple ends, the target is [restrained](/compendium/rules/conditions.md#restrained), and the yuan-ti can't constrict another target.
+***Constrict.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 11 (`2d6 + 4`) bludgeoning damage, and the target is [grappled](rules/conditions.md#grappled) (escape DC 14). Until this grapple ends, the target is [restrained](rules/conditions.md#restrained), and the yuan-ti can't constrict another target.
 
 ***Scimitar (Abomination Form Only).*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (`2d6 + 4`) slashing damage.
 

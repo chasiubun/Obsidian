@@ -28,7 +28,7 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
 
 ```ad-statblock
 title: Myconid Adult
-![](/compendium/bestiary/plant/token/myconid-adult.png#token)
+![](compendium/bestiary/plant/token/myconid-adult.png#token)
 *Medium plant, Lawful Neutral*
 
 - **Armor Class** 12  (natural armor)
@@ -56,7 +56,7 @@ title: Myconid Adult
 
 ***Fist.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 5 (`2d4`) bludgeoning damage plus 5 (`2d4`) poison damage.
 
-***Pacifying Spores (3/Day).*** The myconid ejects spores at one creature it can see within 5 feet of it. The target must succeed on a DC 11 Constitution saving throw or be [stunned](/compendium/rules/conditions.md#stunned) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Pacifying Spores (3/Day).*** The myconid ejects spores at one creature it can see within 5 feet of it. The target must succeed on a DC 11 Constitution saving throw or be [stunned](rules/conditions.md#stunned) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Rapport Spores.*** A 20-foot radius of spores extends from the myconid. These spores can go around corners and affect only creatures with an Intelligence of 2 or higher that aren't undead, constructs, or elementals. Affected creatures can communicate telepathically with one another while they are within 30 feet of each other. The effect lasts for 1 hour.
 ```

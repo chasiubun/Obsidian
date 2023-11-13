@@ -13,6 +13,6 @@ aliases:
 *Wondrous Item, minor, uncommon*  
 
 
-While wearing this helm, you can use an action to cast the [comprehend languages](/compendium/spells/comprehend-languages.md) spell from it at will.
+While wearing this helm, you can use an action to cast the [comprehend languages](compendium/spells/comprehend-languages.md) spell from it at will.
 
 *Source: Dungeon Master's Guide p. 173. Available in the SRD.*

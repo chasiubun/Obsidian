@@ -31,7 +31,7 @@ When you reach certain levels in this class, you can reduce the damage by more: 
 
 ### Consult the Spirits (Level 10)
 
-At 10th level, you gain the ability to consult with your ancestral spirits. When you do so, you cast the [augury](/compendium/spells/augury.md) or [clairvoyance](/compendium/spells/clairvoyance.md) spell, without using a spell slot or material components. Rather than creating a spherical sensor, this use of [clairvoyance](/compendium/spells/clairvoyance.md) invisibly summons one of your ancestral spirits to the chosen location. Wisdom is your spellcasting ability for these spells.
+At 10th level, you gain the ability to consult with your ancestral spirits. When you do so, you cast the [augury](compendium/spells/augury.md) or [clairvoyance](compendium/spells/clairvoyance.md) spell, without using a spell slot or material components. Rather than creating a spherical sensor, this use of [clairvoyance](compendium/spells/clairvoyance.md) invisibly summons one of your ancestral spirits to the chosen location. Wisdom is your spellcasting ability for these spells.
 
 After you cast either spell in this way, you can't use this feature again until you finish a short or long rest.
 

@@ -17,10 +17,10 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 
 ```ad-statblock
 title: Earth Elemental Myrmidon
-![](/compendium/bestiary/elemental/token/earth-elemental-myrmidon.png#token)
+![](compendium/bestiary/elemental/token/earth-elemental-myrmidon.png#token)
 *Medium elemental, Typically  Neutral*
 
-- **Armor Class** 18  ([plate](/compendium/items/plate-armor.md))
+- **Armor Class** 18  ([plate](compendium/items/plate-armor.md))
 - **Hit Points** 127 (`17d8 + 51`)
 - **Speed** 30 ft.
 
@@ -41,6 +41,6 @@ title: Earth Elemental Myrmidon
 
 ***Maul.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (`2d6 + 4`) force damage.
 
-***Thunderous Strike (Recharge 6).*** The myrmidon makes one Maul attack. On a hit, the target takes an extra 22 (`4d10`) thunder damage, and the target must succeed on a DC 14 Strength saving throw or be knocked [prone](/compendium/rules/conditions.md#prone).
+***Thunderous Strike (Recharge 6).*** The myrmidon makes one Maul attack. On a hit, the target takes an extra 22 (`4d10`) thunder damage, and the target must succeed on a DC 14 Strength saving throw or be knocked [prone](rules/conditions.md#prone).
 ```
 ^statblock

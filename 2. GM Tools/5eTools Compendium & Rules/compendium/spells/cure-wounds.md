@@ -29,6 +29,6 @@ A creature you touch regains a number of hit points equal to `1d8` + your spellc
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.
 
-**Classes**: [Artificer](/compendium/classes/artificer-tce.md), [Bard](/compendium/classes/bard.md), [Cleric (Life Domain)](/compendium/classes/cleric-life-domain.md), [Cleric](/compendium/classes/cleric.md), [Druid (Circle of Wildfire)](/compendium/classes/druid-circle-of-wildfire-tce.md), [Druid](/compendium/classes/druid.md), [Paladin](/compendium/classes/paladin.md), [Ranger](/compendium/classes/ranger.md), [Sorcerer (Divine Soul)](/compendium/classes/sorcerer-divine-soul-xge.md), [Warlock (The Celestial)](/compendium/classes/warlock-the-celestial-xge.md)
+**Classes**: [Artificer](compendium/classes/artificer-tce.md), [Bard](compendium/classes/bard.md), [Cleric (Life Domain)](compendium/classes/cleric-life-domain.md), [Cleric](compendium/classes/cleric.md), [Druid (Circle of Wildfire)](compendium/classes/druid-circle-of-wildfire-tce.md), [Druid](compendium/classes/druid.md), [Paladin](compendium/classes/paladin.md), [Ranger](compendium/classes/ranger.md), [Sorcerer (Divine Soul)](compendium/classes/sorcerer-divine-soul-xge.md), [Warlock (The Celestial)](compendium/classes/warlock-the-celestial-xge.md)
 
 *Source: Player's Handbook p. 230. Available in the SRD and the Basic Rules.*

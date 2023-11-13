@@ -28,8 +28,8 @@ You create an invisible sensor within range in a location familiar to you (a pla
 
 When you cast the spell, you choose seeing or hearing. You can use the chosen sense through the sensor as if you were in its space. As your action, you can switch between seeing and hearing.
 
-A creature that can see the sensor (such as a creature benefiting from [see invisibility](/compendium/spells/see-invisibility.md) or [truesight](/compendium/rules/senses.md#truesight)) sees a luminous, intangible orb about the size of your fist.
+A creature that can see the sensor (such as a creature benefiting from [see invisibility](compendium/spells/see-invisibility.md) or [truesight](rules/senses.md#truesight)) sees a luminous, intangible orb about the size of your fist.
 
-**Classes**: [Barbarian (Path of the Ancestral Guardian)](/compendium/classes/barbarian-path-of-the-ancestral-guardian-xge.md), [Bard](/compendium/classes/bard.md), [Cleric](/compendium/classes/cleric.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Sorcerer (Divine Soul)](/compendium/classes/sorcerer-divine-soul-xge.md), [Sorcerer](/compendium/classes/sorcerer.md), [Warlock (The Great Old One)](/compendium/classes/warlock-the-great-old-one.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Barbarian (Path of the Ancestral Guardian)](compendium/classes/barbarian-path-of-the-ancestral-guardian-xge.md), [Bard](compendium/classes/bard.md), [Cleric](compendium/classes/cleric.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Sorcerer (Divine Soul)](compendium/classes/sorcerer-divine-soul-xge.md), [Sorcerer](compendium/classes/sorcerer.md), [Warlock (The Great Old One)](compendium/classes/warlock-the-great-old-one.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 222. Available in the SRD.*

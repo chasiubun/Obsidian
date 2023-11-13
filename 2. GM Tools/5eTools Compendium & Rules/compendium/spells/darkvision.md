@@ -23,8 +23,8 @@ aliases: ["Darkvision"]
 - **Components:** V, S, either a pinch of dried carrot or an agate
 - **Duration:** 8 hour
 
-You touch a willing creature to grant it the ability to see in the dark. For the duration, that creature has [darkvision](/compendium/rules/senses.md#darkvision) out to a range of 60 feet.
+You touch a willing creature to grant it the ability to see in the dark. For the duration, that creature has [darkvision](rules/senses.md#darkvision) out to a range of 60 feet.
 
-**Classes**: [Artificer](/compendium/classes/artificer-tce.md), [Druid](/compendium/classes/druid.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Monk (Way of Shadow)](/compendium/classes/monk-way-of-shadow.md), [Ranger](/compendium/classes/ranger.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Sorcerer](/compendium/classes/sorcerer.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Artificer](compendium/classes/artificer-tce.md), [Druid](compendium/classes/druid.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Monk (Way of Shadow)](compendium/classes/monk-way-of-shadow.md), [Ranger](compendium/classes/ranger.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 230. Available in the SRD.*

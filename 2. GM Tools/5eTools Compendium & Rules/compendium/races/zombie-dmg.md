@@ -22,7 +22,7 @@ If damage reduces you to 0 hit points, you must make a Constitution saving throw
 
 ### Undead Nature
 
-You are immune to poison damage, and you can't be [poisoned](/compendium/rules/conditions.md#poisoned). You don't require air, food, drink, or sleep.
+You are immune to poison damage, and you can't be [poisoned](rules/conditions.md#poisoned). You don't require air, food, drink, or sleep.
 
 ### Darkvision
 

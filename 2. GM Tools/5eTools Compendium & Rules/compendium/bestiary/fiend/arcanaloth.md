@@ -70,7 +70,7 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 
 ```ad-statblock
 title: Arcanaloth
-![](/compendium/bestiary/fiend/token/arcanaloth.png#token)
+![](compendium/bestiary/fiend/token/arcanaloth.png#token)
 *Medium fiend (yugoloth), Neutral Evil*
 
 - **Armor Class** 17  (natural armor)
@@ -96,27 +96,27 @@ title: Arcanaloth
 
 ***Innate Spellcasting.*** The arcanaloth's innate spellcasting ability is Charisma (spell save DC 15). The arcanaloth can innately cast the following spells, requiring no material components:
 
-**At will**: [alter self](/compendium/spells/alter-self.md), [darkness](/compendium/spells/darkness.md), [heat metal](/compendium/spells/heat-metal.md), [invisibility](/compendium/spells/invisibility.md) (self only), [magic missile](/compendium/spells/magic-missile.md)
+**At will**: [alter self](compendium/spells/alter-self.md), [darkness](compendium/spells/darkness.md), [heat metal](compendium/spells/heat-metal.md), [invisibility](compendium/spells/invisibility.md) (self only), [magic missile](compendium/spells/magic-missile.md)
 
 ***Spellcasting.*** The arcanaloth is a 16th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The arcanaloth has the following wizard spells prepared:
 
-**Cantrips (at will)**: [fire bolt](/compendium/spells/fire-bolt.md), [mage hand](/compendium/spells/mage-hand.md), [minor illusion](/compendium/spells/minor-illusion.md), [prestidigitation](/compendium/spells/prestidigitation.md)
+**Cantrips (at will)**: [fire bolt](compendium/spells/fire-bolt.md), [mage hand](compendium/spells/mage-hand.md), [minor illusion](compendium/spells/minor-illusion.md), [prestidigitation](compendium/spells/prestidigitation.md)
 
-**1st level (4 slots)**: [detect magic](/compendium/spells/detect-magic.md), [identify](/compendium/spells/identify.md), [shield](/compendium/spells/shield.md), [Tenser's floating disk](/compendium/spells/tensers-floating-disk.md)
+**1st level (4 slots)**: [detect magic](compendium/spells/detect-magic.md), [identify](compendium/spells/identify.md), [shield](compendium/spells/shield.md), [Tenser's floating disk](compendium/spells/tensers-floating-disk.md)
 
-**2nd level (3 slots)**: [detect thoughts](/compendium/spells/detect-thoughts.md), [mirror image](/compendium/spells/mirror-image.md), [phantasmal force](/compendium/spells/phantasmal-force.md), [suggestion](/compendium/spells/suggestion.md)
+**2nd level (3 slots)**: [detect thoughts](compendium/spells/detect-thoughts.md), [mirror image](compendium/spells/mirror-image.md), [phantasmal force](compendium/spells/phantasmal-force.md), [suggestion](compendium/spells/suggestion.md)
 
-**3rd level (3 slots)**: [counterspell](/compendium/spells/counterspell.md), [fear](/compendium/spells/fear.md), [fireball](/compendium/spells/fireball.md)
+**3rd level (3 slots)**: [counterspell](compendium/spells/counterspell.md), [fear](compendium/spells/fear.md), [fireball](compendium/spells/fireball.md)
 
-**4th level (3 slots)**: [banishment](/compendium/spells/banishment.md), [dimension door](/compendium/spells/dimension-door.md)
+**4th level (3 slots)**: [banishment](compendium/spells/banishment.md), [dimension door](compendium/spells/dimension-door.md)
 
-**5th level (2 slots)**: [contact other plane](/compendium/spells/contact-other-plane.md), [hold monster](/compendium/spells/hold-monster.md)
+**5th level (2 slots)**: [contact other plane](compendium/spells/contact-other-plane.md), [hold monster](compendium/spells/hold-monster.md)
 
-**6th level (1 slots)**: [chain lightning](/compendium/spells/chain-lightning.md)
+**6th level (1 slots)**: [chain lightning](compendium/spells/chain-lightning.md)
 
-**7th level (1 slots)**: [finger of death](/compendium/spells/finger-of-death.md)
+**7th level (1 slots)**: [finger of death](compendium/spells/finger-of-death.md)
 
-**8th level (1 slots)**: [mind blank](/compendium/spells/mind-blank.md)
+**8th level (1 slots)**: [mind blank](compendium/spells/mind-blank.md)
 
 ## Actions
 

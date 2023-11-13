@@ -13,7 +13,7 @@ aliases: ["Bat"]
 
 ```ad-statblock
 title: Bat
-![](/compendium/bestiary/beast/token/bat.png#token)
+![](compendium/bestiary/beast/token/bat.png#token)
 *Tiny beast, Unaligned*
 
 - **Armor Class** 12 
@@ -33,9 +33,9 @@ title: Bat
 
 ## Traits
 
-***Echolocation.*** The bat can't use its blindsight while [deafened](/compendium/rules/conditions.md#deafened).
+***Echolocation.*** The bat can't use its blindsight while [deafened](rules/conditions.md#deafened).
 
-***Keen Hearing.*** The bat has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on hearing.
+***Keen Hearing.*** The bat has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on hearing.
 
 ## Actions
 

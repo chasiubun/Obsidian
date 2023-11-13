@@ -13,7 +13,7 @@ aliases: ["Kalka-Kylla"]
 
 ```ad-statblock
 title: Kalka-Kylla
-![](/compendium/bestiary/npc/token/kalka-kylla.png#token)
+![](compendium/bestiary/npc/token/kalka-kylla.png#token)
 *Large monstrosity, Neutral*
 
 - **Armor Class** 15  (natural armor)
@@ -43,6 +43,6 @@ title: Kalka-Kylla
 
 ***Multiattack.*** Kalka-Kylla makes two claw attacks.
 
-***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) bludgeoning damage, and if the target is a Medium or smaller creature, it is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 13). Until this grapple ends, the target is [restrained](/compendium/rules/conditions.md#restrained). Kalka-Kylla has two claws, each of which can grapple only one target.
+***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) bludgeoning damage, and if the target is a Medium or smaller creature, it is [grappled](rules/conditions.md#grappled) (escape DC 13). Until this grapple ends, the target is [restrained](rules/conditions.md#restrained). Kalka-Kylla has two claws, each of which can grapple only one target.
 ```
 ^statblock

@@ -28,7 +28,7 @@ A hippogriff raised in captivity can be trained to be a faithful companion and m
 
 ```ad-statblock
 title: Hippogriff
-![](/compendium/bestiary/monstrosity/token/hippogriff.png#token)
+![](compendium/bestiary/monstrosity/token/hippogriff.png#token)
 *Large monstrosity, Unaligned*
 
 - **Armor Class** 11 
@@ -48,7 +48,7 @@ title: Hippogriff
 
 ## Traits
 
-***Keen Sight.*** The hippogriff has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Keen Sight.*** The hippogriff has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 

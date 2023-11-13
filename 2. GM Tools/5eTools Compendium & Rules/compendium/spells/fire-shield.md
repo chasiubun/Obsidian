@@ -29,6 +29,6 @@ The flames provide you with a warm shield or a chill shield, as you choose. The 
 
 In addition, whenever a creature within 5 feet of you hits you with a melee attack, the shield erupts with flame. The attacker takes `2d8` fire damage from a warm shield, or `2d8` cold damage from a cold shield.
 
-**Classes**: [Artificer (Armorer)](/compendium/classes/artificer-armorer-tce.md), [Artificer (Battle Smith)](/compendium/classes/artificer-battle-smith-tce.md), [Druid (Circle of Wildfire)](/compendium/classes/druid-circle-of-wildfire-tce.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Warlock (The Fiend)](/compendium/classes/warlock-the-fiend.md), [Warlock (The Genie)](/compendium/classes/warlock-the-genie-tce.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Artificer (Armorer)](compendium/classes/artificer-armorer-tce.md), [Artificer (Battle Smith)](compendium/classes/artificer-battle-smith-tce.md), [Druid (Circle of Wildfire)](compendium/classes/druid-circle-of-wildfire-tce.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Warlock (The Fiend)](compendium/classes/warlock-the-fiend.md), [Warlock (The Genie)](compendium/classes/warlock-the-genie-tce.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 242. Available in the SRD.*

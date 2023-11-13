@@ -23,7 +23,7 @@ The scholars of Prismari College believe that art is the truest form of spellcra
 
 ```ad-statblock
 title: Prismari Professor of Perfection
-![](/compendium/bestiary/humanoid/token/prismari-professor-of-perfection.png#token)
+![](compendium/bestiary/humanoid/token/prismari-professor-of-perfection.png#token)
 *Small or Medium humanoid (sorcerer), Any alignment*
 
 - **Armor Class** 13 
@@ -47,11 +47,11 @@ title: Prismari Professor of Perfection
 
 ***Spellcasting.*** The professor casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 15):
 
-**At will**: [minor illusion](/compendium/spells/minor-illusion.md)
+**At will**: [minor illusion](compendium/spells/minor-illusion.md)
 
-**1/day**: [wall of ice](/compendium/spells/wall-of-ice.md)
+**1/day**: [wall of ice](compendium/spells/wall-of-ice.md)
 
-**2/day each**: [control water](/compendium/spells/control-water.md), [create or destroy water](/compendium/spells/create-or-destroy-water.md), [mage armor](/compendium/spells/mage-armor.md), [stone shape](/compendium/spells/stone-shape.md)
+**2/day each**: [control water](compendium/spells/control-water.md), [create or destroy water](compendium/spells/create-or-destroy-water.md), [mage armor](compendium/spells/mage-armor.md), [stone shape](compendium/spells/stone-shape.md)
 
 ## Actions
 
@@ -61,6 +61,6 @@ title: Prismari Professor of Perfection
 
 ## Bonus Actions
 
-***Rushing Wave.*** The professor is momentarily surrounded by a swirling wave of water and moves up to 30 feet. When the professor moves within 5 feet of any other creature during this bonus action, that creature must succeed on a DC 15 Strength saving throw, or the creature is knocked [prone](/compendium/rules/conditions.md#prone) and it can't take reactions until the start of its next turn. A creature can suffer this effect only once during a turn.
+***Rushing Wave.*** The professor is momentarily surrounded by a swirling wave of water and moves up to 30 feet. When the professor moves within 5 feet of any other creature during this bonus action, that creature must succeed on a DC 15 Strength saving throw, or the creature is knocked [prone](rules/conditions.md#prone) and it can't take reactions until the start of its next turn. A creature can suffer this effect only once during a turn.
 ```
 ^statblock

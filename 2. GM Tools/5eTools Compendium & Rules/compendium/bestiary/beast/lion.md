@@ -17,7 +17,7 @@ aliases: ["Lion"]
 
 ```ad-statblock
 title: Lion
-![](/compendium/bestiary/beast/token/lion.png#token)
+![](compendium/bestiary/beast/token/lion.png#token)
 *Large beast, Unaligned*
 
 - **Armor Class** 12 
@@ -37,11 +37,11 @@ title: Lion
 
 ## Traits
 
-***Keen Smell.*** The lion has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on smell.
+***Keen Smell.*** The lion has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on smell.
 
-***Pack Tactics.*** The lion has advantage on an attack roll against a creature if at least one of the lion's allies is within 5 feet of the creature and the ally isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Pack Tactics.*** The lion has advantage on an attack roll against a creature if at least one of the lion's allies is within 5 feet of the creature and the ally isn't [incapacitated](rules/conditions.md#incapacitated).
 
-***Pounce.*** If the lion moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked [prone](/compendium/rules/conditions.md#prone). If the target is [prone](/compendium/rules/conditions.md#prone), the lion can make one bite attack against it as a bonus action.
+***Pounce.*** If the lion moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked [prone](rules/conditions.md#prone). If the target is [prone](rules/conditions.md#prone), the lion can make one bite attack against it as a bonus action.
 
 ***Running Leap.*** With a 10-foot running start, the lion can long jump up to 25 feet.
 

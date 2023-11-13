@@ -13,7 +13,7 @@ aliases: ["Nene"]
 
 ```ad-statblock
 title: Nene
-![](/compendium/bestiary/npc/token/nene.png#token)
+![](compendium/bestiary/npc/token/nene.png#token)
 *Tiny fey, Unaligned*
 
 - **Armor Class** 13 
@@ -33,7 +33,7 @@ title: Nene
 
 ## Traits
 
-***Keen Sight.*** Nene has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Keen Sight.*** Nene has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 

@@ -15,7 +15,7 @@ aliases:
 
 - **Weight**: 2.0 lbs.
 
-The rod has 5 charges. While you hold it, you can use an action to cast one of the following spells from it: [heal](/compendium/spells/heal.md) (expends 1 charge) or [resurrection](/compendium/spells/resurrection.md) (expends 5 charges).
+The rod has 5 charges. While you hold it, you can use an action to cast one of the following spells from it: [heal](compendium/spells/heal.md) (expends 1 charge) or [resurrection](compendium/spells/resurrection.md) (expends 5 charges).
 
 The rod regains 1 expended charge daily at dawn. If the rod is reduced to 0 charges, roll a `d20`. On a 1, the rod disappears in a burst of radiance.
 

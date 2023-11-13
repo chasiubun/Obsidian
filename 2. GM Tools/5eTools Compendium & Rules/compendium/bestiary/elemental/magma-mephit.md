@@ -30,7 +30,7 @@ Composed of earth and fire, magma mephits glow a dull red color as they perspire
 
 ```ad-statblock
 title: Magma Mephit
-![](/compendium/bestiary/elemental/token/magma-mephit.png#token)
+![](compendium/bestiary/elemental/token/magma-mephit.png#token)
 *Small elemental, Neutral Evil*
 
 - **Armor Class** 11 
@@ -54,9 +54,9 @@ title: Magma Mephit
 
 ***False Appearance.*** While the mephit remains motionless, it is indistinguishable from an ordinary mound of magma.
 
-***Innate Spellcasting (1/Day).*** The mephit can innately cast [heat metal](/compendium/spells/heat-metal.md) (spell save DC 10), requiring no material components. Its innate spellcasting ability is Charisma.
+***Innate Spellcasting (1/Day).*** The mephit can innately cast [heat metal](compendium/spells/heat-metal.md) (spell save DC 10), requiring no material components. Its innate spellcasting ability is Charisma.
 
-**At will**: [heat metal](/compendium/spells/heat-metal.md)
+**At will**: [heat metal](compendium/spells/heat-metal.md)
 
 ## Actions
 

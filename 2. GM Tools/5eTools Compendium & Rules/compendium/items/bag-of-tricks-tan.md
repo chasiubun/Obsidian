@@ -24,14 +24,14 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 
 | dice: d8 | Creature |
 |----------|----------|
-| 1 | [Jackal](/compendium/bestiary/beast/jackal.md) |
-| 2 | [Ape](/compendium/bestiary/beast/ape.md) |
-| 3 | [Baboon](/compendium/bestiary/beast/baboon.md) |
-| 4 | [Axe beak](/compendium/bestiary/beast/axe-beak.md) |
-| 5 | [Black bear](/compendium/bestiary/beast/black-bear.md) |
-| 6 | [Giant weasel](/compendium/bestiary/beast/giant-weasel.md) |
-| 7 | [Giant hyena](/compendium/bestiary/beast/giant-hyena.md) |
-| 8 | [Tiger](/compendium/bestiary/beast/tiger.md) |
+| 1 | [Jackal](compendium/bestiary/beast/jackal.md) |
+| 2 | [Ape](compendium/bestiary/beast/ape.md) |
+| 3 | [Baboon](compendium/bestiary/beast/baboon.md) |
+| 4 | [Axe beak](compendium/bestiary/beast/axe-beak.md) |
+| 5 | [Black bear](compendium/bestiary/beast/black-bear.md) |
+| 6 | [Giant weasel](compendium/bestiary/beast/giant-weasel.md) |
+| 7 | [Giant hyena](compendium/bestiary/beast/giant-hyena.md) |
+| 8 | [Tiger](compendium/bestiary/beast/tiger.md) |
 ^creature
 
 *Source: Dungeon Master's Guide p. 154. Available in the SRD.*

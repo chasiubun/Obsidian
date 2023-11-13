@@ -63,7 +63,7 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 
 ```ad-statblock
 title: Yuan-ti Pureblood
-![](/compendium/bestiary/humanoid/token/yuan-ti-pureblood.png#token)
+![](compendium/bestiary/humanoid/token/yuan-ti-pureblood.png#token)
 *Medium humanoid (yuan-ti), Neutral Evil*
 
 - **Armor Class** 11 
@@ -87,9 +87,9 @@ title: Yuan-ti Pureblood
 
 ***Innate Spellcasting.*** The yuan-ti's spellcasting ability is Charisma (spell save DC 12). The yuan-ti can innately cast the following spells, requiring no material components:
 
-**At will**: [animal friendship](/compendium/spells/animal-friendship.md) (snakes only)
+**At will**: [animal friendship](compendium/spells/animal-friendship.md) (snakes only)
 
-**3/day each**: [poison spray](/compendium/spells/poison-spray.md), [suggestion](/compendium/spells/suggestion.md)
+**3/day each**: [poison spray](compendium/spells/poison-spray.md), [suggestion](compendium/spells/suggestion.md)
 
 ## Actions
 

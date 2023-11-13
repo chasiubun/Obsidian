@@ -24,7 +24,7 @@ Dreamwalkers become divorced from reality by isolation, shame, and their unendin
 
 ```ad-statblock
 title: Stone Giant Dreamwalker
-![](/compendium/bestiary/giant/token/stone-giant-dreamwalker.png#token)
+![](compendium/bestiary/giant/token/stone-giant-dreamwalker.png#token)
 *Huge giant, Typically  Chaotic Neutral*
 
 - **Armor Class** 18  (natural armor)
@@ -44,7 +44,7 @@ title: Stone Giant Dreamwalker
 
 ## Traits
 
-***Dreamwalker's Charm.*** An enemy that starts its turn within 30 feet of the giant must make a DC 13 Charisma saving throw, provided that the giant isn't [incapacitated](/compendium/rules/conditions.md#incapacitated). On a failed save, the creature is [charmed](/compendium/rules/conditions.md#charmed) by the giant. A creature [charmed](/compendium/rules/conditions.md#charmed) in this way can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Once it succeeds on the saving throw, the creature is immune to this giant's Dreamwalker's Charm for 24 hours.
+***Dreamwalker's Charm.*** An enemy that starts its turn within 30 feet of the giant must make a DC 13 Charisma saving throw, provided that the giant isn't [incapacitated](rules/conditions.md#incapacitated). On a failed save, the creature is [charmed](rules/conditions.md#charmed) by the giant. A creature [charmed](rules/conditions.md#charmed) in this way can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Once it succeeds on the saving throw, the creature is immune to this giant's Dreamwalker's Charm for 24 hours.
 
 ## Actions
 
@@ -52,9 +52,9 @@ title: Stone Giant Dreamwalker
 
 ***Greatclub.*** *Melee Weapon Attack:* +10 to hit, reach 15 ft., one target. *Hit:* 24 (`4d8 + 6`) bludgeoning damage.
 
-***Rock.*** *Ranged Weapon Attack:* +10 to hit, range 60/240 ft., one target. *Hit:* 22 (`3d10 + 6`) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked [prone](/compendium/rules/conditions.md#prone).
+***Rock.*** *Ranged Weapon Attack:* +10 to hit, range 60/240 ft., one target. *Hit:* 22 (`3d10 + 6`) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked [prone](rules/conditions.md#prone).
 
-***Petrifying Touch.*** The giant touches one Medium or smaller creature within 10 feet of it that is [charmed](/compendium/rules/conditions.md#charmed) by it. The target must make a DC 17 Constitution saving throw. On a failed save, the target becomes [petrified](/compendium/rules/conditions.md#petrified), and the giant can adhere the target to its stony body. [greater restoration](/compendium/spells/greater-restoration.md) spells and other magic that can undo petrification have no effect on a [petrified](/compendium/rules/conditions.md#petrified) creature adhered to the giant unless the giant is dead, in which case the magic works normally, freeing the [petrified](/compendium/rules/conditions.md#petrified) creature as well as ending the [petrified](/compendium/rules/conditions.md#petrified) condition on it.
+***Petrifying Touch.*** The giant touches one Medium or smaller creature within 10 feet of it that is [charmed](rules/conditions.md#charmed) by it. The target must make a DC 17 Constitution saving throw. On a failed save, the target becomes [petrified](rules/conditions.md#petrified), and the giant can adhere the target to its stony body. [greater restoration](compendium/spells/greater-restoration.md) spells and other magic that can undo petrification have no effect on a [petrified](rules/conditions.md#petrified) creature adhered to the giant unless the giant is dead, in which case the magic works normally, freeing the [petrified](rules/conditions.md#petrified) creature as well as ending the [petrified](rules/conditions.md#petrified) condition on it.
 ```
 ^statblock
 

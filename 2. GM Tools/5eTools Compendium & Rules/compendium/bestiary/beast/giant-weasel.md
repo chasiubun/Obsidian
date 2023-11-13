@@ -16,7 +16,7 @@ aliases: ["Giant Weasel"]
 
 ```ad-statblock
 title: Giant Weasel
-![](/compendium/bestiary/beast/token/giant-weasel.png#token)
+![](compendium/bestiary/beast/token/giant-weasel.png#token)
 *Medium beast, Unaligned*
 
 - **Armor Class** 13 
@@ -36,7 +36,7 @@ title: Giant Weasel
 
 ## Traits
 
-***Keen Hearing and Smell.*** The weasel has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on hearing or smell.
+***Keen Hearing and Smell.*** The weasel has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on hearing or smell.
 
 ## Actions
 

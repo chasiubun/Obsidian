@@ -32,10 +32,10 @@ If its host is killed or the possession is ended by a spell such as hallow, magi
 
 ```ad-statblock
 title: Nilbog
-![](/compendium/bestiary/fey/token/nilbog.png#token)
+![](compendium/bestiary/fey/token/nilbog.png#token)
 *Small fey (goblinoid), Typically  Chaotic Neutral*
 
-- **Armor Class** 13  ([leather armor](/compendium/items/leather-armor.md))
+- **Armor Class** 13  ([leather armor](compendium/items/leather-armor.md))
 - **Hit Points** 7 (`2d6`)
 - **Speed** 30 ft.
 
@@ -52,13 +52,13 @@ title: Nilbog
 
 ## Traits
 
-***Nilbogism.*** Any creature that attempts to damage the nilbog must first succeed on a DC 12 Charisma saving throw or be [charmed](/compendium/rules/conditions.md#charmed) until the end of the creature's next turn. A creature [charmed](/compendium/rules/conditions.md#charmed) in this way must use its action praising the nilbog.
+***Nilbogism.*** Any creature that attempts to damage the nilbog must first succeed on a DC 12 Charisma saving throw or be [charmed](rules/conditions.md#charmed) until the end of the creature's next turn. A creature [charmed](rules/conditions.md#charmed) in this way must use its action praising the nilbog.
 
 The nilbog can't regain hit points, including through magical healing, except through its Reversal of Fortune reaction.
 
 ***Spellcasting.*** The nilbog casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 12):
 
-**At will**: [mage hand](/compendium/spells/mage-hand.md), [Tasha's hideous laughter](/compendium/spells/tashas-hideous-laughter.md)
+**At will**: [mage hand](compendium/spells/mage-hand.md), [Tasha's hideous laughter](compendium/spells/tashas-hideous-laughter.md)
 
 ## Actions
 
@@ -68,7 +68,7 @@ The nilbog can't regain hit points, including through magical healing, except th
 
 ## Bonus Actions
 
-***Nimble Escape.*** The nilbog takes the [Disengage](/compendium/rules/actions.md#Disengage) or [Hide](/compendium/rules/actions.md#Hide) action.
+***Nimble Escape.*** The nilbog takes the [Disengage](rules/actions.md#Disengage) or [Hide](rules/actions.md#Hide) action.
 
 ## Reactions
 

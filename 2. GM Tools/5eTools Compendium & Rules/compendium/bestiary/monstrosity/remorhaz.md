@@ -26,7 +26,7 @@ Frost giant hunters scour the icy wastes for remorhaz nests and eggs. The giants
 
 ```ad-statblock
 title: Remorhaz
-![](/compendium/bestiary/monstrosity/token/remorhaz.png#token)
+![](compendium/bestiary/monstrosity/token/remorhaz.png#token)
 *Huge monstrosity, Unaligned*
 
 - **Armor Class** 17  (natural armor)
@@ -50,11 +50,11 @@ title: Remorhaz
 
 ## Actions
 
-***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 40 (`6d10 + 7`) piercing damage plus 10 (`3d6`) fire damage. If the target is a creature, it is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 17). Until this grapple ends, the target is [restrained](/compendium/rules/conditions.md#restrained), and the remorhaz can't bite another target.
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 40 (`6d10 + 7`) piercing damage plus 10 (`3d6`) fire damage. If the target is a creature, it is [grappled](rules/conditions.md#grappled) (escape DC 17). Until this grapple ends, the target is [restrained](rules/conditions.md#restrained), and the remorhaz can't bite another target.
 
-***Swallow.*** The remorhaz makes one bite attack against a Medium or smaller creature it is grappling. If the attack hits, that creature takes the bite's damage and is swallowed, and the grapple ends. While swallowed, the creature is [blinded](/compendium/rules/conditions.md#blinded) and [restrained](/compendium/rules/conditions.md#restrained), it has total cover against attacks and other effects outside the remorhaz, and it takes 21 (`6d6`) acid damage at the start of each of the remorhaz's turns.
+***Swallow.*** The remorhaz makes one bite attack against a Medium or smaller creature it is grappling. If the attack hits, that creature takes the bite's damage and is swallowed, and the grapple ends. While swallowed, the creature is [blinded](rules/conditions.md#blinded) and [restrained](rules/conditions.md#restrained), it has total cover against attacks and other effects outside the remorhaz, and it takes 21 (`6d6`) acid damage at the start of each of the remorhaz's turns.
 
-If the remorhaz takes 30 damage or more on a single turn from a creature inside it, the remorhaz must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall [prone](/compendium/rules/conditions.md#prone) in a space within 10 feet of the remorhaz. If the remorhaz dies, a swallowed creature is no longer [restrained](/compendium/rules/conditions.md#restrained) by it and can escape from the corpse using 15 feet of movement, exiting [prone](/compendium/rules/conditions.md#prone).
+If the remorhaz takes 30 damage or more on a single turn from a creature inside it, the remorhaz must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall [prone](rules/conditions.md#prone) in a space within 10 feet of the remorhaz. If the remorhaz dies, a swallowed creature is no longer [restrained](rules/conditions.md#restrained) by it and can escape from the corpse using 15 feet of movement, exiting [prone](rules/conditions.md#prone).
 ```
 ^statblock
 

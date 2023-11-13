@@ -13,10 +13,10 @@ aliases: ["Vi Aroon"]
 
 ```ad-statblock
 title: Vi Aroon
-![](/compendium/bestiary/npc/token/vi-aroon.png#token)
+![](compendium/bestiary/npc/token/vi-aroon.png#token)
 *Medium humanoid (human), Chaotic Good*
 
-- **Armor Class** 15  ([breastplate](/compendium/items/breastplate.md))
+- **Armor Class** 15  ([breastplate](compendium/items/breastplate.md))
 - **Hit Points** 9 (`2d8`)
 - **Speed** 30 ft.
 

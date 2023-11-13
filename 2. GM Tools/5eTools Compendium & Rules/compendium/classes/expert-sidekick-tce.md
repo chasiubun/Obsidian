@@ -66,7 +66,7 @@ The Expert is a master of certain tasks or knowledge, favoring cunning over braw
 To gain the Expert class, a creature must have at least one language in its stat block that it can speak.
 
 > [!note]
-> this class is intended for NPC [sidekicks](/compendium/rules/variant-rules/sidekicks-tce.md).
+> this class is intended for NPC [sidekicks](rules/variant-rules/sidekicks-tce.md).
 
 ### Bonus Proficiencies (Level 1)
 
@@ -80,13 +80,13 @@ In addition, the sidekick gains proficiency in five skills of your choice, and i
 
 *1st-level Expert feature*
 
-The sidekick is adept at giving well-timed assistance; the sidekick can take the [Help](/compendium/rules/actions.md#Help) action as a bonus action.
+The sidekick is adept at giving well-timed assistance; the sidekick can take the [Help](rules/actions.md#Help) action as a bonus action.
 
 ### Cunning Action (Level 2)
 
 *2nd-level Expert feature*
 
-The sidekick's agility or quick thinking allows it to act speedily. On its turn in combat, it can take the [Dash](/compendium/rules/actions.md#Dash), [Disengage](/compendium/rules/actions.md#Disengage), or [Hide](/compendium/rules/actions.md#Hide) action as a bonus action.
+The sidekick's agility or quick thinking allows it to act speedily. On its turn in combat, it can take the [Dash](rules/actions.md#Dash), [Disengage](rules/actions.md#Disengage), or [Hide](rules/actions.md#Hide) action as a bonus action.
 
 ### Expertise (Level 3)
 
@@ -112,7 +112,7 @@ The sidekick is adept at fighting in concert with a companion. When the sidekick
 
 *7th-level Expert feature*
 
-Because of extraordinary good luck, the sidekick is skilled at avoiding danger. When the sidekick is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it failed. The sidekick doesn't benefit from this feature while [incapacitated](/compendium/rules/conditions.md#incapacitated).
+Because of extraordinary good luck, the sidekick is skilled at avoiding danger. When the sidekick is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it failed. The sidekick doesn't benefit from this feature while [incapacitated](rules/conditions.md#incapacitated).
 
 ### Ability Score Improvement (Level 8)
 
@@ -130,7 +130,7 @@ At 4th level and again at 8th, 10th, 12th, 16th, and 19th level, the sidekick in
 
 *11th-level Expert feature*
 
-When the sidekick takes the [Help](/compendium/rules/actions.md#Help) action, the creature who receives the help also gains a `1d6` bonus to the `d20` roll. If that roll is an attack roll, the creature can forgo adding the bonus to it, and then if the attack hits, the creature can add the bonus to the attack's damage roll against one target.
+When the sidekick takes the [Help](rules/actions.md#Help) action, the creature who receives the help also gains a `1d6` bonus to the `d20` roll. If that roll is an attack roll, the creature can forgo adding the bonus to it, and then if the attack hits, the creature can add the bonus to the attack's damage roll against one target.
 
 At 20th level, the bonus increases to `2d6`.
 

@@ -26,6 +26,6 @@ You point at one creature you can see within range, and the sound of a dolorous 
 
 The spell's damage increases by one die when you reach 5th level (`2d8` or `2d12`), 11th level (`3d8` or `3d12`), and 17th level (`4d8` or `4d12`).
 
-**Classes**: [Cleric (Death Domain)](/compendium/classes/cleric-death-domain.md), [Cleric](/compendium/classes/cleric.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Sorcerer (Divine Soul)](/compendium/classes/sorcerer-divine-soul-xge.md), [Warlock](/compendium/classes/warlock.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Cleric (Death Domain)](compendium/classes/cleric-death-domain.md), [Cleric](compendium/classes/cleric.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Sorcerer (Divine Soul)](compendium/classes/sorcerer-divine-soul-xge.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 169*

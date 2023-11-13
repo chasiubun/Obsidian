@@ -58,10 +58,10 @@ If the orc plucks out one of its eyes, Gruumsh might grant the orc spellcasting 
 
 ```ad-statblock
 title: Orc Eye of Gruumsh
-![](/compendium/bestiary/humanoid/token/orc-eye-of-gruumsh.png#token)
+![](compendium/bestiary/humanoid/token/orc-eye-of-gruumsh.png#token)
 *Medium humanoid (orc), Chaotic Evil*
 
-- **Armor Class** 16  ([ring mail](/compendium/items/ring-mail.md), [shield](/compendium/items/shield.md))
+- **Armor Class** 16  ([ring mail](compendium/items/ring-mail.md), [shield](compendium/items/shield.md))
 - **Hit Points** 45 (`6d8 + 18`)
 - **Speed** 30 ft.
 
@@ -84,11 +84,11 @@ title: Orc Eye of Gruumsh
 
 ***Spellcasting.*** The orc is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The orc has the following cleric spells prepared:
 
-**Cantrips (at will)**: [guidance](/compendium/spells/guidance.md), [resistance](/compendium/spells/resistance.md), [thaumaturgy](/compendium/spells/thaumaturgy.md)
+**Cantrips (at will)**: [guidance](compendium/spells/guidance.md), [resistance](compendium/spells/resistance.md), [thaumaturgy](compendium/spells/thaumaturgy.md)
 
-**1st level (4 slots)**: [bless](/compendium/spells/bless.md), [command](/compendium/spells/command.md)
+**1st level (4 slots)**: [bless](compendium/spells/bless.md), [command](compendium/spells/command.md)
 
-**2nd level (2 slots)**: [augury](/compendium/spells/augury.md), [spiritual weapon](/compendium/spells/spiritual-weapon.md) (spear)
+**2nd level (2 slots)**: [augury](compendium/spells/augury.md), [spiritual weapon](compendium/spells/spiritual-weapon.md) (spear)
 
 ## Actions
 

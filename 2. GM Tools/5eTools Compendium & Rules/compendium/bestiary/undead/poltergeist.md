@@ -17,7 +17,7 @@ A poltergeist is the confused, invisible spirit of an individual with no sense o
 
 ```ad-statblock
 title: Poltergeist
-![](/compendium/bestiary/undead/token/poltergeist.png#token)
+![](compendium/bestiary/undead/token/poltergeist.png#token)
 *Medium undead, Chaotic Evil*
 
 - **Armor Class** 12 
@@ -39,9 +39,9 @@ title: Poltergeist
 
 ***Incorporeal Movement.*** The poltergeist can move through other creatures and objects as if they were difficult terrain. It takes 5 (`1d10`) force damage if it ends its turn inside an object.
 
-***Sunlight Sensitivity.*** While in sunlight, the poltergeist has disadvantage on attack rolls, as well as on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the poltergeist has disadvantage on attack rolls, as well as on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
-***Invisibility.*** The poltergeist is [invisible](/compendium/rules/conditions.md#invisible).
+***Invisibility.*** The poltergeist is [invisible](rules/conditions.md#invisible).
 
 ## Actions
 

@@ -27,7 +27,7 @@ Like dwarves, duergar have strong constitutions. Adding to their physical stamin
 
 ## Born of Darkness
 
-The Underdark is saturated with strange magical power, which the duergar absorbed over generations of imprisonment. A duergar can increase its size and strength for a short time, becoming a powerful ogre-sized warrior. If it faces a foe it can't fight, or when spying on creatures approaching its territory, it can just as easily become [invisible](/compendium/rules/conditions.md#invisible) to slip away into the darkness. Eons spent in the Underdark also sharpened their [darkvision](/compendium/rules/senses.md#darkvision), allowing them to see twice as far as other dwarves. This keen eyesight comes at a cost, however, as a duergar's vision is compromised by sunlight.
+The Underdark is saturated with strange magical power, which the duergar absorbed over generations of imprisonment. A duergar can increase its size and strength for a short time, becoming a powerful ogre-sized warrior. If it faces a foe it can't fight, or when spying on creatures approaching its territory, it can just as easily become [invisible](rules/conditions.md#invisible) to slip away into the darkness. Eons spent in the Underdark also sharpened their [darkvision](rules/senses.md#darkvision), allowing them to see twice as far as other dwarves. This keen eyesight comes at a cost, however, as a duergar's vision is compromised by sunlight.
 
 ## Infernal Master
 
@@ -37,10 +37,10 @@ Asmodeus, Lord of the Nine Hells, has been known to impersonate duergar gods in 
 
 ```ad-statblock
 title: Snurrevin
-![](/compendium/bestiary/npc/token/snurrevin.png#token)
+![](compendium/bestiary/npc/token/snurrevin.png#token)
 *Medium humanoid (dwarf), Lawful Evil*
 
-- **Armor Class** 16  ([scale mail](/compendium/items/scale-mail.md), [shield](/compendium/items/shield.md))
+- **Armor Class** 16  ([scale mail](compendium/items/scale-mail.md), [shield](compendium/items/shield.md))
 - **Hit Points** 45 (`7d8 + 14`)
 - **Speed** 25 ft.
 
@@ -57,17 +57,17 @@ title: Snurrevin
 
 ## Traits
 
-***Duergar Resilience.*** The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being [charmed](/compendium/rules/conditions.md#charmed) or [paralyzed](/compendium/rules/conditions.md#paralyzed).
+***Duergar Resilience.*** The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being [charmed](rules/conditions.md#charmed) or [paralyzed](rules/conditions.md#paralyzed).
 
-***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ***Spellcasting.*** Snurrevin is a 3rd-level spellcaster. His spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). He has the following wizard spells prepared:
 
-**Cantrips (at will)**: [fire bolt](/compendium/spells/fire-bolt.md), [mage hand](/compendium/spells/mage-hand.md), [minor illusion](/compendium/spells/minor-illusion.md), [shocking grasp](/compendium/spells/shocking-grasp.md)
+**Cantrips (at will)**: [fire bolt](compendium/spells/fire-bolt.md), [mage hand](compendium/spells/mage-hand.md), [minor illusion](compendium/spells/minor-illusion.md), [shocking grasp](compendium/spells/shocking-grasp.md)
 
-**1st level (4 slots)**: [color spray](/compendium/spells/color-spray.md), [shield](/compendium/spells/shield.md), [silent image](/compendium/spells/silent-image.md)
+**1st level (4 slots)**: [color spray](compendium/spells/color-spray.md), [shield](compendium/spells/shield.md), [silent image](compendium/spells/silent-image.md)
 
-**2nd level (2 slots)**: [hold person](/compendium/spells/hold-person.md), [shatter](/compendium/spells/shatter.md)
+**2nd level (2 slots)**: [hold person](compendium/spells/hold-person.md), [shatter](compendium/spells/shatter.md)
 
 ## Actions
 
@@ -77,6 +77,6 @@ title: Snurrevin
 
 ***Javelin.*** *Melee or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 5 (`1d6 + 2`) piercing damage, or 9 (`2d6 + 2`) piercing damage while enlarged.
 
-***Invisibility (Recharges after a Short or Long Rest).*** The duergar magically turns [invisible](/compendium/rules/conditions.md#invisible) until it attacks, casts a spell, or uses its Enlarge, or until its [concentration](/compendium/rules/conditions.md#concentration) is broken, up to 1 hour (as if concentrating on a spell). Any equipment the duergar wears or carries is [invisible](/compendium/rules/conditions.md#invisible) with it.
+***Invisibility (Recharges after a Short or Long Rest).*** The duergar magically turns [invisible](rules/conditions.md#invisible) until it attacks, casts a spell, or uses its Enlarge, or until its [concentration](rules/conditions.md#concentration) is broken, up to 1 hour (as if concentrating on a spell). Any equipment the duergar wears or carries is [invisible](rules/conditions.md#invisible) with it.
 ```
 ^statblock

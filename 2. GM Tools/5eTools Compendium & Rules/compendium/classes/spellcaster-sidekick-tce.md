@@ -93,7 +93,7 @@ A sidekick who becomes a Spellcaster walks the paths of magic. The sidekick migh
 To gain the Spellcaster class, a creature must have at least one language in its stat block that it can speak.
 
 > [!note]
-> this class is intended for NPC [sidekicks](/compendium/rules/variant-rules/sidekicks-tce.md).
+> this class is intended for NPC [sidekicks](rules/variant-rules/sidekicks-tce.md).
 
 ### Bonus Proficiencies (Level 1)
 
@@ -101,7 +101,7 @@ To gain the Spellcaster class, a creature must have at least one language in its
 
 The sidekick gains proficiency in one saving throw of your choice: Wisdom, Intelligence, or Charisma.
 
-In addition, the sidekick gains proficiency in two skills of your choice from the following list: [Arcana](/compendium/rules/skills.md#Arcana), [History](/compendium/rules/skills.md#History), [Insight](/compendium/rules/skills.md#Insight), [Investigation](/compendium/rules/skills.md#Investigation), [Medicine](/compendium/rules/skills.md#Medicine), [Performance](/compendium/rules/skills.md#Performance), [Persuasion](/compendium/rules/skills.md#Persuasion), and [Religion](/compendium/rules/skills.md#Religion).
+In addition, the sidekick gains proficiency in two skills of your choice from the following list: [Arcana](rules/skills.md#Arcana), [History](rules/skills.md#History), [Insight](rules/skills.md#Insight), [Investigation](rules/skills.md#Investigation), [Medicine](rules/skills.md#Medicine), [Performance](rules/skills.md#Performance), [Persuasion](rules/skills.md#Persuasion), and [Religion](rules/skills.md#Religion).
 
 The sidekick gains proficiency with light armor, and if it is a humanoid or has a simple or martial weapon in its stat block, it also gains proficiency with all simple weapons.
 
@@ -128,9 +128,9 @@ The Spellcaster table shows how many spell slots the sidekick has to cast its Sp
 
 The sidekick knows two cantrips and one 1st-level spell of your choice from its spell list. Here are recommendations for a 1st-level spellcaster of each role:
 
-- **Mage.** [mage hand](/compendium/spells/mage-hand.md), [ray of frost](/compendium/spells/ray-of-frost.md), [thunderwave](/compendium/spells/thunderwave.md)  
-- **Healer.** [cure wounds](/compendium/spells/cure-wounds.md), [guidance](/compendium/spells/guidance.md), [sacred flame](/compendium/spells/sacred-flame.md)  
-- **Prodigy.** [eldritch blast](/compendium/spells/eldritch-blast.md), [healing word](/compendium/spells/healing-word.md), [light](/compendium/spells/light.md)  
+- **Mage.** [mage hand](compendium/spells/mage-hand.md), [ray of frost](compendium/spells/ray-of-frost.md), [thunderwave](compendium/spells/thunderwave.md)  
+- **Healer.** [cure wounds](compendium/spells/cure-wounds.md), [guidance](compendium/spells/guidance.md), [sacred flame](compendium/spells/sacred-flame.md)  
+- **Prodigy.** [eldritch blast](compendium/spells/eldritch-blast.md), [healing word](compendium/spells/healing-word.md), [light](compendium/spells/light.md)  
 - The Cantrips Known and Spells Known columns of the Spellcaster table shows when the sidekick learns more spells of your choice. Each of the spells in the Spells Known column must be of a level for which the sidekick has spell slots, as shown on the table. For instance, when the sidekick reaches 5th level in this class, it can learn one new spell of 1st or 2nd level.  
 - Additionally, when the sidekick gains a level in this class, you can choose one of the spells it knows from this class and replace it with another spell from its spell list. The new spell must be a cantrip or of a level for which the sidekick has spell slots.  
 
@@ -146,7 +146,7 @@ The sidekick uses its spellcasting ability whenever a spell refers to that abili
 
 #### Spellcasting Focus
 
-The sidekick can use a focus for its spells depending on the choice you made on the Spellcasting table. A Mage can use an arcane focus, a Healer can use a holy symbol, and a Prodigy can use an arcane focus or a [musical instrument](/compendium/items/musical-instrument.md).
+The sidekick can use a focus for its spells depending on the choice you made on the Spellcasting table. A Mage can use an arcane focus, a Healer can use a holy symbol, and a Prodigy can use an arcane focus or a [musical instrument](compendium/items/musical-instrument.md).
 
 ### Ability Score Improvement (Level 4)
 
@@ -194,4 +194,4 @@ At 4th level and again at 8th, 12th, 16th, and 18th level, the sidekick increase
 
 *20th-level Spellcaster feature*
 
-Taking damage can't break the sidekick's [concentration](/compendium/rules/conditions.md#concentration) on a spell.
+Taking damage can't break the sidekick's [concentration](rules/conditions.md#concentration) on a spell.

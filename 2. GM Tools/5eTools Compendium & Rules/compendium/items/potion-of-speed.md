@@ -13,6 +13,6 @@ aliases:
 *Potion, minor, very rare*  
 
 
-When you drink this potion, you gain the effect of the [haste](/compendium/spells/haste.md) spell for 1 minute (no [concentration](/compendium/rules/conditions.md#concentration) required). The potion's yellow fluid is streaked with black and swirls on its own.
+When you drink this potion, you gain the effect of the [haste](compendium/spells/haste.md) spell for 1 minute (no [concentration](rules/conditions.md#concentration) required). The potion's yellow fluid is streaked with black and swirls on its own.
 
 *Source: Dungeon Master's Guide p. 188. Available in the SRD.*

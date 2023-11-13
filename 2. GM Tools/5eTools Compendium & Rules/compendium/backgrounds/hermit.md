@@ -9,10 +9,10 @@ aliases: ["Hermit"]
 # Hermit
 *Source: Player's Handbook p. 134*  
 
-- **Skill Proficiencies.** [Medicine](/compendium/rules/skills.md#Medicine), [Religion](/compendium/rules/skills.md#Religion)  
-- **Tool Proficiencies.** [Herbalism kit](/compendium/items/herbalism-kit.md)  
+- **Skill Proficiencies.** [Medicine](rules/skills.md#Medicine), [Religion](rules/skills.md#Religion)  
+- **Tool Proficiencies.** [Herbalism kit](compendium/items/herbalism-kit.md)  
 - **Languages.** One of your choice  
-- **Equipment.** A [scroll case](/compendium/items/map-or-scroll-case.md) stuffed full of notes from your studies or prayers, a winter [blanket](/compendium/items/blanket.md), a set of [common clothes](/compendium/items/common-clothes.md), an [herbalism kit](/compendium/items/herbalism-kit.md), and 5 gp  
+- **Equipment.** A [scroll case](compendium/items/map-or-scroll-case.md) stuffed full of notes from your studies or prayers, a winter [blanket](compendium/items/blanket.md), a set of [common clothes](compendium/items/common-clothes.md), an [herbalism kit](compendium/items/herbalism-kit.md), and 5 gp  
 
 You lived in seclusion–either in a sheltered community such as a monastery, or entirely alone–for a formative part of your life. In your time apart from the clamor of society, you found quiet, solitude, and perhaps some of the answers you were looking for.
 

@@ -54,7 +54,7 @@ A unicorn's lair might be an ancient ruin overgrown with vines, a misty clearing
 
 ```ad-statblock
 title: Unicorn
-![](/compendium/bestiary/celestial/token/unicorn.png#token)
+![](compendium/bestiary/celestial/token/unicorn.png#token)
 *Large celestial, Lawful Good*
 
 - **Armor Class** 12 
@@ -74,7 +74,7 @@ title: Unicorn
 
 ## Traits
 
-***Charge.*** If the unicorn moves at least 20 feet straight toward a target and then hits it with a horn attack on the same turn, the target takes an extra 9 (`2d8`) piercing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked [prone](/compendium/rules/conditions.md#prone).
+***Charge.*** If the unicorn moves at least 20 feet straight toward a target and then hits it with a horn attack on the same turn, the target takes an extra 9 (`2d8`) piercing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked [prone](rules/conditions.md#prone).
 
 ***Magic Resistance.*** The unicorn has advantage on saving throws against spells and other magical effects.
 
@@ -82,9 +82,9 @@ title: Unicorn
 
 ***Innate Spellcasting.*** The unicorn's innate spellcasting ability is Charisma (spell save DC 14). The unicorn can innately cast the following spells, requiring no components:
 
-**At will**: [detect evil and good](/compendium/spells/detect-evil-and-good.md), [druidcraft](/compendium/spells/druidcraft.md), [pass without trace](/compendium/spells/pass-without-trace.md)
+**At will**: [detect evil and good](compendium/spells/detect-evil-and-good.md), [druidcraft](compendium/spells/druidcraft.md), [pass without trace](compendium/spells/pass-without-trace.md)
 
-**1/day each**: [calm emotions](/compendium/spells/calm-emotions.md), [dispel evil and good](/compendium/spells/dispel-evil-and-good.md), [entangle](/compendium/spells/entangle.md)
+**1/day each**: [calm emotions](compendium/spells/calm-emotions.md), [dispel evil and good](compendium/spells/dispel-evil-and-good.md), [entangle](compendium/spells/entangle.md)
 
 ## Actions
 
@@ -106,7 +106,7 @@ title: Unicorn
 
 ***Heal Self (Costs 3 Actions).*** The unicorn magically regains 11 (`2d8 + 2`) hit points.
 
-![Unicorn](/compendium/bestiary/legendary-group/unicorn.md)
+![Unicorn](compendium/bestiary/legendary-group/unicorn.md)
 ```
 ^statblock
 

@@ -24,11 +24,11 @@ Spells and other magical effects, except those created by an artifact or a deity
 
 ## Targeted Effects
 
-Spells and other magical effects, such as [magic missile](/compendium/spells/magic-missile.md) and [charm person](/compendium/spells/charm-person.md), that target a creature or an object in the sphere have no effect on that target.
+Spells and other magical effects, such as [magic missile](compendium/spells/magic-missile.md) and [charm person](compendium/spells/charm-person.md), that target a creature or an object in the sphere have no effect on that target.
 
 ## Areas of Magic
 
-The area of another spell or magical effect, such as [fireball](/compendium/spells/fireball.md), can't extend into the sphere. If the sphere overlaps an area of magic, the part of the area that is covered by the sphere is suppressed. For example, the flames created by a wall of fire are suppressed within the sphere, creating a gap in the wall if the overlap is large enough.
+The area of another spell or magical effect, such as [fireball](compendium/spells/fireball.md), can't extend into the sphere. If the sphere overlaps an area of magic, the part of the area that is covered by the sphere is suppressed. For example, the flames created by a wall of fire are suppressed within the sphere, creating a gap in the wall if the overlap is large enough.
 
 ## Spells
 
@@ -50,10 +50,10 @@ A creature or object summoned or created by magic temporarily winks out of exist
 
 ## Dispel Magic
 
-Spells and magical effects such as [dispel magic](/compendium/spells/dispel-magic.md) have no effect on the sphere. Likewise, the spheres created by different [antimagic field](/compendium/spells/antimagic-field.md) spells don't nullify each other.
+Spells and magical effects such as [dispel magic](compendium/spells/dispel-magic.md) have no effect on the sphere. Likewise, the spheres created by different [antimagic field](compendium/spells/antimagic-field.md) spells don't nullify each other.
 
 ## Summary
 
-**Classes**: [Cleric](/compendium/classes/cleric.md), [Sorcerer (Divine Soul)](/compendium/classes/sorcerer-divine-soul-xge.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Cleric](compendium/classes/cleric.md), [Sorcerer (Divine Soul)](compendium/classes/sorcerer-divine-soul-xge.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 213. Available in the SRD and the Basic Rules.*

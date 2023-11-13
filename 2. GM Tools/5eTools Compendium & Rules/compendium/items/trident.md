@@ -17,7 +17,7 @@ aliases:
   - One-handed: 1d6 P
   - Two-handed: 1d8 P
 - **Range**: 20/60
-- **Properties**: Martial, [Thrown](/compendium/rules/item-properties.md#Thrown), [Versatile](/compendium/rules/item-properties.md#Versatile)
+- **Properties**: Martial, [Thrown](rules/item-properties.md#Thrown), [Versatile](rules/item-properties.md#Versatile)
 - **Cost**: 5 gp
 - **Weight**: 4.0 lbs.
 

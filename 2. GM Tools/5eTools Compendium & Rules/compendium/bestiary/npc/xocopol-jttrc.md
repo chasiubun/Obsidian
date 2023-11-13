@@ -13,10 +13,10 @@ aliases: ["Xocopol"]
 
 ```ad-statblock
 title: Xocopol
-![](/compendium/bestiary/npc/token/xocopol.png#token)
+![](compendium/bestiary/npc/token/xocopol.png#token)
 *Huge giant, Neutral*
 
-- **Armor Class** 18  ([plate armor](/compendium/items/plate-armor.md))
+- **Armor Class** 18  ([plate armor](compendium/items/plate-armor.md))
 - **Hit Points** 162 (`13d12 + 78`)
 - **Speed** 30 ft.
 

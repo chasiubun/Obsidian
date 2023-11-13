@@ -20,7 +20,7 @@ Smaller than a giant spider, a giant wolf spider hunts prey across open ground o
 
 ```ad-statblock
 title: Giant Wolf Spider
-![](/compendium/bestiary/beast/token/giant-wolf-spider.png#token)
+![](compendium/bestiary/beast/token/giant-wolf-spider.png#token)
 *Medium beast, Unaligned*
 
 - **Armor Class** 13 
@@ -48,7 +48,7 @@ title: Giant Wolf Spider
 
 ## Actions
 
-***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 4 (`1d6 + 1`) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 7 (`2d6`) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but [poisoned](/compendium/rules/conditions.md#poisoned) for 1 hour, even after regaining hit points, and is [paralyzed](/compendium/rules/conditions.md#paralyzed) while [poisoned](/compendium/rules/conditions.md#poisoned) in this way.
+***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 4 (`1d6 + 1`) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 7 (`2d6`) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but [poisoned](rules/conditions.md#poisoned) for 1 hour, even after regaining hit points, and is [paralyzed](rules/conditions.md#paralyzed) while [poisoned](rules/conditions.md#poisoned) in this way.
 ```
 ^statblock
 

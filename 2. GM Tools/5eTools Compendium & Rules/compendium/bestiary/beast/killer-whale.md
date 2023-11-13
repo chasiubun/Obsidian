@@ -14,7 +14,7 @@ aliases: ["Killer Whale"]
 
 ```ad-statblock
 title: Killer Whale
-![](/compendium/bestiary/beast/token/killer-whale.png#token)
+![](compendium/bestiary/beast/token/killer-whale.png#token)
 *Huge beast, Unaligned*
 
 - **Armor Class** 12  (natural armor)
@@ -34,11 +34,11 @@ title: Killer Whale
 
 ## Traits
 
-***Echolocation.*** The whale can't use its blindsight while [deafened](/compendium/rules/conditions.md#deafened).
+***Echolocation.*** The whale can't use its blindsight while [deafened](rules/conditions.md#deafened).
 
 ***Hold Breath.*** The whale can hold its breath for 30 minutes.
 
-***Keen Hearing.*** The whale has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on hearing.
+***Keen Hearing.*** The whale has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on hearing.
 
 ## Actions
 

@@ -24,7 +24,7 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 
 ```ad-statblock
 title: Ankylosaurus
-![](/compendium/bestiary/beast/token/ankylosaurus.png#token)
+![](compendium/bestiary/beast/token/ankylosaurus.png#token)
 *Huge beast, Unaligned*
 
 - **Armor Class** 15  (natural armor)
@@ -44,7 +44,7 @@ title: Ankylosaurus
 
 ## Actions
 
-***Tail.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 18 (`4d6 + 4`) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked [prone](/compendium/rules/conditions.md#prone).
+***Tail.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 18 (`4d6 + 4`) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked [prone](rules/conditions.md#prone).
 ```
 ^statblock
 

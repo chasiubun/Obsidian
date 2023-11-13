@@ -43,7 +43,7 @@ Destroying a periapt of mind trapping consigns those trapped within it to oblivi
 
 ```ad-statblock
 title: Alhoon
-![](/compendium/bestiary/undead/token/alhoon.png#token)
+![](compendium/bestiary/undead/token/alhoon.png#token)
 *Medium undead (mind flayer, wizard), Typically  Neutral Evil*
 
 - **Armor Class** 15  (natural armor)
@@ -69,9 +69,9 @@ title: Alhoon
 
 ***Spellcasting.*** The alhoon casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 16):
 
-**At will**: [dancing lights](/compendium/spells/dancing-lights.md), [detect magic](/compendium/spells/detect-magic.md), [detect thoughts](/compendium/spells/detect-thoughts.md), [disguise self](/compendium/spells/disguise-self.md), [mage hand](/compendium/spells/mage-hand.md), [prestidigitation](/compendium/spells/prestidigitation.md)
+**At will**: [dancing lights](compendium/spells/dancing-lights.md), [detect magic](compendium/spells/detect-magic.md), [detect thoughts](compendium/spells/detect-thoughts.md), [disguise self](compendium/spells/disguise-self.md), [mage hand](compendium/spells/mage-hand.md), [prestidigitation](compendium/spells/prestidigitation.md)
 
-**1/day each**: [dominate monster](/compendium/spells/dominate-monster.md), [globe of invulnerability](/compendium/spells/globe-of-invulnerability.md), [invisibility](/compendium/spells/invisibility.md), [modify memory](/compendium/spells/modify-memory.md), [plane shift](/compendium/spells/plane-shift.md) (self only), [wall of force](/compendium/spells/wall-of-force.md)
+**1/day each**: [dominate monster](compendium/spells/dominate-monster.md), [globe of invulnerability](compendium/spells/globe-of-invulnerability.md), [invisibility](compendium/spells/invisibility.md), [modify memory](compendium/spells/modify-memory.md), [plane shift](compendium/spells/plane-shift.md) (self only), [wall of force](compendium/spells/wall-of-force.md)
 
 ## Actions
 
@@ -81,7 +81,7 @@ title: Alhoon
 
 ***Arcane Bolt.*** *Ranged Spell Attack:* +8 to hit, range 120 ft., one target. *Hit:* 28 (`8d6`) force damage.
 
-***Mind Blast (Recharge 5-6).*** The alhoon magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 16 Intelligence saving throw or take 22 (`4d8 + 4`) psychic damage and be [stunned](/compendium/rules/conditions.md#stunned) for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Mind Blast (Recharge 5-6).*** The alhoon magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 16 Intelligence saving throw or take 22 (`4d8 + 4`) psychic damage and be [stunned](rules/conditions.md#stunned) for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ## Reactions
 

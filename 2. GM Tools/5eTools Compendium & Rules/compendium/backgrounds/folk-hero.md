@@ -9,9 +9,9 @@ aliases: ["Folk Hero"]
 # Folk Hero
 *Source: Player's Handbook p. 131. Available in the Basic Rules.*  
 
-- **Skill Proficiencies.** [Animal Handling](/compendium/rules/skills.md#Animal%20Handling), [Survival](/compendium/rules/skills.md#Survival)  
+- **Skill Proficiencies.** [Animal Handling](rules/skills.md#Animal%20Handling), [Survival](rules/skills.md#Survival)  
 - **Tool Proficiencies.** One type of artisan's tools, vehicles (land)  
-- **Equipment.** A set of artisan's tools (one of your choice), a [shovel](/compendium/items/shovel.md), an [iron pot](/compendium/items/iron-pot.md), a set of [common clothes](/compendium/items/common-clothes.md), and a belt [pouch](/compendium/items/pouch.md) containing 10 gp  
+- **Equipment.** A set of artisan's tools (one of your choice), a [shovel](compendium/items/shovel.md), an [iron pot](compendium/items/iron-pot.md), a set of [common clothes](compendium/items/common-clothes.md), and a belt [pouch](compendium/items/pouch.md) containing 10 gp  
 
 You come from a humble social rank, but you are destined for so much more. Already the people of your home village regard you as their champion, and your destiny calls you to stand against the tyrants and monsters that threaten the common folk everywhere.
 

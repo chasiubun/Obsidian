@@ -15,7 +15,7 @@ Squelching slightly as they wriggle through the air, inklings serve as the masco
 
 ```ad-statblock
 title: Inkling Mascot
-![](/compendium/bestiary/ooze/token/inkling-mascot.png#token)
+![](compendium/bestiary/ooze/token/inkling-mascot.png#token)
 *Tiny ooze, typically  Neutral*
 
 - **Armor Class** 13 
@@ -41,7 +41,7 @@ title: Inkling Mascot
 
 ***Blot.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (`1d4 + 3`) psychic damage.
 
-***Ink Spray (1/Day).*** The inkling sprays viscous ink at one creature within 15 feet of itself. The target must succeed on a DC 12 Constitution saving throw or be [blinded](/compendium/rules/conditions.md#blinded) until the end of the inkling's next turn.
+***Ink Spray (1/Day).*** The inkling sprays viscous ink at one creature within 15 feet of itself. The target must succeed on a DC 12 Constitution saving throw or be [blinded](rules/conditions.md#blinded) until the end of the inkling's next turn.
 
 ## Bonus Actions
 

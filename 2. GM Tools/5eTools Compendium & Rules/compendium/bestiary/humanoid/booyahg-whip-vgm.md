@@ -25,10 +25,10 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 
 ```ad-statblock
 title: Booyahg Whip
-![](/compendium/bestiary/humanoid/token/booyahg-whip.png#token)
+![](compendium/bestiary/humanoid/token/booyahg-whip.png#token)
 *Small humanoid (goblinoid), Neutral Evil*
 
-- **Armor Class** 15  ([leather armor](/compendium/items/leather-armor.md), [shield](/compendium/items/shield.md))
+- **Armor Class** 15  ([leather armor](compendium/items/leather-armor.md), [shield](compendium/items/shield.md))
 - **Hit Points** 7 (`2d6`)
 - **Speed** 30 ft.
 
@@ -47,7 +47,7 @@ title: Booyahg Whip
 
 ***Nimble Escape.*** The goblin can take the Disengage or Hide action as a bonus action on each of its turns.
 
-***Khurgorbaeyag's Gift.*** Khurgorbaeyag saw fit to gift this goblin with powers that enable it to dominate others. The goblin has `1d3` other [goblins](/compendium/bestiary/humanoid/goblin.md) that slavishly obey its orders.
+***Khurgorbaeyag's Gift.*** Khurgorbaeyag saw fit to gift this goblin with powers that enable it to dominate others. The goblin has `1d3` other [goblins](compendium/bestiary/humanoid/goblin.md) that slavishly obey its orders.
 
 ## Actions
 

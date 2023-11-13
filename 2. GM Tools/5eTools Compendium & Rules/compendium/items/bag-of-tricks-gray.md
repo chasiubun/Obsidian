@@ -24,14 +24,14 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 
 | dice: d8 | Creature |
 |----------|----------|
-| 1 | [Weasel](/compendium/bestiary/beast/weasel.md) |
-| 2 | [Giant rat](/compendium/bestiary/beast/giant-rat.md) |
-| 3 | [Badger](/compendium/bestiary/beast/badger.md) |
-| 4 | [Boar](/compendium/bestiary/beast/boar.md) |
-| 5 | [Panther](/compendium/bestiary/beast/panther.md) |
-| 6 | [Giant badger](/compendium/bestiary/beast/giant-badger.md) |
-| 7 | [Dire wolf](/compendium/bestiary/beast/dire-wolf.md) |
-| 8 | [Giant elk](/compendium/bestiary/beast/giant-elk.md) |
+| 1 | [Weasel](compendium/bestiary/beast/weasel.md) |
+| 2 | [Giant rat](compendium/bestiary/beast/giant-rat.md) |
+| 3 | [Badger](compendium/bestiary/beast/badger.md) |
+| 4 | [Boar](compendium/bestiary/beast/boar.md) |
+| 5 | [Panther](compendium/bestiary/beast/panther.md) |
+| 6 | [Giant badger](compendium/bestiary/beast/giant-badger.md) |
+| 7 | [Dire wolf](compendium/bestiary/beast/dire-wolf.md) |
+| 8 | [Giant elk](compendium/bestiary/beast/giant-elk.md) |
 ^creature
 
 *Source: Dungeon Master's Guide p. 154. Available in the SRD.*

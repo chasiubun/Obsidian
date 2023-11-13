@@ -15,7 +15,7 @@ Scufflecup is a game students created after finding a box of teacups in a nearby
 
 ```ad-statblock
 title: Scufflecup Teacup
-![](/compendium/bestiary/construct/token/scufflecup-teacup.png#token)
+![](compendium/bestiary/construct/token/scufflecup-teacup.png#token)
 *Tiny construct, Unaligned*
 
 - **Armor Class** 12 

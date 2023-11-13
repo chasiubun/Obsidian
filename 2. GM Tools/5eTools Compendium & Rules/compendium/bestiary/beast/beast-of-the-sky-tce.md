@@ -13,7 +13,7 @@ aliases: ["Beast of the Sky"]
 
 ```ad-statblock
 title: Beast of the Sky
-![](/compendium/bestiary/beast/token/beast-of-the-sky.png#token)
+![](compendium/bestiary/beast/token/beast-of-the-sky.png#token)
 *Small beast, Neutral*
 
 

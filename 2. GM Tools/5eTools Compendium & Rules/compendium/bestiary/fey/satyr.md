@@ -57,10 +57,10 @@ Inebriated on drink and pleasure, satyrs give no thought to the consequences of 
 
 ```ad-statblock
 title: Satyr
-![](/compendium/bestiary/fey/token/satyr.png#token)
+![](compendium/bestiary/fey/token/satyr.png#token)
 *Medium fey, Chaotic Neutral*
 
-- **Armor Class** 14  ([leather armor](/compendium/items/leather-armor.md))
+- **Armor Class** 14  ([leather armor](compendium/items/leather-armor.md))
 - **Hit Points** 31 (`7d8`)
 - **Speed** 40 ft.
 

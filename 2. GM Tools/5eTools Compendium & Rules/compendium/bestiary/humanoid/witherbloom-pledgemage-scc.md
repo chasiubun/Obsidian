@@ -23,7 +23,7 @@ Witherbloom College studies the magic inherent in the natural cycle of life and 
 
 ```ad-statblock
 title: Witherbloom Pledgemage
-![](/compendium/bestiary/humanoid/token/witherbloom-pledgemage.png#token)
+![](compendium/bestiary/humanoid/token/witherbloom-pledgemage.png#token)
 *Small or Medium humanoid (druid), Any alignment*
 
 - **Armor Class** 12  (15 with vociferous form)
@@ -49,9 +49,9 @@ title: Witherbloom Pledgemage
 
 ***Spellcasting.*** The apprentice casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability:
 
-**At will**: [druidcraft](/compendium/spells/druidcraft.md), [spare the dying](/compendium/spells/spare-the-dying.md)
+**At will**: [druidcraft](compendium/spells/druidcraft.md), [spare the dying](compendium/spells/spare-the-dying.md)
 
-**1/day each**: [death ward](/compendium/spells/death-ward.md), [pass without trace](/compendium/spells/pass-without-trace.md), [speak with plants](/compendium/spells/speak-with-plants.md)
+**1/day each**: [death ward](compendium/spells/death-ward.md), [pass without trace](compendium/spells/pass-without-trace.md), [speak with plants](compendium/spells/speak-with-plants.md)
 
 ## Actions
 
@@ -63,6 +63,6 @@ title: Witherbloom Pledgemage
 
 ## Reactions
 
-***Wither Burst.*** When the pledgemage sees a creature within 30 feet of itself drop to 0 hit points, the pledgemage channels the expended life essence and targets another creature it can see within 30 feet of itself. The target must succeed on a DC 13 Constitution saving throw or become [poisoned](/compendium/rules/conditions.md#poisoned) for 1 minute. While [poisoned](/compendium/rules/conditions.md#poisoned) in this way, the target takes 3 (`1d6`) poison damage at the start of each of its turns. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success.
+***Wither Burst.*** When the pledgemage sees a creature within 30 feet of itself drop to 0 hit points, the pledgemage channels the expended life essence and targets another creature it can see within 30 feet of itself. The target must succeed on a DC 13 Constitution saving throw or become [poisoned](rules/conditions.md#poisoned) for 1 minute. While [poisoned](rules/conditions.md#poisoned) in this way, the target takes 3 (`1d6`) poison damage at the start of each of its turns. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success.
 ```
 ^statblock

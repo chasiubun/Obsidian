@@ -13,10 +13,10 @@ aliases: ["King Snurre"]
 
 ```ad-statblock
 title: King Snurre
-![](/compendium/bestiary/npc/token/king-snurre.png#token)
+![](compendium/bestiary/npc/token/king-snurre.png#token)
 *Huge giant, Lawful Evil*
 
-- **Armor Class** 18  ([plate armor](/compendium/items/plate-armor.md))
+- **Armor Class** 18  ([plate armor](compendium/items/plate-armor.md))
 - **Hit Points** 187 (`15d12 + 90`)
 - **Speed** 30 ft.
 

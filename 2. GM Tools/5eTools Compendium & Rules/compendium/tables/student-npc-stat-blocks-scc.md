@@ -14,7 +14,7 @@ aliases: ["Student NPC Stat Blocks"]
 
 | Year | Stat Block |
 |------|------------|
-| First | [First-Year Student](/compendium/bestiary/humanoid/first-year-student-scc.md) |
+| First | [First-Year Student](compendium/bestiary/humanoid/first-year-student-scc.md) |
 | Second | [College] Apprentice |
 | Third or Later | [College] Pledgemage |
 ^student-npc-stat-blocks

@@ -9,6 +9,6 @@ aliases: ["Eldritch Spear"]
 # Eldritch Spear
 *Source: Player's Handbook p. 111. Available in the SRD.*  
 
-**Prerequisite**: [Eldritch Blast](/compendium/spells/eldritch-blast.md)
+**Prerequisite**: [Eldritch Blast](compendium/spells/eldritch-blast.md)
 
-When you cast [eldritch blast](/compendium/spells/eldritch-blast.md), its range is 300 feet.
+When you cast [eldritch blast](compendium/spells/eldritch-blast.md), its range is 300 feet.

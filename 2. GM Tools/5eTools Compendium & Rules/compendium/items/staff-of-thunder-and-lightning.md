@@ -17,7 +17,7 @@ aliases:
 - **Damage**:
   - One-handed: 1d6 B
   - Two-handed: 1d8 B
-- **Properties**: [Versatile](/compendium/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. It also has the following additional properties. When one of these properties is used, it can't be used again until the next dawn.
@@ -28,7 +28,7 @@ When you hit with a melee attack using the staff, you can cause the target to ta
 
 ## Thunder
 
-When you hit with a melee attack using the staff, you can cause the staff to emit a crack of thunder, audible out to 300 feet. The target you hit must succeed on a DC 17 Constitution saving throw or become [stunned](/compendium/rules/conditions.md#stunned) until the end of your next turn.
+When you hit with a melee attack using the staff, you can cause the staff to emit a crack of thunder, audible out to 300 feet. The target you hit must succeed on a DC 17 Constitution saving throw or become [stunned](rules/conditions.md#stunned) until the end of your next turn.
 
 ## Lightning Strike
 
@@ -36,7 +36,7 @@ You can use an action to cause a bolt of lightning to leap from the staff's tip 
 
 ## Thunderclap
 
-You can use an action to cause the staff to issue a deafening thunderclap, audible out to 600 feet. Each creature within 60 feet of you (not including you) must make a DC 17 Constitution saving throw. On a failed save, a creature takes `2d6` thunder damage and becomes [deafened](/compendium/rules/conditions.md#deafened) for 1 minute. On a successful save, a creature takes half damage and isn't [deafened](/compendium/rules/conditions.md#deafened).
+You can use an action to cause the staff to issue a deafening thunderclap, audible out to 600 feet. Each creature within 60 feet of you (not including you) must make a DC 17 Constitution saving throw. On a failed save, a creature takes `2d6` thunder damage and becomes [deafened](rules/conditions.md#deafened) for 1 minute. On a successful save, a creature takes half damage and isn't [deafened](rules/conditions.md#deafened).
 
 ## Thunder and Lightning
 

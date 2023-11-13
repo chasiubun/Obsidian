@@ -15,7 +15,7 @@ aliases: ["Jackal"]
 
 ```ad-statblock
 title: Jackal
-![](/compendium/bestiary/beast/token/jackal.png#token)
+![](compendium/bestiary/beast/token/jackal.png#token)
 *Small beast, Unaligned*
 
 - **Armor Class** 12 
@@ -35,9 +35,9 @@ title: Jackal
 
 ## Traits
 
-***Keen Hearing and Smell.*** The jackal has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on hearing or smell.
+***Keen Hearing and Smell.*** The jackal has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on hearing or smell.
 
-***Pack Tactics.*** The jackal has advantage on an attack roll against a creature if at least one of the jackal's allies is within 5 feet of the creature and the ally isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Pack Tactics.*** The jackal has advantage on an attack roll against a creature if at least one of the jackal's allies is within 5 feet of the creature and the ally isn't [incapacitated](rules/conditions.md#incapacitated).
 
 ## Actions
 

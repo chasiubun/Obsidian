@@ -15,7 +15,7 @@ Rising from the sorrowful dead, haints are spirits that change their shape in tr
 
 ```ad-statblock
 title: Haint
-![](/compendium/bestiary/undead/token/haint.png#token)
+![](compendium/bestiary/undead/token/haint.png#token)
 *Medium undead, typically  Neutral*
 
 - **Armor Class** 12 
@@ -49,7 +49,7 @@ title: Haint
 
 ## Bonus Actions
 
-***Shared Sorrow.*** The haint targets one creature it can see within 60 feet of itself that is missing any hit points, sharing its own torment with this pained soul. The target must succeed on a DC 14 Wisdom saving throw or be [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Shared Sorrow.*** The haint targets one creature it can see within 60 feet of itself that is missing any hit points, sharing its own torment with this pained soul. The target must succeed on a DC 14 Wisdom saving throw or be [incapacitated](rules/conditions.md#incapacitated).
 
 A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the haint's Shared Sorrow for the next 24 hours.
 ```

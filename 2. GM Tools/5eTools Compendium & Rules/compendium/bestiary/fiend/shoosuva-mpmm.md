@@ -23,13 +23,13 @@ aliases: ["Shoosuva"]
 > 
 > Trust Mordenkainen to look down on any sort of companionship—even the slavering, venomous, demonic puppy kind.
 
-A shoosuva is a hyena-demon gifted by [Yeenoghu](/compendium/bestiary/npc/yeenoghu-mpmm.md) to an especially powerful worshiper (typically a [fang of Yeenoghu](/compendium/bestiary/fiend/gnoll-fang-of-yeenoghu.md)). A shoosuva manifests shortly after a Yeenoghu-worshiping war band achieves a great victory, emerging from a billowing, fetid cloud of smoke as it arrives from the Abyss. In battle, the demon wraps its slavering jaws around one victim while lashing out with the poisonous stinger on its tail to bring down another. A creature immobilized by the poison becomes easy pickings for any nearby members of the war band.
+A shoosuva is a hyena-demon gifted by [Yeenoghu](compendium/bestiary/npc/yeenoghu-mpmm.md) to an especially powerful worshiper (typically a [fang of Yeenoghu](compendium/bestiary/fiend/gnoll-fang-of-yeenoghu.md)). A shoosuva manifests shortly after a Yeenoghu-worshiping war band achieves a great victory, emerging from a billowing, fetid cloud of smoke as it arrives from the Abyss. In battle, the demon wraps its slavering jaws around one victim while lashing out with the poisonous stinger on its tail to bring down another. A creature immobilized by the poison becomes easy pickings for any nearby members of the war band.
 
 Each shoosuva is bonded to a particular worshiper of Yeenoghu and fights alongside its master. A gnoll that has been gifted with a shoosuva is second only to a flind in status within a war band dedicated to Yeenoghu.
 
 ```ad-statblock
 title: Shoosuva
-![](/compendium/bestiary/fiend/token/shoosuva.png#token)
+![](compendium/bestiary/fiend/token/shoosuva.png#token)
 *Large fiend (demon), Typically  Chaotic Evil*
 
 - **Armor Class** 14  (natural armor)
@@ -53,7 +53,7 @@ title: Shoosuva
 
 ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 26 (`4d10 + 4`) piercing damage.
 
-***Tail Stinger.*** *Melee Weapon Attack:* +7 to hit, reach 15 ft., one creature. *Hit:* 13 (`2d8 + 4`) piercing damage, and the target must succeed on a DC 14 Constitution saving throw or become [poisoned](/compendium/rules/conditions.md#poisoned). While [poisoned](/compendium/rules/conditions.md#poisoned) in this way, the target is also [paralyzed](/compendium/rules/conditions.md#paralyzed). The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Tail Stinger.*** *Melee Weapon Attack:* +7 to hit, reach 15 ft., one creature. *Hit:* 13 (`2d8 + 4`) piercing damage, and the target must succeed on a DC 14 Constitution saving throw or become [poisoned](rules/conditions.md#poisoned). While [poisoned](rules/conditions.md#poisoned) in this way, the target is also [paralyzed](rules/conditions.md#paralyzed). The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ## Bonus Actions
 

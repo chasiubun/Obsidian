@@ -32,7 +32,7 @@ Zuggtmoy's principal lair is her palace on Shedaklah. It consists of two dozen m
 
 ```ad-statblock
 title: Zuggtmoy
-![](/compendium/bestiary/npc/token/zuggtmoy.png#token)
+![](compendium/bestiary/npc/token/zuggtmoy.png#token)
 *Large fiend (demon), Chaotic Evil*
 
 - **Armor Class** 18  (natural armor)
@@ -58,11 +58,11 @@ title: Zuggtmoy
 
 ***Spellcasting.*** Zuggtmoy casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 22):
 
-**At will**: [detect magic](/compendium/spells/detect-magic.md), [locate animals or plants](/compendium/spells/locate-animals-or-plants.md)
+**At will**: [detect magic](compendium/spells/detect-magic.md), [locate animals or plants](compendium/spells/locate-animals-or-plants.md)
 
-**1/day each**: [etherealness](/compendium/spells/etherealness.md), [teleport](/compendium/spells/teleport.md)
+**1/day each**: [etherealness](compendium/spells/etherealness.md), [teleport](compendium/spells/teleport.md)
 
-**3/day each**: [dispel magic](/compendium/spells/dispel-magic.md), [entangle](/compendium/spells/entangle.md), [plant growth](/compendium/spells/plant-growth.md)
+**3/day each**: [dispel magic](compendium/spells/dispel-magic.md), [entangle](compendium/spells/entangle.md), [plant growth](compendium/spells/plant-growth.md)
 
 ## Actions
 
@@ -72,20 +72,20 @@ title: Zuggtmoy
 
 ## Bonus Actions
 
-***Infestation Spores (3/Day).*** Zuggtmoy releases spores that burst out in a cloud that fills a 20-foot-radius sphere centered on her, and it lingers for 1 minute. Any creature in the cloud when it appears, or that enters it later, must make a DC 19 Constitution saving throw. On a successful save, the creature can't be infected by these spores for 24 hours. On a failed save, the creature is infected with a disease called the spores of Zuggtmoy, which lasts until the creature is cured of the disease or dies. While infected in this way, the creature can't be reinfected, and it must repeat the saving throw at the end of every 24 hours, ending the infection on a success. On a failure, the infected creature's body is slowly taken over by fungal growth, and after three such failed saves, the creature dies and is reanimated as a [spore servant](/compendium/bestiary/plant/quaggoth-spore-servant.md) if it's a type of creature that can be.
+***Infestation Spores (3/Day).*** Zuggtmoy releases spores that burst out in a cloud that fills a 20-foot-radius sphere centered on her, and it lingers for 1 minute. Any creature in the cloud when it appears, or that enters it later, must make a DC 19 Constitution saving throw. On a successful save, the creature can't be infected by these spores for 24 hours. On a failed save, the creature is infected with a disease called the spores of Zuggtmoy, which lasts until the creature is cured of the disease or dies. While infected in this way, the creature can't be reinfected, and it must repeat the saving throw at the end of every 24 hours, ending the infection on a success. On a failure, the infected creature's body is slowly taken over by fungal growth, and after three such failed saves, the creature dies and is reanimated as a [spore servant](compendium/bestiary/plant/quaggoth-spore-servant.md) if it's a type of creature that can be.
 
-***Mind Control Spores (Recharge 5-6).*** Zuggtmoy releases spores that burst out in a cloud that fills a 20-foot-radius sphere centered on her, and it lingers for 1 minute. Humanoids and Beasts in the cloud when it appears, or that enter it later, must make a DC 19 Wisdom saving throw. On a successful save, a creature can't be infected by these spores for 24 hours. On a failed save, the creature is infected with a disease called the influence of Zuggtmoy for 24 hours. While infected in this way, the creature is [charmed](/compendium/rules/conditions.md#charmed) by her and can't be reinfected by these spores.
+***Mind Control Spores (Recharge 5-6).*** Zuggtmoy releases spores that burst out in a cloud that fills a 20-foot-radius sphere centered on her, and it lingers for 1 minute. Humanoids and Beasts in the cloud when it appears, or that enter it later, must make a DC 19 Wisdom saving throw. On a successful save, a creature can't be infected by these spores for 24 hours. On a failed save, the creature is infected with a disease called the influence of Zuggtmoy for 24 hours. While infected in this way, the creature is [charmed](rules/conditions.md#charmed) by her and can't be reinfected by these spores.
 
 ## Reactions
 
-***Protective Thrall.*** When Zuggtmoy is hit by an attack roll, one creature within 10 feet of her that is [charmed](/compendium/rules/conditions.md#charmed) by her is hit by the attack instead.
+***Protective Thrall.*** When Zuggtmoy is hit by an attack roll, one creature within 10 feet of her that is [charmed](rules/conditions.md#charmed) by her is hit by the attack instead.
 
 ## Legendary Actions
 
 ***Attack.*** Zuggtmoy makes one Pseudopod attack.
 
-***Exert Will.*** One creature [charmed](/compendium/rules/conditions.md#charmed) by Zuggtmoy that she can see must use its reaction, if a available, to move up to its speed as she directs or to make one weapon attack against a target that she designates.
+***Exert Will.*** One creature [charmed](rules/conditions.md#charmed) by Zuggtmoy that she can see must use its reaction, if a available, to move up to its speed as she directs or to make one weapon attack against a target that she designates.
 
-![Zuggtmoy](/compendium/bestiary/legendary-group/zuggtmoy-mpmm.md)
+![Zuggtmoy](compendium/bestiary/legendary-group/zuggtmoy-mpmm.md)
 ```
 ^statblock

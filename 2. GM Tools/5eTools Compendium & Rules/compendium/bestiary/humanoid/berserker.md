@@ -21,10 +21,10 @@ Hailing from uncivilized lands, unpredictable berserkers come together in war pa
 
 ```ad-statblock
 title: Berserker
-![](/compendium/bestiary/humanoid/token/berserker.png#token)
+![](compendium/bestiary/humanoid/token/berserker.png#token)
 *Medium humanoid (any race), Any Chaotic alignment*
 
-- **Armor Class** 13  ([hide armor](/compendium/items/hide-armor.md))
+- **Armor Class** 13  ([hide armor](compendium/items/hide-armor.md))
 - **Hit Points** 67 (`9d8 + 27`)
 - **Speed** 30 ft.
 

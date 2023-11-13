@@ -14,7 +14,7 @@ aliases:
 
 - **Weight**: 3.0 lbs.
 
-With covers made of skin and fittings of bone, this tome is cold to the touch, and it whispers faintly. When found, the book contains the following spells, which are wizard spells for you while you are attuned to the book: [animate dead](/compendium/spells/animate-dead.md), [circle of death](/compendium/spells/circle-of-death.md), [false life](/compendium/spells/false-life.md), [finger of death](/compendium/spells/finger-of-death.md), [speak with dead](/compendium/spells/speak-with-dead.md), [summon undead](/compendium/spells/summon-undead-tce.md), and [vampiric touch](/compendium/spells/vampiric-touch.md). It functions as a spellbook for you.
+With covers made of skin and fittings of bone, this tome is cold to the touch, and it whispers faintly. When found, the book contains the following spells, which are wizard spells for you while you are attuned to the book: [animate dead](compendium/spells/animate-dead.md), [circle of death](compendium/spells/circle-of-death.md), [false life](compendium/spells/false-life.md), [finger of death](compendium/spells/finger-of-death.md), [speak with dead](compendium/spells/speak-with-dead.md), [summon undead](compendium/spells/summon-undead-tce.md), and [vampiric touch](compendium/spells/vampiric-touch.md). It functions as a spellbook for you.
 
 While you are holding the book, you can use it as a spellcasting focus for your wizard spells.
 

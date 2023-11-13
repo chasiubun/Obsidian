@@ -24,11 +24,11 @@ At each indicated cleric level, add the listed spells to your spells prepared. T
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [false life](/compendium/spells/false-life.md), [ray of sickness](/compendium/spells/ray-of-sickness.md) |
-| 3rd | [blindness/deafness](/compendium/spells/blindness-deafness.md), [ray of enfeeblement](/compendium/spells/ray-of-enfeeblement.md) |
-| 5th | [animate dead](/compendium/spells/animate-dead.md), [vampiric touch](/compendium/spells/vampiric-touch.md) |
-| 7th | [blight](/compendium/spells/blight.md), [death ward](/compendium/spells/death-ward.md) |
-| 9th | [antilife shell](/compendium/spells/antilife-shell.md), [cloudkill](/compendium/spells/cloudkill.md) |
+| 1st | [false life](compendium/spells/false-life.md), [ray of sickness](compendium/spells/ray-of-sickness.md) |
+| 3rd | [blindness/deafness](compendium/spells/blindness-deafness.md), [ray of enfeeblement](compendium/spells/ray-of-enfeeblement.md) |
+| 5th | [animate dead](compendium/spells/animate-dead.md), [vampiric touch](compendium/spells/vampiric-touch.md) |
+| 7th | [blight](compendium/spells/blight.md), [death ward](compendium/spells/death-ward.md) |
+| 9th | [antilife shell](compendium/spells/antilife-shell.md), [cloudkill](compendium/spells/cloudkill.md) |
 ^death-domain-spells
 
 ### Bonus Proficiency (Level 1)
@@ -56,7 +56,7 @@ At 8th level, the cleric gains the ability to infuse his or her weapon strikes w
 ### Blessed Strikes (Level 8)
 _Source: Tasha's Cauldron of Everything p. 30_
 
-*8th-level cleric [optional class features](/compendium/rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*
+*8th-level cleric [optional class features](rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*
 
 You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `1d8` radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 

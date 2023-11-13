@@ -11,4 +11,4 @@ aliases: ["Mist Stance"]
 
 **Prerequisite**: 11th-level Monk
 
-You can spend 4 ki points to cast [gaseous form](/compendium/spells/gaseous-form.md), targeting yourself.
+You can spend 4 ki points to cast [gaseous form](compendium/spells/gaseous-form.md), targeting yourself.

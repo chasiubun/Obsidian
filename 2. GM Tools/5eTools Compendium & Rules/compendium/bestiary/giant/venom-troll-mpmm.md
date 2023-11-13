@@ -30,7 +30,7 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 
 ```ad-statblock
 title: Venom Troll
-![](/compendium/bestiary/giant/token/venom-troll.png#token)
+![](compendium/bestiary/giant/token/venom-troll.png#token)
 *Large giant, Typically  Chaotic Evil*
 
 - **Armor Class** 15  (natural armor)
@@ -58,11 +58,11 @@ title: Venom Troll
 
 ***Multiattack.*** The troll makes one Bite attack and two Claw attacks.
 
-***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (`1d6 + 4`) piercing damage plus 4 (`1d8`) poison damage, and the creature is [poisoned](/compendium/rules/conditions.md#poisoned) until the start of the troll's next turn.
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (`1d6 + 4`) piercing damage plus 4 (`1d8`) poison damage, and the creature is [poisoned](rules/conditions.md#poisoned) until the start of the troll's next turn.
 
 ***Claws.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (`2d6 + 4`) slashing damage plus 4 (`1d8`) poison damage.
 
-***Venom Spray (Recharge 6).*** The troll slices itself with a claw, releasing a spray of poison in a 15-foot cube. The troll takes 7 (`2d6`) slashing damage (this damage can't be reduced in any way). Each creature in the area must make a DC 16 Constitution saving throw. On a failed save, a creature takes 18 (`4d8`) poison damage and is [poisoned](/compendium/rules/conditions.md#poisoned) for 1 minute. On a successful save, the creature takes half as much damage and isn't [poisoned](/compendium/rules/conditions.md#poisoned). A [poisoned](/compendium/rules/conditions.md#poisoned) creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Venom Spray (Recharge 6).*** The troll slices itself with a claw, releasing a spray of poison in a 15-foot cube. The troll takes 7 (`2d6`) slashing damage (this damage can't be reduced in any way). Each creature in the area must make a DC 16 Constitution saving throw. On a failed save, a creature takes 18 (`4d8`) poison damage and is [poisoned](rules/conditions.md#poisoned) for 1 minute. On a successful save, the creature takes half as much damage and isn't [poisoned](rules/conditions.md#poisoned). A [poisoned](rules/conditions.md#poisoned) creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ```
 ^statblock
 

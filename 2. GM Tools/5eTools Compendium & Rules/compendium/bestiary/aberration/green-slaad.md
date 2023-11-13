@@ -39,13 +39,13 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 > 
 > A slaad born from something other than the Spawning Stone has no gem in its brain, but it gains one if it ever comes into contact with the Spawning Stone. Slaadi on Limbo are attracted to the Spawning Stone, so most end up with a gem. A slaad with a control gem in its brain has the following additional trait.
 > 
-> **Control Gem.** Implanted in the slaad's brain is a magic control gem. The slaad must obey whoever possesses the gem and is immune to being [charmed](/compendium/rules/conditions.md#charmed) while so controlled.
+> **Control Gem.** Implanted in the slaad's brain is a magic control gem. The slaad must obey whoever possesses the gem and is immune to being [charmed](rules/conditions.md#charmed) while so controlled.
 > 
-> Certain spells can be used to acquire the gem. If the slaad fails its saving throw against imprisonment, the spell can transfer the gem to the spellcaster's open hand, instead of imprisoning the slaad. A [wish](/compendium/spells/wish.md) spell, if cast in the slaad's presence, can be worded to acquire the gem.
+> Certain spells can be used to acquire the gem. If the slaad fails its saving throw against imprisonment, the spell can transfer the gem to the spellcaster's open hand, instead of imprisoning the slaad. A [wish](compendium/spells/wish.md) spell, if cast in the slaad's presence, can be worded to acquire the gem.
 > 
-> A [greater restoration](/compendium/spells/greater-restoration.md) spell cast on the slaad destroys the gem without harming the slaad.
+> A [greater restoration](compendium/spells/greater-restoration.md) spell cast on the slaad destroys the gem without harming the slaad.
 > 
-> Someone who is proficient in Wisdom ([Medicine](/compendium/rules/skills.md#Medicine)) can remove the gem from an [incapacitated](/compendium/rules/conditions.md#incapacitated) slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([Medicine](/compendium/rules/skills.md#Medicine)) check. Each failed attempt deals 22 (`4d10`) psychic damage to the slaad.
+> Someone who is proficient in Wisdom ([Medicine](rules/skills.md#Medicine)) can remove the gem from an [incapacitated](rules/conditions.md#incapacitated) slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([Medicine](rules/skills.md#Medicine)) check. Each failed attempt deals 22 (`4d10`) psychic damage to the slaad.
 ^variant-slaad-control-gems
 
 > [!quote]-  
@@ -57,7 +57,7 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 
 ```ad-statblock
 title: Green Slaad
-![](/compendium/bestiary/aberration/token/green-slaad.png#token)
+![](compendium/bestiary/aberration/token/green-slaad.png#token)
 *Large aberration (shapechanger), Chaotic Neutral*
 
 - **Armor Class** 16  (natural armor)
@@ -85,11 +85,11 @@ title: Green Slaad
 
 ***Innate Spellcasting.*** The slaad's innate spellcasting ability is Charisma (spell save DC 12). The slaad can innately cast the following spells, requiring no material components:
 
-**At will**: [detect magic](/compendium/spells/detect-magic.md), [detect thoughts](/compendium/spells/detect-thoughts.md), [mage hand](/compendium/spells/mage-hand.md)
+**At will**: [detect magic](compendium/spells/detect-magic.md), [detect thoughts](compendium/spells/detect-thoughts.md), [mage hand](compendium/spells/mage-hand.md)
 
-**1/day**: [fireball](/compendium/spells/fireball.md)
+**1/day**: [fireball](compendium/spells/fireball.md)
 
-**2/day each**: [fear](/compendium/spells/fear.md), [invisibility](/compendium/spells/invisibility.md) (self only)
+**2/day each**: [fear](compendium/spells/fear.md), [invisibility](compendium/spells/invisibility.md) (self only)
 
 ## Actions
 

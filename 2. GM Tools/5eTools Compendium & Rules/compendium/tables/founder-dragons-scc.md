@@ -14,9 +14,9 @@ aliases: ["Founder Dragons"]
 
 | College | Founder |
 |---------|---------|
-| Lorehold | [Velomachus Lorehold](/compendium/bestiary/npc/velomachus-lorehold-scc.md) |
-| Prismari | [Galazeth Prismari](/compendium/bestiary/npc/galazeth-prismari-scc.md) |
-| Quandrix | [Tanazir Quandrix](/compendium/bestiary/npc/tanazir-quandrix-scc.md) |
-| Silverquill | [Shadrix Silverquill](/compendium/bestiary/npc/shadrix-silverquill-scc.md) |
-| Witherbloom | [Beledros Witherbloom](/compendium/bestiary/npc/beledros-witherbloom-scc.md) |
+| Lorehold | [Velomachus Lorehold](compendium/bestiary/npc/velomachus-lorehold-scc.md) |
+| Prismari | [Galazeth Prismari](compendium/bestiary/npc/galazeth-prismari-scc.md) |
+| Quandrix | [Tanazir Quandrix](compendium/bestiary/npc/tanazir-quandrix-scc.md) |
+| Silverquill | [Shadrix Silverquill](compendium/bestiary/npc/shadrix-silverquill-scc.md) |
+| Witherbloom | [Beledros Witherbloom](compendium/bestiary/npc/beledros-witherbloom-scc.md) |
 ^founder-dragons

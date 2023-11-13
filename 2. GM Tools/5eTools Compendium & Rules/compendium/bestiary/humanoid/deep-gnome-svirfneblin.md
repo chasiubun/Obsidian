@@ -32,10 +32,10 @@ Deep gnomes are often encountered in the company of creatures from the Elemental
 
 ```ad-statblock
 title: Deep Gnome (Svirfneblin)
-![](/compendium/bestiary/humanoid/token/deep-gnome-svirfneblin.png#token)
+![](compendium/bestiary/humanoid/token/deep-gnome-svirfneblin.png#token)
 *Small humanoid (gnome), Neutral Good*
 
-- **Armor Class** 15  ([chain shirt](/compendium/items/chain-shirt.md))
+- **Armor Class** 15  ([chain shirt](compendium/items/chain-shirt.md))
 - **Hit Points** 16 (`3d6 + 6`)
 - **Speed** 20 ft.
 
@@ -58,15 +58,15 @@ title: Deep Gnome (Svirfneblin)
 
 ***Innate Spellcasting.*** The gnome's innate spellcasting ability is Intelligence (spell save DC 11). It can innately cast the following spells, requiring no material components:
 
-**At will**: [nondetection](/compendium/spells/nondetection.md) (self only)
+**At will**: [nondetection](compendium/spells/nondetection.md) (self only)
 
-**1/day each**: [blindness/deafness](/compendium/spells/blindness-deafness.md), [blur](/compendium/spells/blur.md), [disguise self](/compendium/spells/disguise-self.md)
+**1/day each**: [blindness/deafness](compendium/spells/blindness-deafness.md), [blur](compendium/spells/blur.md), [disguise self](compendium/spells/disguise-self.md)
 
 ## Actions
 
 ***War Pick.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (`1d8 + 2`) piercing damage.
 
-***Poisoned Dart.*** *Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one creature. *Hit:* 4 (`1d4 + 2`) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be [poisoned](/compendium/rules/conditions.md#poisoned) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success
+***Poisoned Dart.*** *Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one creature. *Hit:* 4 (`1d4 + 2`) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be [poisoned](rules/conditions.md#poisoned) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success
 ```
 ^statblock
 

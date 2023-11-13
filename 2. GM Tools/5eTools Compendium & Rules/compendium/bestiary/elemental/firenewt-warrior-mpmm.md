@@ -25,10 +25,10 @@ Originally from the Elemental Plane of Fire, firenewts can be found on the Mater
 
 ```ad-statblock
 title: Firenewt Warrior
-![](/compendium/bestiary/elemental/token/firenewt-warrior.png#token)
+![](compendium/bestiary/elemental/token/firenewt-warrior.png#token)
 *Medium elemental, Typically  Neutral*
 
-- **Armor Class** 13  ([shield](/compendium/items/shield.md))
+- **Armor Class** 13  ([shield](compendium/items/shield.md))
 - **Hit Points** 27 (`5d8 + 5`)
 - **Speed** 30 ft.
 

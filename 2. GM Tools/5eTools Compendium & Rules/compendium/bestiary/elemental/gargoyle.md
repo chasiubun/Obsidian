@@ -46,7 +46,7 @@ A gargoyle doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Gargoyle
-![](/compendium/bestiary/elemental/token/gargoyle.png#token)
+![](compendium/bestiary/elemental/token/gargoyle.png#token)
 *Medium elemental, Chaotic Evil*
 
 - **Armor Class** 15  (natural armor)

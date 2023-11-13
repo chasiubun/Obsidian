@@ -91,7 +91,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ```ad-statblock
 title: Black Dragon Wyrmling
-![](/compendium/bestiary/dragon/token/black-dragon-wyrmling.png#token)
+![](compendium/bestiary/dragon/token/black-dragon-wyrmling.png#token)
 *Medium dragon, Chaotic Evil*
 
 - **Armor Class** 17  (natural armor)

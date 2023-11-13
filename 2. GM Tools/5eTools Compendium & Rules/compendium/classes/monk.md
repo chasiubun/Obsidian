@@ -77,15 +77,15 @@ You are proficient with the following items, in addition to any proficiencies pr
 
 - **Saving Throws**: Strength, Dexterity
 - **Armor**: none
-- **Weapons**: simple, [shortswords](/compendium/items/shortsword.md)
-- **Tools**: any one type of [artisan's tools](/compendium/items/artisans-tools.md) or any one [musical instrument](/compendium/items/musical-instrument.md) of your choice
+- **Weapons**: simple, [shortswords](compendium/items/shortsword.md)
+- **Tools**: any one type of [artisan's tools](compendium/items/artisans-tools.md) or any one [musical instrument](compendium/items/musical-instrument.md) of your choice
 - **Skills**: Choose 2 from *Acrobatics*, *Athletics*, *History*, *Insight*, *Religion*, *Stealth*
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-- (a) a [shortsword](/compendium/items/shortsword.md) or (b) any simple weapon  
-- (a) a [dungeoneer's pack](/compendium/items/dungeoneers-pack.md) or (b) an [explorer's pack](/compendium/items/explorers-pack.md)  
-- 10 [darts](/compendium/items/dart.md)  
+- (a) a [shortsword](compendium/items/shortsword.md) or (b) any simple weapon  
+- (a) a [dungeoneer's pack](compendium/items/dungeoneers-pack.md) or (b) an [explorer's pack](compendium/items/explorers-pack.md)  
+- 10 [darts](compendium/items/dart.md)  
 
 Alternatively, you may start with 5d4 gp and choose your own equipment.
 
@@ -99,7 +99,7 @@ To multiclass as a Monk, you must meet the following prerequisites:
 You gain the following proficiencies:
 
 - **Armor**: none
-- **Weapons**: simple, [shortswords](/compendium/items/shortsword.md)
+- **Weapons**: simple, [shortswords](compendium/items/shortsword.md)
 - **Tools**: none
 
 ## Monk
@@ -136,7 +136,7 @@ As a result of the structured life of a monastic community and the discipline re
 
 #### Quick Build
 
-You can make a monk quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Wisdom. Second, choose the [hermit](/compendium/backgrounds/hermit.md) background.
+You can make a monk quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Wisdom. Second, choose the [hermit](compendium/backgrounds/hermit.md) background.
 
 > [!quote]- A quote from Ember, grand master of flowers  
 > 
@@ -211,13 +211,13 @@ Beginning at 1st level, while you are wearing no armor and not wielding a shield
 
 ### Martial Arts (Level 1)
 
-Your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are [shortswords](/compendium/items/shortsword.md) and any simple melee weapons that don't have the two-handed or heavy property.
+Your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are [shortswords](compendium/items/shortsword.md) and any simple melee weapons that don't have the two-handed or heavy property.
 
-You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a [shield](/compendium/items/shield.md).
+You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a [shield](compendium/items/shield.md).
 
 - You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.  
 - You can roll a `d4` in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.  
-- When you use the [Attack](/compendium/rules/actions.md#Attack) action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the [Attack](/compendium/rules/actions.md#Attack) action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.  
+- When you use the [Attack](rules/actions.md#Attack) action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the [Attack](rules/actions.md#Attack) action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.  
 
 Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama).
 
@@ -235,20 +235,20 @@ Some of your ki features require your target to make a saving throw to resist th
 
 ### Flurry of Blows (Level 2)
 
-Immediately after you take the [Attack](/compendium/rules/actions.md#Attack) action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action.
+Immediately after you take the [Attack](rules/actions.md#Attack) action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action.
 
 ### Patient Defense (Level 2)
 
-You can spend 1 ki point to take the [Dodge](/compendium/rules/actions.md#Dodge) action as a bonus action on your turn.
+You can spend 1 ki point to take the [Dodge](rules/actions.md#Dodge) action as a bonus action on your turn.
 
 ### Step of the Wind (Level 2)
 
-You can spend 1 ki point to take the [Disengage](/compendium/rules/actions.md#Disengage) or [Dash](/compendium/rules/actions.md#Dash) action as a bonus action on your turn, and your jump distance is doubled for the turn.
+You can spend 1 ki point to take the [Disengage](rules/actions.md#Disengage) or [Dash](rules/actions.md#Dash) action as a bonus action on your turn, and your jump distance is doubled for the turn.
 
 ### Dedicated Weapon (Level 2)
 _Source: Tasha's Cauldron of Everything p. 48_
 
-*2nd-level monk [optional class features](/compendium/rules/variant-rules/optional-class-features-tce.md)*
+*2nd-level monk [optional class features](rules/variant-rules/optional-class-features-tce.md)*
 
 You train yourself to use a variety of weapons as monk weapons, not just simple melee weapons and shortswords. Whenever you finish a short or long rest, you can touch one weapon, focus your ki on it, and then count that weapon as a monk weapon until you use this feature again.
 
@@ -277,7 +277,7 @@ When you reach 3rd level, you commit yourself to a monastic tradition, chosen fr
 ### Ki-Fueled Attack (Level 3)
 _Source: Tasha's Cauldron of Everything p. 48_
 
-*3rd-level monk [optional class features](/compendium/rules/variant-rules/optional-class-features-tce.md)*
+*3rd-level monk [optional class features](rules/variant-rules/optional-class-features-tce.md)*
 
 If you spend 1 ki point or more as part of your action on your turn, you can make one attack with an unarmed strike or a monk weapon as a bonus action before the end of the turn.
 
@@ -294,22 +294,22 @@ Beginning at 4th level, you can use your reaction when you fall to reduce any fa
 ### Quickened Healing (Level 4)
 _Source: Tasha's Cauldron of Everything p. 48_
 
-*4th-level monk [optional class features](/compendium/rules/variant-rules/optional-class-features-tce.md)*
+*4th-level monk [optional class features](rules/variant-rules/optional-class-features-tce.md)*
 
 As an action, you can spend 2 ki points and roll a Martial Arts die. You regain a number of hit points equal to the number rolled plus your proficiency bonus.
 
 ### Extra Attack (Level 5)
 
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack](/compendium/rules/actions.md#Attack) action on your turn.
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack](rules/actions.md#Attack) action on your turn.
 
 ### Stunning Strike (Level 5)
 
-Starting at 5th level, you can interfere with the flow of ki in an opponent's body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be [stunned](/compendium/rules/conditions.md#stunned) until the end of your next turn.
+Starting at 5th level, you can interfere with the flow of ki in an opponent's body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be [stunned](rules/conditions.md#stunned) until the end of your next turn.
 
 ### Focused Aim (Level 5)
 _Source: Tasha's Cauldron of Everything p. 48_
 
-*5th-level monk [optional class features](/compendium/rules/variant-rules/optional-class-features-tce.md)*
+*5th-level monk [optional class features](rules/variant-rules/optional-class-features-tce.md)*
 
 When you miss with an attack roll, you can spend 1 to 3 ki points to increase your attack roll by 2 for each of these ki points you spend, potentially turning the miss into a hit.
 
@@ -323,11 +323,11 @@ At 6th level, you gain one feature granted by your Monastic Tradition.
 
 ### Evasion (Level 7)
 
-At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon's lightning breath or a [fireball](/compendium/spells/fireball.md) spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon's lightning breath or a [fireball](compendium/spells/fireball.md) spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 ### Stillness of Mind (Level 7)
 
-Starting at 7th level, you can use your action to end one effect on yourself that is causing you to be [charmed](/compendium/rules/conditions.md#charmed) or [frightened](/compendium/rules/conditions.md#frightened).
+Starting at 7th level, you can use your action to end one effect on yourself that is causing you to be [charmed](rules/conditions.md#charmed) or [frightened](rules/conditions.md#frightened).
 
 ### Ability Score Improvement (Level 8)
 
@@ -379,9 +379,9 @@ At 17th level, you gain one feature granted by your Monastic Tradition.
 
 ### Empty Body (Level 18)
 
-Beginning at 18th level, you can use your action to spend 4 ki points to become [invisible](/compendium/rules/conditions.md#invisible) for 1 minute. During that time, you also have resistance to all damage but force damage.
+Beginning at 18th level, you can use your action to spend 4 ki points to become [invisible](rules/conditions.md#invisible) for 1 minute. During that time, you also have resistance to all damage but force damage.
 
-Additionally, you can spend 8 ki points to cast the [astral projection](/compendium/spells/astral-projection.md) spell, without needing material components. When you do so, you can't take any other creatures with you.
+Additionally, you can spend 8 ki points to cast the [astral projection](compendium/spells/astral-projection.md) spell, without needing material components. When you do so, you can't take any other creatures with you.
 
 ### Ability Score Improvement (Level 19)
 

@@ -99,7 +99,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ```ad-statblock
 title: Blue Dragon Wyrmling
-![](/compendium/bestiary/dragon/token/blue-dragon-wyrmling.png#token)
+![](compendium/bestiary/dragon/token/blue-dragon-wyrmling.png#token)
 *Medium dragon, Lawful Evil*
 
 - **Armor Class** 17  (natural armor)

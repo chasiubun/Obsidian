@@ -24,7 +24,7 @@ Born in a wide range of colors, grungs most often appear in shades of green, blu
 
 ```ad-statblock
 title: Grung Wildling
-![](/compendium/bestiary/humanoid/token/grung-wildling.png#token)
+![](compendium/bestiary/humanoid/token/grung-wildling.png#token)
 *Small humanoid, Any alignment*
 
 - **Armor Class** 16  (natural armor)
@@ -46,19 +46,19 @@ title: Grung Wildling
 
 ***Amphibious.*** The grung can breathe air and water.
 
-***Poisonous Skin.*** Any creature that grapples the grung or otherwise comes into direct contact with the grung's skin must succeed on a DC 12 Constitution saving throw or become [poisoned](/compendium/rules/conditions.md#poisoned) for 1 minute. A [poisoned](/compendium/rules/conditions.md#poisoned) creature no longer in direct contact with the grung can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Poisonous Skin.*** Any creature that grapples the grung or otherwise comes into direct contact with the grung's skin must succeed on a DC 12 Constitution saving throw or become [poisoned](rules/conditions.md#poisoned) for 1 minute. A [poisoned](rules/conditions.md#poisoned) creature no longer in direct contact with the grung can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Standing Leap.*** The grung's long jump is up to 25 feet and its high jump is up to 15 feet, with or without a running start.
 
-***Water Dependency.*** If the grung isn't immersed in water for at least 1 hour during a day, it suffers 1 level of [exhaustion](/compendium/rules/conditions.md#exhaustion) at the end of that day. The grung can recover from this [exhaustion](/compendium/rules/conditions.md#exhaustion) only through magic or by immersing itself in water for at least 1 hour.
+***Water Dependency.*** If the grung isn't immersed in water for at least 1 hour during a day, it suffers 1 level of [exhaustion](rules/conditions.md#exhaustion) at the end of that day. The grung can recover from this [exhaustion](rules/conditions.md#exhaustion) only through magic or by immersing itself in water for at least 1 hour.
 
 ***Spellcasting.*** The grung casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 12):
 
-**At will**: [druidcraft](/compendium/spells/druidcraft.md)
+**At will**: [druidcraft](compendium/spells/druidcraft.md)
 
-**2/day**: [plant growth](/compendium/spells/plant-growth.md)
+**2/day**: [plant growth](compendium/spells/plant-growth.md)
 
-**3/day each**: [cure wounds](/compendium/spells/cure-wounds.md), [spike growth](/compendium/spells/spike-growth.md)
+**3/day each**: [cure wounds](compendium/spells/cure-wounds.md), [spike growth](compendium/spells/spike-growth.md)
 
 ## Actions
 

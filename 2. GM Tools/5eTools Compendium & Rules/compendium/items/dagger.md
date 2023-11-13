@@ -15,7 +15,7 @@ aliases:
 
 - **Damage**: 1d4 P
 - **Range**: 20/60
-- **Properties**: [Finesse](/compendium/rules/item-properties.md#Finesse), [Light](/compendium/rules/item-properties.md#Light), [Thrown](/compendium/rules/item-properties.md#Thrown)
+- **Properties**: [Finesse](rules/item-properties.md#Finesse), [Light](rules/item-properties.md#Light), [Thrown](rules/item-properties.md#Thrown)
 - **Cost**: 2 gp
 - **Weight**: 1.0 lbs.
 

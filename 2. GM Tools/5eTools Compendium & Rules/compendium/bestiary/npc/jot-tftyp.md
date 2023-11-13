@@ -13,7 +13,7 @@ aliases: ["Jot"]
 
 ```ad-statblock
 title: Jot
-![](/compendium/bestiary/npc/token/jot.png#token)
+![](compendium/bestiary/npc/token/jot.png#token)
 *Tiny fiend (demon), Chaotic Evil*
 
 - **Armor Class** 13 
@@ -39,10 +39,10 @@ title: Jot
 
 ## Actions
 
-***Claw (Bite in Beast Form).*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (`1d4 + 3`) piercing damage, and the target must succeed on a DC 10 Constitution saving throw or take 5 (`2d4`) poison damage and become [poisoned](/compendium/rules/conditions.md#poisoned) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Claw (Bite in Beast Form).*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (`1d4 + 3`) piercing damage, and the target must succeed on a DC 10 Constitution saving throw or take 5 (`2d4`) poison damage and become [poisoned](rules/conditions.md#poisoned) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-***Scare (1/Day).*** One creature of Jot's choice within 20 feet of it must succeed on a DC 10 Wisdom saving throw or be [frightened](/compendium/rules/conditions.md#frightened) for 1 minute. The target can repeat the saving throw at the end of each of its turns, with disadvantage if Jot is within line of sight, ending the effect on itself on a success.
+***Scare (1/Day).*** One creature of Jot's choice within 20 feet of it must succeed on a DC 10 Wisdom saving throw or be [frightened](rules/conditions.md#frightened) for 1 minute. The target can repeat the saving throw at the end of each of its turns, with disadvantage if Jot is within line of sight, ending the effect on itself on a success.
 
-***Invisibility.*** Jot magically turns [invisible](/compendium/rules/conditions.md#invisible) until it attacks or uses Scare, or until its [concentration](/compendium/rules/conditions.md#concentration) ends (as if concentrating on a spell). Any equipment Jot wears or carries is [invisible](/compendium/rules/conditions.md#invisible) with it.
+***Invisibility.*** Jot magically turns [invisible](rules/conditions.md#invisible) until it attacks or uses Scare, or until its [concentration](rules/conditions.md#concentration) ends (as if concentrating on a spell). Any equipment Jot wears or carries is [invisible](rules/conditions.md#invisible) with it.
 ```
 ^statblock

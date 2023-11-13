@@ -42,7 +42,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 
 ```ad-statblock
 title: Star Spawn Larva Mage
-![](/compendium/bestiary/aberration/token/star-spawn-larva-mage.png#token)
+![](compendium/bestiary/aberration/token/star-spawn-larva-mage.png#token)
 *Medium aberration, Typically  Chaotic Evil*
 
 - **Armor Class** 16  (natural armor)
@@ -62,23 +62,23 @@ title: Star Spawn Larva Mage
 
 ## Traits
 
-***Return to Worms.*** When the mage is reduced to 0 hit points, it breaks apart into a [swarm of insects](/compendium/bestiary/beast/swarm-of-insects.md) in the same space. Unless the swarm is destroyed, the mage reforms from it 24 hours later.
+***Return to Worms.*** When the mage is reduced to 0 hit points, it breaks apart into a [swarm of insects](compendium/bestiary/beast/swarm-of-insects.md) in the same space. Unless the swarm is destroyed, the mage reforms from it 24 hours later.
 
 ***Spellcasting.*** The mage casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16):
 
-**At will**: [mage hand](/compendium/spells/mage-hand.md), [message](/compendium/spells/message.md), [minor illusion](/compendium/spells/minor-illusion.md)
+**At will**: [mage hand](compendium/spells/mage-hand.md), [message](compendium/spells/message.md), [minor illusion](compendium/spells/minor-illusion.md)
 
-**1/day**: [dominate monster](/compendium/spells/dominate-monster.md)
+**1/day**: [dominate monster](compendium/spells/dominate-monster.md)
 
 ## Actions
 
 ***Multiattack.*** The mage makes three Slam or Eldritch Bolt attacks.
 
-***Slam.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 7 (`1d8 + 3`) bludgeoning damage, and the target must succeed on a DC 19 Constitution saving throw or be [poisoned](/compendium/rules/conditions.md#poisoned) until the end of its next turn.
+***Slam.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 7 (`1d8 + 3`) bludgeoning damage, and the target must succeed on a DC 19 Constitution saving throw or be [poisoned](rules/conditions.md#poisoned) until the end of its next turn.
 
 ***Eldritch Bolt.*** *Ranged Spell Attack:* +8 to hit, range 60 ft., one target. *Hit:* 19 (`3d10 + 3`) force damage.
 
-***Plague of Worms (Recharge 6).*** Each creature other than a star spawn within 10 feet of the mage must succeed on a DC 19 Dexterity saving throw or take 22 (`5d8`) necrotic damage and be [blinded](/compendium/rules/conditions.md#blinded) and [restrained](/compendium/rules/conditions.md#restrained) by masses of swarming worms. The affected creature takes 22 (`5d8`) necrotic damage at the start of each of the mage's turns. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Plague of Worms (Recharge 6).*** Each creature other than a star spawn within 10 feet of the mage must succeed on a DC 19 Dexterity saving throw or take 22 (`5d8`) necrotic damage and be [blinded](rules/conditions.md#blinded) and [restrained](rules/conditions.md#restrained) by masses of swarming worms. The affected creature takes 22 (`5d8`) necrotic damage at the start of each of the mage's turns. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ## Reactions
 
@@ -90,7 +90,7 @@ title: Star Spawn Larva Mage
 
 ***Eldritch Bolt (Costs 2 Actions).*** The mage makes one Eldritch Bolt attack.
 
-***Feed (Costs 3 Actions).*** Each creature [restrained](/compendium/rules/conditions.md#restrained) by the mage's Plague of Worms takes 13 (`3d8`) necrotic damage, and the mage gains 6 temporary hit points.
+***Feed (Costs 3 Actions).*** Each creature [restrained](rules/conditions.md#restrained) by the mage's Plague of Worms takes 13 (`3d8`) necrotic damage, and the mage gains 6 temporary hit points.
 ```
 ^statblock
 

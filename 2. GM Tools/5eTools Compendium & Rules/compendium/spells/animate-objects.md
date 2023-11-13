@@ -28,11 +28,11 @@ As a bonus action, you can mentally command any creature you made with this spel
 
 | Size | HP | AC | Attack | Str | Dex |
 |------|----|----|--------|-----|-----|
-| [Tiny](/compendium/bestiary/construct/animated-object-tiny.md) | 20 | 18 | +8 to hit, `1d4 + 4` damage | 4 | 18 |
-| [Small](/compendium/bestiary/construct/animated-object-small.md) | 25 | 16 | +6 to hit, `1d8 + 2` damage | 6 | 14 |
-| [Medium](/compendium/bestiary/construct/animated-object-medium.md) | 40 | 13 | +5 to hit, `2d6 + 1` damage | 10 | 12 |
-| [Large](/compendium/bestiary/construct/animated-object-large.md) | 50 | 10 | +6 to hit, `2d10 + 2` damage | 14 | 10 |
-| [Huge](/compendium/bestiary/construct/animated-object-huge.md) | 80 | 10 | +8 to hit, `2d12 + 4` damage | 18 | 6 |
+| [Tiny](compendium/bestiary/construct/animated-object-tiny.md) | 20 | 18 | +8 to hit, `1d4 + 4` damage | 4 | 18 |
+| [Small](compendium/bestiary/construct/animated-object-small.md) | 25 | 16 | +6 to hit, `1d8 + 2` damage | 6 | 14 |
+| [Medium](compendium/bestiary/construct/animated-object-medium.md) | 40 | 13 | +5 to hit, `2d6 + 1` damage | 10 | 12 |
+| [Large](compendium/bestiary/construct/animated-object-large.md) | 50 | 10 | +6 to hit, `2d10 + 2` damage | 14 | 10 |
+| [Huge](compendium/bestiary/construct/animated-object-huge.md) | 80 | 10 | +8 to hit, `2d12 + 4` damage | 18 | 6 |
 ^animated-object-statistics
 
 An animated object is a construct with AC, hit points, attacks, Strength, and Dexterity determined by its size. Its Constitution is 10 and its Intelligence and Wisdom are 3, and its Charisma is 1. Its speed is 30 feet; if the object lacks legs or other appendages it can use for locomotion, it instead has a flying speed of 30 feet and can hover. If the object is securely attached to a surface or a larger object, such as a chain bolted to a wall, its speed is 0. It has blindsight with a radius of 30 feet and is blind beyond that distance. When the animated object drops to 0 hit points, it reverts to its original object form, and any remaining damage carries over to its original object form.
@@ -41,6 +41,6 @@ If you command an object to attack, it can make a single melee attack against a 
 
 **At Higher Levels.** If you cast this spell using a spell slot of 6th level or higher, you can animate two additional objects for each slot level above 5th.
 
-**Classes**: [Artificer](/compendium/classes/artificer-tce.md), [Bard](/compendium/classes/bard.md), [Cleric (Forge Domain)](/compendium/classes/cleric-forge-domain-xge.md), [Sorcerer](/compendium/classes/sorcerer.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Artificer](compendium/classes/artificer-tce.md), [Bard](compendium/classes/bard.md), [Cleric (Forge Domain)](compendium/classes/cleric-forge-domain-xge.md), [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 213. Available in the SRD.*

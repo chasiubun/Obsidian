@@ -58,7 +58,7 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 
 ```ad-statblock
 title: Kuo-toa Whip
-![](/compendium/bestiary/humanoid/token/kuo-toa-whip.png#token)
+![](compendium/bestiary/humanoid/token/kuo-toa-whip.png#token)
 *Medium humanoid (kuo-toa), Neutral Evil*
 
 - **Armor Class** 11  (natural armor)
@@ -80,17 +80,17 @@ title: Kuo-toa Whip
 
 ***Amphibious.*** The kuo-toa can breathe air and water.
 
-***Otherworldly Perception.*** The kuo-toa can sense the presence of any creature within 30 feet of it that is [invisible](/compendium/rules/conditions.md#invisible) or on the Ethereal Plane. It can pinpoint such a creature that is moving.
+***Otherworldly Perception.*** The kuo-toa can sense the presence of any creature within 30 feet of it that is [invisible](rules/conditions.md#invisible) or on the Ethereal Plane. It can pinpoint such a creature that is moving.
 
 ***Slippery.*** The kuo-toa has advantage on ability checks and saving throws made to escape a grapple.
 
-***Sunlight Sensitivity.*** While in sunlight, the kuo-toa has disadvantage on attack rolls, as well as on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the kuo-toa has disadvantage on attack rolls, as well as on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ***Spellcasting.*** The kuo-toa is a 2nd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The kuo-toa has the following cleric spells prepared:
 
-**Cantrips (at will)**: [sacred flame](/compendium/spells/sacred-flame.md), [thaumaturgy](/compendium/spells/thaumaturgy.md)
+**Cantrips (at will)**: [sacred flame](compendium/spells/sacred-flame.md), [thaumaturgy](compendium/spells/thaumaturgy.md)
 
-**1st level (3 slots)**: [bane](/compendium/spells/bane.md), [shield of faith](/compendium/spells/shield-of-faith.md)
+**1st level (3 slots)**: [bane](compendium/spells/bane.md), [shield of faith](compendium/spells/shield-of-faith.md)
 
 ## Actions
 
@@ -98,7 +98,7 @@ title: Kuo-toa Whip
 
 ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (`1d4 + 2`) piercing damage.
 
-***Pincer Staff.*** *Melee Weapon Attack:* +4 to hit, reach 10 ft., one target. *Hit:* 5 (`1d6 + 2`) piercing damage. If the target is a Medium or smaller creature, it is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 14). Until this grapple ends, the kuo-toa can't use its pincer staff on another target.
+***Pincer Staff.*** *Melee Weapon Attack:* +4 to hit, reach 10 ft., one target. *Hit:* 5 (`1d6 + 2`) piercing damage. If the target is a Medium or smaller creature, it is [grappled](rules/conditions.md#grappled) (escape DC 14). Until this grapple ends, the kuo-toa can't use its pincer staff on another target.
 ```
 ^statblock
 

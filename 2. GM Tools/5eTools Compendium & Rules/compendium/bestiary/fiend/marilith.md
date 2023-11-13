@@ -159,7 +159,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](/compendium/rules/conditions.md#charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](rules/conditions.md#charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -190,7 +190,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 ```ad-statblock
 title: Marilith
-![](/compendium/bestiary/fiend/token/marilith.png#token)
+![](compendium/bestiary/fiend/token/marilith.png#token)
 *Large fiend (demon), Chaotic Evil*
 
 - **Armor Class** 18  (natural armor)
@@ -222,7 +222,7 @@ title: Marilith
 
 ***Longsword.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 13 (`2d8 + 4`) slashing damage.
 
-***Tail.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one creature. *Hit:* 15 (`2d10 + 4`) bludgeoning damage. If the target is Medium or smaller, it is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 19). Until this grapple ends, the target is [restrained](/compendium/rules/conditions.md#restrained), the marilith can automatically hit the target with its tail, and the marilith can't make tail attacks against other targets.
+***Tail.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one creature. *Hit:* 15 (`2d10 + 4`) bludgeoning damage. If the target is Medium or smaller, it is [grappled](rules/conditions.md#grappled) (escape DC 19). Until this grapple ends, the target is [restrained](rules/conditions.md#restrained), the marilith can automatically hit the target with its tail, and the marilith can't make tail attacks against other targets.
 
 ***Teleport.*** The marilith magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 

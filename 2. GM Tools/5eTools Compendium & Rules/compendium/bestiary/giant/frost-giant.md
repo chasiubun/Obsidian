@@ -79,7 +79,7 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 
 ```ad-statblock
 title: Frost Giant
-![](/compendium/bestiary/giant/token/frost-giant.png#token)
+![](compendium/bestiary/giant/token/frost-giant.png#token)
 *Huge giant, Neutral Evil*
 
 - **Armor Class** 15  (patchwork armor)

@@ -27,7 +27,7 @@ You can breathe air and water.
 
 ### Control Air and Water
 
-You can cast [fog cloud](/compendium/spells/fog-cloud.md) with this trait. Starting at 3rd level, you can cast the [gust of wind](/compendium/spells/gust-of-wind.md) spell with this trait. Starting at 5th level, you can also cast the [water walk](/compendium/spells/water-walk.md) spell with it. Once you cast any of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have of the appropriate level.
+You can cast [fog cloud](compendium/spells/fog-cloud.md) with this trait. Starting at 3rd level, you can cast the [gust of wind](compendium/spells/gust-of-wind.md) spell with this trait. Starting at 5th level, you can also cast the [water walk](compendium/spells/water-walk.md) spell with it. Once you cast any of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
 

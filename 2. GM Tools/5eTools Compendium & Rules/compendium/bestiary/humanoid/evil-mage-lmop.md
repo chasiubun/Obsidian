@@ -15,7 +15,7 @@ Evil mages (such as Iarno Albrek and Hamun Kost) hunger for arcane power and dwe
 
 ```ad-statblock
 title: Evil Mage
-![](/compendium/bestiary/humanoid/token/evil-mage.png#token)
+![](compendium/bestiary/humanoid/token/evil-mage.png#token)
 *Medium humanoid (human), Lawful Evil*
 
 - **Armor Class** 12 
@@ -35,11 +35,11 @@ title: Evil Mage
 
 ***Spellcasting.*** The mage is a 4th-level spellcaster that uses Intelligence as its spellcasting ability (spell save DC 13; +5 to hit with spell attacks). The mage knows the following spells from the wizard's spell list:
 
-**Cantrips (at will)**: [light](/compendium/spells/light.md), [mage hand](/compendium/spells/mage-hand.md), [shocking grasp](/compendium/spells/shocking-grasp.md)
+**Cantrips (at will)**: [light](compendium/spells/light.md), [mage hand](compendium/spells/mage-hand.md), [shocking grasp](compendium/spells/shocking-grasp.md)
 
-**1st level (4 slots)**: [charm person](/compendium/spells/charm-person.md), [magic missile](/compendium/spells/magic-missile.md)
+**1st level (4 slots)**: [charm person](compendium/spells/charm-person.md), [magic missile](compendium/spells/magic-missile.md)
 
-**2nd level (3 slots)**: [hold person](/compendium/spells/hold-person.md), [misty step](/compendium/spells/misty-step.md)
+**2nd level (3 slots)**: [hold person](compendium/spells/hold-person.md), [misty step](compendium/spells/misty-step.md)
 
 ## Actions
 

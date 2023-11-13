@@ -77,10 +77,10 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
 
 ```ad-statblock
 title: Hobgoblin Warlord
-![](/compendium/bestiary/humanoid/token/hobgoblin-warlord.png#token)
+![](compendium/bestiary/humanoid/token/hobgoblin-warlord.png#token)
 *Medium humanoid (goblinoid), Lawful Evil*
 
-- **Armor Class** 20  ([plate armor](/compendium/items/plate-armor.md), [shield](/compendium/items/shield.md))
+- **Armor Class** 20  ([plate armor](compendium/items/plate-armor.md), [shield](compendium/items/shield.md))
 - **Hit Points** 97 (`13d8 + 39`)
 - **Speed** 30 ft.
 
@@ -97,7 +97,7 @@ title: Hobgoblin Warlord
 
 ## Traits
 
-***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 14 (`4d6`) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 14 (`4d6`) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't [incapacitated](rules/conditions.md#incapacitated).
 
 ## Actions
 
@@ -105,11 +105,11 @@ title: Hobgoblin Warlord
 
 ***Longsword.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 7 (`1d8 + 3`) slashing damage, or 8 (`1d10 + 3`) slashing damage if used with two hands.
 
-***Shield Bash.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one creature. *Hit:* 5 (`1d4 + 3`) bludgeoning damage. If the target is Large or smaller, it must succeed on a DC 14 Strength saving throw or be knocked [prone](/compendium/rules/conditions.md#prone).
+***Shield Bash.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one creature. *Hit:* 5 (`1d4 + 3`) bludgeoning damage. If the target is Large or smaller, it must succeed on a DC 14 Strength saving throw or be knocked [prone](rules/conditions.md#prone).
 
 ***Javelin.*** *Melee or Ranged Weapon Attack:* +9 to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 6 (`1d6 + 3`) piercing damage.
 
-***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the hobgoblin can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a `d4` to its roll provided it can hear and understand the hobgoblin. A creature can benefit from only one Leadership die at a time. This effect ends if the hobgoblin is [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the hobgoblin can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a `d4` to its roll provided it can hear and understand the hobgoblin. A creature can benefit from only one Leadership die at a time. This effect ends if the hobgoblin is [incapacitated](rules/conditions.md#incapacitated).
 
 ## Reactions
 

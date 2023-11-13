@@ -34,7 +34,7 @@ If the Gulthias Tree dies, the thrall dies 24 hours later.
 
 ```ad-statblock
 title: Gulthias Tree
-![](/compendium/objects/token/gulthias-tree.png#token)
+![](compendium/objects/token/gulthias-tree.png#token)
 *Gargantuan Unknown*
 
 - **Armor Class** 10 

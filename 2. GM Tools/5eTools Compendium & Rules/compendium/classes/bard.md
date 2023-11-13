@@ -77,16 +77,16 @@ You are proficient with the following items, in addition to any proficiencies pr
 
 - **Saving Throws**: Dexterity, Charisma
 - **Armor**: light
-- **Weapons**: simple, [hand crossbows](/compendium/items/hand-crossbow.md), [longswords](/compendium/items/longsword.md), [rapiers](/compendium/items/rapier.md), [shortswords](/compendium/items/shortsword.md)
-- **Tools**: three [musical instruments](/compendium/items/musical-instrument.md) of your choice
+- **Weapons**: simple, [hand crossbows](compendium/items/hand-crossbow.md), [longswords](compendium/items/longsword.md), [rapiers](compendium/items/rapier.md), [shortswords](compendium/items/shortsword.md)
+- **Tools**: three [musical instruments](compendium/items/musical-instrument.md) of your choice
 - **Skills**: Choose 3 from *Acrobatics*, *Animal Handling*, *Arcana*, *Athletics*, *Deception*, *History*, *Insight*, *Intimidation*, *Investigation*, *Medicine*, *Nature*, *Perception*, *Performance*, *Persuasion*, *Religion*, *Sleight of Hand*, *Stealth*, *Survival*, *Spellcasting*
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-- (a) a [rapier](/compendium/items/rapier.md), (b) a [longsword](/compendium/items/longsword.md), or (c) any simple weapon  
-- (a) a [diplomat's pack](/compendium/items/diplomats-pack.md) or (b) an [entertainer's pack](/compendium/items/entertainers-pack.md)  
-- (a) a [lute](/compendium/items/lute.md) or (b) any other musical instrument  
-- [Leather armor](/compendium/items/leather-armor.md), and a [dagger](/compendium/items/dagger.md)  
+- (a) a [rapier](compendium/items/rapier.md), (b) a [longsword](compendium/items/longsword.md), or (c) any simple weapon  
+- (a) a [diplomat's pack](compendium/items/diplomats-pack.md) or (b) an [entertainer's pack](compendium/items/entertainers-pack.md)  
+- (a) a [lute](compendium/items/lute.md) or (b) any other musical instrument  
+- [Leather armor](compendium/items/leather-armor.md), and a [dagger](compendium/items/dagger.md)  
 
 Alternatively, you may start with 5d4 × 10 gp and choose your own equipment.
 
@@ -100,7 +100,7 @@ You gain the following proficiencies:
 
 - **Armor**: light
 - **Weapons**: none
-- **Tools**: one [musical instrument](/compendium/items/musical-instrument.md) of your choice
+- **Tools**: one [musical instrument](compendium/items/musical-instrument.md) of your choice
 - **Skills**: Choose 1 from *Acrobatics*, *Animal Handling*, *Arcana*, *Athletics*, *Deception*, *History*, *Insight*, *Intimidation*, *Investigation*, *Medicine*, *Nature*, *Perception*, *Performance*, *Persuasion*, *Religion*, *Sleight of Hand*, *Stealth*, *Survival*
 
 ## Bard
@@ -133,7 +133,7 @@ Did you serve an apprenticeship, studying under a master, following the more exp
 
 #### Quick Build
 
-You can make a bard quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Dexterity. Second, choose the [entertainer](/compendium/backgrounds/entertainer.md) background. Third, choose the [dancing lights](/compendium/spells/dancing-lights.md) and [vicious mockery](/compendium/spells/vicious-mockery.md) cantrips, along with the following 1st-level spells: [charm person](/compendium/spells/charm-person.md), [detect magic](/compendium/spells/detect-magic.md), [healing word](/compendium/spells/healing-word.md), and [thunderwave](/compendium/spells/thunderwave.md).
+You can make a bard quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Dexterity. Second, choose the [entertainer](compendium/backgrounds/entertainer.md) background. Third, choose the [dancing lights](compendium/spells/dancing-lights.md) and [vicious mockery](compendium/spells/vicious-mockery.md) cantrips, along with the following 1st-level spells: [charm person](compendium/spells/charm-person.md), [detect magic](compendium/spells/detect-magic.md), [healing word](compendium/spells/healing-word.md), and [thunderwave](compendium/spells/thunderwave.md).
 
 > [!quote]- A quote from Fletcher Danairia, master bard  
 > 
@@ -180,9 +180,9 @@ You might have an "off the rack" instrument, perhaps because it's all you can af
 | dice: d6 | Instrument |
 |----------|------------|
 | 1 | A masterfully crafted halfling fiddle |
-| 2 | A mithral [horn](/compendium/items/horn.md) made by elves |
+| 2 | A mithral [horn](compendium/items/horn.md) made by elves |
 | 3 | A zither made with drow spider silk |
-| 4 | An orcish [drum](/compendium/items/drum.md) |
+| 4 | An orcish [drum](compendium/items/drum.md) |
 | 5 | A wooden bullywug croak box |
 | 6 | A tinker's harp of gnomish design |
 ^instrument
@@ -203,7 +203,7 @@ The ways that a performance can go wrong are as varied as the fish in the sea. N
 | 3 | When your opening song was your enthusiastic but universally hated rendition of "Song of the Froghemoth" |
 | 4 | The first and last public performance of "Mirt, Man about Town" |
 | 5 | The time on stage when your wig caught fire and you threw it down—which set fire to the stage |
-| 6 | When you sat on your [lute](/compendium/items/lute.md) by mistake during the final stanza of "Starlight Serenade" |
+| 6 | When you sat on your [lute](compendium/items/lute.md) by mistake during the final stanza of "Starlight Serenade" |
 ^embarrassment
 
 ## A Bard's Muse
@@ -254,7 +254,7 @@ You know two cantrips of your choice from the bard spell list. You learn additio
 
 The Bard table shows how many spell slots you have to cast your bard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
-For example, if you know the 1st-level spell [cure wounds](/compendium/spells/cure-wounds.md) and have a 1st-level and a 2nd-level spell slot available, you can cast [cure wounds](/compendium/spells/cure-wounds.md) using either slot.
+For example, if you know the 1st-level spell [cure wounds](compendium/spells/cure-wounds.md) and have a 1st-level and a 2nd-level spell slot available, you can cast [cure wounds](compendium/spells/cure-wounds.md) using either slot.
 
 #### Spells Known of 1st Level and Higher
 
@@ -278,7 +278,7 @@ You can cast any bard spell you know as a ritual if that spell has the ritual ta
 
 #### Spellcasting Focus
 
-You can use a [musical instrument](/compendium/items/musical-instrument.md) as a spellcasting focus for your bard spells.
+You can use a [musical instrument](compendium/items/musical-instrument.md) as a spellcasting focus for your bard spells.
 
 ### Jack of All Trades (Level 2)
 
@@ -293,7 +293,7 @@ The extra hit points increase when you reach certain levels in this class: to `1
 ### Magical Inspiration (Level 2)
 _Source: Tasha's Cauldron of Everything p. 27_
 
-*2nd-level bard [optional class features](/compendium/rules/variant-rules/optional-class-features-tce.md)*
+*2nd-level bard [optional class features](rules/variant-rules/optional-class-features-tce.md)*
 
 If a creature has a Bardic Inspiration die from you and casts a spell that restores hit points or deals damage, the creature can roll that die and choose a target affected by the spell. Add the number rolled as a bonus to the hit points regained or the damage dealt. The Bardic Inspiration die is then lost.
 
@@ -316,7 +316,7 @@ If your DM allows the use of feats, you may instead take a feat.
 ### Bardic Versatility (Level 4)
 _Source: Tasha's Cauldron of Everything p. 27_
 
-*4th-level bard [optional class features](/compendium/rules/variant-rules/optional-class-features-tce.md)*
+*4th-level bard [optional class features](rules/variant-rules/optional-class-features-tce.md)*
 
 Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing a change in focus as you use your skills and magic:
 
@@ -333,7 +333,7 @@ Beginning when you reach 5th level, you regain all of your expended uses of Bard
 
 ### Countercharm (Level 6)
 
-At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being [frightened](/compendium/rules/conditions.md#frightened) or [charmed](/compendium/rules/conditions.md#charmed). A creature must be able to hear you to gain this benefit. The performance ends early if you are [incapacitated](/compendium/rules/conditions.md#incapacitated) or silenced or if you voluntarily end it (no action required).
+At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being [frightened](rules/conditions.md#frightened) or [charmed](rules/conditions.md#charmed). A creature must be able to hear you to gain this benefit. The performance ends early if you are [incapacitated](rules/conditions.md#incapacitated) or silenced or if you voluntarily end it (no action required).
 
 ### Bard College feature (Level 6)
 

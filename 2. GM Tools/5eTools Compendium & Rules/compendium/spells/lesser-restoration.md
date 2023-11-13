@@ -26,8 +26,8 @@ aliases: ["Lesser Restoration"]
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-You touch a creature and can end either one disease or one condition afflicting it. The condition can be [blinded](/compendium/rules/conditions.md#blinded), [deafened](/compendium/rules/conditions.md#deafened), [paralyzed](/compendium/rules/conditions.md#paralyzed), or [poisoned](/compendium/rules/conditions.md#poisoned).
+You touch a creature and can end either one disease or one condition afflicting it. The condition can be [blinded](rules/conditions.md#blinded), [deafened](rules/conditions.md#deafened), [paralyzed](rules/conditions.md#paralyzed), or [poisoned](rules/conditions.md#poisoned).
 
-**Classes**: [Artificer](/compendium/classes/artificer-tce.md), [Bard](/compendium/classes/bard.md), [Cleric (Life Domain)](/compendium/classes/cleric-life-domain.md), [Cleric](/compendium/classes/cleric.md), [Druid](/compendium/classes/druid.md), [Paladin (Oath of Devotion)](/compendium/classes/paladin-oath-of-devotion.md), [Paladin](/compendium/classes/paladin.md), [Ranger](/compendium/classes/ranger.md), [Sorcerer (Clockwork Soul)](/compendium/classes/sorcerer-clockwork-soul-tce.md), [Sorcerer (Divine Soul)](/compendium/classes/sorcerer-divine-soul-xge.md), [Warlock (The Celestial)](/compendium/classes/warlock-the-celestial-xge.md)
+**Classes**: [Artificer](compendium/classes/artificer-tce.md), [Bard](compendium/classes/bard.md), [Cleric (Life Domain)](compendium/classes/cleric-life-domain.md), [Cleric](compendium/classes/cleric.md), [Druid](compendium/classes/druid.md), [Paladin (Oath of Devotion)](compendium/classes/paladin-oath-of-devotion.md), [Paladin](compendium/classes/paladin.md), [Ranger](compendium/classes/ranger.md), [Sorcerer (Clockwork Soul)](compendium/classes/sorcerer-clockwork-soul-tce.md), [Sorcerer (Divine Soul)](compendium/classes/sorcerer-divine-soul-xge.md), [Warlock (The Celestial)](compendium/classes/warlock-the-celestial-xge.md)
 
 *Source: Player's Handbook p. 255. Available in the SRD and the Basic Rules.*

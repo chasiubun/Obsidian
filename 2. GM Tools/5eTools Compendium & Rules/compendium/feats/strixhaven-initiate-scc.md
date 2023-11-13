@@ -21,9 +21,9 @@ Your spellcasting ability for this feat's spells is Intelligence, Wisdom, or Cha
 
 | College | Cantrips | 1st-Level Spell |
 |---------|----------|-----------------|
-| Lorehold | Choose two from [light](/compendium/spells/light.md), [sacred flame](/compendium/spells/sacred-flame.md), and [thaumaturgy](/compendium/spells/thaumaturgy.md). | Choose one 1st-level cleric or wizard spell. |
-| Prismari | Choose two from [fire bolt](/compendium/spells/fire-bolt.md), [prestidigitation](/compendium/spells/prestidigitation.md), and [ray of frost](/compendium/spells/ray-of-frost.md). | Choose one 1st-level bard or sorcerer spell. |
-| Quandrix | Choose two from [druidcraft](/compendium/spells/druidcraft.md), [guidance](/compendium/spells/guidance.md), and [mage hand](/compendium/spells/mage-hand.md). | Choose one 1st-level druid or wizard spell. |
-| Silverquill | Choose two from [sacred flame](/compendium/spells/sacred-flame.md), [thaumaturgy](/compendium/spells/thaumaturgy.md), and [vicious mockery](/compendium/spells/vicious-mockery.md). | Choose one 1st-level bard or cleric spell. |
-| Witherbloom | Choose two from [chill touch](/compendium/spells/chill-touch.md), [druidcraft](/compendium/spells/druidcraft.md), and [spare the dying](/compendium/spells/spare-the-dying.md). | Choose one 1st-level druid or wizard spell. |
+| Lorehold | Choose two from [light](compendium/spells/light.md), [sacred flame](compendium/spells/sacred-flame.md), and [thaumaturgy](compendium/spells/thaumaturgy.md). | Choose one 1st-level cleric or wizard spell. |
+| Prismari | Choose two from [fire bolt](compendium/spells/fire-bolt.md), [prestidigitation](compendium/spells/prestidigitation.md), and [ray of frost](compendium/spells/ray-of-frost.md). | Choose one 1st-level bard or sorcerer spell. |
+| Quandrix | Choose two from [druidcraft](compendium/spells/druidcraft.md), [guidance](compendium/spells/guidance.md), and [mage hand](compendium/spells/mage-hand.md). | Choose one 1st-level druid or wizard spell. |
+| Silverquill | Choose two from [sacred flame](compendium/spells/sacred-flame.md), [thaumaturgy](compendium/spells/thaumaturgy.md), and [vicious mockery](compendium/spells/vicious-mockery.md). | Choose one 1st-level bard or cleric spell. |
+| Witherbloom | Choose two from [chill touch](compendium/spells/chill-touch.md), [druidcraft](compendium/spells/druidcraft.md), and [spare the dying](compendium/spells/spare-the-dying.md). | Choose one 1st-level druid or wizard spell. |
 ^strixhaven-spells

@@ -15,7 +15,7 @@ These giant skeletons were unearthed shortly before the silver in the mine ran o
 
 ```ad-statblock
 title: Dinosaur Skeleton
-![](/compendium/bestiary/undead/token/dinosaur-skeleton.png#token)
+![](compendium/bestiary/undead/token/dinosaur-skeleton.png#token)
 *Large undead, Unaligned*
 
 - **Armor Class** 13  (natural armor)
@@ -35,7 +35,7 @@ title: Dinosaur Skeleton
 
 ## Traits
 
-***Pounce.*** If the skeleton moves at least 30 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked [prone](/compendium/rules/conditions.md#prone). If the target is [prone](/compendium/rules/conditions.md#prone), the skeleton can make one bite attack against it as a bonus action.
+***Pounce.*** If the skeleton moves at least 30 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked [prone](rules/conditions.md#prone). If the target is [prone](rules/conditions.md#prone), the skeleton can make one bite attack against it as a bonus action.
 
 ## Actions
 

@@ -155,7 +155,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](/compendium/rules/conditions.md#charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](rules/conditions.md#charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -186,7 +186,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 ```ad-statblock
 title: Glabrezu
-![](/compendium/bestiary/fiend/token/glabrezu.png#token)
+![](compendium/bestiary/fiend/token/glabrezu.png#token)
 *Large fiend (demon), Chaotic Evil*
 
 - **Armor Class** 17  (natural armor)
@@ -210,15 +210,15 @@ title: Glabrezu
 
 ***Innate Spellcasting.*** The glabrezu's spellcasting ability is Intelligence (spell save DC 16). The glabrezu can innately cast the following spells, requiring no material components:
 
-**At will**: [darkness](/compendium/spells/darkness.md), [detect magic](/compendium/spells/detect-magic.md), [dispel magic](/compendium/spells/dispel-magic.md)
+**At will**: [darkness](compendium/spells/darkness.md), [detect magic](compendium/spells/detect-magic.md), [dispel magic](compendium/spells/dispel-magic.md)
 
-**1/day each**: [confusion](/compendium/spells/confusion.md), [fly](/compendium/spells/fly.md), [power word stun](/compendium/spells/power-word-stun.md)
+**1/day each**: [confusion](compendium/spells/confusion.md), [fly](compendium/spells/fly.md), [power word stun](compendium/spells/power-word-stun.md)
 
 ## Actions
 
 ***Multiattack.*** The glabrezu makes four attacks: two with its pincers and two with its fists. Alternatively, it makes two attacks with its pincers and casts one spell.
 
-***Pincer.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 16 (`2d10 + 5`) bludgeoning damage. If the target is a Medium or smaller creature, it is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 15). The glabrezu has two pincers, each of which can grapple only one target.
+***Pincer.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 16 (`2d10 + 5`) bludgeoning damage. If the target is a Medium or smaller creature, it is [grappled](rules/conditions.md#grappled) (escape DC 15). The glabrezu has two pincers, each of which can grapple only one target.
 
 ***Fist.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 7 (`2d4 + 2`) bludgeoning damage.
 ```

@@ -15,7 +15,7 @@ aliases: ["Warlock of the Fiend"]
 # Warlock of the Fiend
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 255, Volo's Guide to Monsters p. 219*  
 
-Warlocks of the Fiend gain their powers through magical pacts forged with archfiends of the Lower Planes. These warlocks often keep [imps](/compendium/bestiary/fiend/imp.md) or [quasits](/compendium/bestiary/fiend/quasit.md) as companions, and they tend toward philosophical extremes: consorting with fiendish cults or dedicating their lives to destroying such cults.
+Warlocks of the Fiend gain their powers through magical pacts forged with archfiends of the Lower Planes. These warlocks often keep [imps](compendium/bestiary/fiend/imp.md) or [quasits](compendium/bestiary/fiend/quasit.md) as companions, and they tend toward philosophical extremes: consorting with fiendish cults or dedicating their lives to destroying such cults.
 
 ## Warlocks
 
@@ -25,10 +25,10 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
 
 ```ad-statblock
 title: Warlock of the Fiend
-![](/compendium/bestiary/humanoid/token/warlock-of-the-fiend.png#token)
+![](compendium/bestiary/humanoid/token/warlock-of-the-fiend.png#token)
 *Medium humanoid, Any alignment*
 
-- **Armor Class** 13  (16 with [mage armor](/compendium/spells/mage-armor.md))
+- **Armor Class** 13  (16 with [mage armor](compendium/spells/mage-armor.md))
 - **Hit Points** 78 (`12d8 + 24`)
 - **Speed** 30 ft.
 
@@ -49,9 +49,9 @@ title: Warlock of the Fiend
 
 ***Spellcasting.*** The warlock casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 15): 
 
-**At will**: [alter self](/compendium/spells/alter-self.md), [mage armor](/compendium/spells/mage-armor.md) (self only), [mage hand](/compendium/spells/mage-hand.md), [minor illusion](/compendium/spells/minor-illusion.md), [prestidigitation](/compendium/spells/prestidigitation.md)
+**At will**: [alter self](compendium/spells/alter-self.md), [mage armor](compendium/spells/mage-armor.md) (self only), [mage hand](compendium/spells/mage-hand.md), [minor illusion](compendium/spells/minor-illusion.md), [prestidigitation](compendium/spells/prestidigitation.md)
 
-**1/day each**: [banishment](/compendium/spells/banishment.md), [plane shift](/compendium/spells/plane-shift.md), [suggestion](/compendium/spells/suggestion.md)
+**1/day each**: [banishment](compendium/spells/banishment.md), [plane shift](compendium/spells/plane-shift.md), [suggestion](compendium/spells/suggestion.md)
 
 ## Actions
 

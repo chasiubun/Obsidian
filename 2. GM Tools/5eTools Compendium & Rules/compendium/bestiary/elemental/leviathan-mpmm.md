@@ -19,7 +19,7 @@ Usually found only on the Elemental Plane of Water, a leviathan sometimes swims 
 
 ```ad-statblock
 title: Leviathan
-![](/compendium/bestiary/elemental/token/leviathan.png#token)
+![](compendium/bestiary/elemental/token/leviathan.png#token)
 *Gargantuan elemental, Typically  Neutral*
 
 - **Armor Class** 17 
@@ -55,7 +55,7 @@ title: Leviathan
 
 ***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 20 ft., one target. *Hit:* 19 (`2d10 + 8`) bludgeoning damage plus 10 (`3d6`) acid damage.
 
-***Tidal Wave (Recharge 6).*** The leviathan magically creates a wave of water that extends from a point it can see within 120 feet of itself. The wave is up to 250 feet long, up to 250 feet tall, and up to 50 feet wide. Each creature in the wave must make a DC 24 Strength saving throw. On a failed save, a creature takes 45 (`7d12`) bludgeoning damage and is knocked [prone](/compendium/rules/conditions.md#prone). On a successful save, a creature takes half as much damage and isn't knocked [prone](/compendium/rules/conditions.md#prone). The water spreads out across the ground in all directions, extinguishing unprotected flames in its area and within 250 feet of it, and then it vanishes.
+***Tidal Wave (Recharge 6).*** The leviathan magically creates a wave of water that extends from a point it can see within 120 feet of itself. The wave is up to 250 feet long, up to 250 feet tall, and up to 50 feet wide. Each creature in the wave must make a DC 24 Strength saving throw. On a failed save, a creature takes 45 (`7d12`) bludgeoning damage and is knocked [prone](rules/conditions.md#prone). On a successful save, a creature takes half as much damage and isn't knocked [prone](rules/conditions.md#prone). The water spreads out across the ground in all directions, extinguishing unprotected flames in its area and within 250 feet of it, and then it vanishes.
 
 ## Legendary Actions
 

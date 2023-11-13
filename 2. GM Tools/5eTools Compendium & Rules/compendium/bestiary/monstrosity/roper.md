@@ -30,7 +30,7 @@ A roper has six nubs set along its body, through which it extrudes sticky tendri
 
 ```ad-statblock
 title: Roper
-![](/compendium/bestiary/monstrosity/token/roper.png#token)
+![](compendium/bestiary/monstrosity/token/roper.png#token)
 *Large monstrosity, Neutral Evil*
 
 - **Armor Class** 20  (natural armor)
@@ -62,9 +62,9 @@ title: Roper
 
 ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 22 (`4d8 + 4`) piercing damage.
 
-***Tendril.*** *Melee Weapon Attack:* +7 to hit, reach 50 ft., one creature. *Hit:* The target is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 15). Until the grapple ends, the target is [restrained](/compendium/rules/conditions.md#restrained) and has disadvantage on Strength checks and Strength saving throws, and the roper can't use the same tendril on another target.
+***Tendril.*** *Melee Weapon Attack:* +7 to hit, reach 50 ft., one creature. *Hit:* The target is [grappled](rules/conditions.md#grappled) (escape DC 15). Until the grapple ends, the target is [restrained](rules/conditions.md#restrained) and has disadvantage on Strength checks and Strength saving throws, and the roper can't use the same tendril on another target.
 
-***Reel.*** The roper pulls each creature [grappled](/compendium/rules/conditions.md#grappled) by it up to 25 feet straight toward it.
+***Reel.*** The roper pulls each creature [grappled](rules/conditions.md#grappled) by it up to 25 feet straight toward it.
 ```
 ^statblock
 

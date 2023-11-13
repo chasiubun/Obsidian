@@ -24,7 +24,7 @@ Shadow mastiffs—hounds of the Shadowfell—move invisibly through the shadows,
 
 ```ad-statblock
 title: Shadow Mastiff
-![](/compendium/bestiary/monstrosity/token/shadow-mastiff.png#token)
+![](compendium/bestiary/monstrosity/token/shadow-mastiff.png#token)
 *Medium monstrosity, Typically  Neutral Evil*
 
 - **Armor Class** 12 
@@ -50,11 +50,11 @@ title: Shadow Mastiff
 
 ## Actions
 
-***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked [prone](/compendium/rules/conditions.md#prone).
+***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked [prone](rules/conditions.md#prone).
 
 ## Bonus Actions
 
-***Shadow Blend.*** While in dim light or darkness, the shadow mastiff becomes [invisible](/compendium/rules/conditions.md#invisible), along with anything it is wearing or carrying. The invisibility lasts until the shadow mastiff uses a bonus action to end it or until the shadow mastiff attacks, is in bright light, or is [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Shadow Blend.*** While in dim light or darkness, the shadow mastiff becomes [invisible](rules/conditions.md#invisible), along with anything it is wearing or carrying. The invisibility lasts until the shadow mastiff uses a bonus action to end it or until the shadow mastiff attacks, is in bright light, or is [incapacitated](rules/conditions.md#incapacitated).
 ```
 ^statblock
 

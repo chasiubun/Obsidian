@@ -36,7 +36,7 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
 
 ```ad-statblock
 title: Oblex Spawn
-![](/compendium/bestiary/ooze/token/oblex-spawn.png#token)
+![](compendium/bestiary/ooze/token/oblex-spawn.png#token)
 *Tiny ooze, Typically  Lawful Evil*
 
 - **Armor Class** 13 

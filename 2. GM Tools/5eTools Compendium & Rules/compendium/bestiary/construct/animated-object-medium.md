@@ -13,7 +13,7 @@ aliases: ["Animated Object (Medium)"]
 
 ```ad-statblock
 title: Animated Object (Medium)
-![](/compendium/bestiary/construct/token/animated-object-medium.png#token)
+![](compendium/bestiary/construct/token/animated-object-medium.png#token)
 *Medium construct, Unaligned*
 
 - **Armor Class** 13  (natural armor)

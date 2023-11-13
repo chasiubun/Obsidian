@@ -23,7 +23,7 @@ The archaeomancers of Lorehold College draw their magical might from the flow of
 
 ```ad-statblock
 title: Lorehold Pledgemage
-![](/compendium/bestiary/humanoid/token/lorehold-pledgemage.png#token)
+![](compendium/bestiary/humanoid/token/lorehold-pledgemage.png#token)
 *Small or Medium humanoid (wizard), Any alignment*
 
 - **Armor Class** 13 
@@ -43,11 +43,11 @@ title: Lorehold Pledgemage
 
 ***Spellcasting.*** The pledgemage casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 13):
 
-**At will**: [guidance](/compendium/spells/guidance.md), [light](/compendium/spells/light.md)
+**At will**: [guidance](compendium/spells/guidance.md), [light](compendium/spells/light.md)
 
-**1/day each**: [mage armor](/compendium/spells/mage-armor.md), [speak with dead](/compendium/spells/speak-with-dead.md), [stone shape](/compendium/spells/stone-shape.md)
+**1/day each**: [mage armor](compendium/spells/mage-armor.md), [speak with dead](compendium/spells/speak-with-dead.md), [stone shape](compendium/spells/stone-shape.md)
 
-**2/day each**: [comprehend languages](/compendium/spells/comprehend-languages.md), [locate object](/compendium/spells/locate-object.md)
+**2/day each**: [comprehend languages](compendium/spells/comprehend-languages.md), [locate object](compendium/spells/locate-object.md)
 
 ## Actions
 
@@ -59,7 +59,7 @@ title: Lorehold Pledgemage
 
 ## Bonus Actions
 
-***Chronal Break (1/Day).*** The pledgemage chooses a point within 30 feet of itself, shunting the minds of nearby creatures out of this moment in time. Each creature in a 10-foot-radius sphere centered on that point must succeed on a DC 13 Wisdom saving throw or be [incapacitated](/compendium/rules/conditions.md#incapacitated) until the end of the pledgemage's next turn.
+***Chronal Break (1/Day).*** The pledgemage chooses a point within 30 feet of itself, shunting the minds of nearby creatures out of this moment in time. Each creature in a 10-foot-radius sphere centered on that point must succeed on a DC 13 Wisdom saving throw or be [incapacitated](rules/conditions.md#incapacitated) until the end of the pledgemage's next turn.
 
 ## Reactions
 

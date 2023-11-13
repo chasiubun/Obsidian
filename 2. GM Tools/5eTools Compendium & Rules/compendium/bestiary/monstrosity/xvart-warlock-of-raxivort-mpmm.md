@@ -25,7 +25,7 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
 
 ```ad-statblock
 title: Xvart Warlock of Raxivort
-![](/compendium/bestiary/monstrosity/token/xvart-warlock-of-raxivort.png#token)
+![](compendium/bestiary/monstrosity/token/xvart-warlock-of-raxivort.png#token)
 *Small monstrosity, Typically  Chaotic Evil*
 
 - **Armor Class** 12 
@@ -47,13 +47,13 @@ title: Xvart Warlock of Raxivort
 
 ***Raxivort's Blessing.*** When the xvart reduces an enemy to 0 hit points, the xvart gains 4 temporary hit points.
 
-***Raxivort's Tongue.*** The xvart can communicate with ordinary [bats](/compendium/bestiary/beast/bat.md) and [rats](/compendium/bestiary/beast/rat.md), as well as [giant bats](/compendium/bestiary/beast/giant-bat.md) and [giant rats](/compendium/bestiary/beast/giant-rat.md).
+***Raxivort's Tongue.*** The xvart can communicate with ordinary [bats](compendium/bestiary/beast/bat.md) and [rats](compendium/bestiary/beast/rat.md), as well as [giant bats](compendium/bestiary/beast/giant-bat.md) and [giant rats](compendium/bestiary/beast/giant-rat.md).
 
 ***Spellcasting.*** The xvart casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 11):
 
-**At will**: [detect magic](/compendium/spells/detect-magic.md), [mage armor](/compendium/spells/mage-armor.md) (self only), [mage hand](/compendium/spells/mage-hand.md), [minor illusion](/compendium/spells/minor-illusion.md), [prestidigitation](/compendium/spells/prestidigitation.md)
+**At will**: [detect magic](compendium/spells/detect-magic.md), [mage armor](compendium/spells/mage-armor.md) (self only), [mage hand](compendium/spells/mage-hand.md), [minor illusion](compendium/spells/minor-illusion.md), [prestidigitation](compendium/spells/prestidigitation.md)
 
-**1/day each**: [burning hands](/compendium/spells/burning-hands.md), [invisibility](/compendium/spells/invisibility.md)
+**1/day each**: [burning hands](compendium/spells/burning-hands.md), [invisibility](compendium/spells/invisibility.md)
 
 ## Actions
 
@@ -65,7 +65,7 @@ title: Xvart Warlock of Raxivort
 
 ## Bonus Actions
 
-***Low Cunning.*** The xvart takes the [Disengage](/compendium/rules/actions.md#Disengage) action.
+***Low Cunning.*** The xvart takes the [Disengage](rules/actions.md#Disengage) action.
 ```
 ^statblock
 

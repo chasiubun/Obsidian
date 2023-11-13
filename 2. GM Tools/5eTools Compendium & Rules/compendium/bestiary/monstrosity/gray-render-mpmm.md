@@ -41,7 +41,7 @@ The Gray Render Quirks table presents possible quirks for gray renders that can 
 
 ```ad-statblock
 title: Gray Render
-![](/compendium/bestiary/monstrosity/token/gray-render.png#token)
+![](compendium/bestiary/monstrosity/token/gray-render.png#token)
 *Large monstrosity, Typically  Chaotic Neutral*
 
 - **Armor Class** 19  (natural armor)
@@ -63,9 +63,9 @@ title: Gray Render
 
 ***Multiattack.*** The gray render makes one Bite attack and two Claw attacks.
 
-***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 17 (`2d12 + 4`) piercing damage. If the target is Medium or smaller, the target must succeed on a DC 16 Strength saving throw or be knocked [prone](/compendium/rules/conditions.md#prone).
+***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 17 (`2d12 + 4`) piercing damage. If the target is Medium or smaller, the target must succeed on a DC 16 Strength saving throw or be knocked [prone](rules/conditions.md#prone).
 
-***Claw.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 13 (`2d8 + 4`) slashing damage, plus 10 (`3d6`) bludgeoning damage if the target is [prone](/compendium/rules/conditions.md#prone).
+***Claw.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 13 (`2d8 + 4`) slashing damage, plus 10 (`3d6`) bludgeoning damage if the target is [prone](rules/conditions.md#prone).
 
 ## Reactions
 

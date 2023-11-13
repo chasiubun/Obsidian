@@ -6,7 +6,7 @@ tags:
 aliases: ["Damage Types"]
 ---
 # Damage Types
-*Source: SRD / Basic Rules* 
+*Source: Player's Handbook p. 196. Available in the SRD and the Basic Rules.* 
 
 ## Acid
 

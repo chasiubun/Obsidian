@@ -13,10 +13,10 @@ aliases: ["Bugbear Lieutenant"]
 
 ```ad-statblock
 title: Bugbear Lieutenant
-![](/compendium/bestiary/humanoid/token/bugbear-lieutenant.png#token)
+![](compendium/bestiary/humanoid/token/bugbear-lieutenant.png#token)
 *Medium humanoid (goblinoid), Chaotic Evil*
 
-- **Armor Class** 16  ([hide armor](/compendium/items/hide-armor.md), [shield](/compendium/items/shield.md))
+- **Armor Class** 16  ([hide armor](compendium/items/hide-armor.md), [shield](compendium/items/shield.md))
 - **Hit Points** 27 (`5d8 + 5`)
 - **Speed** 30 ft.
 

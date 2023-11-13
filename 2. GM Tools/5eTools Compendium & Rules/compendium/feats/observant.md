@@ -12,4 +12,4 @@ aliases: ["Observant"]
 Quick to notice details of your environment, you gain the following benefits:
 
 - If you can see a creature's mouth while it is speaking a language you understand, you can interpret what it's saying by reading its lips.  
-- You have a +5 bonus to your passive Wisdom ([Perception](/compendium/rules/skills.md#Perception)) and passive Intelligence ([Investigation](/compendium/rules/skills.md#Investigation)) scores.
+- You have a +5 bonus to your passive Wisdom ([Perception](rules/skills.md#Perception)) and passive Intelligence ([Investigation](rules/skills.md#Investigation)) scores.

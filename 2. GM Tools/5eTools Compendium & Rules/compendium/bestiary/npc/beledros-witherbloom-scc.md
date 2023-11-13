@@ -17,7 +17,7 @@ She founded Witherbloom College to pass on her understanding of the natural cycl
 
 ```ad-statblock
 title: Beledros Witherbloom
-![](/compendium/bestiary/npc/token/beledros-witherbloom.png#token)
+![](compendium/bestiary/npc/token/beledros-witherbloom.png#token)
 *Gargantuan dragon (druid), Neutral Good*
 
 - **Armor Class** 22  (natural armor)
@@ -43,7 +43,7 @@ title: Beledros Witherbloom
 
 ***Spellcasting.*** Beledros casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability:
 
-**1/day each**: [greater restoration](/compendium/spells/greater-restoration.md), [mass cure wounds](/compendium/spells/mass-cure-wounds.md), [plant growth](/compendium/spells/plant-growth.md), [revivify](/compendium/spells/revivify.md), [speak with dead](/compendium/spells/speak-with-dead.md)
+**1/day each**: [greater restoration](compendium/spells/greater-restoration.md), [mass cure wounds](compendium/spells/mass-cure-wounds.md), [plant growth](compendium/spells/plant-growth.md), [revivify](compendium/spells/revivify.md), [speak with dead](compendium/spells/speak-with-dead.md)
 
 ## Actions
 
@@ -51,11 +51,11 @@ title: Beledros Witherbloom
 
 ***Bite.*** *Melee Weapon Attack:* +16 to hit, reach 15 ft., one target. *Hit:* 14 (`1d10 + 9`) piercing damage plus 6 (`1d12`) necrotic damage.
 
-***Claw.*** *Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:* 12 (`1d6 + 9`) slashing damage. If the target is a Huge or smaller creature, it is knocked [prone](/compendium/rules/conditions.md#prone).
+***Claw.*** *Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:* 12 (`1d6 + 9`) slashing damage. If the target is a Huge or smaller creature, it is knocked [prone](rules/conditions.md#prone).
 
 ***Decaying Breath (Recharge 5-6).*** Beledros exhales decaying energy in a 90-foot cone. Each creature in that area must make a DC 23 Constitution saving throw, taking 39 (`6d12`) necrotic damage and 39 (`6d12`) poison damage on a failed save, or half as much damage on a successful one. A creature that takes damage from the breath can't regain hit points until the start of Beledros's next turn.
 
-***Miasmal Flow.*** Beledros becomes a swirling cloud of green mist and can move up to half her flying speed without provoking opportunity attacks, then resumes her true form. During this movement, she can move through creatures and objects as if they were difficult terrain. If she moves through a creature, it must succeed on a DC 23 Constitution saving throw or become [poisoned](/compendium/rules/conditions.md#poisoned) until the end of its next turn. If Beledros ends this move inside an object, she takes 5 (`1d10`) force damage and is shunted to the nearest unoccupied space.
+***Miasmal Flow.*** Beledros becomes a swirling cloud of green mist and can move up to half her flying speed without provoking opportunity attacks, then resumes her true form. During this movement, she can move through creatures and objects as if they were difficult terrain. If she moves through a creature, it must succeed on a DC 23 Constitution saving throw or become [poisoned](rules/conditions.md#poisoned) until the end of its next turn. If Beledros ends this move inside an object, she takes 5 (`1d10`) force damage and is shunted to the nearest unoccupied space.
 
 ## Legendary Actions
 
@@ -63,6 +63,6 @@ title: Beledros Witherbloom
 
 ***Miasmal Flow (Costs 2 Actions).*** Beledros uses Miasmal Flow.
 
-***Teeming with Life (Costs 3 Actions).*** Beledros magically summons `1d4` [pest mascots](/compendium/bestiary/monstrosity/pest-mascot-scc.md) in unoccupied spaces she can see within 60 feet of herself. The pests obey her commands and take their turns immediately after hers. Any creature, other than a pest, takes 9 (`2d8`) poison damage if it starts its turn within 5 feet of one or more of these pests. When one of these pests drops to 0 hit points, Beledros regains 9 hit points. These pests disappear after 10 minutes, when Beledros dies, or when she uses this action again.
+***Teeming with Life (Costs 3 Actions).*** Beledros magically summons `1d4` [pest mascots](compendium/bestiary/monstrosity/pest-mascot-scc.md) in unoccupied spaces she can see within 60 feet of herself. The pests obey her commands and take their turns immediately after hers. Any creature, other than a pest, takes 9 (`2d8`) poison damage if it starts its turn within 5 feet of one or more of these pests. When one of these pests drops to 0 hit points, Beledros regains 9 hit points. These pests disappear after 10 minutes, when Beledros dies, or when she uses this action again.
 ```
 ^statblock

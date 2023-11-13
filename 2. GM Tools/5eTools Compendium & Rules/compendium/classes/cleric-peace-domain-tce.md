@@ -45,18 +45,18 @@ You gain domain spells at the cleric levels listed in the Peace Domain Spells ta
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [heroism](/compendium/spells/heroism.md), [sanctuary](/compendium/spells/sanctuary.md) |
-| 3rd | [aid](/compendium/spells/aid.md), [warding bond](/compendium/spells/warding-bond.md) |
-| 5th | [beacon of hope](/compendium/spells/beacon-of-hope.md), [sending](/compendium/spells/sending.md) |
-| 7th | [aura of purity](/compendium/spells/aura-of-purity.md), [Otiluke's resilient sphere](/compendium/spells/otilukes-resilient-sphere.md) |
-| 9th | [greater restoration](/compendium/spells/greater-restoration.md), [Rary's telepathic bond](/compendium/spells/rarys-telepathic-bond.md) |
+| 1st | [heroism](compendium/spells/heroism.md), [sanctuary](compendium/spells/sanctuary.md) |
+| 3rd | [aid](compendium/spells/aid.md), [warding bond](compendium/spells/warding-bond.md) |
+| 5th | [beacon of hope](compendium/spells/beacon-of-hope.md), [sending](compendium/spells/sending.md) |
+| 7th | [aura of purity](compendium/spells/aura-of-purity.md), [Otiluke's resilient sphere](compendium/spells/otilukes-resilient-sphere.md) |
+| 9th | [greater restoration](compendium/spells/greater-restoration.md), [Rary's telepathic bond](compendium/spells/rarys-telepathic-bond.md) |
 ^peace-domain-spells
 
 ### Implement of Peace (Level 1)
 
 *1st-level Peace Domain feature*
 
-You gain proficiency in the [Insight](/compendium/rules/skills.md#Insight), [Performance](/compendium/rules/skills.md#Performance), or [Persuasion](/compendium/rules/skills.md#Persuasion) skill (your choice).
+You gain proficiency in the [Insight](rules/skills.md#Insight), [Performance](rules/skills.md#Performance), or [Persuasion](rules/skills.md#Persuasion) skill (your choice).
 
 ### Emboldening Bond (Level 1)
 
@@ -86,7 +86,7 @@ You add your Wisdom modifier to the damage you deal with any cleric cantrip.
 
 ### Blessed Strikes (Level 8)
 
-*8th-level cleric [optional class features](/compendium/rules/variant-rules/optional-class-features-tce.md), which replaces the Potent Spellcasting feature*
+*8th-level cleric [optional class features](rules/variant-rules/optional-class-features-tce.md), which replaces the Potent Spellcasting feature*
 
 You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `1d8` radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 

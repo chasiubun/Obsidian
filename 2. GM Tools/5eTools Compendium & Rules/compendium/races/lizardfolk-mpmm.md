@@ -38,7 +38,7 @@ You have tough, scaly skin. When you aren't wearing armor, your base AC is 13 + 
 
 ### Nature's Intuition
 
-Thanks to your mystical connection to nature, you gain proficiency with two of the following skills of your choice: [Animal Handling](/compendium/rules/skills.md#Animal%20Handling), [Medicine](/compendium/rules/skills.md#Medicine), [Nature](/compendium/rules/skills.md#Nature), [Perception](/compendium/rules/skills.md#Perception), [Stealth](/compendium/rules/skills.md#Stealth), or [Survival](/compendium/rules/skills.md#Survival).
+Thanks to your mystical connection to nature, you gain proficiency with two of the following skills of your choice: [Animal Handling](rules/skills.md#Animal%20Handling), [Medicine](rules/skills.md#Medicine), [Nature](rules/skills.md#Nature), [Perception](rules/skills.md#Perception), [Stealth](rules/skills.md#Stealth), or [Survival](rules/skills.md#Survival).
 
 ## Description
 

@@ -42,10 +42,10 @@ Illithids subsist on the brains of humanoids. The brains provide enzymes, hormon
 
 ```ad-statblock
 title: Mind Flayer Psion
-![](/compendium/bestiary/aberration/token/mind-flayer-psion.png#token)
+![](compendium/bestiary/aberration/token/mind-flayer-psion.png#token)
 *Medium aberration, Lawful Evil*
 
-- **Armor Class** 15  ([breastplate](/compendium/items/breastplate.md))
+- **Armor Class** 15  ([breastplate](compendium/items/breastplate.md))
 - **Hit Points** 71 (`13d8 + 13`)
 - **Speed** 30 ft.
 
@@ -66,27 +66,27 @@ title: Mind Flayer Psion
 
 ***Innate Spellcasting (Psionics).*** The mind flayer is a 10th-level spellcaster. Its innate spellcasting ability is Intelligence (spell save DC 15; +7 to hit with spell attacks). It can innately cast the following spells, requiring no components:
 
-**At will**: [guidance](/compendium/spells/guidance.md), [mage hand](/compendium/spells/mage-hand.md), [vicious mockery](/compendium/spells/vicious-mockery.md), [true strike](/compendium/spells/true-strike.md), [detect thoughts](/compendium/spells/detect-thoughts.md), [levitate](/compendium/spells/levitate.md)
+**At will**: [guidance](compendium/spells/guidance.md), [mage hand](compendium/spells/mage-hand.md), [vicious mockery](compendium/spells/vicious-mockery.md), [true strike](compendium/spells/true-strike.md), [detect thoughts](compendium/spells/detect-thoughts.md), [levitate](compendium/spells/levitate.md)
 
-**1/day each**: [dominate monster](/compendium/spells/dominate-monster.md), [plane shift](/compendium/spells/plane-shift.md) (self only)
+**1/day each**: [dominate monster](compendium/spells/dominate-monster.md), [plane shift](compendium/spells/plane-shift.md) (self only)
 
-**1st level (4 slots)**: [charm person](/compendium/spells/charm-person.md), [command](/compendium/spells/command.md), [comprehend languages](/compendium/spells/comprehend-languages.md), [sanctuary](/compendium/spells/sanctuary.md)
+**1st level (4 slots)**: [charm person](compendium/spells/charm-person.md), [command](compendium/spells/command.md), [comprehend languages](compendium/spells/comprehend-languages.md), [sanctuary](compendium/spells/sanctuary.md)
 
-**2nd level (3 slots)**: [crown of madness](/compendium/spells/crown-of-madness.md), [phantasmal force](/compendium/spells/phantasmal-force.md), [see invisibility](/compendium/spells/see-invisibility.md)
+**2nd level (3 slots)**: [crown of madness](compendium/spells/crown-of-madness.md), [phantasmal force](compendium/spells/phantasmal-force.md), [see invisibility](compendium/spells/see-invisibility.md)
 
-**3rd level (3 slots)**: [clairvoyance](/compendium/spells/clairvoyance.md), [fear](/compendium/spells/fear.md), [meld into stone](/compendium/spells/meld-into-stone.md)
+**3rd level (3 slots)**: [clairvoyance](compendium/spells/clairvoyance.md), [fear](compendium/spells/fear.md), [meld into stone](compendium/spells/meld-into-stone.md)
 
-**4th level (3 slots)**: [confusion](/compendium/spells/confusion.md), [stone shape](/compendium/spells/stone-shape.md)
+**4th level (3 slots)**: [confusion](compendium/spells/confusion.md), [stone shape](compendium/spells/stone-shape.md)
 
-**5th level (2 slots)**: [scrying](/compendium/spells/scrying.md), [telekinesis](/compendium/spells/telekinesis.md)
+**5th level (2 slots)**: [scrying](compendium/spells/scrying.md), [telekinesis](compendium/spells/telekinesis.md)
 
 ## Actions
 
-***Tentacles.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:* 15 (`2d10 + 4`) psychic damage. If the target is Medium or smaller, it is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 15) and must succeed on a DC 15 Intelligence saving throw or be [stunned](/compendium/rules/conditions.md#stunned) until this grapple ends.
+***Tentacles.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:* 15 (`2d10 + 4`) psychic damage. If the target is Medium or smaller, it is [grappled](rules/conditions.md#grappled) (escape DC 15) and must succeed on a DC 15 Intelligence saving throw or be [stunned](rules/conditions.md#stunned) until this grapple ends.
 
-***Extract Brain.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one [incapacitated](/compendium/rules/conditions.md#incapacitated) humanoid [grappled](/compendium/rules/conditions.md#grappled) by the mind flayer. *Hit:* The target takes 55 (`10d10`) piercing damage. If this damage reduces the target to 0 hit points, the mind flayer kills the target by extracting and devouring its brain.
+***Extract Brain.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one [incapacitated](rules/conditions.md#incapacitated) humanoid [grappled](rules/conditions.md#grappled) by the mind flayer. *Hit:* The target takes 55 (`10d10`) piercing damage. If this damage reduces the target to 0 hit points, the mind flayer kills the target by extracting and devouring its brain.
 
-***Mind Blast (Recharge 5-6).*** The mind flayer magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 15 Intelligence saving throw or take 22 (`4d8 + 4`) psychic damage and be [stunned](/compendium/rules/conditions.md#stunned) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Mind Blast (Recharge 5-6).*** The mind flayer magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 15 Intelligence saving throw or take 22 (`4d8 + 4`) psychic damage and be [stunned](rules/conditions.md#stunned) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ```
 ^statblock
 

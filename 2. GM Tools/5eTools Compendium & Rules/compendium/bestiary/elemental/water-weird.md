@@ -21,7 +21,7 @@ Invisible while immersed in water, its serpentine shape becomes clear only when 
 
 Like most elementals, a water weird has no concept of good or evil. However, a water weird bound to a sacred or befouled source of water begins to take on the nature of that site, becoming neutral good or neutral evil.
 
-A neutral good water weird tries to frighten away interlopers rather than kill them, while a neutral evil water weird kills its victims for pleasure and might turn against its summoner. A water weird loses its evil alignment if its waters are cleansed with a [purify food and drink](/compendium/spells/purify-food-and-drink.md) spell.
+A neutral good water weird tries to frighten away interlopers rather than kill them, while a neutral evil water weird kills its victims for pleasure and might turn against its summoner. A water weird loses its evil alignment if its waters are cleansed with a [purify food and drink](compendium/spells/purify-food-and-drink.md) spell.
 
 ## Elemental Nature
 
@@ -36,7 +36,7 @@ A water weird doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Water Weird
-![](/compendium/bestiary/elemental/token/water-weird.png#token)
+![](compendium/bestiary/elemental/token/water-weird.png#token)
 *Large elemental, Neutral*
 
 - **Armor Class** 13 
@@ -56,13 +56,13 @@ title: Water Weird
 
 ## Traits
 
-***Invisible in Water.*** The water weird is [invisible](/compendium/rules/conditions.md#invisible) while fully immersed in water.
+***Invisible in Water.*** The water weird is [invisible](rules/conditions.md#invisible) while fully immersed in water.
 
 ***Water Bound.*** The water weird dies if it leaves the water to which it is bound or if that water is destroyed.
 
 ## Actions
 
-***Constrict.*** *Melee Weapon Attack:* +5 to hit, reach 10 ft., one creature. *Hit:* 13 (`3d6 + 3`) bludgeoning damage. If the target is Medium or smaller, it is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 13) and pulled 5 feet toward the water weird. Until this grapple ends, the target is [restrained](/compendium/rules/conditions.md#restrained), the water weird tries to drown it, and the water weird can't constrict another target.
+***Constrict.*** *Melee Weapon Attack:* +5 to hit, reach 10 ft., one creature. *Hit:* 13 (`3d6 + 3`) bludgeoning damage. If the target is Medium or smaller, it is [grappled](rules/conditions.md#grappled) (escape DC 13) and pulled 5 feet toward the water weird. Until this grapple ends, the target is [restrained](rules/conditions.md#restrained), the water weird tries to drown it, and the water weird can't constrict another target.
 ```
 ^statblock
 

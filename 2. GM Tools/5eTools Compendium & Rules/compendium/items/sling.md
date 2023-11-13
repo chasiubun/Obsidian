@@ -13,7 +13,7 @@ aliases:
 
 - **Damage**: 1d4 B
 - **Range**: 30/120
-- **Properties**: [Ammunition](/compendium/rules/item-properties.md#Ammunition)
+- **Properties**: [Ammunition](rules/item-properties.md#Ammunition)
 - **Cost**: 1 sp
 
 *Source: Player's Handbook p. 149. Available in the SRD and the Basic Rules.*

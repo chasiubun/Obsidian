@@ -27,7 +27,7 @@ Any creatures meazels draw through the shadows are cursed by the meazels' balefu
 
 ```ad-statblock
 title: Meazel
-![](/compendium/bestiary/monstrosity/token/meazel.png#token)
+![](compendium/bestiary/monstrosity/token/meazel.png#token)
 *Medium monstrosity, Typically  Neutral Evil*
 
 - **Armor Class** 13 
@@ -47,17 +47,17 @@ title: Meazel
 
 ## Actions
 
-***Garrote.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target of the meazel's size or smaller. *Hit:* 6 (`1d6 + 3`) bludgeoning damage, and the target is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 13 with disadvantage). Until the grapple ends, the target takes 10 (`2d6 + 3`) bludgeoning damage at the start of each of the meazel's turns. The meazel can't make weapon attacks while grappling a creature in this way.
+***Garrote.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target of the meazel's size or smaller. *Hit:* 6 (`1d6 + 3`) bludgeoning damage, and the target is [grappled](rules/conditions.md#grappled) (escape DC 13 with disadvantage). Until the grapple ends, the target takes 10 (`2d6 + 3`) bludgeoning damage at the start of each of the meazel's turns. The meazel can't make weapon attacks while grappling a creature in this way.
 
 ***Shortsword.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (`1d6 + 3`) piercing damage plus 3 (`1d6`) necrotic damage
 
 ***Shadow Teleport (Recharge 5-6).*** The meazel, any equipment it is wearing or carrying, and any creature it is grappling teleport to an unoccupied space within 500 feet of it, provided that the starting space and the destination are in dim light or darkness. The destination must be a place the meazel has seen before, but it need not be within line of sight. If the destination space is occupied, the teleportation leads to the nearest unoccupied space.
 
-Any other creature the meazel teleports becomes cursed for 1 hour or until the curse is ended by [remove curse](/compendium/spells/remove-curse.md) or [greater restoration](/compendium/spells/greater-restoration.md). Until this curse ends, every Undead and every creature native to the Shadowfell within 300 feet of the cursed creature can sense it, which prevents that creature from hiding from them.
+Any other creature the meazel teleports becomes cursed for 1 hour or until the curse is ended by [remove curse](compendium/spells/remove-curse.md) or [greater restoration](compendium/spells/greater-restoration.md). Until this curse ends, every Undead and every creature native to the Shadowfell within 300 feet of the cursed creature can sense it, which prevents that creature from hiding from them.
 
 ## Bonus Actions
 
-***Shadow Stealth.*** While in dim light or darkness, the meazel takes the [Hide](/compendium/rules/actions.md#Hide) action.
+***Shadow Stealth.*** While in dim light or darkness, the meazel takes the [Hide](rules/actions.md#Hide) action.
 ```
 ^statblock
 

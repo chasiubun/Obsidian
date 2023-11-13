@@ -19,7 +19,7 @@ Every kraken priest undergoes a change in appearance that reflects the kraken's 
 
 ```ad-statblock
 title: Kraken Priest
-![](/compendium/bestiary/monstrosity/token/kraken-priest.png#token)
+![](compendium/bestiary/monstrosity/token/kraken-priest.png#token)
 *Medium monstrosity, Typically  Chaotic Evil*
 
 - **Armor Class** 15  (natural armor)
@@ -43,11 +43,11 @@ title: Kraken Priest
 
 ***Spellcasting.*** The priest casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 13):
 
-**At will**: [command](/compendium/spells/command.md), [create or destroy water](/compendium/spells/create-or-destroy-water.md)
+**At will**: [command](compendium/spells/command.md), [create or destroy water](compendium/spells/create-or-destroy-water.md)
 
-**1/day**: [Evard's black tentacles](/compendium/spells/evards-black-tentacles.md)
+**1/day**: [Evard's black tentacles](compendium/spells/evards-black-tentacles.md)
 
-**3/day each**: [control water](/compendium/spells/control-water.md), [darkness](/compendium/spells/darkness.md), [water breathing](/compendium/spells/water-breathing.md), [water walk](/compendium/spells/water-walk.md)
+**3/day each**: [control water](compendium/spells/control-water.md), [darkness](compendium/spells/darkness.md), [water breathing](compendium/spells/water-breathing.md), [water walk](compendium/spells/water-walk.md)
 
 ## Actions
 
@@ -55,9 +55,9 @@ title: Kraken Priest
 
 ***Thunderous Touch.*** *Melee Spell Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 27 (`5d10`) thunder damage.
 
-***Thunderbolt.*** *Ranged Spell Attack:* +5 to hit, range 60 ft., one target. *Hit:* 11 (`2d10`) lightning damage plus 11 (`2d10`) thunder damage, and the target is knocked [prone](/compendium/rules/conditions.md#prone).
+***Thunderbolt.*** *Ranged Spell Attack:* +5 to hit, range 60 ft., one target. *Hit:* 11 (`2d10`) lightning damage plus 11 (`2d10`) thunder damage, and the target is knocked [prone](rules/conditions.md#prone).
 
-***Voice of the Kraken (Recharges after a Short or Long Rest).*** A kraken speaks through the priest with a thunderous voice audible within 300 feet. Creatures of the priest's choice that can hear the kraken's words (which are spoken in Abyssal, Infernal, or Primordial) must succeed on a DC 14 Wisdom saving throw or be [frightened](/compendium/rules/conditions.md#frightened) of the priest for 1 minute. A [frightened](/compendium/rules/conditions.md#frightened) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Voice of the Kraken (Recharges after a Short or Long Rest).*** A kraken speaks through the priest with a thunderous voice audible within 300 feet. Creatures of the priest's choice that can hear the kraken's words (which are spoken in Abyssal, Infernal, or Primordial) must succeed on a DC 14 Wisdom saving throw or be [frightened](rules/conditions.md#frightened) of the priest for 1 minute. A [frightened](rules/conditions.md#frightened) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ```
 ^statblock
 

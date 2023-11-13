@@ -13,7 +13,7 @@ aliases: ["Giant Fly (DMG)"]
 
 ```ad-statblock
 title: Giant Fly (DMG)
-![](/compendium/bestiary/beast/token/giant-fly.png#token)
+![](compendium/bestiary/beast/token/giant-fly.png#token)
 *Large beast, Unaligned*
 
 - **Armor Class** 11 

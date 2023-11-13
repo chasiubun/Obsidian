@@ -14,7 +14,7 @@ aliases: ["Giant Ape"]
 
 ```ad-statblock
 title: Giant Ape
-![](/compendium/bestiary/beast/token/giant-ape.png#token)
+![](compendium/bestiary/beast/token/giant-ape.png#token)
 *Huge beast, Unaligned*
 
 - **Armor Class** 12 

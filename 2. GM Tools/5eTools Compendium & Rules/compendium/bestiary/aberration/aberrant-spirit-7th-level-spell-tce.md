@@ -13,7 +13,7 @@ aliases: ["Aberrant Spirit (7th-level Spell)"]
 
 ```ad-statblock
 title: Aberrant Spirit (7th-level Spell)
-![](/compendium/bestiary/aberration/token/aberrant-spirit.png#token)
+![](compendium/bestiary/aberration/token/aberrant-spirit.png#token)
 *Medium aberration, Unaligned*
 
 - **Armor Class** 18  (natural armor)
@@ -35,7 +35,7 @@ title: Aberrant Spirit (7th-level Spell)
 
 ***Regeneration (Slaad Only).*** The aberration regains 5 hit points at the start of its turn if it has at least 1 hit point.
 
-***Whispering Aura (Star Spawn Only).*** At the start of each of the aberration's turns, each creature within 5 feet of the aberration must succeed on a Wisdom saving throw against your spell save DC or take `2d6` psychic damage, provided that the aberration isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Whispering Aura (Star Spawn Only).*** At the start of each of the aberration's turns, each creature within 5 feet of the aberration must succeed on a Wisdom saving throw against your spell save DC or take `2d6` psychic damage, provided that the aberration isn't [incapacitated](rules/conditions.md#incapacitated).
 
 ## Actions
 

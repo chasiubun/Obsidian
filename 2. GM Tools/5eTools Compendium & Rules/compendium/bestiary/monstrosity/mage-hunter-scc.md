@@ -17,7 +17,7 @@ A mage hunter is usually in its sentry form, a diamond-shaped drone with a heigh
 
 ```ad-statblock
 title: Mage Hunter
-![](/compendium/bestiary/monstrosity/token/mage-hunter.png#token)
+![](compendium/bestiary/monstrosity/token/mage-hunter.png#token)
 *Large monstrosity, typically  Lawful Evil*
 
 - **Armor Class** 15  (natural armor)
@@ -47,11 +47,11 @@ title: Mage Hunter
 
 ***Claw (Hunter Form Only).*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 15 (`2d10 + 4`) slashing damage.
 
-***Tail.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 22 (`4d8 + 4`) piercing damage, and the target is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 15). Until this grapple ends, the target is [restrained](/compendium/rules/conditions.md#restrained), and the hunter can't make a Tail attack against another target.
+***Tail.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 22 (`4d8 + 4`) piercing damage, and the target is [grappled](rules/conditions.md#grappled) (escape DC 15). Until this grapple ends, the target is [restrained](rules/conditions.md#restrained), and the hunter can't make a Tail attack against another target.
 
 ***Mage Tracker (Sentry Form Only).*** The hunter emits a pulse of energy that helps it better locate its magical quarry. Each creature within 120 feet of the hunter that has the ability to cast spells must succeed on a DC 14 Wisdom saving throw or be mystically marked by the hunter for 1 hour.
 
-While marked, a creature can't become hidden from the hunter and gains no benefit from the [invisible](/compendium/rules/conditions.md#invisible) condition against the hunter. Additionally, while a marked creature is on the same plane of existence as the hunter, the hunter always knows the distance and direction to the creature.
+While marked, a creature can't become hidden from the hunter and gains no benefit from the [invisible](rules/conditions.md#invisible) condition against the hunter. Additionally, while a marked creature is on the same plane of existence as the hunter, the hunter always knows the distance and direction to the creature.
 
 ## Bonus Actions
 

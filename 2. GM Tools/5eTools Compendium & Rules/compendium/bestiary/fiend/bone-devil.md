@@ -111,7 +111,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!note] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](/compendium/rules/conditions.md#charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](rules/conditions.md#charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -139,7 +139,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 ```ad-statblock
 title: Bone Devil
-![](/compendium/bestiary/fiend/token/bone-devil.png#token)
+![](compendium/bestiary/fiend/token/bone-devil.png#token)
 *Large fiend (devil), Lawful Evil*
 
 - **Armor Class** 19  (natural armor)
@@ -169,6 +169,6 @@ title: Bone Devil
 
 ***Claw.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 8 (`1d8 + 4`) slashing damage.
 
-***Sting.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 13 (`2d8 + 4`) piercing damage plus 17 (`5d6`) poison damage, and the target must succeed on a DC 14 Constitution saving throw or become [poisoned](/compendium/rules/conditions.md#poisoned) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Sting.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 13 (`2d8 + 4`) piercing damage plus 17 (`5d6`) poison damage, and the target must succeed on a DC 14 Constitution saving throw or become [poisoned](rules/conditions.md#poisoned) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ```
 ^statblock

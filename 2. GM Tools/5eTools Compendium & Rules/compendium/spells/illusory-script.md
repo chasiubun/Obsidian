@@ -27,8 +27,8 @@ To you and any creatures you designate when you cast the spell, the writing appe
 
 Should the spell be dispelled, the original script and the illusion both disappear.
 
-A creature with [truesight](/compendium/rules/senses.md#truesight) can read the hidden message.
+A creature with [truesight](rules/senses.md#truesight) can read the hidden message.
 
-**Classes**: [Bard](/compendium/classes/bard.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Warlock](/compendium/classes/warlock.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Bard](compendium/classes/bard.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 252. Available in the SRD.*

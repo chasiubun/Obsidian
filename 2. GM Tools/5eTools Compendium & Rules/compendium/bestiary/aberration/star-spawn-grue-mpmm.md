@@ -43,7 +43,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 
 ```ad-statblock
 title: Star Spawn Grue
-![](/compendium/bestiary/aberration/token/star-spawn-grue.png#token)
+![](compendium/bestiary/aberration/token/star-spawn-grue.png#token)
 *Small aberration, Typically  Neutral Evil*
 
 - **Armor Class** 11 

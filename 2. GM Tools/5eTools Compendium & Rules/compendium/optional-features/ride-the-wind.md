@@ -11,4 +11,4 @@ aliases: ["Ride the Wind"]
 
 **Prerequisite**: 11th-level Monk
 
-You can spend 4 ki points to cast [fly](/compendium/spells/fly.md), targeting yourself.
+You can spend 4 ki points to cast [fly](compendium/spells/fly.md), targeting yourself.

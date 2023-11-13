@@ -15,7 +15,7 @@ In The Hidden Shrine of Tamoachan, characters must contend with a mummified cent
 
 ```ad-statblock
 title: Centaur Mummy
-![](/compendium/bestiary/undead/token/centaur-mummy.png#token)
+![](compendium/bestiary/undead/token/centaur-mummy.png#token)
 *Large undead, Lawful Evil*
 
 - **Armor Class** 13  (natural armor)
@@ -33,7 +33,7 @@ title: Centaur Mummy
 - **Damage Vulnerabilities** fire
 - **Damage Resistances** bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** necrotic, poison
-- **Condition Immunities** [charmed](/compendium/rules/conditions.md#charmed), [exhaustion](/compendium/rules/conditions.md#exhaustion), [frightened](/compendium/rules/conditions.md#frightened), [paralyzed](/compendium/rules/conditions.md#paralyzed), [poisoned](/compendium/rules/conditions.md#poisoned)
+- **Condition Immunities** [charmed](rules/conditions.md#charmed), [exhaustion](rules/conditions.md#exhaustion), [frightened](rules/conditions.md#frightened), [paralyzed](rules/conditions.md#paralyzed), [poisoned](rules/conditions.md#poisoned)
 - **Languages** Common, Sylvan
 - **Challenge** 6
 
@@ -47,8 +47,8 @@ title: Centaur Mummy
 
 ***Pike.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 10 (`1d10 + 5`) piercing damage.
 
-***Hooves.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 12 (`2d6 + 5`) piercing damage plus 10 (`3d6`) necrotic damage. If the target is a creature, it must succeed on a DC 14 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (`3d6`) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the [remove curse](/compendium/spells/remove-curse.md) spell or similar magic.
+***Hooves.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 12 (`2d6 + 5`) piercing damage plus 10 (`3d6`) necrotic damage. If the target is a creature, it must succeed on a DC 14 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (`3d6`) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the [remove curse](compendium/spells/remove-curse.md) spell or similar magic.
 
-***Dreadful Glare.*** The centaur mummy targets one creature it can see within 60 feet of it. If the target can see the mummy, the target must succeed on a DC 12 Wisdom saving throw against this magic or become [frightened](/compendium/rules/conditions.md#frightened) until the end of the mummy's next turn. If the target fails the saving throw by 5 or more, it is also [paralyzed](/compendium/rules/conditions.md#paralyzed) for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours.
+***Dreadful Glare.*** The centaur mummy targets one creature it can see within 60 feet of it. If the target can see the mummy, the target must succeed on a DC 12 Wisdom saving throw against this magic or become [frightened](rules/conditions.md#frightened) until the end of the mummy's next turn. If the target fails the saving throw by 5 or more, it is also [paralyzed](rules/conditions.md#paralyzed) for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours.
 ```
 ^statblock

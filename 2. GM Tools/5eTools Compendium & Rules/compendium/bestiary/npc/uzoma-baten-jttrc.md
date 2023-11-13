@@ -13,10 +13,10 @@ aliases: ["Uzoma Baten"]
 
 ```ad-statblock
 title: Uzoma Baten
-![](/compendium/bestiary/npc/token/uzoma-baten.png#token)
+![](compendium/bestiary/npc/token/uzoma-baten.png#token)
 *Medium humanoid (Mountain dwarf), Lawful Good*
 
-- **Armor Class** 16  ([chain shirt](/compendium/items/chain-shirt.md), [shield](/compendium/items/shield.md))
+- **Armor Class** 16  ([chain shirt](compendium/items/chain-shirt.md), [shield](compendium/items/shield.md))
 - **Hit Points** 11 (`2d8 + 2`)
 - **Speed** 25 ft.
 

@@ -9,4 +9,4 @@ aliases: ["Armor of Shadows"]
 # Armor of Shadows
 *Source: Player's Handbook p. 110. Available in the SRD.*  
 
-You can cast [mage armor](/compendium/spells/mage-armor.md) on yourself at will, without expending a spell slot or material components.
+You can cast [mage armor](compendium/spells/mage-armor.md) on yourself at will, without expending a spell slot or material components.

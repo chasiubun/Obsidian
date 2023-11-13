@@ -13,7 +13,7 @@ aliases: ["Estia"]
 
 ```ad-statblock
 title: Estia
-![](/compendium/bestiary/npc/token/estia.png#token)
+![](compendium/bestiary/npc/token/estia.png#token)
 *Huge giant, Neutral Good or Neutral Evil*
 
 - **Armor Class** 14  (natural armor)

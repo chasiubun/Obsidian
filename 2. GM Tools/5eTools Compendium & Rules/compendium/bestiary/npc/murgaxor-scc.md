@@ -22,7 +22,7 @@ After giving the characters their quest, Professor Lang hands them a file with i
 
 ```ad-statblock
 title: Murgaxor
-![](/compendium/bestiary/npc/token/murgaxor.png#token)
+![](compendium/bestiary/npc/token/murgaxor.png#token)
 *Medium humanoid (bullywug, warlock), typically  Neutral Evil*
 
 - **Armor Class** 16  (blood aegis)
@@ -46,7 +46,7 @@ title: Murgaxor
 
 ***Oriq Mask.*** Murgaxor wears an Oriq mask. While wearing the mask, Murgaxor can't be targeted by any divination magic or perceived through magical scrying sensors, and he adds double his proficiency bonus to Charisma (Deception) checks (included above).
 
-***Sanguine Sense.*** While Murgaxor isn't [blinded](/compendium/rules/conditions.md#blinded), he can see any creature that isn't an Undead or a Construct within 60 feet of himself, even through total cover, heavily obscured areas, invisibility, or any other phenomena that would prevent sight.
+***Sanguine Sense.*** While Murgaxor isn't [blinded](rules/conditions.md#blinded), he can see any creature that isn't an Undead or a Construct within 60 feet of himself, even through total cover, heavily obscured areas, invisibility, or any other phenomena that would prevent sight.
 
 ## Actions
 
@@ -54,8 +54,8 @@ title: Murgaxor
 
 ***Blood Lash.*** *Melee Spell Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 21 (`3d10 + 5`) necrotic damage. If the target is a creature, it can't regain hit points until the start of Murgaxor's next turn.
 
-***Blood Boil (Recharge 4-6).*** Murgaxor chooses a point within 150 feet of himself, and a 20-foot radius sphere centered on that point fills with a burst of searing, blood-red mist. Each creature of Murgaxor's choice that he can see in that area must make a DC 17 Constitution saving throw. On a failed save, a creature takes 38 (`7d10`) necrotic damage and is [incapacitated](/compendium/rules/conditions.md#incapacitated) until the end of its next turn. On a success, a creature takes half as much damage and isn't [incapacitated](/compendium/rules/conditions.md#incapacitated). A creature dies if reduced to 0 hit points by this necrotic damage.
+***Blood Boil (Recharge 4-6).*** Murgaxor chooses a point within 150 feet of himself, and a 20-foot radius sphere centered on that point fills with a burst of searing, blood-red mist. Each creature of Murgaxor's choice that he can see in that area must make a DC 17 Constitution saving throw. On a failed save, a creature takes 38 (`7d10`) necrotic damage and is [incapacitated](rules/conditions.md#incapacitated) until the end of its next turn. On a success, a creature takes half as much damage and isn't [incapacitated](rules/conditions.md#incapacitated). A creature dies if reduced to 0 hit points by this necrotic damage.
 
-![Murgaxor](/compendium/bestiary/legendary-group/murgaxor-scc.md)
+![Murgaxor](compendium/bestiary/legendary-group/murgaxor-scc.md)
 ```
 ^statblock

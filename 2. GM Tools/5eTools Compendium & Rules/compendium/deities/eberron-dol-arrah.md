@@ -11,7 +11,7 @@ aliases: ["Dol Arrah"]
 ---
 # Dol Arrah
 *Source: Eberron: Rising from the Last War p. 141, Tasha's Cauldron of Everything p. 34* 
-![The Sovereign Host](/compendium/deities/img/erlw-the-sovereign-host.webp#symbol)
+![The Sovereign Host](compendium/deities/img/erlw-the-sovereign-host.webp#symbol)
 
 - **Alignment**: Unaligned
 - **Category**: The Sovereign Host

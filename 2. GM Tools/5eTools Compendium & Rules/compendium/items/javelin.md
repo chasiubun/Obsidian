@@ -13,7 +13,7 @@ aliases:
 
 - **Damage**: 1d6 P
 - **Range**: 30/120
-- **Properties**: [Thrown](/compendium/rules/item-properties.md#Thrown)
+- **Properties**: [Thrown](rules/item-properties.md#Thrown)
 - **Cost**: 5 sp
 - **Weight**: 2.0 lbs.
 

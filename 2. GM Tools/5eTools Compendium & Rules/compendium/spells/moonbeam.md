@@ -29,6 +29,6 @@ On each of your turns after you cast this spell, you can use an action to move t
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d10 for each slot level above 2nd.
 
-**Classes**: [Cleric (Twilight Domain)](/compendium/classes/cleric-twilight-domain-tce.md), [Druid](/compendium/classes/druid.md), [Paladin (Oath of the Ancients)](/compendium/classes/paladin-oath-of-the-ancients.md), [Paladin (Oath of the Watchers)](/compendium/classes/paladin-oath-of-the-watchers-tce.md)
+**Classes**: [Cleric (Twilight Domain)](compendium/classes/cleric-twilight-domain-tce.md), [Druid](compendium/classes/druid.md), [Paladin (Oath of the Ancients)](compendium/classes/paladin-oath-of-the-ancients.md), [Paladin (Oath of the Watchers)](compendium/classes/paladin-oath-of-the-watchers-tce.md)
 
 *Source: Player's Handbook p. 261. Available in the SRD.*

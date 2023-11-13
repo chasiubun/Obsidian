@@ -22,7 +22,7 @@ In combat, a bheur hag also strives to inspire horror. When near a recently slai
 
 ```ad-statblock
 title: Bheur Hag
-![](/compendium/bestiary/fey/token/bheur-hag.png#token)
+![](compendium/bestiary/fey/token/bheur-hag.png#token)
 *Medium fey, Typically  Chaotic Evil*
 
 - **Armor Class** 17  (natural armor)
@@ -42,7 +42,7 @@ title: Bheur Hag
 
 ## Traits
 
-***Control Weather (1/Day).*** The hag can cast the [control weather](/compendium/spells/control-weather.md) spell, requiring no material components and using Charisma as the spellcasting ability.
+***Control Weather (1/Day).*** The hag can cast the [control weather](compendium/spells/control-weather.md) spell, requiring no material components and using Charisma as the spellcasting ability.
 
 ***Graystaff Magic.*** The hag carries a graystaff, a magic staff. The hag can use its flying speed only while astride the staff. If the staff is lost or destroyed, the hag must craft another, which takes a year and a day. Only a bheur hag can use a graystaff
 
@@ -50,9 +50,9 @@ title: Bheur Hag
 
 ***Spellcasting.*** While holding or riding the graystaff, the hag casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 14):
 
-**At will**: [hold person](/compendium/spells/hold-person.md)
+**At will**: [hold person](compendium/spells/hold-person.md)
 
-**1/day each**: [cone of cold](/compendium/spells/cone-of-cold.md), [ice storm](/compendium/spells/ice-storm.md), [wall of ice](/compendium/spells/wall-of-ice.md)
+**1/day each**: [cone of cold](compendium/spells/cone-of-cold.md), [ice storm](compendium/spells/ice-storm.md), [wall of ice](compendium/spells/wall-of-ice.md)
 
 ## Actions
 
@@ -62,7 +62,7 @@ title: Bheur Hag
 
 ***Frost Shard.*** *Ranged Spell Attack:* +6 to hit, range 60 ft., one target. *Hit:* 30 (`6d8 + 3`) cold damage, and the target's speed is reduced by 10 feet until the start of the hag's next turn.
 
-***Horrific Feast.*** The hag feeds on the corpse of one enemy within reach that died within the past minute. Each creature of the hag's choice that is within 60 feet and able to see the feeding must succeed on a DC 15 Wisdom saving throw or be [frightened](/compendium/rules/conditions.md#frightened) of the hag for 1 minute. While [frightened](/compendium/rules/conditions.md#frightened) in this way, a creature is [incapacitated](/compendium/rules/conditions.md#incapacitated), can't understand what others say, can't read, and speaks only in gibberish. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the hag's Horrific Feast for the next 24 hours.
+***Horrific Feast.*** The hag feeds on the corpse of one enemy within reach that died within the past minute. Each creature of the hag's choice that is within 60 feet and able to see the feeding must succeed on a DC 15 Wisdom saving throw or be [frightened](rules/conditions.md#frightened) of the hag for 1 minute. While [frightened](rules/conditions.md#frightened) in this way, a creature is [incapacitated](rules/conditions.md#incapacitated), can't understand what others say, can't read, and speaks only in gibberish. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the hag's Horrific Feast for the next 24 hours.
 ```
 ^statblock
 

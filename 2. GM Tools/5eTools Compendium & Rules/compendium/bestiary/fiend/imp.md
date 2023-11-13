@@ -13,7 +13,7 @@ aliases: ["Imp"]
 
 Imps are found throughout the Lower Planes, either running errands for their infernal masters, spying on rivals, or misleading and waylaying mortals. An imp will proudly serve an evil master of any kind, but it can't be relied on to carry out tasks with any speed or efficiency.
 
-An imp can assume animal form at will, but in its natural state it resembles a diminutive red-skinned humanoid with a barbed tail, small horns, and leathery wings. It strikes while [invisible](/compendium/rules/conditions.md#invisible), attacking with its poison stinger.
+An imp can assume animal form at will, but in its natural state it resembles a diminutive red-skinned humanoid with a barbed tail, small horns, and leathery wings. It strikes while [invisible](rules/conditions.md#invisible), attacking with its poison stinger.
 
 > [!note] Variant: Imp Familiar
 > 
@@ -118,7 +118,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!note] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](/compendium/rules/conditions.md#charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](rules/conditions.md#charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -146,7 +146,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 ```ad-statblock
 title: Imp
-![](/compendium/bestiary/fiend/token/imp.png#token)
+![](compendium/bestiary/fiend/token/imp.png#token)
 *Tiny fiend (devil), Lawful Evil*
 
 - **Armor Class** 13 
@@ -176,6 +176,6 @@ title: Imp
 
 ***Sting (Bite in Beast Form).*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (`1d4 + 3`) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (`3d6`) poison damage on a failed save, or half as much damage on a successful one.
 
-***Invisibility.*** The imp magically turns [invisible](/compendium/rules/conditions.md#invisible) until it attacks, or until its [concentration](/compendium/rules/conditions.md#concentration) ends (as if concentrating on a spell). Any equipment the imp wears or carries is [invisible](/compendium/rules/conditions.md#invisible) with it.
+***Invisibility.*** The imp magically turns [invisible](rules/conditions.md#invisible) until it attacks, or until its [concentration](rules/conditions.md#concentration) ends (as if concentrating on a spell). Any equipment the imp wears or carries is [invisible](rules/conditions.md#invisible) with it.
 ```
 ^statblock

@@ -29,6 +29,6 @@ When the area appears, each creature in it must make a Constitution saving throw
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d10 for each slot level above 5th.
 
-**Classes**: [Cleric (Nature Domain)](/compendium/classes/cleric-nature-domain.md), [Cleric (Tempest Domain)](/compendium/classes/cleric-tempest-domain.md), [Cleric](/compendium/classes/cleric.md), [Druid (Circle of the Land)](/compendium/classes/druid-circle-of-the-land.md), [Druid](/compendium/classes/druid.md), [Ranger (Swarmkeeper)](/compendium/classes/ranger-swarmkeeper-tce.md), [Sorcerer (Divine Soul)](/compendium/classes/sorcerer-divine-soul-xge.md), [Sorcerer](/compendium/classes/sorcerer.md)
+**Classes**: [Cleric (Nature Domain)](compendium/classes/cleric-nature-domain.md), [Cleric (Tempest Domain)](compendium/classes/cleric-tempest-domain.md), [Cleric](compendium/classes/cleric.md), [Druid (Circle of the Land)](compendium/classes/druid-circle-of-the-land.md), [Druid](compendium/classes/druid.md), [Ranger (Swarmkeeper)](compendium/classes/ranger-swarmkeeper-tce.md), [Sorcerer (Divine Soul)](compendium/classes/sorcerer-divine-soul-xge.md), [Sorcerer](compendium/classes/sorcerer.md)
 
 *Source: Player's Handbook p. 254. Available in the SRD.*

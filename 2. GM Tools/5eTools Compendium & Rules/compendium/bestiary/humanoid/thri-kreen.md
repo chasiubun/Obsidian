@@ -37,7 +37,7 @@ Thri-kreen don't require sleep and can rest while remaining alert and performing
 
 ```ad-statblock
 title: Thri-kreen
-![](/compendium/bestiary/humanoid/token/thri-kreen.png#token)
+![](compendium/bestiary/humanoid/token/thri-kreen.png#token)
 *Medium humanoid (thri-kreen), Chaotic Neutral*
 
 - **Armor Class** 15  (natural armor)
@@ -65,7 +65,7 @@ title: Thri-kreen
 
 ***Multiattack.*** The thri-kreen makes two attacks: one with its bite and one with its claws.
 
-***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 4 (`1d6 + 1`) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or be [poisoned](/compendium/rules/conditions.md#poisoned) for 1 minute. If the saving throw fails by 5 or more, the target is also [paralyzed](/compendium/rules/conditions.md#paralyzed) while [poisoned](/compendium/rules/conditions.md#poisoned) in this way. The [poisoned](/compendium/rules/conditions.md#poisoned) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 4 (`1d6 + 1`) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or be [poisoned](rules/conditions.md#poisoned) for 1 minute. If the saving throw fails by 5 or more, the target is also [paralyzed](rules/conditions.md#paralyzed) while [poisoned](rules/conditions.md#poisoned) in this way. The [poisoned](rules/conditions.md#poisoned) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (`2d4 + 1`) slashing damage.
 ```

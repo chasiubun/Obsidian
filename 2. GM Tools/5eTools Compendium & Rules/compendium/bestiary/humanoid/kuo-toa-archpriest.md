@@ -58,7 +58,7 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 
 ```ad-statblock
 title: Kuo-toa Archpriest
-![](/compendium/bestiary/humanoid/token/kuo-toa-archpriest.png#token)
+![](compendium/bestiary/humanoid/token/kuo-toa-archpriest.png#token)
 *Medium humanoid (kuo-toa), Neutral Evil*
 
 - **Armor Class** 13  (natural armor)
@@ -80,25 +80,25 @@ title: Kuo-toa Archpriest
 
 ***Amphibious.*** The kuo-toa can breathe air and water.
 
-***Otherworldly Perception.*** The kuo-toa can sense the presence of any creature within 30 feet of it that is [invisible](/compendium/rules/conditions.md#invisible) or on the Ethereal Plane. It can pinpoint such a creature that is moving.
+***Otherworldly Perception.*** The kuo-toa can sense the presence of any creature within 30 feet of it that is [invisible](rules/conditions.md#invisible) or on the Ethereal Plane. It can pinpoint such a creature that is moving.
 
 ***Slippery.*** The kuo-toa has advantage on ability checks and saving throws made to escape a grapple.
 
-***Sunlight Sensitivity.*** While in sunlight, the kuo-toa has disadvantage on attack rolls, as well as on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the kuo-toa has disadvantage on attack rolls, as well as on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ***Spellcasting.*** The kuo-toa is a 10th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The kuo-toa has the following cleric spells prepared:
 
-**Cantrips (at will)**: [guidance](/compendium/spells/guidance.md), [sacred flame](/compendium/spells/sacred-flame.md), [thaumaturgy](/compendium/spells/thaumaturgy.md)
+**Cantrips (at will)**: [guidance](compendium/spells/guidance.md), [sacred flame](compendium/spells/sacred-flame.md), [thaumaturgy](compendium/spells/thaumaturgy.md)
 
-**1st level (4 slots)**: [detect magic](/compendium/spells/detect-magic.md), [sanctuary](/compendium/spells/sanctuary.md), [shield of faith](/compendium/spells/shield-of-faith.md)
+**1st level (4 slots)**: [detect magic](compendium/spells/detect-magic.md), [sanctuary](compendium/spells/sanctuary.md), [shield of faith](compendium/spells/shield-of-faith.md)
 
-**2nd level (3 slots)**: [hold person](/compendium/spells/hold-person.md), [spiritual weapon](/compendium/spells/spiritual-weapon.md)
+**2nd level (3 slots)**: [hold person](compendium/spells/hold-person.md), [spiritual weapon](compendium/spells/spiritual-weapon.md)
 
-**3rd level (3 slots)**: [spirit guardians](/compendium/spells/spirit-guardians.md), [tongues](/compendium/spells/tongues.md)
+**3rd level (3 slots)**: [spirit guardians](compendium/spells/spirit-guardians.md), [tongues](compendium/spells/tongues.md)
 
-**4th level (3 slots)**: [control water](/compendium/spells/control-water.md), [divination](/compendium/spells/divination.md)
+**4th level (3 slots)**: [control water](compendium/spells/control-water.md), [divination](compendium/spells/divination.md)
 
-**5th level (2 slots)**: [mass cure wounds](/compendium/spells/mass-cure-wounds.md), [scrying](/compendium/spells/scrying.md)
+**5th level (2 slots)**: [mass cure wounds](compendium/spells/mass-cure-wounds.md), [scrying](compendium/spells/scrying.md)
 
 ## Actions
 

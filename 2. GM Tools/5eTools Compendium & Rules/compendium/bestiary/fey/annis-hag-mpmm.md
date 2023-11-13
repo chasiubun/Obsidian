@@ -19,7 +19,7 @@ Annis hags leave tokens of their cruelty at the edges of forests and other areas
 
 When an annis feels especially cruel, the hag adopts the appearance of a kindly elder, approaches a child in a remote place, and gives them an iron token (described below), through which the child can magically confide in the hag. Over time, "Granny" or "Grampy" convinces the child that it's okay to do bad deeds—starting with breaking things or wandering without permission, then graduating to pushing someone down the stairs or setting a house on fire. Eventually, the child's terrified family and community face painful decisions of what to do about the seemingly remorseless child.
 
-Much as annis hags befriend children in order to corrupt them, they may adopt a group of ogres, trolls, or other creatures ([ogres](/compendium/bestiary/giant/ogre.md) and [trolls](/compendium/bestiary/giant/troll.md)), ruling them through brute strength, insults, and superstition.
+Much as annis hags befriend children in order to corrupt them, they may adopt a group of ogres, trolls, or other creatures ([ogres](compendium/bestiary/giant/ogre.md) and [trolls](compendium/bestiary/giant/troll.md)), ruling them through brute strength, insults, and superstition.
 
 ## Iron Token
 
@@ -33,7 +33,7 @@ A hag can have up to three iron tokens active at one time. As an action, the hag
 
 ```ad-statblock
 title: Annis Hag
-![](/compendium/bestiary/fey/token/annis-hag.png#token)
+![](compendium/bestiary/fey/token/annis-hag.png#token)
 *Large fey, Typically  Chaotic Evil*
 
 - **Armor Class** 17  (natural armor)
@@ -53,7 +53,7 @@ title: Annis Hag
 
 ***Spellcasting.*** The hag casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 13):
 
-**3/day each**: [disguise self](/compendium/spells/disguise-self.md) (including the form of a Medium Humanoid), [Fog cloud](/compendium/spells/fog-cloud.md)
+**3/day each**: [disguise self](compendium/spells/disguise-self.md) (including the form of a Medium Humanoid), [Fog cloud](compendium/spells/fog-cloud.md)
 
 ## Actions
 
@@ -63,7 +63,7 @@ title: Annis Hag
 
 ***Claw.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 15 (`3d6 + 5`) slashing damage.
 
-***Crushing Hug.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 36 (`9d6 + 5`) bludgeoning damage, and the target is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 15) if it is a Large or smaller creature. Until the grapple ends, the target takes 36 (`9d6 + 5`) bludgeoning damage at the start of each of the hag's turns. The hag can't make attacks while grappling a creature in this way.
+***Crushing Hug.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 36 (`9d6 + 5`) bludgeoning damage, and the target is [grappled](rules/conditions.md#grappled) (escape DC 15) if it is a Large or smaller creature. Until the grapple ends, the target takes 36 (`9d6 + 5`) bludgeoning damage at the start of each of the hag's turns. The hag can't make attacks while grappling a creature in this way.
 ```
 ^statblock
 

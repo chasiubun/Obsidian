@@ -13,7 +13,7 @@ aliases: ["Snow Leopard"]
 
 ```ad-statblock
 title: Snow Leopard
-![](/compendium/bestiary/beast/token/snow-leopard.png#token)
+![](compendium/bestiary/beast/token/snow-leopard.png#token)
 *Large beast, Unaligned*
 
 - **Armor Class** 12 
@@ -33,9 +33,9 @@ title: Snow Leopard
 
 ## Traits
 
-***Keen Smell.*** The leopard has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on smell.
+***Keen Smell.*** The leopard has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on smell.
 
-***Pounce.*** If the leopard moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked [prone](/compendium/rules/conditions.md#prone). If the target is [prone](/compendium/rules/conditions.md#prone), the leopard can make one bite attack against it as a bonus action.
+***Pounce.*** If the leopard moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked [prone](rules/conditions.md#prone). If the target is [prone](rules/conditions.md#prone), the leopard can make one bite attack against it as a bonus action.
 
 ## Actions
 

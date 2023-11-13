@@ -14,7 +14,7 @@ aliases: ["Giant Badger"]
 
 ```ad-statblock
 title: Giant Badger
-![](/compendium/bestiary/beast/token/giant-badger.png#token)
+![](compendium/bestiary/beast/token/giant-badger.png#token)
 *Medium beast, Unaligned*
 
 - **Armor Class** 10 
@@ -34,7 +34,7 @@ title: Giant Badger
 
 ## Traits
 
-***Keen Smell.*** The badger has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on smell.
+***Keen Smell.*** The badger has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on smell.
 
 ## Actions
 

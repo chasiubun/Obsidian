@@ -24,10 +24,10 @@ Scouts are skilled hunters and trackers who offer their services for a fee. Most
 
 ```ad-statblock
 title: Scout
-![](/compendium/bestiary/humanoid/token/scout.png#token)
+![](compendium/bestiary/humanoid/token/scout.png#token)
 *Medium humanoid (any race), Any alignment*
 
-- **Armor Class** 13  ([leather armor](/compendium/items/leather-armor.md))
+- **Armor Class** 13  ([leather armor](compendium/items/leather-armor.md))
 - **Hit Points** 16 (`3d8 + 3`)
 - **Speed** 30 ft.
 
@@ -44,7 +44,7 @@ title: Scout
 
 ## Traits
 
-***Keen Hearing and Sight.*** The scout has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on hearing or sight.
+***Keen Hearing and Sight.*** The scout has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on hearing or sight.
 
 ## Actions
 

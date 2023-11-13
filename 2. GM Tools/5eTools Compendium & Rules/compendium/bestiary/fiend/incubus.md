@@ -24,7 +24,7 @@ Inevitably, the fiend enters the mortal realm in tempting form to directly influ
 
 A mortal bequeaths its soul to the fiend not by formal pledge or contract. Instead, when a succubus or incubus has corrupted a creature completely-some say by causing the victim to commit the three betrayals of thought, word, and deed-the victim's soul belongs to the fiend. The more virtuous the fiend's prey, the longer the corruption takes, but the more rewarding the downfall. After successfully corrupting a victim, the succubus or incubus kills it, and the tainted soul descends into the Lower Planes.
 
-The succubus or incubus resorts to charming a victim magically only when necessary, usually as a form of self-defense. A [charmed](/compendium/rules/conditions.md#charmed) creature isn't responsible for its actions, so forcing it to behave against its will won't bring the fiend closer to the ultimate prize: the victim's soul.
+The succubus or incubus resorts to charming a victim magically only when necessary, usually as a form of self-defense. A [charmed](rules/conditions.md#charmed) creature isn't responsible for its actions, so forcing it to behave against its will won't bring the fiend closer to the ultimate prize: the victim's soul.
 
 ## Deadly Kiss
 
@@ -32,13 +32,13 @@ The kiss of a succubus or incubus is an echo of the emptiness that is the fiend'
 
 ## Fiendish Offspring
 
-Succubi and incubi can reproduce with one another to spawn more of their kind. Less commonly, a succubus or incubus reproduces with a humanoid. From this unholy union, a [cambion](/compendium/bestiary/fiend/cambion.md) child is conceived. Invariably, the fiendish offspring is as wicked as its fiendish parent.
+Succubi and incubi can reproduce with one another to spawn more of their kind. Less commonly, a succubus or incubus reproduces with a humanoid. From this unholy union, a [cambion](compendium/bestiary/fiend/cambion.md) child is conceived. Invariably, the fiendish offspring is as wicked as its fiendish parent.
 
 ## Statblock
 
 ```ad-statblock
 title: Incubus
-![](/compendium/bestiary/fiend/token/incubus.png#token)
+![](compendium/bestiary/fiend/token/incubus.png#token)
 *Medium fiend (shapechanger), Neutral Evil*
 
 - **Armor Class** 15  (natural armor)
@@ -58,7 +58,7 @@ title: Incubus
 
 ## Traits
 
-***Telepathic Bond.*** The fiend ignores the range restriction on its telepathy when communicating with a creature it has [charmed](/compendium/rules/conditions.md#charmed). The two don't even need to be on the same plane of existence.
+***Telepathic Bond.*** The fiend ignores the range restriction on its telepathy when communicating with a creature it has [charmed](rules/conditions.md#charmed). The two don't even need to be on the same plane of existence.
 
 ***Shapechanger.*** The fiend can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Without wings, the fiend loses its flying speed. Other than its size and speed, its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
@@ -66,11 +66,11 @@ title: Incubus
 
 ***Claw (Fiend Form Only).*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (`1d6 + 3`) slashing damage.
 
-***Charm.*** One humanoid the fiend can see within 30 feet of it must succeed on a DC 15 Wisdom saving throw or be magically [charmed](/compendium/rules/conditions.md#charmed) for 1 day. The [charmed](/compendium/rules/conditions.md#charmed) target obeys the fiend's verbal or telepathic commands. If the target suffers any harm or receives a suicidal command, it can repeat the saving throw, ending the effect on a success. If the target successfully saves against the effect, or if the effect on it ends, the target is immune to this fiend's Charm for the next 24 hours.
+***Charm.*** One humanoid the fiend can see within 30 feet of it must succeed on a DC 15 Wisdom saving throw or be magically [charmed](rules/conditions.md#charmed) for 1 day. The [charmed](rules/conditions.md#charmed) target obeys the fiend's verbal or telepathic commands. If the target suffers any harm or receives a suicidal command, it can repeat the saving throw, ending the effect on a success. If the target successfully saves against the effect, or if the effect on it ends, the target is immune to this fiend's Charm for the next 24 hours.
 
-The fiend can have only one target [charmed](/compendium/rules/conditions.md#charmed) at a time. If it charms another, the effect on the previous target ends.
+The fiend can have only one target [charmed](rules/conditions.md#charmed) at a time. If it charms another, the effect on the previous target ends.
 
-***Draining Kiss.*** The fiend kisses a creature [charmed](/compendium/rules/conditions.md#charmed) by it or a willing creature. The target must make a DC 15 Constitution saving throw against this magic, taking 32 (`5d10 + 5`) psychic damage on a failed save, or half as much damage on a successful one. The target's hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+***Draining Kiss.*** The fiend kisses a creature [charmed](rules/conditions.md#charmed) by it or a willing creature. The target must make a DC 15 Constitution saving throw against this magic, taking 32 (`5d10 + 5`) psychic damage on a failed save, or half as much damage on a successful one. The target's hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
 ***Etherealness.*** The fiend magically enters the Ethereal Plane from the Material Plane, or vice versa.
 ```

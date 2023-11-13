@@ -15,7 +15,7 @@ Acolytes are junior members of a clergy, usually answerable to a priest. They pe
 
 ```ad-statblock
 title: Erky Timbers
-![](/compendium/bestiary/npc/token/erky-timbers.png#token)
+![](compendium/bestiary/npc/token/erky-timbers.png#token)
 *Medium humanoid (gnome), Any alignment*
 
 - **Armor Class** 10 
@@ -35,9 +35,9 @@ title: Erky Timbers
 
 ***Spellcasting.*** The acolyte is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The acolyte has following cleric spells prepared:
 
-**Cantrips (at will)**: [light](/compendium/spells/light.md), [sacred flame](/compendium/spells/sacred-flame.md), [thaumaturgy](/compendium/spells/thaumaturgy.md)
+**Cantrips (at will)**: [light](compendium/spells/light.md), [sacred flame](compendium/spells/sacred-flame.md), [thaumaturgy](compendium/spells/thaumaturgy.md)
 
-**1st level (3 slots)**: [bless](/compendium/spells/bless.md), [cure wounds](/compendium/spells/cure-wounds.md), [sanctuary](/compendium/spells/sanctuary.md)
+**1st level (3 slots)**: [bless](compendium/spells/bless.md), [cure wounds](compendium/spells/cure-wounds.md), [sanctuary](compendium/spells/sanctuary.md)
 
 ## Actions
 

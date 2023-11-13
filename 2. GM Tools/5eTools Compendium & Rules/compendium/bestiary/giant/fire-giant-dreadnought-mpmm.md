@@ -27,10 +27,10 @@ When not called on to fight, dreadnoughts maintain their strength by using their
 
 ```ad-statblock
 title: Fire Giant Dreadnought
-![](/compendium/bestiary/giant/token/fire-giant-dreadnought.png#token)
+![](compendium/bestiary/giant/token/fire-giant-dreadnought.png#token)
 *Huge giant, Typically  Lawful Evil*
 
-- **Armor Class** 21  ([plate](/compendium/items/plate-armor.md), [Dual Shields](/compendium/items/shield.md))
+- **Armor Class** 21  ([plate](compendium/items/plate-armor.md), [Dual Shields](compendium/items/shield.md))
 - **Hit Points** 187 (`15d12 + 90`)
 - **Speed** 30 ft.
 
@@ -57,7 +57,7 @@ title: Fire Giant Dreadnought
 
 ***Rock.*** *Ranged Weapon Attack:* +13 to hit, range 60/240 ft., one target. *Hit:* 30 (`4d10 + 8`) bludgeoning damage.
 
-***Shield Charge (Recharge 5-6).*** The giant moves up to 30 feet in a straight line and can move through the space of any creature smaller than Huge. The first time it enters a creature's space during this move, that creature must succeed on a DC 21 Strength saving throw or take 36 (`8d6 + 8`) bludgeoning damage plus 14 (`4d6`) fire damage and be pushed up to 30 feet and knocked [prone](/compendium/rules/conditions.md#prone).
+***Shield Charge (Recharge 5-6).*** The giant moves up to 30 feet in a straight line and can move through the space of any creature smaller than Huge. The first time it enters a creature's space during this move, that creature must succeed on a DC 21 Strength saving throw or take 36 (`8d6 + 8`) bludgeoning damage plus 14 (`4d6`) fire damage and be pushed up to 30 feet and knocked [prone](rules/conditions.md#prone).
 ```
 ^statblock
 

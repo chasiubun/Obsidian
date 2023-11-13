@@ -21,7 +21,7 @@ For eons, Moloch ruled his domain, vying against the other archdevils as he soug
 
 Moloch wasted no time in preparing for his return. He amassed an army of devils and monsters and left them to make final preparations for invading the Nine Hells, while he ventured to the Material Plane in search of an artifact that would ensure his success. But while there, he became trapped, leaving his armies at the mercy of his enemies. They were destroyed in short order.
 
-Moloch was rendered nearly powerless by this failure. He schemes of ways to reclaim his former status, but every time he enters the Nine Hells, he is demoted to an [imp](/compendium/bestiary/fiend/imp.md) and can't regain his normal powers until he leaves. Thus, he lives a split existence, sometimes plotting in Malbolge or other layers of the Hells and at other times wandering the planes in search of magical might or secrets that might help him win back his title.
+Moloch was rendered nearly powerless by this failure. He schemes of ways to reclaim his former status, but every time he enters the Nine Hells, he is demoted to an [imp](compendium/bestiary/fiend/imp.md) and can't regain his normal powers until he leaves. Thus, he lives a split existence, sometimes plotting in Malbolge or other layers of the Hells and at other times wandering the planes in search of magical might or secrets that might help him win back his title.
 
 Rumors suggest that he can often be found in Sigil, where he bargains with yugoloths to build yet another army with which he might invade Malbolge and wrest the throne from Glasya. Bereft as he is, he has little to offer in exchange, so he might bargain with mortals to gain their aid in acquiring coin, jewels, and other riches in return for knowledge about the Nine Hells and the other planes.
 
@@ -29,7 +29,7 @@ Most of Moloch's cultists have switched allegiance to one of the other archdevil
 
 ```ad-statblock
 title: Moloch
-![](/compendium/bestiary/npc/token/moloch.png#token)
+![](compendium/bestiary/npc/token/moloch.png#token)
 *Large fiend (devil), Lawful Evil*
 
 - **Armor Class** 19  (natural armor)
@@ -57,7 +57,7 @@ title: Moloch
 
 ***Spellcasting.*** Moloch casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 21):
 
-**At will**: [alter self](/compendium/spells/alter-self.md) (can become Medium when changing his appearance), [confusion](/compendium/spells/confusion.md), [detect magic](/compendium/spells/detect-magic.md), [fly](/compendium/spells/fly.md), [major image](/compendium/spells/major-image.md), [stinking cloud](/compendium/spells/stinking-cloud.md), [suggestion](/compendium/spells/suggestion.md), [wall of fire](/compendium/spells/wall-of-fire.md)
+**At will**: [alter self](compendium/spells/alter-self.md) (can become Medium when changing his appearance), [confusion](compendium/spells/confusion.md), [detect magic](compendium/spells/detect-magic.md), [fly](compendium/spells/fly.md), [major image](compendium/spells/major-image.md), [stinking cloud](compendium/spells/stinking-cloud.md), [suggestion](compendium/spells/suggestion.md), [wall of fire](compendium/spells/wall-of-fire.md)
 
 ## Actions
 
@@ -69,7 +69,7 @@ title: Moloch
 
 ***Many-Tailed Whip.*** *Melee Weapon Attack:* +15 to hit, reach 30 ft., one target. *Hit:* 13 (`2d4 + 8`) lightning damage plus 11 (`2d10`) thunder damage. If the target is a creature, it must succeed on a DC 24 Strength saving throw or be pulled up to 30 feet in a straight line toward Moloch.
 
-***Breath of Despair (Recharge 5-6).*** Moloch exhales in a 30-foot cube. Each creature in that area must succeed on a DC 21 Wisdom saving throw or take 27 (`5d10`) psychic damage, drop whatever it is holding, and become [frightened](/compendium/rules/conditions.md#frightened) of Moloch for 1 minute. While [frightened](/compendium/rules/conditions.md#frightened) in this way, a creature must take the [Dash](/compendium/rules/actions.md#Dash) action and move away from Moloch by the safest available route on each of its turns, unless there is nowhere to move, in which case it needn't take the [Dash](/compendium/rules/actions.md#Dash) action. If the creature ends its turn in a location where it doesn't have line of sight to Moloch, the creature can repeat the saving throw, ending the effect on itself on a success.
+***Breath of Despair (Recharge 5-6).*** Moloch exhales in a 30-foot cube. Each creature in that area must succeed on a DC 21 Wisdom saving throw or take 27 (`5d10`) psychic damage, drop whatever it is holding, and become [frightened](rules/conditions.md#frightened) of Moloch for 1 minute. While [frightened](rules/conditions.md#frightened) in this way, a creature must take the [Dash](rules/actions.md#Dash) action and move away from Moloch by the safest available route on each of its turns, unless there is nowhere to move, in which case it needn't take the [Dash](rules/actions.md#Dash) action. If the creature ends its turn in a location where it doesn't have line of sight to Moloch, the creature can repeat the saving throw, ending the effect on itself on a success.
 
 ***Teleport.*** Moloch teleports, along with any equipment he is wearing or carrying, up to 120 feet to an unoccupied space he can see.
 

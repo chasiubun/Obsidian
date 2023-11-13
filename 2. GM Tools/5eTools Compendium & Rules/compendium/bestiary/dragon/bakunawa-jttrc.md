@@ -15,7 +15,7 @@ Worshiped as draconic avatars of storm and tide, bakunawa soar over the archipel
 
 ```ad-statblock
 title: Bakunawa
-![](/compendium/bestiary/dragon/token/bakunawa.png#token)
+![](compendium/bestiary/dragon/token/bakunawa.png#token)
 *Gargantuan dragon, typically  Neutral*
 
 - **Armor Class** 15  (natural armor)
@@ -43,9 +43,9 @@ title: Bakunawa
 
 ***Multiattack.*** The bakunawa makes one Bite attack and one Storm Slam attack.
 
-***Bite.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 12 (`2d6 + 5`) piercing damage plus 7 (`2d6`) lightning damage. If the target is a Large or smaller creature, it must succeed on a DC 17 Strength saving throw or be swallowed by the bakunawa. A swallowed creature is [blinded](/compendium/rules/conditions.md#blinded) and [restrained](/compendium/rules/conditions.md#restrained), and it has total cover against attacks and other effects outside the bakunawa. At the start of each of the bakunawa's turns, each swallowed creature takes 10 (`3d6`) lightning damage.
+***Bite.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 12 (`2d6 + 5`) piercing damage plus 7 (`2d6`) lightning damage. If the target is a Large or smaller creature, it must succeed on a DC 17 Strength saving throw or be swallowed by the bakunawa. A swallowed creature is [blinded](rules/conditions.md#blinded) and [restrained](rules/conditions.md#restrained), and it has total cover against attacks and other effects outside the bakunawa. At the start of each of the bakunawa's turns, each swallowed creature takes 10 (`3d6`) lightning damage.
 
-The bakunawa's gullet can hold up to two creatures at a time. If the bakunawa takes 30 damage or more on a single turn from a swallowed creature, the bakunawa must succeed on a DC 16 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall [prone](/compendium/rules/conditions.md#prone) in a space within 15 feet of the bakunawa. If the bakunawa dies, a swallowed creature is no longer [restrained](/compendium/rules/conditions.md#restrained) by it and can escape from the corpse by using 15 feet of movement, exiting [prone](/compendium/rules/conditions.md#prone).
+The bakunawa's gullet can hold up to two creatures at a time. If the bakunawa takes 30 damage or more on a single turn from a swallowed creature, the bakunawa must succeed on a DC 16 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall [prone](rules/conditions.md#prone) in a space within 15 feet of the bakunawa. If the bakunawa dies, a swallowed creature is no longer [restrained](rules/conditions.md#restrained) by it and can escape from the corpse by using 15 feet of movement, exiting [prone](rules/conditions.md#prone).
 
 ***Storm Slam.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 9 (`1d8 + 5`) bludgeoning damage plus 5 (`1d10`) thunder damage, and the target is pushed up to 10 feet in a horizontal direction away from the bakunawa.
 

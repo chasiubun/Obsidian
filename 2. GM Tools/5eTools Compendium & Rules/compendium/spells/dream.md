@@ -27,6 +27,6 @@ You can make the messenger appear monstrous and terrifying to the target. If you
 
 If you have a body part, lock of hair, clipping from a nail, or similar portion of the target's body, the target makes its saving throw with disadvantage.
 
-**Classes**: [Bard](/compendium/classes/bard.md), [Druid (Circle of the Land)](/compendium/classes/druid-circle-of-the-land.md), [Warlock](/compendium/classes/warlock.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Bard](compendium/classes/bard.md), [Druid (Circle of the Land)](compendium/classes/druid-circle-of-the-land.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 236. Available in the SRD and the Basic Rules.*

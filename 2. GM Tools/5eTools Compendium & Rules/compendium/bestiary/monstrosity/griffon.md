@@ -40,7 +40,7 @@ Once trained, a griffon is a fierce and loyal steed. It bonds with one master fo
 
 ```ad-statblock
 title: Griffon
-![](/compendium/bestiary/monstrosity/token/griffon.png#token)
+![](compendium/bestiary/monstrosity/token/griffon.png#token)
 *Large monstrosity, Unaligned*
 
 - **Armor Class** 12 
@@ -60,7 +60,7 @@ title: Griffon
 
 ## Traits
 
-***Keen Sight.*** The griffon has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Keen Sight.*** The griffon has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 

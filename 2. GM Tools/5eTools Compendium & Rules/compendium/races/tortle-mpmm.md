@@ -34,11 +34,11 @@ Your shell provides you a base AC of 17 (your Dexterity modifier doesn't affect 
 
 ### Nature's Intuition
 
-Thanks to your mystical connection to nature, you gain proficiency with one of the following skills of your choice: [Animal Handling](/compendium/rules/skills.md#Animal%20Handling), [Medicine](/compendium/rules/skills.md#Medicine), [Nature](/compendium/rules/skills.md#Nature), [Perception](/compendium/rules/skills.md#Perception), [Stealth](/compendium/rules/skills.md#Stealth), or [Survival](/compendium/rules/skills.md#Survival).
+Thanks to your mystical connection to nature, you gain proficiency with one of the following skills of your choice: [Animal Handling](rules/skills.md#Animal%20Handling), [Medicine](rules/skills.md#Medicine), [Nature](rules/skills.md#Nature), [Perception](rules/skills.md#Perception), [Stealth](rules/skills.md#Stealth), or [Survival](rules/skills.md#Survival).
 
 ### Shell Defense
 
-You can withdraw into your shell as an action. Until you emerge, you gain a +4 bonus to your AC, and you have advantage on Strength and Constitution saving throws. While in your shell, you are [prone](/compendium/rules/conditions.md#prone), your speed is 0 and can't increase, you have disadvantage on Dexterity saving throws, you can't take reactions, and the only action you can take is a bonus action to emerge from your shell.
+You can withdraw into your shell as an action. Until you emerge, you gain a +4 bonus to your AC, and you have advantage on Strength and Constitution saving throws. While in your shell, you are [prone](rules/conditions.md#prone), your speed is 0 and can't increase, you have disadvantage on Dexterity saving throws, you can't take reactions, and the only action you can take is a bonus action to emerge from your shell.
 
 ## Description
 

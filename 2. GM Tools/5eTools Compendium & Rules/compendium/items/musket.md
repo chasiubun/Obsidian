@@ -16,7 +16,7 @@ aliases:
 
 - **Damage**: 1d12 P
 - **Range**: 40/120
-- **Properties**: [Ammunition (Firearm)](/compendium/rules/item-properties.md#Ammunition%20(Firearm)), [Loading](/compendium/rules/item-properties.md#Loading), Martial, [Two-handed](/compendium/rules/item-properties.md#Two-handed)
+- **Properties**: [Ammunition (Firearm)](rules/item-properties.md#Ammunition%20(Firearm)), [Loading](rules/item-properties.md#Loading), Martial, [Two-handed](rules/item-properties.md#Two-handed)
 - **Cost**: 500 gp
 - **Weight**: 10.0 lbs.
 

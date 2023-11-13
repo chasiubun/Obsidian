@@ -21,17 +21,17 @@ aliases: ["Treasure Hoard: Challenge 0—4"]
 | 07-16 | `2d6` (7) 10 gp gems | — |
 | 17-26 | `2d4` (5) 25 gp art objects | — |
 | 27-36 | `2d6` (7) 50 gp gems | — |
-| 37-44 | `2d6` (7) 10 gp gems | Roll `1d6` times on [Magic Item Table A](/compendium/tables/magic-item-table-a.md). |
-| 45-52 | `2d4` (5) 25 gp art objects | Roll `1d6` times on [Magic Item Table A](/compendium/tables/magic-item-table-a.md). |
-| 53-60 | `2d6` (7) 50 gp gems | Roll `1d6` times on [Magic Item Table A](/compendium/tables/magic-item-table-a.md). |
-| 61-65 | `2d6` (7) 10 gp gems | Roll `1d4` times on [Magic Item Table B](/compendium/tables/magic-item-table-b.md). |
-| 66-70 | `2d4` (5) 25 gp art objects | Roll `1d4` times on [Magic Item Table B](/compendium/tables/magic-item-table-b.md). |
-| 71-75 | `2d6` (7) 50 gp gems | Roll `1d4` times on [Magic Item Table B](/compendium/tables/magic-item-table-b.md). |
-| 76-78 | `2d6` (7) 10 gp gems | Roll `1d4` times on [Magic Item Table C](/compendium/tables/magic-item-table-c.md). |
-| 79-80 | `2d4` (5) 25 gp art objects | Roll `1d4` times on [Magic Item Table C](/compendium/tables/magic-item-table-c.md). |
-| 81-85 | `2d6` (7) 50 gp gems | Roll `1d4` times on [Magic Item Table C](/compendium/tables/magic-item-table-c.md). |
-| 86-92 | `2d4` (5) 25 gp art objects | Roll `1d4` times on [Magic Item Table F](/compendium/tables/magic-item-table-f.md). |
-| 93-97 | `2d6` (7) 50 gp gems | Roll `1d4` times on [Magic Item Table F](/compendium/tables/magic-item-table-f.md). |
-| 98-99 | `2d4` (5) 25 gp art objects | Roll once on [Magic Item Table G](/compendium/tables/magic-item-table-g.md). |
-| 00 | `2d6` (7) 50 gp gems | Roll once on [Magic Item Table G](/compendium/tables/magic-item-table-g.md). |
+| 37-44 | `2d6` (7) 10 gp gems | Roll `1d6` times on [Magic Item Table A](compendium/tables/magic-item-table-a.md). |
+| 45-52 | `2d4` (5) 25 gp art objects | Roll `1d6` times on [Magic Item Table A](compendium/tables/magic-item-table-a.md). |
+| 53-60 | `2d6` (7) 50 gp gems | Roll `1d6` times on [Magic Item Table A](compendium/tables/magic-item-table-a.md). |
+| 61-65 | `2d6` (7) 10 gp gems | Roll `1d4` times on [Magic Item Table B](compendium/tables/magic-item-table-b.md). |
+| 66-70 | `2d4` (5) 25 gp art objects | Roll `1d4` times on [Magic Item Table B](compendium/tables/magic-item-table-b.md). |
+| 71-75 | `2d6` (7) 50 gp gems | Roll `1d4` times on [Magic Item Table B](compendium/tables/magic-item-table-b.md). |
+| 76-78 | `2d6` (7) 10 gp gems | Roll `1d4` times on [Magic Item Table C](compendium/tables/magic-item-table-c.md). |
+| 79-80 | `2d4` (5) 25 gp art objects | Roll `1d4` times on [Magic Item Table C](compendium/tables/magic-item-table-c.md). |
+| 81-85 | `2d6` (7) 50 gp gems | Roll `1d4` times on [Magic Item Table C](compendium/tables/magic-item-table-c.md). |
+| 86-92 | `2d4` (5) 25 gp art objects | Roll `1d4` times on [Magic Item Table F](compendium/tables/magic-item-table-f.md). |
+| 93-97 | `2d6` (7) 50 gp gems | Roll `1d4` times on [Magic Item Table F](compendium/tables/magic-item-table-f.md). |
+| 98-99 | `2d4` (5) 25 gp art objects | Roll once on [Magic Item Table G](compendium/tables/magic-item-table-g.md). |
+| 00 | `2d6` (7) 50 gp gems | Roll once on [Magic Item Table G](compendium/tables/magic-item-table-g.md). |
 ^gems-or-art-objects-magic-items

@@ -13,7 +13,7 @@ aliases: ["White Maw"]
 
 ```ad-statblock
 title: White Maw
-![](/compendium/bestiary/npc/token/white-maw.png#token)
+![](compendium/bestiary/npc/token/white-maw.png#token)
 *Gargantuan ooze, Chaotic Neutral*
 
 - **Armor Class** 5 
@@ -41,7 +41,7 @@ White Maw can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 ***False Appearance.*** While White Maw remains motionless, it is indistinguishable from white stone.
 
-***Killer Response.*** Any creature that starts its turn in White Maw's space is targeted by a pseudopod attack if White Maw isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Killer Response.*** Any creature that starts its turn in White Maw's space is targeted by a pseudopod attack if White Maw isn't [incapacitated](rules/conditions.md#incapacitated).
 
 ## Actions
 

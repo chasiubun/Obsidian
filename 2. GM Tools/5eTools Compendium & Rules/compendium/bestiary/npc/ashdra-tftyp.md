@@ -14,7 +14,7 @@ aliases: ["Ashdra"]
 
 ```ad-statblock
 title: Ashdra
-![](/compendium/bestiary/npc/token/ashdra.png#token)
+![](compendium/bestiary/npc/token/ashdra.png#token)
 *Medium humanoid (drow, elf), Chaotic Evil*
 
 - **Armor Class** 10 

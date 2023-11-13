@@ -76,10 +76,10 @@ Gruumsh bestows special blessings upon war chiefs who prove themselves in battle
 
 ```ad-statblock
 title: Orc War Chief
-![](/compendium/bestiary/humanoid/token/orc-war-chief.png#token)
+![](compendium/bestiary/humanoid/token/orc-war-chief.png#token)
 *Medium humanoid (orc), Chaotic Evil*
 
-- **Armor Class** 16  ([chain mail](/compendium/items/chain-mail.md))
+- **Armor Class** 16  ([chain mail](compendium/items/chain-mail.md))
 - **Hit Points** 93 (`11d8 + 44`)
 - **Speed** 30 ft.
 

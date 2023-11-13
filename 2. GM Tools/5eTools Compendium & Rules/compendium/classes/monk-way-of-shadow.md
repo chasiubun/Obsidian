@@ -19,7 +19,7 @@ Monks of the Way of Shadow follow a tradition that values stealth and subterfuge
 
 ### Shadow Arts (Level 3)
 
-You can use your ki to duplicate the effects of certain spells. As an action, you can spend 2 ki points to cast [darkness](/compendium/spells/darkness.md), [darkvision](/compendium/spells/darkvision.md), [pass without trace](/compendium/spells/pass-without-trace.md), or [silence](/compendium/spells/silence.md), without providing material components. Additionally, you gain the [minor illusion](/compendium/spells/minor-illusion.md) cantrip if you don't already know it.
+You can use your ki to duplicate the effects of certain spells. As an action, you can spend 2 ki points to cast [darkness](compendium/spells/darkness.md), [darkvision](compendium/spells/darkvision.md), [pass without trace](compendium/spells/pass-without-trace.md), or [silence](compendium/spells/silence.md), without providing material components. Additionally, you gain the [minor illusion](compendium/spells/minor-illusion.md) cantrip if you don't already know it.
 
 ### Shadow Step (Level 6)
 
@@ -27,7 +27,7 @@ You gain the ability to step from one shadow into another. When you are in dim l
 
 ### Cloak of Shadows (Level 11)
 
-By 11th level, you have learned to become one with the shadows. When you are in an area of dim light or darkness, you can use your action to become [invisible](/compendium/rules/conditions.md#invisible). You remain [invisible](/compendium/rules/conditions.md#invisible) until you make an attack, cast a spell, or are in an area of bright light.
+By 11th level, you have learned to become one with the shadows. When you are in an area of dim light or darkness, you can use your action to become [invisible](rules/conditions.md#invisible). You remain [invisible](rules/conditions.md#invisible) until you make an attack, cast a spell, or are in an area of bright light.
 
 ### Opportunist (Level 17)
 

@@ -17,11 +17,11 @@ aliases: ["Eidolon"]
 # Eidolon
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 114, Mordenkainen's Tome of Foes p. 194*  
 
-To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bound to safeguard a sacred place. Forged from the souls of those with unwavering devotion, eidolons stalk temples and vaults to ensure that no enemy defiles, damages, or plunders these sites. If an enemy sets foot inside a warded location, the [eidolon](/compendium/bestiary/undead/eidolon-mpmm.md) plunges into a [statue](/compendium/bestiary/construct/sacred-statue-mpmm.md) specially prepared to house its soul; it then animates this effigy and uses the statue to drive out the intruders.
+To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bound to safeguard a sacred place. Forged from the souls of those with unwavering devotion, eidolons stalk temples and vaults to ensure that no enemy defiles, damages, or plunders these sites. If an enemy sets foot inside a warded location, the [eidolon](compendium/bestiary/undead/eidolon-mpmm.md) plunges into a [statue](compendium/bestiary/construct/sacred-statue-mpmm.md) specially prepared to house its soul; it then animates this effigy and uses the statue to drive out the intruders.
 
 ```ad-statblock
 title: Eidolon
-![](/compendium/bestiary/undead/token/eidolon.png#token)
+![](compendium/bestiary/undead/token/eidolon.png#token)
 *Medium undead, Any alignment*
 
 - **Armor Class** 9 
@@ -41,9 +41,9 @@ title: Eidolon
 
 ## Traits
 
-***Incorporeal Movement.*** The eidolon can move through other creatures and objects as if they were difficult terrain. It takes 5 (`1d10`) force damage if it ends its turn inside an object other than a [sacred statue](/compendium/bestiary/construct/sacred-statue-mpmm.md).
+***Incorporeal Movement.*** The eidolon can move through other creatures and objects as if they were difficult terrain. It takes 5 (`1d10`) force damage if it ends its turn inside an object other than a [sacred statue](compendium/bestiary/construct/sacred-statue-mpmm.md).
 
-***Sacred Animation (Recharge 5-6).*** When the eidolon moves into a space occupied by a [sacred statue](/compendium/bestiary/construct/sacred-statue-mpmm.md), the eidolon can disappear, causing the statue to become a creature under the eidolon's control. The eidolon uses the [sacred statue's stat block](/compendium/bestiary/construct/sacred-statue-mpmm.md) in place of its own.
+***Sacred Animation (Recharge 5-6).*** When the eidolon moves into a space occupied by a [sacred statue](compendium/bestiary/construct/sacred-statue-mpmm.md), the eidolon can disappear, causing the statue to become a creature under the eidolon's control. The eidolon uses the [sacred statue's stat block](compendium/bestiary/construct/sacred-statue-mpmm.md) in place of its own.
 
 ***Turn Resistance.*** The eidolon has advantage on saving throws against any effect that turns Undead.
 
@@ -51,7 +51,7 @@ title: Eidolon
 
 ## Actions
 
-***Divine Dread.*** Each creature within 60 feet of the eidolon that can see it must succeed on a DC 15 Wisdom saving throw or be [frightened](/compendium/rules/conditions.md#frightened) of it for 1 minute. While [frightened](/compendium/rules/conditions.md#frightened) in this way, the creature must take the [Dash](/compendium/rules/actions.md#Dash) action and move away from the eidolon by the safest available route at the start of each of its turns, unless there is nowhere for it to move, in which case the creature also becomes [stunned](/compendium/rules/conditions.md#stunned) until it can move again. A [frightened](/compendium/rules/conditions.md#frightened) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to any eidolon's Divine Dread for the next 24 hours.
+***Divine Dread.*** Each creature within 60 feet of the eidolon that can see it must succeed on a DC 15 Wisdom saving throw or be [frightened](rules/conditions.md#frightened) of it for 1 minute. While [frightened](rules/conditions.md#frightened) in this way, the creature must take the [Dash](rules/actions.md#Dash) action and move away from the eidolon by the safest available route at the start of each of its turns, unless there is nowhere for it to move, in which case the creature also becomes [stunned](rules/conditions.md#stunned) until it can move again. A [frightened](rules/conditions.md#frightened) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to any eidolon's Divine Dread for the next 24 hours.
 ```
 ^statblock
 

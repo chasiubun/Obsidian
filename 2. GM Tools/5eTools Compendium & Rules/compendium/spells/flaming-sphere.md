@@ -31,6 +31,6 @@ When you move the sphere, you can direct it over barriers up to 5 feet tall and 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
 
-**Classes**: [Artificer (Alchemist)](/compendium/classes/artificer-alchemist-tce.md), [Cleric (Light Domain)](/compendium/classes/cleric-light-domain.md), [Druid (Circle of Wildfire)](/compendium/classes/druid-circle-of-wildfire-tce.md), [Druid](/compendium/classes/druid.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Warlock (The Celestial)](/compendium/classes/warlock-the-celestial-xge.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Artificer (Alchemist)](compendium/classes/artificer-alchemist-tce.md), [Cleric (Light Domain)](compendium/classes/cleric-light-domain.md), [Druid (Circle of Wildfire)](compendium/classes/druid-circle-of-wildfire-tce.md), [Druid](compendium/classes/druid.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Warlock (The Celestial)](compendium/classes/warlock-the-celestial-xge.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 242. Available in the SRD and the Basic Rules.*

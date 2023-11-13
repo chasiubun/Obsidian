@@ -27,7 +27,7 @@ Howlers rely on speed, numbers, and their mind-numbing howling to corner prey be
 
 ```ad-statblock
 title: Howler
-![](/compendium/bestiary/fiend/token/howler.png#token)
+![](compendium/bestiary/fiend/token/howler.png#token)
 *Large fiend, Typically  Chaotic Evil*
 
 - **Armor Class** 16  (natural armor)
@@ -47,15 +47,15 @@ title: Howler
 
 ## Traits
 
-***Pack Tactics.*** A howler has advantage on attack rolls against a creature if at least one of the howler's allies is within 5 feet of the creature and the ally isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Pack Tactics.*** A howler has advantage on attack rolls against a creature if at least one of the howler's allies is within 5 feet of the creature and the ally isn't [incapacitated](rules/conditions.md#incapacitated).
 
 ## Actions
 
 ***Multiattack.*** The howler makes two Rending Bite attacks.
 
-***Rending Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) piercing damage, plus 22 (`4d10`) psychic damage if the target is [frightened](/compendium/rules/conditions.md#frightened). This attack ignores damage resistance.
+***Rending Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) piercing damage, plus 22 (`4d10`) psychic damage if the target is [frightened](rules/conditions.md#frightened). This attack ignores damage resistance.
 
-***Mind-Breaking Howl (Recharge 4-6).*** The howler emits a keening howl in a 60-foot cone. Each creature in that area must succeed on a DC 13 Wisdom saving throw or take 16 (`3d10`) psychic damage and be [frightened](/compendium/rules/conditions.md#frightened) until the end of the howler's next turn. While a creature is [frightened](/compendium/rules/conditions.md#frightened) in this way, its speed is halved, and it is [incapacitated](/compendium/rules/conditions.md#incapacitated). A target that successfully saves is immune to the Mind-Breaking Howl of all howlers for the next 24 hours.
+***Mind-Breaking Howl (Recharge 4-6).*** The howler emits a keening howl in a 60-foot cone. Each creature in that area must succeed on a DC 13 Wisdom saving throw or take 16 (`3d10`) psychic damage and be [frightened](rules/conditions.md#frightened) until the end of the howler's next turn. While a creature is [frightened](rules/conditions.md#frightened) in this way, its speed is halved, and it is [incapacitated](rules/conditions.md#incapacitated). A target that successfully saves is immune to the Mind-Breaking Howl of all howlers for the next 24 hours.
 ```
 ^statblock
 

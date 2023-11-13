@@ -50,7 +50,7 @@ In drow society, males are subservient to females. A male drow might lead an Und
 
 ### Poison Predilection
 
-Distilled from spider venom and the flora of the Underdark, poison can be found in abundance among the drow, and it plays an important part in their culture and politics. Drow mages concoct a viscid toxin that leaves enemies [unconscious](/compendium/rules/conditions.md#unconscious). Drow warriors coat their blades and crossbow bolts with this venom, looking forward to the interrogation and torture that follows combat.
+Distilled from spider venom and the flora of the Underdark, poison can be found in abundance among the drow, and it plays an important part in their culture and politics. Drow mages concoct a viscid toxin that leaves enemies [unconscious](rules/conditions.md#unconscious). Drow warriors coat their blades and crossbow bolts with this venom, looking forward to the interrogation and torture that follows combat.
 
 > [!note] Variant: Drow Magic Armor and Weapons
 > 
@@ -68,10 +68,10 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 
 ```ad-statblock
 title: Drow
-![](/compendium/bestiary/humanoid/token/drow.png#token)
+![](compendium/bestiary/humanoid/token/drow.png#token)
 *Medium humanoid (elf), Neutral Evil*
 
-- **Armor Class** 15  ([chain shirt](/compendium/items/chain-shirt.md))
+- **Armor Class** 15  ([chain shirt](compendium/items/chain-shirt.md))
 - **Hit Points** 13 (`3d8`)
 - **Speed** 30 ft.
 
@@ -88,21 +88,21 @@ title: Drow
 
 ## Traits
 
-***Fey Ancestry.*** The drow has advantage on saving throws against being [charmed](/compendium/rules/conditions.md#charmed), and magic can't put the drow to sleep.
+***Fey Ancestry.*** The drow has advantage on saving throws against being [charmed](rules/conditions.md#charmed), and magic can't put the drow to sleep.
 
-***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ***Innate Spellcasting.*** The drow's spellcasting ability is Charisma (spell save DC 11). It can innately cast the following spells, requiring no material components:
 
-**At will**: [dancing lights](/compendium/spells/dancing-lights.md)
+**At will**: [dancing lights](compendium/spells/dancing-lights.md)
 
-**1/day each**: [darkness](/compendium/spells/darkness.md), [faerie fire](/compendium/spells/faerie-fire.md)
+**1/day each**: [darkness](compendium/spells/darkness.md), [faerie fire](compendium/spells/faerie-fire.md)
 
 ## Actions
 
 ***Shortsword.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (`1d6 + 2`) piercing damage.
 
-***Hand Crossbow.*** *Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:* 5 (`1d6 + 2`) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be [poisoned](/compendium/rules/conditions.md#poisoned) for 1 hour. If the saving throw fails by 5 or more, the target is also [unconscious](/compendium/rules/conditions.md#unconscious) while [poisoned](/compendium/rules/conditions.md#poisoned) in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake.
+***Hand Crossbow.*** *Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:* 5 (`1d6 + 2`) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be [poisoned](rules/conditions.md#poisoned) for 1 hour. If the saving throw fails by 5 or more, the target is also [unconscious](rules/conditions.md#unconscious) while [poisoned](rules/conditions.md#poisoned) in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake.
 ```
 ^statblock
 

@@ -26,7 +26,7 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
 
 ```ad-statblock
 title: Shrieker
-![](/compendium/bestiary/plant/token/shrieker.png#token)
+![](compendium/bestiary/plant/token/shrieker.png#token)
 *Medium plant, Unaligned*
 
 - **Armor Class** 5 

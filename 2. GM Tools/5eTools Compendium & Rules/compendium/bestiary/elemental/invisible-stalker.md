@@ -32,7 +32,7 @@ An invisible stalker requires no air, food, drink, or sleep.
 
 ```ad-statblock
 title: Invisible Stalker
-![](/compendium/bestiary/elemental/token/invisible-stalker.png#token)
+![](compendium/bestiary/elemental/token/invisible-stalker.png#token)
 *Medium elemental, Neutral*
 
 - **Armor Class** 14 
@@ -52,7 +52,7 @@ title: Invisible Stalker
 
 ## Traits
 
-***Invisibility.*** The stalker is [invisible](/compendium/rules/conditions.md#invisible).
+***Invisibility.*** The stalker is [invisible](rules/conditions.md#invisible).
 
 ***Faultless Tracker.*** The stalker is given a quarry by its summoner. The stalker knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The stalker also knows the location of its summoner.
 

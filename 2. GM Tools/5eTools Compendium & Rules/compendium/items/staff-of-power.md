@@ -17,7 +17,7 @@ aliases:
 - **Damage**:
   - One-handed: 1d6 B
   - Two-handed: 1d8 B
-- **Properties**: [Versatile](/compendium/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While holding it, you gain a +2 bonus to Armor Class, saving throws, and spell attack rolls.
@@ -30,7 +30,7 @@ When you hit with a melee attack using the staff, you can expend 1 charge to dea
 
 ## Spells
 
-While holding this staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spell attack bonus: [cone of cold](/compendium/spells/cone-of-cold.md) (5 charges), [fireball](/compendium/spells/fireball.md) (5th-level version, 5 charges), [globe of invulnerability](/compendium/spells/globe-of-invulnerability.md) (6 charges), [hold monster](/compendium/spells/hold-monster.md) (5 charges), [levitate](/compendium/spells/levitate.md) (2 charges). [lightning bolt](/compendium/spells/lightning-bolt.md) (5th-level version, 5 charges), [magic missile](/compendium/spells/magic-missile.md) (1 charge), [ray of enfeeblement](/compendium/spells/ray-of-enfeeblement.md) (1 charge), or [wall of force](/compendium/spells/wall-of-force.md) (5 charges).
+While holding this staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spell attack bonus: [cone of cold](compendium/spells/cone-of-cold.md) (5 charges), [fireball](compendium/spells/fireball.md) (5th-level version, 5 charges), [globe of invulnerability](compendium/spells/globe-of-invulnerability.md) (6 charges), [hold monster](compendium/spells/hold-monster.md) (5 charges), [levitate](compendium/spells/levitate.md) (2 charges). [lightning bolt](compendium/spells/lightning-bolt.md) (5th-level version, 5 charges), [magic missile](compendium/spells/magic-missile.md) (1 charge), [ray of enfeeblement](compendium/spells/ray-of-enfeeblement.md) (1 charge), or [wall of force](compendium/spells/wall-of-force.md) (5 charges).
 
 ## Retributive Strike
 

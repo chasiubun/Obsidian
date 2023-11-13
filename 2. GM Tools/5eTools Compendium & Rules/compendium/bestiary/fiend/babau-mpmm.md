@@ -23,7 +23,7 @@ A babau demon has the cunning of a devil and the bloodthirstiness of a demon. It
 
 ```ad-statblock
 title: Babau
-![](/compendium/bestiary/fiend/token/babau.png#token)
+![](compendium/bestiary/fiend/token/babau.png#token)
 *Medium fiend (demon), Typically  Chaotic Evil*
 
 - **Armor Class** 16  (natural armor)
@@ -43,7 +43,7 @@ title: Babau
 
 ***Spellcasting.*** The babau casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 11):
 
-**At will**: [darkness](/compendium/spells/darkness.md), [dispel magic](/compendium/spells/dispel-magic.md), [fear](/compendium/spells/fear.md), [heat metal](/compendium/spells/heat-metal.md), [levitate](/compendium/spells/levitate.md)
+**At will**: [darkness](compendium/spells/darkness.md), [dispel magic](compendium/spells/dispel-magic.md), [fear](compendium/spells/fear.md), [heat metal](compendium/spells/heat-metal.md), [levitate](compendium/spells/levitate.md)
 
 ## Actions
 

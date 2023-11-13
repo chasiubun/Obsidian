@@ -51,11 +51,11 @@ You gain oath spells at the paladin levels listed in the Oath of Glory Spells ta
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [guiding bolt](/compendium/spells/guiding-bolt.md), [heroism](/compendium/spells/heroism.md) |
-| 5th | [enhance ability](/compendium/spells/enhance-ability.md), [magic weapon](/compendium/spells/magic-weapon.md) |
-| 9th | [haste](/compendium/spells/haste.md), [protection from energy](/compendium/spells/protection-from-energy.md) |
-| 13th | [compulsion](/compendium/spells/compulsion.md), [freedom of movement](/compendium/spells/freedom-of-movement.md) |
-| 17th | [commune](/compendium/spells/commune.md), [flame strike](/compendium/spells/flame-strike.md) |
+| 3rd | [guiding bolt](compendium/spells/guiding-bolt.md), [heroism](compendium/spells/heroism.md) |
+| 5th | [enhance ability](compendium/spells/enhance-ability.md), [magic weapon](compendium/spells/magic-weapon.md) |
+| 9th | [haste](compendium/spells/haste.md), [protection from energy](compendium/spells/protection-from-energy.md) |
+| 13th | [compulsion](compendium/spells/compulsion.md), [freedom of movement](compendium/spells/freedom-of-movement.md) |
+| 17th | [commune](compendium/spells/commune.md), [flame strike](compendium/spells/flame-strike.md) |
 ^oath-of-glory-spells
 
 ### Channel Divinity (Level 3)
@@ -66,7 +66,7 @@ You gain the following two Channel Divinity options. See the Sacred Oath class f
 
 ### Peerless Athlete (Level 3)
 
-As a bonus action, you can use your Channel Divinity to augment your athleticism. For the next 10 minutes, you have advantage on Strength ([Athletics](/compendium/rules/skills.md#Athletics)) and Dexterity ([Acrobatics](/compendium/rules/skills.md#Acrobatics)) checks; you can carry, push, drag, and lift twice as much weight as normal; and the distance of your long and high jumps increases by 10 feet (this extra distance costs movement as normal).
+As a bonus action, you can use your Channel Divinity to augment your athleticism. For the next 10 minutes, you have advantage on Strength ([Athletics](rules/skills.md#Athletics)) and Dexterity ([Acrobatics](rules/skills.md#Acrobatics)) checks; you can carry, push, drag, and lift twice as much weight as normal; and the distance of your long and high jumps increases by 10 feet (this extra distance costs movement as normal).
 
 ### Inspiring Smite (Level 3)
 
@@ -76,7 +76,7 @@ Immediately after you deal damage to a creature with your Divine Smite feature, 
 
 *7th-level Oath of Glory feature*
 
-You emanate an aura that fills you and your companions with supernatural speed, allowing you to race across a battlefield in formation. Your walking speed increases by 10 feet. In addition, if you aren't [incapacitated](/compendium/rules/conditions.md#incapacitated), the walking speed of any ally who starts their turn within 5 feet of you increases by 10 feet until the end of that turn.
+You emanate an aura that fills you and your companions with supernatural speed, allowing you to race across a battlefield in formation. Your walking speed increases by 10 feet. In addition, if you aren't [incapacitated](rules/conditions.md#incapacitated), the walking speed of any ally who starts their turn within 5 feet of you increases by 10 feet until the end of that turn.
 
 When you reach 18th level in this class, the range of the aura increases to 10 feet.
 

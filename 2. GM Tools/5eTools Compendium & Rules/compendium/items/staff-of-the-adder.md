@@ -17,7 +17,7 @@ aliases:
 - **Damage**:
   - One-handed: 1d6 B
   - Two-handed: 1d8 B
-- **Properties**: [Versatile](/compendium/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 You can use a bonus action to speak this staff's command word and make the head of the staff become that of an animate poisonous snake for 1 minute. By using another bonus action to speak the command word again, you return the staff to its normal inanimate form.

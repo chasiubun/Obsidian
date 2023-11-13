@@ -38,7 +38,7 @@ An elemental doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Fire Elemental
-![](/compendium/bestiary/elemental/token/fire-elemental.png#token)
+![](compendium/bestiary/elemental/token/fire-elemental.png#token)
 *Large elemental, Neutral*
 
 - **Armor Class** 13 

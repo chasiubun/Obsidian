@@ -36,7 +36,7 @@ Grimlocks still venerate the mind flayers, serving them whenever possible. Griml
 
 ```ad-statblock
 title: Grimlock
-![](/compendium/bestiary/humanoid/token/grimlock.png#token)
+![](compendium/bestiary/humanoid/token/grimlock.png#token)
 *Medium humanoid (grimlock), Neutral Evil*
 
 - **Armor Class** 11 
@@ -56,9 +56,9 @@ title: Grimlock
 
 ## Traits
 
-***Blind Senses.*** The grimlock can't use its blindsight while [deafened](/compendium/rules/conditions.md#deafened) and unable to smell.
+***Blind Senses.*** The grimlock can't use its blindsight while [deafened](rules/conditions.md#deafened) and unable to smell.
 
-***Keen Hearing and Smell.*** The grimlock has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on hearing or smell.
+***Keen Hearing and Smell.*** The grimlock has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on hearing or smell.
 
 ***Stone Camouflage.*** The grimlock has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 

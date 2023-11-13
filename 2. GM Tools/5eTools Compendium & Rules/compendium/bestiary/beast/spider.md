@@ -13,7 +13,7 @@ aliases: ["Spider"]
 
 ```ad-statblock
 title: Spider
-![](/compendium/bestiary/beast/token/spider.png#token)
+![](compendium/bestiary/beast/token/spider.png#token)
 *Tiny beast, Unaligned*
 
 - **Armor Class** 12 

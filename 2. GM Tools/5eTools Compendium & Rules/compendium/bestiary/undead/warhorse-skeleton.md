@@ -41,7 +41,7 @@ A skeleton doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Warhorse Skeleton
-![](/compendium/bestiary/undead/token/warhorse-skeleton.png#token)
+![](compendium/bestiary/undead/token/warhorse-skeleton.png#token)
 *Large undead, Lawful Evil*
 
 - **Armor Class** 13  (barding scraps)

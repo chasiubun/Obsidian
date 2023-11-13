@@ -38,10 +38,10 @@ Simple concepts in the language are understandable to frogs and toads. Bullywugs
 
 ```ad-statblock
 title: Bullywug
-![](/compendium/bestiary/humanoid/token/bullywug.png#token)
+![](compendium/bestiary/humanoid/token/bullywug.png#token)
 *Medium humanoid (bullywug), Neutral Evil*
 
-- **Armor Class** 15  ([hide armor](/compendium/items/hide-armor.md), [shield](/compendium/items/shield.md))
+- **Armor Class** 15  ([hide armor](compendium/items/hide-armor.md), [shield](compendium/items/shield.md))
 - **Hit Points** 11 (`2d8 + 2`)
 - **Speed** 20 ft., swim 40 ft.
 

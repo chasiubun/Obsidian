@@ -25,7 +25,7 @@ Hungry to claim more power despite the Raven Queen's curse, nagpas strive to bri
 
 ```ad-statblock
 title: Nagpa
-![](/compendium/bestiary/monstrosity/token/nagpa.png#token)
+![](compendium/bestiary/monstrosity/token/nagpa.png#token)
 *Medium monstrosity (wizard), Typically  Neutral Evil*
 
 - **Armor Class** 19  (natural armor)
@@ -45,11 +45,11 @@ title: Nagpa
 
 ***Spellcasting.*** The nagpa casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 20):
 
-**At will**: [detect magic](/compendium/spells/detect-magic.md), [mage hand](/compendium/spells/mage-hand.md), [message](/compendium/spells/message.md), [minor illusion](/compendium/spells/minor-illusion.md)
+**At will**: [detect magic](compendium/spells/detect-magic.md), [mage hand](compendium/spells/mage-hand.md), [message](compendium/spells/message.md), [minor illusion](compendium/spells/minor-illusion.md)
 
-**1/day each**: [dominate person](/compendium/spells/dominate-person.md), [etherealness](/compendium/spells/etherealness.md), [feeblemind](/compendium/spells/feeblemind.md)
+**1/day each**: [dominate person](compendium/spells/dominate-person.md), [etherealness](compendium/spells/etherealness.md), [feeblemind](compendium/spells/feeblemind.md)
 
-**2/day each**: [fireball](/compendium/spells/fireball.md), [fly](/compendium/spells/fly.md), [hold person](/compendium/spells/hold-person.md), [suggestion](/compendium/spells/suggestion.md), [wall of fire](/compendium/spells/wall-of-fire.md)
+**2/day each**: [fireball](compendium/spells/fireball.md), [fly](compendium/spells/fly.md), [hold person](compendium/spells/hold-person.md), [suggestion](compendium/spells/suggestion.md), [wall of fire](compendium/spells/wall-of-fire.md)
 
 ## Actions
 
@@ -61,9 +61,9 @@ title: Nagpa
 
 ## Bonus Actions
 
-***Corruption.*** The nagpa targets one creature it can see within 90 feet of it. The target must make a DC 20 Charisma saving throw. An evil creature makes the save with disadvantage. On a failed save, the target is [charmed](/compendium/rules/conditions.md#charmed) by the nagpa until the start of the nagpa's next turn. On a successful save, the target becomes immune to the nagpa's Corruption for the next 24 hours.
+***Corruption.*** The nagpa targets one creature it can see within 90 feet of it. The target must make a DC 20 Charisma saving throw. An evil creature makes the save with disadvantage. On a failed save, the target is [charmed](rules/conditions.md#charmed) by the nagpa until the start of the nagpa's next turn. On a successful save, the target becomes immune to the nagpa's Corruption for the next 24 hours.
 
-***Paralysis (Recharge 6-6).*** The nagpa forces each creature within 30 feet of it to make a DC 20 Wisdom saving throw, excluding Undead and Constructs. On a failed save, a target is [paralyzed](/compendium/rules/conditions.md#paralyzed) for 1 minute. A [paralyzed](/compendium/rules/conditions.md#paralyzed) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Paralysis (Recharge 6-6).*** The nagpa forces each creature within 30 feet of it to make a DC 20 Wisdom saving throw, excluding Undead and Constructs. On a failed save, a target is [paralyzed](rules/conditions.md#paralyzed) for 1 minute. A [paralyzed](rules/conditions.md#paralyzed) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ```
 ^statblock
 

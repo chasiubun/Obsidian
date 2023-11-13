@@ -34,7 +34,7 @@ Demogorgon makes his lair in a palace called Abysm, found on a layer of the Abys
 
 ```ad-statblock
 title: Demogorgon
-![](/compendium/bestiary/npc/token/demogorgon.png#token)
+![](compendium/bestiary/npc/token/demogorgon.png#token)
 *Huge fiend (demon), Chaotic Evil*
 
 - **Armor Class** 22  (natural armor)
@@ -58,15 +58,15 @@ title: Demogorgon
 
 ***Magic Resistance.*** Demogorgon has advantage on saving throws against spells and other magical effects.
 
-***Two Heads.*** Demogorgon has advantage on saving throws against being [blinded](/compendium/rules/conditions.md#blinded), [deafened](/compendium/rules/conditions.md#deafened), [stunned](/compendium/rules/conditions.md#stunned), or knocked [unconscious](/compendium/rules/conditions.md#unconscious).
+***Two Heads.*** Demogorgon has advantage on saving throws against being [blinded](rules/conditions.md#blinded), [deafened](rules/conditions.md#deafened), [stunned](rules/conditions.md#stunned), or knocked [unconscious](rules/conditions.md#unconscious).
 
 ***Spellcasting.*** Demogorgon casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 23):
 
-**At will**: [detect magic](/compendium/spells/detect-magic.md), [major image](/compendium/spells/major-image.md)
+**At will**: [detect magic](compendium/spells/detect-magic.md), [major image](compendium/spells/major-image.md)
 
-**1/day each**: [feeblemind](/compendium/spells/feeblemind.md), [project image](/compendium/spells/project-image.md)
+**1/day each**: [feeblemind](compendium/spells/feeblemind.md), [project image](compendium/spells/project-image.md)
 
-**3/day each**: [dispel magic](/compendium/spells/dispel-magic.md), [fear](/compendium/spells/fear.md), [telekinesis](/compendium/spells/telekinesis.md)
+**3/day each**: [dispel magic](compendium/spells/dispel-magic.md), [fear](compendium/spells/fear.md), [telekinesis](compendium/spells/telekinesis.md)
 
 ## Actions
 
@@ -76,9 +76,9 @@ title: Demogorgon
 
 ***Gaze.*** Demogorgon turns his magical gaze toward one creature he can see within 120 feet of him. The target must succeed on a DC 23 Wisdom saving throw or suffer one of the following effects (choose one or roll a `d6`):
 
-- **1–2 Beguiling Gaze.** The target is [stunned](/compendium/rules/conditions.md#stunned) until the start of Demogorgon's next turn or until Demogorgon is no longer within line of sight.  
-- **3–4 Confusing Gaze.** The target suffers the effect of the [confusion](/compendium/spells/confusion.md) spell without making a saving throw. The effect lasts until the start of Demogorgon's next turn. Demogorgon doesn't need to concentrate on the spell.  
-- **5–6 Hypnotic Gaze.** The target is [charmed](/compendium/rules/conditions.md#charmed) by Demogorgon until the start of Demogorgon's next turn. Demogorgon chooses how the [charmed](/compendium/rules/conditions.md#charmed) target uses its action, reaction, and movement.  
+- **1–2 Beguiling Gaze.** The target is [stunned](rules/conditions.md#stunned) until the start of Demogorgon's next turn or until Demogorgon is no longer within line of sight.  
+- **3–4 Confusing Gaze.** The target suffers the effect of the [confusion](compendium/spells/confusion.md) spell without making a saving throw. The effect lasts until the start of Demogorgon's next turn. Demogorgon doesn't need to concentrate on the spell.  
+- **5–6 Hypnotic Gaze.** The target is [charmed](rules/conditions.md#charmed) by Demogorgon until the start of Demogorgon's next turn. Demogorgon chooses how the [charmed](rules/conditions.md#charmed) target uses its action, reaction, and movement.  
 
 ## Legendary Actions
 
@@ -88,6 +88,6 @@ title: Demogorgon
 
 ***Cast a Spell (Costs 2 Actions).*** Demogorgon uses Spellcasting.
 
-![Demogorgon](/compendium/bestiary/legendary-group/demogorgon-mpmm.md)
+![Demogorgon](compendium/bestiary/legendary-group/demogorgon-mpmm.md)
 ```
 ^statblock

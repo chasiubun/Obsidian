@@ -23,7 +23,7 @@ The Oriq work in secret, infiltrating Strixhaven to search for the magic their m
 
 ```ad-statblock
 title: Oriq Recruiter
-![](/compendium/bestiary/humanoid/token/oriq-recruiter.png#token)
+![](compendium/bestiary/humanoid/token/oriq-recruiter.png#token)
 *Medium humanoid (warlock), typically  Lawful Evil*
 
 - **Armor Class** 16  (misdirecting defense)
@@ -49,11 +49,11 @@ title: Oriq Recruiter
 
 ***Spellcasting.*** The recruiter casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 14):
 
-**At will**: [disguise self](/compendium/spells/disguise-self.md), [silent image](/compendium/spells/silent-image.md)
+**At will**: [disguise self](compendium/spells/disguise-self.md), [silent image](compendium/spells/silent-image.md)
 
-**1/day**: [suggestion](/compendium/spells/suggestion.md)
+**1/day**: [suggestion](compendium/spells/suggestion.md)
 
-**2/day**: [charm person](/compendium/spells/charm-person.md)
+**2/day**: [charm person](compendium/spells/charm-person.md)
 
 ## Actions
 

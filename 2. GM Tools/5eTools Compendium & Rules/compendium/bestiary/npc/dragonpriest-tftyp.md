@@ -13,7 +13,7 @@ aliases: ["Dragonpriest"]
 
 ```ad-statblock
 title: Dragonpriest
-![](/compendium/bestiary/npc/token/dragonpriest.png#token)
+![](compendium/bestiary/npc/token/dragonpriest.png#token)
 *Large giant, Chaotic Evil*
 
 - **Armor Class** 15  (natural armor)
@@ -33,7 +33,7 @@ title: Dragonpriest
 
 ## Traits
 
-***Keen Smell.*** The dragonpriest has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on smell.
+***Keen Smell.*** The dragonpriest has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on smell.
 
 ***Regeneration.*** The dragonpriest regains 5 hit points at the start of its turn. If the dragonpriest takes acid or fire damage, this trait doesn't function at the start of the dragonpriest's next turn. The dragonpriest dies only if it starts its turn with 0 hit points and doesn't regenerate.
 

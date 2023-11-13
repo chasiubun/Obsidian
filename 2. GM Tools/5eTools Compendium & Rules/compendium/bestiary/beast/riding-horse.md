@@ -15,7 +15,7 @@ aliases: ["Riding Horse"]
 
 ```ad-statblock
 title: Riding Horse
-![](/compendium/bestiary/beast/token/riding-horse.png#token)
+![](compendium/bestiary/beast/token/riding-horse.png#token)
 *Large beast, Unaligned*
 
 - **Armor Class** 10 

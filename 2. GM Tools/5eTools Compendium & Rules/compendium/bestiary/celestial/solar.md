@@ -41,7 +41,7 @@ It is said that only twenty-four solars exist. The few solars that are known are
 
 ```ad-statblock
 title: Solar
-![](/compendium/bestiary/celestial/token/solar.png#token)
+![](compendium/bestiary/celestial/token/solar.png#token)
 *Large celestial, Lawful Good*
 
 - **Armor Class** 21  (natural armor)
@@ -69,11 +69,11 @@ title: Solar
 
 ***Innate Spellcasting.*** The solar's spellcasting ability is Charisma (spell save DC 25). It can innately cast the following spells, requiring no material components:
 
-**At will**: [detect evil and good](/compendium/spells/detect-evil-and-good.md), [invisibility](/compendium/spells/invisibility.md) (self only)
+**At will**: [detect evil and good](compendium/spells/detect-evil-and-good.md), [invisibility](compendium/spells/invisibility.md) (self only)
 
-**1/day each**: [commune](/compendium/spells/commune.md), [control weather](/compendium/spells/control-weather.md)
+**1/day each**: [commune](compendium/spells/commune.md), [control weather](compendium/spells/control-weather.md)
 
-**3/day each**: [blade barrier](/compendium/spells/blade-barrier.md), [dispel evil and good](/compendium/spells/dispel-evil-and-good.md), [resurrection](/compendium/spells/resurrection.md)
+**3/day each**: [blade barrier](compendium/spells/blade-barrier.md), [dispel evil and good](compendium/spells/dispel-evil-and-good.md), [resurrection](compendium/spells/resurrection.md)
 
 ## Actions
 
@@ -93,6 +93,6 @@ title: Solar
 
 ***Searing Burst (Costs 2 Actions).*** The solar emits magical, divine energy. Each creature of its choice in a 10-foot radius must make a DC 23 Dexterity saving throw, taking 14 (`4d6`) fire damage plus 14 (`4d6`) radiant damage on a failed save, or half as much damage on a successful one.
 
-***Blinding Gaze (Costs 3 Actions).*** The solar targets one creature it can see within 30 feet of it. If the target can see it, the target must succeed on a DC 15 Constitution saving throw or be [blinded](/compendium/rules/conditions.md#blinded) until magic such as the [lesser restoration](/compendium/spells/lesser-restoration.md) spell removes the blindness.
+***Blinding Gaze (Costs 3 Actions).*** The solar targets one creature it can see within 30 feet of it. If the target can see it, the target must succeed on a DC 15 Constitution saving throw or be [blinded](rules/conditions.md#blinded) until magic such as the [lesser restoration](compendium/spells/lesser-restoration.md) spell removes the blindness.
 ```
 ^statblock

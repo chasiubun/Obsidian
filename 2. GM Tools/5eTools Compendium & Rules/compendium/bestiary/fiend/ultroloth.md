@@ -72,7 +72,7 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 
 ```ad-statblock
 title: Ultroloth
-![](/compendium/bestiary/fiend/token/ultroloth.png#token)
+![](compendium/bestiary/fiend/token/ultroloth.png#token)
 *Medium fiend (yugoloth), Neutral Evil*
 
 - **Armor Class** 19  (natural armor)
@@ -98,11 +98,11 @@ title: Ultroloth
 
 ***Innate Spellcasting.*** The ultroloth's innate spellcasting ability is Charisma (spell save DC 17). The ultroloth can innately cast the following spells, requiring no material components:
 
-**At will**: [alter self](/compendium/spells/alter-self.md), [clairvoyance](/compendium/spells/clairvoyance.md), [darkness](/compendium/spells/darkness.md), [detect magic](/compendium/spells/detect-magic.md), [detect thoughts](/compendium/spells/detect-thoughts.md), [dispel magic](/compendium/spells/dispel-magic.md), [invisibility](/compendium/spells/invisibility.md) (self only), [suggestion](/compendium/spells/suggestion.md)
+**At will**: [alter self](compendium/spells/alter-self.md), [clairvoyance](compendium/spells/clairvoyance.md), [darkness](compendium/spells/darkness.md), [detect magic](compendium/spells/detect-magic.md), [detect thoughts](compendium/spells/detect-thoughts.md), [dispel magic](compendium/spells/dispel-magic.md), [invisibility](compendium/spells/invisibility.md) (self only), [suggestion](compendium/spells/suggestion.md)
 
-**1/day each**: [fire storm](/compendium/spells/fire-storm.md), [mass suggestion](/compendium/spells/mass-suggestion.md)
+**1/day each**: [fire storm](compendium/spells/fire-storm.md), [mass suggestion](compendium/spells/mass-suggestion.md)
 
-**3/day each**: [dimension door](/compendium/spells/dimension-door.md), [fear](/compendium/spells/fear.md), [wall of fire](/compendium/spells/wall-of-fire.md)
+**3/day each**: [dimension door](compendium/spells/dimension-door.md), [fear](compendium/spells/fear.md), [wall of fire](compendium/spells/wall-of-fire.md)
 
 ## Actions
 
@@ -110,7 +110,7 @@ title: Ultroloth
 
 ***Longsword.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 7 (`1d8 + 3`) slashing damage, or 8 (`1d10 + 3`) slashing damage if used with two hands.
 
-***Hypnotic Gaze.*** The ultroloth's eyes sparkle with opalescent light as it targets one creature it can see within 30 feet of it. If the target can see the ultroloth, the target must succeed on a DC 17 Wisdom saving throw against this magic or be [charmed](/compendium/rules/conditions.md#charmed) until the end of the ultroloth's next turn. The [charmed](/compendium/rules/conditions.md#charmed) target is [stunned](/compendium/rules/conditions.md#stunned). If the target's saving throw is successful, the target is immune to the ultroloth's gaze for the next 24 hours.
+***Hypnotic Gaze.*** The ultroloth's eyes sparkle with opalescent light as it targets one creature it can see within 30 feet of it. If the target can see the ultroloth, the target must succeed on a DC 17 Wisdom saving throw against this magic or be [charmed](rules/conditions.md#charmed) until the end of the ultroloth's next turn. The [charmed](rules/conditions.md#charmed) target is [stunned](rules/conditions.md#stunned). If the target's saving throw is successful, the target is immune to the ultroloth's gaze for the next 24 hours.
 
 ***Teleport.*** The ultroloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
 ```

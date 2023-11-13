@@ -21,6 +21,6 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 ## Golden Lions
 
-These gold statuettes of lions are always created in pairs. You can use one figurine or both simultaneously. Each can become a [lion](/compendium/bestiary/beast/lion.md) for up to 1 hour. Once a [lion](/compendium/bestiary/beast/lion.md) has been used, it can't be used again until 7 days have passed.
+These gold statuettes of lions are always created in pairs. You can use one figurine or both simultaneously. Each can become a [lion](compendium/bestiary/beast/lion.md) for up to 1 hour. Once a [lion](compendium/bestiary/beast/lion.md) has been used, it can't be used again until 7 days have passed.
 
 *Source: Dungeon Master's Guide p. 169. Available in the SRD.*

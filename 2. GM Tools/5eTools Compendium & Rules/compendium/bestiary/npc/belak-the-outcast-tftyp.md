@@ -13,10 +13,10 @@ aliases: ["Belak the Outcast"]
 
 ```ad-statblock
 title: Belak the Outcast
-![](/compendium/bestiary/npc/token/belak-the-outcast.png#token)
+![](compendium/bestiary/npc/token/belak-the-outcast.png#token)
 *Medium humanoid (human), Any alignment*
 
-- **Armor Class** 11  (16 with [barkskin](/compendium/spells/barkskin.md))
+- **Armor Class** 11  (16 with [barkskin](compendium/spells/barkskin.md))
 - **Hit Points** 27 (`5d8 + 5`)
 - **Speed** 30 ft.
 
@@ -33,11 +33,11 @@ title: Belak the Outcast
 
 ***Spellcasting.*** The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:
 
-**Cantrips (at will)**: [druidcraft](/compendium/spells/druidcraft.md), [poison spray](/compendium/spells/poison-spray.md), [shillelagh](/compendium/spells/shillelagh.md)
+**Cantrips (at will)**: [druidcraft](compendium/spells/druidcraft.md), [poison spray](compendium/spells/poison-spray.md), [shillelagh](compendium/spells/shillelagh.md)
 
-**1st level (4 slots)**: [cure wounds](/compendium/spells/cure-wounds.md), [entangle](/compendium/spells/entangle.md), [faerie fire](/compendium/spells/faerie-fire.md), [thunderwave](/compendium/spells/thunderwave.md)
+**1st level (4 slots)**: [cure wounds](compendium/spells/cure-wounds.md), [entangle](compendium/spells/entangle.md), [faerie fire](compendium/spells/faerie-fire.md), [thunderwave](compendium/spells/thunderwave.md)
 
-**2nd level (3 slots)**: [barkskin](/compendium/spells/barkskin.md), [flaming sphere](/compendium/spells/flaming-sphere.md)
+**2nd level (3 slots)**: [barkskin](compendium/spells/barkskin.md), [flaming sphere](compendium/spells/flaming-sphere.md)
 
 ## Actions
 

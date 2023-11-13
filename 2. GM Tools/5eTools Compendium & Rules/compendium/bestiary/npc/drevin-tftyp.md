@@ -13,7 +13,7 @@ aliases: ["Drevin"]
 
 ```ad-statblock
 title: Drevin
-![](/compendium/bestiary/npc/token/drevin.png#token)
+![](compendium/bestiary/npc/token/drevin.png#token)
 *Small humanoid (Stout halfling), Any alignment*
 
 - **Armor Class** 12 
@@ -35,7 +35,7 @@ title: Drevin
 
 ***Cunning Action.*** On each of its turns, Drevin can use a bonus action to take the Dash, Disengage, or Hide action.
 
-***Sneak Attack (1/Turn).*** Drevin deals an extra 7 (`2d6`) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of Drevin that isn't [incapacitated](/compendium/rules/conditions.md#incapacitated) and Drevin doesn't have disadvantage on the attack roll.
+***Sneak Attack (1/Turn).*** Drevin deals an extra 7 (`2d6`) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of Drevin that isn't [incapacitated](rules/conditions.md#incapacitated) and Drevin doesn't have disadvantage on the attack roll.
 
 ## Actions
 

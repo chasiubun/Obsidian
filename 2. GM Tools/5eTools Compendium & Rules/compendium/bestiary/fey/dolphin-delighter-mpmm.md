@@ -25,7 +25,7 @@ Dolphins are clever, social marine mammals that feed on small fish and squid. An
 
 ```ad-statblock
 title: Dolphin Delighter
-![](/compendium/bestiary/fey/token/dolphin-delighter.png#token)
+![](compendium/bestiary/fey/token/dolphin-delighter.png#token)
 *Medium fey, Typically  Chaotic Good*
 
 - **Armor Class** 14  (natural armor)
@@ -51,7 +51,7 @@ title: Dolphin Delighter
 
 ***Multiattack.*** The dolphin makes two Dazzling Slam attacks.
 
-***Dazzling Slam.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (`1d6 + 2`) bludgeoning damage plus 7 (`2d6`) psychic damage, and the target is [blinded](/compendium/rules/conditions.md#blinded) until the start of the dolphin's next turn.
+***Dazzling Slam.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (`1d6 + 2`) bludgeoning damage plus 7 (`2d6`) psychic damage, and the target is [blinded](rules/conditions.md#blinded) until the start of the dolphin's next turn.
 
 ## Bonus Actions
 

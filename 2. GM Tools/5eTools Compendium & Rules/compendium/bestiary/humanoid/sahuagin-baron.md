@@ -44,10 +44,10 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
 
 ```ad-statblock
 title: Sahuagin Baron
-![](/compendium/bestiary/humanoid/token/sahuagin-baron.png#token)
+![](compendium/bestiary/humanoid/token/sahuagin-baron.png#token)
 *Large humanoid (sahuagin), Lawful Evil*
 
-- **Armor Class** 16  ([breastplate](/compendium/items/breastplate.md))
+- **Armor Class** 16  ([breastplate](compendium/items/breastplate.md))
 - **Hit Points** 76 (`9d10 + 27`)
 - **Speed** 30 ft., swim 50 ft.
 

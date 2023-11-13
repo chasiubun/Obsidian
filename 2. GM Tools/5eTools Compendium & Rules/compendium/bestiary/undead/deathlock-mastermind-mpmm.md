@@ -24,7 +24,7 @@ An powerful necromancer might also discover the wicked methods of creating a dea
 
 ```ad-statblock
 title: Deathlock Mastermind
-![](/compendium/bestiary/undead/token/deathlock-mastermind.png#token)
+![](compendium/bestiary/undead/token/deathlock-mastermind.png#token)
 *Medium undead (warlock), Typically  Neutral Evil*
 
 - **Armor Class** 13 
@@ -44,7 +44,7 @@ title: Deathlock Mastermind
 
 ## Traits
 
-***Devil's Sight.*** Magical darkness doesn't impede the deathlock's [darkvision](/compendium/rules/senses.md#darkvision).
+***Devil's Sight.*** Magical darkness doesn't impede the deathlock's [darkvision](rules/senses.md#darkvision).
 
 ***Turn Resistance.*** The deathlock has advantage on saving throws against any effect that turns Undead.
 
@@ -52,9 +52,9 @@ title: Deathlock Mastermind
 
 ***Spellcasting.*** The deathlock casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 14):
 
-**At will**: [detect magic](/compendium/spells/detect-magic.md), [disguise self](/compendium/spells/disguise-self.md), [mage armor](/compendium/spells/mage-armor.md), [minor illusion](/compendium/spells/minor-illusion.md)
+**At will**: [detect magic](compendium/spells/detect-magic.md), [disguise self](compendium/spells/disguise-self.md), [mage armor](compendium/spells/mage-armor.md), [minor illusion](compendium/spells/minor-illusion.md)
 
-**1/day each**: [darkness](/compendium/spells/darkness.md), [dimension door](/compendium/spells/dimension-door.md), [dispel magic](/compendium/spells/dispel-magic.md), [fly](/compendium/spells/fly.md), [invisibility](/compendium/spells/invisibility.md)
+**1/day each**: [darkness](compendium/spells/darkness.md), [dimension door](compendium/spells/dimension-door.md), [dispel magic](compendium/spells/dispel-magic.md), [fly](compendium/spells/fly.md), [invisibility](compendium/spells/invisibility.md)
 
 ## Actions
 
@@ -62,7 +62,7 @@ title: Deathlock Mastermind
 
 ***Deathly Claw.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (`3d6 + 3` necrotic damage).
 
-***Grave Bolt.*** *Ranged Spell Attack:* +6 to hit, range 120 ft., one target. *Hit:* 13 (`3d8`) necrotic damage. If the target is Large or smaller, it must succeed on a DC 16 Strength saving throw or become [restrained](/compendium/rules/conditions.md#restrained) as shadowy tendrils wrap around it for 1 minute. A [restrained](/compendium/rules/conditions.md#restrained) target can use its action to repeat the saving throw, ending the effect on itself on a success.
+***Grave Bolt.*** *Ranged Spell Attack:* +6 to hit, range 120 ft., one target. *Hit:* 13 (`3d8`) necrotic damage. If the target is Large or smaller, it must succeed on a DC 16 Strength saving throw or become [restrained](rules/conditions.md#restrained) as shadowy tendrils wrap around it for 1 minute. A [restrained](rules/conditions.md#restrained) target can use its action to repeat the saving throw, ending the effect on itself on a success.
 ```
 ^statblock
 

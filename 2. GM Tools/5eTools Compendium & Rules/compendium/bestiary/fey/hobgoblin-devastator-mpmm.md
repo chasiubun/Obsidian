@@ -27,10 +27,10 @@ In the Feywild, many archfey seek to bolster their armies' might with the servic
 
 ```ad-statblock
 title: Hobgoblin Devastator
-![](/compendium/bestiary/fey/token/hobgoblin-devastator.png#token)
+![](compendium/bestiary/fey/token/hobgoblin-devastator.png#token)
 *Medium fey (goblinoid), Typically  Lawful Neutral*
 
-- **Armor Class** 13  ([studded leather](/compendium/items/studded-leather-armor.md))
+- **Armor Class** 13  ([studded leather](compendium/items/studded-leather-armor.md))
 - **Hit Points** 45 (`7d8 + 14`)
 - **Speed** 30 ft.
 
@@ -51,9 +51,9 @@ title: Hobgoblin Devastator
 
 ***Spellcasting.*** The hobgoblin casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 13):
 
-**At will**: [mage hand](/compendium/spells/mage-hand.md), [prestidigitation](/compendium/spells/prestidigitation.md)
+**At will**: [mage hand](compendium/spells/mage-hand.md), [prestidigitation](compendium/spells/prestidigitation.md)
 
-**2/day each**: [fireball](/compendium/spells/fireball.md), [fly](/compendium/spells/fly.md), [fog cloud](/compendium/spells/fog-cloud.md), [gust of wind](/compendium/spells/gust-of-wind.md), [lightning bolt](/compendium/spells/lightning-bolt.md)
+**2/day each**: [fireball](compendium/spells/fireball.md), [fly](compendium/spells/fly.md), [fog cloud](compendium/spells/fog-cloud.md), [gust of wind](compendium/spells/gust-of-wind.md), [lightning bolt](compendium/spells/lightning-bolt.md)
 
 ## Actions
 
@@ -61,7 +61,7 @@ title: Hobgoblin Devastator
 
 ***Quarterstaff.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (`1d6 + 1`) bludgeoning damage, or 5 (`1d8 + 1`) bludgeoning damage if used with two hands, plus 13 (`3d8`) force damage.
 
-***Devastating Bolt.*** *Ranged Spell Attack:* +5 to hit, range 60 ft., one target. *Hit:* 21 (`4d8 + 3`) force damage, and the target is knocked [prone](/compendium/rules/conditions.md#prone).
+***Devastating Bolt.*** *Ranged Spell Attack:* +5 to hit, range 60 ft., one target. *Hit:* 21 (`4d8 + 3`) force damage, and the target is knocked [prone](rules/conditions.md#prone).
 ```
 ^statblock
 

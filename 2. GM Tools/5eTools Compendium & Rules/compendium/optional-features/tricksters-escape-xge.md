@@ -11,4 +11,4 @@ aliases: ["Trickster's Escape"]
 
 **Prerequisite**: 7th-level Warlock
 
-You can cast [freedom of movement](/compendium/spells/freedom-of-movement.md) once on yourself without expending a spell slot. You regain the ability to do so when you finish a long rest.
+You can cast [freedom of movement](compendium/spells/freedom-of-movement.md) once on yourself without expending a spell slot. You regain the ability to do so when you finish a long rest.

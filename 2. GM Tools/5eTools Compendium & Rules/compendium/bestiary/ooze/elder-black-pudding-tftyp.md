@@ -13,7 +13,7 @@ aliases: ["Elder Black Pudding"]
 
 ```ad-statblock
 title: Elder Black Pudding
-![](/compendium/bestiary/ooze/token/elder-black-pudding.png#token)
+![](compendium/bestiary/ooze/token/elder-black-pudding.png#token)
 *Huge ooze, Unaligned*
 
 - **Armor Class** 7 

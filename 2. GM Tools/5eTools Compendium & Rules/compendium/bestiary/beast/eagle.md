@@ -17,7 +17,7 @@ aliases: ["Eagle"]
 
 ```ad-statblock
 title: Eagle
-![](/compendium/bestiary/beast/token/eagle.png#token)
+![](compendium/bestiary/beast/token/eagle.png#token)
 *Small beast, Unaligned*
 
 - **Armor Class** 12 
@@ -37,7 +37,7 @@ title: Eagle
 
 ## Traits
 
-***Keen Sight.*** The eagle has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Keen Sight.*** The eagle has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 

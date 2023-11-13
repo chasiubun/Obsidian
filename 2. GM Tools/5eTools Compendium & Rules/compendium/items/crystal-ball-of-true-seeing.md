@@ -15,8 +15,8 @@ aliases:
 
 - **Weight**: 3.0 lbs.
 
-This [crystal ball](/compendium/items/crystal-ball.md) is about 6 inches in diameter. While touching it, you can cast the [scrying](/compendium/spells/scrying.md) spell (save DC 17) with it.
+This [crystal ball](compendium/items/crystal-ball.md) is about 6 inches in diameter. While touching it, you can cast the [scrying](compendium/spells/scrying.md) spell (save DC 17) with it.
 
-While [scrying](/compendium/spells/scrying.md) with the [crystal ball](/compendium/items/crystal-ball.md), you have [truesight](/compendium/rules/senses.md#truesight) with a radius of 120 feet centered on the spell's sensor.
+While [scrying](compendium/spells/scrying.md) with the [crystal ball](compendium/items/crystal-ball.md), you have [truesight](rules/senses.md#truesight) with a radius of 120 feet centered on the spell's sensor.
 
 *Source: Dungeon Master's Guide p. 159*

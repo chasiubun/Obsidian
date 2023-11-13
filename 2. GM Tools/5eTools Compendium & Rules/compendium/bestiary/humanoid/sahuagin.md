@@ -44,7 +44,7 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
 
 ```ad-statblock
 title: Sahuagin
-![](/compendium/bestiary/humanoid/token/sahuagin.png#token)
+![](compendium/bestiary/humanoid/token/sahuagin.png#token)
 *Medium humanoid (sahuagin), Lawful Evil*
 
 - **Armor Class** 12  (natural armor)

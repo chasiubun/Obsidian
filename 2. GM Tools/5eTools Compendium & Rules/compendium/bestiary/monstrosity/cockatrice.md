@@ -16,7 +16,7 @@ The cockatrice looks like a hideous hybrid of lizard, bird, and bat, and it is i
 
 ```ad-statblock
 title: Cockatrice
-![](/compendium/bestiary/monstrosity/token/cockatrice.png#token)
+![](compendium/bestiary/monstrosity/token/cockatrice.png#token)
 *Small monstrosity, Unaligned*
 
 - **Armor Class** 11 
@@ -36,7 +36,7 @@ title: Cockatrice
 
 ## Actions
 
-***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 3 (`1d4 + 1`) piercing damage, and the target must succeed on a DC 11 Constitution saving throw against being magically [petrified](/compendium/rules/conditions.md#petrified). On a failed save, the creature begins to turn to stone and is [restrained](/compendium/rules/conditions.md#restrained). It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is [petrified](/compendium/rules/conditions.md#petrified) for 24 hours.
+***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 3 (`1d4 + 1`) piercing damage, and the target must succeed on a DC 11 Constitution saving throw against being magically [petrified](rules/conditions.md#petrified). On a failed save, the creature begins to turn to stone and is [restrained](rules/conditions.md#restrained). It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is [petrified](rules/conditions.md#petrified) for 24 hours.
 ```
 ^statblock
 

@@ -27,7 +27,7 @@ Githzerai are otherworldly folk with psionic powers who share an ancestral link 
 
 ```ad-statblock
 title: Githzerai Anarch
-![](/compendium/bestiary/humanoid/token/githzerai-anarch.png#token)
+![](compendium/bestiary/humanoid/token/githzerai-anarch.png#token)
 *Medium humanoid (gith), Any alignment*
 
 - **Armor Class** 20  (psychic defense)
@@ -53,11 +53,11 @@ title: Githzerai Anarch
 
 ***Spellcasting (Psionics).*** The githzerai casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability (spell save DC 18):
 
-**At will**: [mage hand](/compendium/spells/mage-hand.md) (the hand is invisible)
+**At will**: [mage hand](compendium/spells/mage-hand.md) (the hand is invisible)
 
-**1/day each**: [globe of invulnerability](/compendium/spells/globe-of-invulnerability.md), [plane shift](/compendium/spells/plane-shift.md), [wall of force](/compendium/spells/wall-of-force.md)
+**1/day each**: [globe of invulnerability](compendium/spells/globe-of-invulnerability.md), [plane shift](compendium/spells/plane-shift.md), [wall of force](compendium/spells/wall-of-force.md)
 
-**3/day each**: [see invisibility](/compendium/spells/see-invisibility.md), [telekinesis](/compendium/spells/telekinesis.md)
+**3/day each**: [see invisibility](compendium/spells/see-invisibility.md), [telekinesis](compendium/spells/telekinesis.md)
 
 ## Actions
 
@@ -71,8 +71,8 @@ title: Githzerai Anarch
 
 ***Teleport.*** The githzerai teleports, along with any equipment it is wearing or carrying, to an unoccupied space it can see within 30 feet of it.
 
-***Change Gravity (Costs 3 Actions).*** The githzerai casts the [reverse gravity](/compendium/spells/reverse-gravity.md) spell, using Wisdom as the spellcasting ability. The spell has the normal effect, except that the githzerai can orient the area in any direction and creatures and objects fall toward the end of the area.
+***Change Gravity (Costs 3 Actions).*** The githzerai casts the [reverse gravity](compendium/spells/reverse-gravity.md) spell, using Wisdom as the spellcasting ability. The spell has the normal effect, except that the githzerai can orient the area in any direction and creatures and objects fall toward the end of the area.
 
-![Githzerai Anarch](/compendium/bestiary/legendary-group/githzerai-anarch-mpmm.md)
+![Githzerai Anarch](compendium/bestiary/legendary-group/githzerai-anarch-mpmm.md)
 ```
 ^statblock

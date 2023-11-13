@@ -13,10 +13,10 @@ aliases: ["Djeneba"]
 
 ```ad-statblock
 title: Djeneba
-![](/compendium/bestiary/npc/token/djeneba.png#token)
+![](compendium/bestiary/npc/token/djeneba.png#token)
 *Medium humanoid (human), Chaotic Neutral*
 
-- **Armor Class** 12  (15 with [mage armor](/compendium/spells/mage-armor.md))
+- **Armor Class** 12  (15 with [mage armor](compendium/spells/mage-armor.md))
 - **Hit Points** 40 (`9d8`)
 - **Speed** 30 ft.
 
@@ -33,17 +33,17 @@ title: Djeneba
 
 ***Spellcasting.*** Djeneba is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). Djeneba has the following wizard spells prepared:
 
-**Cantrips (at will)**: [fire bolt](/compendium/spells/fire-bolt.md), [light](/compendium/spells/light.md), [mage hand](/compendium/spells/mage-hand.md), [prestidigitation](/compendium/spells/prestidigitation.md)
+**Cantrips (at will)**: [fire bolt](compendium/spells/fire-bolt.md), [light](compendium/spells/light.md), [mage hand](compendium/spells/mage-hand.md), [prestidigitation](compendium/spells/prestidigitation.md)
 
-**1st level (4 slots)**: [detect magic](/compendium/spells/detect-magic.md), [mage armor](/compendium/spells/mage-armor.md), [magic missile](/compendium/spells/magic-missile.md), [shield](/compendium/spells/shield.md)
+**1st level (4 slots)**: [detect magic](compendium/spells/detect-magic.md), [mage armor](compendium/spells/mage-armor.md), [magic missile](compendium/spells/magic-missile.md), [shield](compendium/spells/shield.md)
 
-**2nd level (3 slots)**: [misty step](/compendium/spells/misty-step.md), [suggestion](/compendium/spells/suggestion.md)
+**2nd level (3 slots)**: [misty step](compendium/spells/misty-step.md), [suggestion](compendium/spells/suggestion.md)
 
-**3rd level (3 slots)**: [counterspell](/compendium/spells/counterspell.md), [fireball](/compendium/spells/fireball.md), [fly](/compendium/spells/fly.md)
+**3rd level (3 slots)**: [counterspell](compendium/spells/counterspell.md), [fireball](compendium/spells/fireball.md), [fly](compendium/spells/fly.md)
 
-**4th level (3 slots)**: [greater invisibility](/compendium/spells/greater-invisibility.md), [ice storm](/compendium/spells/ice-storm.md)
+**4th level (3 slots)**: [greater invisibility](compendium/spells/greater-invisibility.md), [ice storm](compendium/spells/ice-storm.md)
 
-**5th level (1 slots)**: [cone of cold](/compendium/spells/cone-of-cold.md)
+**5th level (1 slots)**: [cone of cold](compendium/spells/cone-of-cold.md)
 
 ## Actions
 

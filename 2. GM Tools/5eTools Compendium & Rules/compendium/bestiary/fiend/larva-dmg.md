@@ -13,7 +13,7 @@ aliases: ["Larva (DMG)"]
 
 ```ad-statblock
 title: Larva (DMG)
-![](/compendium/bestiary/fiend/token/larva.png#token)
+![](compendium/bestiary/fiend/token/larva.png#token)
 *Medium fiend, Neutral Evil*
 
 - **Armor Class** 9 

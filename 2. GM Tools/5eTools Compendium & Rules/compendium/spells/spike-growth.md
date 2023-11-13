@@ -22,8 +22,8 @@ aliases: ["Spike Growth"]
 
 The ground in a 20-foot radius centered on a point within range twists and sprouts hard spikes and thorns. The area becomes difficult terrain for the duration. When a creature moves into or within the area, it takes `2d4` piercing damage for every 5 feet it travels.
 
-The transformation of the ground is camouflaged to look natural. Any creature that can't see the area at the time the spell is cast must make a Wisdom ([Perception](/compendium/rules/skills.md#Perception)) check against your spell save DC to recognize the terrain as hazardous before entering it.
+The transformation of the ground is camouflaged to look natural. Any creature that can't see the area at the time the spell is cast must make a Wisdom ([Perception](rules/skills.md#Perception)) check against your spell save DC to recognize the terrain as hazardous before entering it.
 
-**Classes**: [Cleric (Nature Domain)](/compendium/classes/cleric-nature-domain.md), [Druid (Circle of the Land)](/compendium/classes/druid-circle-of-the-land.md), [Druid](/compendium/classes/druid.md), [Ranger](/compendium/classes/ranger.md), [Warlock (The Genie)](/compendium/classes/warlock-the-genie-tce.md)
+**Classes**: [Cleric (Nature Domain)](compendium/classes/cleric-nature-domain.md), [Druid (Circle of the Land)](compendium/classes/druid-circle-of-the-land.md), [Druid](compendium/classes/druid.md), [Ranger](compendium/classes/ranger.md), [Warlock (The Genie)](compendium/classes/warlock-the-genie-tce.md)
 
 *Source: Player's Handbook p. 277. Available in the SRD.*

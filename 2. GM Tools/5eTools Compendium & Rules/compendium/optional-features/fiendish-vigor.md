@@ -9,4 +9,4 @@ aliases: ["Fiendish Vigor"]
 # Fiendish Vigor
 *Source: Player's Handbook p. 111. Available in the SRD.*  
 
-You can cast [false life](/compendium/spells/false-life.md) on yourself at will as a 1st-level spell, without expending a spell slot or material components.
+You can cast [false life](compendium/spells/false-life.md) on yourself at will as a 1st-level spell, without expending a spell slot or material components.

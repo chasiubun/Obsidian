@@ -23,8 +23,8 @@ aliases: ["See Invisibility"]
 - **Components:** V, S, a pinch of talc and a small sprinkling of powdered silver
 - **Duration:** 1 hour
 
-For the duration, you see [invisible](/compendium/rules/conditions.md#invisible) creatures and objects as if they were visible, and you can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.
+For the duration, you see [invisible](rules/conditions.md#invisible) creatures and objects as if they were visible, and you can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.
 
-**Classes**: [Artificer](/compendium/classes/artificer-tce.md), [Bard](/compendium/classes/bard.md), [Cleric (Twilight Domain)](/compendium/classes/cleric-twilight-domain-tce.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Paladin (Oath of the Watchers)](/compendium/classes/paladin-oath-of-the-watchers-tce.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Sorcerer](/compendium/classes/sorcerer.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Artificer](compendium/classes/artificer-tce.md), [Bard](compendium/classes/bard.md), [Cleric (Twilight Domain)](compendium/classes/cleric-twilight-domain-tce.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Paladin (Oath of the Watchers)](compendium/classes/paladin-oath-of-the-watchers-tce.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 274. Available in the SRD.*

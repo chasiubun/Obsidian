@@ -27,6 +27,6 @@ You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the bonus increases to +2. When you use a spell slot of 6th level or higher, the bonus increases to +3.
 
-**Classes**: [Artificer](/compendium/classes/artificer-tce.md), [Cleric (Forge Domain)](/compendium/classes/cleric-forge-domain-xge.md), [Cleric (War Domain)](/compendium/classes/cleric-war-domain.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Paladin (Oath of Glory)](/compendium/classes/paladin-oath-of-glory-tce.md), [Paladin](/compendium/classes/paladin.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Artificer](compendium/classes/artificer-tce.md), [Cleric (Forge Domain)](compendium/classes/cleric-forge-domain-xge.md), [Cleric (War Domain)](compendium/classes/cleric-war-domain.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Paladin (Oath of Glory)](compendium/classes/paladin-oath-of-glory-tce.md), [Paladin](compendium/classes/paladin.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 257. Available in the SRD and the Basic Rules.*

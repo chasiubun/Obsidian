@@ -26,7 +26,7 @@ Chokers tend to set their ambushes alone, rather than working in concert, but wh
 
 ```ad-statblock
 title: Choker
-![](/compendium/bestiary/aberration/token/choker.png#token)
+![](compendium/bestiary/aberration/token/choker.png#token)
 *Small aberration, Typically  Chaotic Evil*
 
 - **Armor Class** 16  (natural armor)
@@ -56,7 +56,7 @@ title: Choker
 
 ***Multiattack.*** The choker makes two Tentacle attacks.
 
-***Tentacle.*** *Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:* 5 (`1d4 + 3`) piercing damage. If the target is a Large or smaller creature, it is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 15). Until this grapple ends, the target is [restrained](/compendium/rules/conditions.md#restrained), and the choker can't use this tentacle on another target. The choker has two tentacles. If this attack is a critical hit, the target also can't breathe or speak until the grapple ends.
+***Tentacle.*** *Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:* 5 (`1d4 + 3`) piercing damage. If the target is a Large or smaller creature, it is [grappled](rules/conditions.md#grappled) (escape DC 15). Until this grapple ends, the target is [restrained](rules/conditions.md#restrained), and the choker can't use this tentacle on another target. The choker has two tentacles. If this attack is a critical hit, the target also can't breathe or speak until the grapple ends.
 ```
 ^statblock
 

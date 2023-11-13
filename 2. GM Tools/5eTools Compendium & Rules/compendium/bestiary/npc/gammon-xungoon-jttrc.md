@@ -13,7 +13,7 @@ aliases: ["Gammon Xungoon"]
 
 ```ad-statblock
 title: Gammon Xungoon
-![](/compendium/bestiary/npc/token/gammon-xungoon.png#token)
+![](compendium/bestiary/npc/token/gammon-xungoon.png#token)
 *Small humanoid (kobold), Chaotic Good*
 
 - **Armor Class** 10 

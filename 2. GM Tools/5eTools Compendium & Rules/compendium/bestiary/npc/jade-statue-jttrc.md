@@ -13,7 +13,7 @@ aliases: ["Jade Statue"]
 
 ```ad-statblock
 title: Jade Statue
-![](/compendium/bestiary/npc/token/jade-statue.png#token)
+![](compendium/bestiary/npc/token/jade-statue.png#token)
 *Large construct, Unaligned*
 
 - **Armor Class** 17  (natural armor)

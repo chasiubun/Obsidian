@@ -9,7 +9,7 @@ aliases: ["Orcish Fury"]
 # Orcish Fury
 *Source: Xanathar's Guide to Everything p. 75*  
 
-**Prerequisite**: [Half-Orc](/compendium/races/half-orc.md)
+**Prerequisite**: [Half-Orc](compendium/races/half-orc.md)
 
 Your fury burns tirelessly. You gain the following benefits:
 

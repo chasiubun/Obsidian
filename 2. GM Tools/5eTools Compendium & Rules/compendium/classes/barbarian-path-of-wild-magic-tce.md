@@ -33,7 +33,7 @@ The magical energy roiling inside you sometimes erupts from you. When you enter 
 
 If the effect requires a saving throw, the DC equals 8 + your proficiency bonus + your Constitution modifier.
 
-![Wild Magic](/compendium/tables/wild-magic-tce.md)
+![Wild Magic](compendium/tables/wild-magic-tce.md)
 
 ### Bolstering Magic (Level 6)
 

@@ -44,10 +44,10 @@ An azer doesn't require food, drink, or sleep.
 
 ```ad-statblock
 title: Azer
-![](/compendium/bestiary/elemental/token/azer.png#token)
+![](compendium/bestiary/elemental/token/azer.png#token)
 *Medium elemental, Lawful Neutral*
 
-- **Armor Class** 17  (natural armor, [shield](/compendium/items/shield.md))
+- **Armor Class** 17  (natural armor, [shield](compendium/items/shield.md))
 - **Hit Points** 39 (`6d8 + 12`)
 - **Speed** 30 ft.
 

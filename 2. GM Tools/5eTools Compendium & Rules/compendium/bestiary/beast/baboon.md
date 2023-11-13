@@ -15,7 +15,7 @@ aliases: ["Baboon"]
 
 ```ad-statblock
 title: Baboon
-![](/compendium/bestiary/beast/token/baboon.png#token)
+![](compendium/bestiary/beast/token/baboon.png#token)
 *Small beast, Unaligned*
 
 - **Armor Class** 12 
@@ -35,7 +35,7 @@ title: Baboon
 
 ## Traits
 
-***Pack Tactics.*** The baboon has advantage on an attack roll against a creature if at least one of the baboon's allies is within 5 feet of the creature and the ally isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Pack Tactics.*** The baboon has advantage on an attack roll against a creature if at least one of the baboon's allies is within 5 feet of the creature and the ally isn't [incapacitated](rules/conditions.md#incapacitated).
 
 ## Actions
 

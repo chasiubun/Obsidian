@@ -13,7 +13,7 @@ aliases: ["Kobold Elite"]
 
 ```ad-statblock
 title: Kobold Elite
-![](/compendium/bestiary/humanoid/token/kobold-elite.png#token)
+![](compendium/bestiary/humanoid/token/kobold-elite.png#token)
 *Small humanoid (kobold), Lawful Evil*
 
 - **Armor Class** 12 
@@ -33,9 +33,9 @@ title: Kobold Elite
 
 ## Traits
 
-***Sunlight Sensitivity.*** While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
-***Pack Tactics.*** The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Pack Tactics.*** The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't [incapacitated](rules/conditions.md#incapacitated).
 
 ## Actions
 

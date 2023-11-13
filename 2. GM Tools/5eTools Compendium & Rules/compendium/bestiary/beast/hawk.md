@@ -13,7 +13,7 @@ aliases: ["Hawk"]
 
 ```ad-statblock
 title: Hawk
-![](/compendium/bestiary/beast/token/hawk.png#token)
+![](compendium/bestiary/beast/token/hawk.png#token)
 *Tiny beast, Unaligned*
 
 - **Armor Class** 13 
@@ -33,7 +33,7 @@ title: Hawk
 
 ## Traits
 
-***Keen Sight.*** The hawk has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Keen Sight.*** The hawk has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 

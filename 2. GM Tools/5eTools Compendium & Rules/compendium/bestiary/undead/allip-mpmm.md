@@ -25,7 +25,7 @@ An allip might attempt to share its lore to escape its curse and enter the after
 
 ```ad-statblock
 title: Allip
-![](/compendium/bestiary/undead/token/allip.png#token)
+![](compendium/bestiary/undead/token/allip.png#token)
 *Medium undead, Typically  Neutral Evil*
 
 - **Armor Class** 13 
@@ -53,7 +53,7 @@ title: Allip
 
 ***Maddening Touch.*** *Melee Spell Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 17 (`4d6 + 3`) psychic damage.
 
-***Howling Babble (Recharge 6).*** Each creature within 30 feet of the allip that can hear it must make a DC 14 Wisdom saving throw. On a failed save, a target takes 12 (`2d8 + 3`) psychic damage, and it is [stunned](/compendium/rules/conditions.md#stunned) until the end of its next turn. On a successful save, it takes half as much damage and isn't [stunned](/compendium/rules/conditions.md#stunned). Constructs and Undead are immune to this effect.
+***Howling Babble (Recharge 6).*** Each creature within 30 feet of the allip that can hear it must make a DC 14 Wisdom saving throw. On a failed save, a target takes 12 (`2d8 + 3`) psychic damage, and it is [stunned](rules/conditions.md#stunned) until the end of its next turn. On a successful save, it takes half as much damage and isn't [stunned](rules/conditions.md#stunned). Constructs and Undead are immune to this effect.
 
 ***Whispers of Compulsion.*** The allip chooses up to three creatures it can see within 60 feet of it. Each target must succeed on a DC 14 Wisdom saving throw, or it takes 12 (`2d8 + 3`) psychic damage and must use its reaction to make a melee weapon attack against one creature of the allip's choice that the allip can see. Constructs and Undead are immune to this effect.
 ```

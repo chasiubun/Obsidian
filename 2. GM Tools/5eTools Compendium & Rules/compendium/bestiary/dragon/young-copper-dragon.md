@@ -82,7 +82,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ```ad-statblock
 title: Young Copper Dragon
-![](/compendium/bestiary/dragon/token/young-copper-dragon.png#token)
+![](compendium/bestiary/dragon/token/young-copper-dragon.png#token)
 *Large dragon, Chaotic Good*
 
 - **Armor Class** 17  (natural armor)

@@ -14,7 +14,7 @@ aliases: ["Camel"]
 
 ```ad-statblock
 title: Camel
-![](/compendium/bestiary/beast/token/camel.png#token)
+![](compendium/bestiary/beast/token/camel.png#token)
 *Large beast, Unaligned*
 
 - **Armor Class** 9 

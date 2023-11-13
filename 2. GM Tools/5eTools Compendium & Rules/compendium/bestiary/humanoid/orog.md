@@ -71,10 +71,10 @@ Mistrusted by orcs, some orogs form independent mercenary war bands that sell th
 
 ```ad-statblock
 title: Orog
-![](/compendium/bestiary/humanoid/token/orog.png#token)
+![](compendium/bestiary/humanoid/token/orog.png#token)
 *Medium humanoid (orc), Chaotic Evil*
 
-- **Armor Class** 18  ([plate armor](/compendium/items/plate-armor.md))
+- **Armor Class** 18  ([plate armor](compendium/items/plate-armor.md))
 - **Hit Points** 42 (`5d8 + 20`)
 - **Speed** 30 ft.
 

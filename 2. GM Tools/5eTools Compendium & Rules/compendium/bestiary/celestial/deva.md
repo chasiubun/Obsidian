@@ -39,7 +39,7 @@ Legend tells of angels that take mortal form for years, lending aid, hope, and c
 
 ```ad-statblock
 title: Deva
-![](/compendium/bestiary/celestial/token/deva.png#token)
+![](compendium/bestiary/celestial/token/deva.png#token)
 *Medium celestial, Lawful Good*
 
 - **Armor Class** 17  (natural armor)
@@ -65,9 +65,9 @@ title: Deva
 
 ***Innate Spellcasting.*** The deva's spellcasting ability is Charisma (spell save DC 17). The deva can innately cast the following spells, requiring only verbal components:
 
-**At will**: [detect evil and good](/compendium/spells/detect-evil-and-good.md)
+**At will**: [detect evil and good](compendium/spells/detect-evil-and-good.md)
 
-**1/day each**: [commune](/compendium/spells/commune.md), [raise dead](/compendium/spells/raise-dead.md)
+**1/day each**: [commune](compendium/spells/commune.md), [raise dead](compendium/spells/raise-dead.md)
 
 ## Actions
 

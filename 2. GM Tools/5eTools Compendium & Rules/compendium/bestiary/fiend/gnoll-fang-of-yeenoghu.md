@@ -41,10 +41,10 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
 
 ```ad-statblock
 title: Gnoll Fang of Yeenoghu
-![](/compendium/bestiary/fiend/token/gnoll-fang-of-yeenoghu.png#token)
+![](compendium/bestiary/fiend/token/gnoll-fang-of-yeenoghu.png#token)
 *Medium fiend (gnoll), Chaotic Evil*
 
-- **Armor Class** 14  ([hide armor](/compendium/items/hide-armor.md))
+- **Armor Class** 14  ([hide armor](compendium/items/hide-armor.md))
 - **Hit Points** 65 (`10d8 + 20`)
 - **Speed** 30 ft.
 

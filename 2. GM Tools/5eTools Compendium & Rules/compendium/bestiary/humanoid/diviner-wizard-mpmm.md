@@ -22,10 +22,10 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 
 ```ad-statblock
 title: Diviner Wizard
-![](/compendium/bestiary/humanoid/token/diviner-wizard.png#token)
+![](compendium/bestiary/humanoid/token/diviner-wizard.png#token)
 *Medium humanoid, Any alignment*
 
-- **Armor Class** 12  (15 with [mage armor](/compendium/spells/mage-armor.md))
+- **Armor Class** 12  (15 with [mage armor](compendium/spells/mage-armor.md))
 - **Hit Points** 90 (`20d8`)
 - **Speed** 30 ft.
 
@@ -42,11 +42,11 @@ title: Diviner Wizard
 
 ***Spellcasting.*** The diviner casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 15):
 
-**At will**: [mage hand](/compendium/spells/mage-hand.md), [message](/compendium/spells/message.md), [prestidigitation](/compendium/spells/prestidigitation.md)
+**At will**: [mage hand](compendium/spells/mage-hand.md), [message](compendium/spells/message.md), [prestidigitation](compendium/spells/prestidigitation.md)
 
-**1/day each**: [true seeing](/compendium/spells/true-seeing.md)
+**1/day each**: [true seeing](compendium/spells/true-seeing.md)
 
-**2/day each**: [arcane eye](/compendium/spells/arcane-eye.md), [detect magic](/compendium/spells/detect-magic.md), [detect thoughts](/compendium/spells/detect-thoughts.md), [fly](/compendium/spells/fly.md), [lightning bolt](/compendium/spells/lightning-bolt.md), [locate object](/compendium/spells/locate-object.md), [mage armor](/compendium/spells/mage-armor.md), [Rary's telepathic bond](/compendium/spells/rarys-telepathic-bond.md)
+**2/day each**: [arcane eye](compendium/spells/arcane-eye.md), [detect magic](compendium/spells/detect-magic.md), [detect thoughts](compendium/spells/detect-thoughts.md), [fly](compendium/spells/fly.md), [lightning bolt](compendium/spells/lightning-bolt.md), [locate object](compendium/spells/locate-object.md), [mage armor](compendium/spells/mage-armor.md), [Rary's telepathic bond](compendium/spells/rarys-telepathic-bond.md)
 
 ## Actions
 
@@ -54,7 +54,7 @@ title: Diviner Wizard
 
 ***Arcane Burst.*** *Melee or Ranged Spell Attack:* +7 to hit, reach 5 ft. or range 120 ft., one target. *Hit:* 20 (`3d10 + 4`) radiant damage.
 
-***Overwhelming Revelation (Recharge 5-6).*** The diviner magically creates a burst of illumination in a 10-foot-radius sphere centered on a point within 120 feet of it. Each creature in that area must make a DC 15 Wisdom saving throw. On a failed save, a creature takes 45 (`10d8`) psychic damage and is [stunned](/compendium/rules/conditions.md#stunned) until the end of the diviner's next turn. On a successful save, the creature takes half as much damage and isn't [stunned](/compendium/rules/conditions.md#stunned).
+***Overwhelming Revelation (Recharge 5-6).*** The diviner magically creates a burst of illumination in a 10-foot-radius sphere centered on a point within 120 feet of it. Each creature in that area must make a DC 15 Wisdom saving throw. On a failed save, a creature takes 45 (`10d8`) psychic damage and is [stunned](rules/conditions.md#stunned) until the end of the diviner's next turn. On a successful save, the creature takes half as much damage and isn't [stunned](rules/conditions.md#stunned).
 
 ## Reactions
 

@@ -23,10 +23,10 @@ Witherbloom College studies the magic inherent in the natural cycle of life and 
 
 ```ad-statblock
 title: Witherbloom Apprentice
-![](/compendium/bestiary/humanoid/token/witherbloom-apprentice.png#token)
+![](compendium/bestiary/humanoid/token/witherbloom-apprentice.png#token)
 *Small or Medium humanoid (druid), Any alignment*
 
-- **Armor Class** 13  ([leather armor](/compendium/items/leather-armor.md))
+- **Armor Class** 13  ([leather armor](compendium/items/leather-armor.md))
 - **Hit Points** 44 (`8d8 + 8`)
 - **Speed** 30 ft.
 
@@ -49,9 +49,9 @@ title: Witherbloom Apprentice
 
 ***Spellcasting.*** The apprentice casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability:
 
-**At will**: [druidcraft](/compendium/spells/druidcraft.md), [spare the dying](/compendium/spells/spare-the-dying.md)
+**At will**: [druidcraft](compendium/spells/druidcraft.md), [spare the dying](compendium/spells/spare-the-dying.md)
 
-**1/day each**: [pass without trace](/compendium/spells/pass-without-trace.md)
+**1/day each**: [pass without trace](compendium/spells/pass-without-trace.md)
 
 ## Actions
 
@@ -59,6 +59,6 @@ title: Witherbloom Apprentice
 
 ## Reactions
 
-***Wither Burst.*** When the apprentice sees a creature within 30 feet of itself drop to 0 hit points, the apprentice channels the expended life essence and targets another creature it can see within 30 feet of itself. The target must succeed on a DC 12 Constitution saving throw or become [poisoned](/compendium/rules/conditions.md#poisoned) for 1 minute. While [poisoned](/compendium/rules/conditions.md#poisoned) in this way, the target takes 3 (`1d6`) poison damage at the start of each of its turns. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success.
+***Wither Burst.*** When the apprentice sees a creature within 30 feet of itself drop to 0 hit points, the apprentice channels the expended life essence and targets another creature it can see within 30 feet of itself. The target must succeed on a DC 12 Constitution saving throw or become [poisoned](rules/conditions.md#poisoned) for 1 minute. While [poisoned](rules/conditions.md#poisoned) in this way, the target takes 3 (`1d6`) poison damage at the start of each of its turns. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success.
 ```
 ^statblock

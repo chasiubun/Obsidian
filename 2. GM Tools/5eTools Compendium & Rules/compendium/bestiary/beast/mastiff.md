@@ -18,7 +18,7 @@ Mastiffs are impressive hounds prized by humanoids for their loyalty and keen se
 
 ```ad-statblock
 title: Mastiff
-![](/compendium/bestiary/beast/token/mastiff.png#token)
+![](compendium/bestiary/beast/token/mastiff.png#token)
 *Medium beast, Unaligned*
 
 - **Armor Class** 12 
@@ -38,11 +38,11 @@ title: Mastiff
 
 ## Traits
 
-***Keen Hearing and Smell.*** The mastiff has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on hearing or smell.
+***Keen Hearing and Smell.*** The mastiff has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on hearing or smell.
 
 ## Actions
 
-***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (`1d6 + 1`) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked [prone](/compendium/rules/conditions.md#prone).
+***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (`1d6 + 1`) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked [prone](rules/conditions.md#prone).
 ```
 ^statblock
 

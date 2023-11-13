@@ -51,11 +51,11 @@ You gain oath spells at the paladin levels listed.
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [sanctuary](/compendium/spells/sanctuary.md), [sleep](/compendium/spells/sleep.md) |
-| 5th | [calm emotions](/compendium/spells/calm-emotions.md), [hold person](/compendium/spells/hold-person.md) |
-| 9th | [counterspell](/compendium/spells/counterspell.md), [hypnotic pattern](/compendium/spells/hypnotic-pattern.md) |
-| 13th | [Otiluke's resilient sphere](/compendium/spells/otilukes-resilient-sphere.md), [stoneskin](/compendium/spells/stoneskin.md) |
-| 17th | [hold monster](/compendium/spells/hold-monster.md), [wall of force](/compendium/spells/wall-of-force.md) |
+| 3rd | [sanctuary](compendium/spells/sanctuary.md), [sleep](compendium/spells/sleep.md) |
+| 5th | [calm emotions](compendium/spells/calm-emotions.md), [hold person](compendium/spells/hold-person.md) |
+| 9th | [counterspell](compendium/spells/counterspell.md), [hypnotic pattern](compendium/spells/hypnotic-pattern.md) |
+| 13th | [Otiluke's resilient sphere](compendium/spells/otilukes-resilient-sphere.md), [stoneskin](compendium/spells/stoneskin.md) |
+| 17th | [hold monster](compendium/spells/hold-monster.md), [wall of force](compendium/spells/wall-of-force.md) |
 ^oath-of-redemption-spells
 
 ### Channel Divinity (Level 3)
@@ -64,7 +64,7 @@ When you take this oath at 3rd level, you gain the following two Channel Divinit
 
 ### Emissary of Peace (Level 3)
 
-You can use your Channel Divinity to augment your presence with divine power. As a bonus action, you grant yourself a +5 bonus to Charisma ([Persuasion](/compendium/rules/skills.md#Persuasion)) checks for the next 10 minutes.
+You can use your Channel Divinity to augment your presence with divine power. As a bonus action, you grant yourself a +5 bonus to Charisma ([Persuasion](rules/skills.md#Persuasion)) checks for the next 10 minutes.
 
 ### Rebuke the Violent (Level 3)
 
@@ -78,7 +78,7 @@ At 18th level, the range of this aura increases to 30 feet.
 
 ### Protective Spirit (Level 15)
 
-Starting at 15th level, a holy presence mends your wounds in battle. You regain hit points equal to `1d6` + half your paladin level if you end your turn in combat with fewer than half of your hit points remaining and you aren't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+Starting at 15th level, a holy presence mends your wounds in battle. You regain hit points equal to `1d6` + half your paladin level if you end your turn in combat with fewer than half of your hit points remaining and you aren't [incapacitated](rules/conditions.md#incapacitated).
 
 ### Emissary of Redemption (Level 20)
 

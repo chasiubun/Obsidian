@@ -18,7 +18,7 @@ From somewhere in the darkness, a gurgling moan is heard. A form lurches into vi
 
 Sinister necromantic magic infuses the remains of the dead, causing them to rise as zombies that do their creator's bidding without fear or hesitation. They move with a jerky, uneven gait, clad in the moldering apparel they wore when put to rest, and carrying the stench of decay.
 
-Most zombies are made from humanoid remains, though the flesh and bones of any formerly living creature can be imbued with a semblance of life. Necromantic magic, usually from spells, animates a zombie. Some zombies rise spontaneously when dark magic saturates an area. Once turned into a zombie, a creature can't be restored to life except by powerful magic, such as a [resurrection](/compendium/spells/resurrection.md) spell.
+Most zombies are made from humanoid remains, though the flesh and bones of any formerly living creature can be imbued with a semblance of life. Necromantic magic, usually from spells, animates a zombie. Some zombies rise spontaneously when dark magic saturates an area. Once turned into a zombie, a creature can't be restored to life except by powerful magic, such as a [resurrection](compendium/spells/resurrection.md) spell.
 
 A zombie retains no vestiges of its former self, its mind devoid of thought and imagination. A zombie left without orders simply stands in place and rots unless something comes along that it can kill. The magic animating a zombie imbues it with evil, so left without purpose, it attacks any living creature it encounters.
 
@@ -38,14 +38,14 @@ A zombie doesn't require air, food, drink, or sleep.
 
 > [!quote]- A quote from Fonkin Hoodypeak  
 > 
-> After Beek died, we cast an [animate dead](/compendium/spells/animate-dead.md) spell on his corpse. It was fun for a while, but the zombie started to smell real bad, so we doused it in oil and set it on fire. Beek would've found that hilarious.
+> After Beek died, we cast an [animate dead](compendium/spells/animate-dead.md) spell on his corpse. It was fun for a while, but the zombie started to smell real bad, so we doused it in oil and set it on fire. Beek would've found that hilarious.
 
 
 ## Statblock
 
 ```ad-statblock
 title: Beholder Zombie
-![](/compendium/bestiary/undead/token/beholder-zombie.png#token)
+![](compendium/bestiary/undead/token/beholder-zombie.png#token)
 *Large undead, Neutral Evil*
 
 - **Armor Class** 15  (natural armor)
@@ -73,8 +73,8 @@ title: Beholder Zombie
 
 ***Eye Ray.*** The zombie uses a random magical eye ray, choosing a target that it can see within 60 feet of it.
 
-- **1. Paralyzing Ray.** The targeted creature must succeed on a DC 14 Constitution saving throw or be [paralyzed](/compendium/rules/conditions.md#paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
-- **2. Fear Ray.** The targeted creature must succeed on a DC 14 Wisdom saving throw or be [frightened](/compendium/rules/conditions.md#frightened) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
+- **1. Paralyzing Ray.** The targeted creature must succeed on a DC 14 Constitution saving throw or be [paralyzed](rules/conditions.md#paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
+- **2. Fear Ray.** The targeted creature must succeed on a DC 14 Wisdom saving throw or be [frightened](rules/conditions.md#frightened) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 - **3. Enervation Ray.** The targeted creature must make a DC 14 Constitution saving throw, taking 36 (`8d8`) necrotic damage on a failed save, or half as much damage on a successful one.  
 - **4. Disintegration Ray.** If the target is a creature, it must succeed on a DC 14 Dexterity saving throw or take 45 (`10d8`) force damage. If this damage reduces the creature to 0 hit points, its body becomes a pile of fine gray dust.  
 

@@ -14,7 +14,7 @@ aliases:
 
 - **Weight**: 3.0 lbs.
 
-This pristine book smells faintly of a random scent you find pleasing. When found, the book contains the following spells: [antipathy/sympathy](/compendium/spells/antipathy-sympathy.md), [charm person](/compendium/spells/charm-person.md), [dominate person](/compendium/spells/dominate-person.md), [enthrall](/compendium/spells/enthrall.md), [hypnotic pattern](/compendium/spells/hypnotic-pattern.md), [modify memory](/compendium/spells/modify-memory.md), and [suggestion](/compendium/spells/suggestion.md). It functions as a spellbook for you.
+This pristine book smells faintly of a random scent you find pleasing. When found, the book contains the following spells: [antipathy/sympathy](compendium/spells/antipathy-sympathy.md), [charm person](compendium/spells/charm-person.md), [dominate person](compendium/spells/dominate-person.md), [enthrall](compendium/spells/enthrall.md), [hypnotic pattern](compendium/spells/hypnotic-pattern.md), [modify memory](compendium/spells/modify-memory.md), and [suggestion](compendium/spells/suggestion.md). It functions as a spellbook for you.
 
 While you are holding the book, you can use it as a spellcasting focus for your wizard spells.
 

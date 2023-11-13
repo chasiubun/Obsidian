@@ -12,11 +12,11 @@ aliases: ["Awakened Tree"]
 # Awakened Tree
 *Source: Monster Manual p. 317. Available in the SRD and the Basic Rules.*  
 
-An awakened tree is an ordinary tree given sentience and mobility by the [awaken](/compendium/spells/awaken.md) spell or similar magic.
+An awakened tree is an ordinary tree given sentience and mobility by the [awaken](compendium/spells/awaken.md) spell or similar magic.
 
 ```ad-statblock
 title: Awakened Tree
-![](/compendium/bestiary/plant/token/awakened-tree.png#token)
+![](compendium/bestiary/plant/token/awakened-tree.png#token)
 *Huge plant, Unaligned*
 
 - **Armor Class** 13  (natural armor)

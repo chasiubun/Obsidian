@@ -23,7 +23,7 @@ The scholars of Prismari College believe that art is the truest form of spellcra
 
 ```ad-statblock
 title: Prismari Pledgemage
-![](/compendium/bestiary/humanoid/token/prismari-pledgemage.png#token)
+![](compendium/bestiary/humanoid/token/prismari-pledgemage.png#token)
 *Small or Medium humanoid (sorcerer), Any alignment*
 
 - **Armor Class** 12 
@@ -43,15 +43,15 @@ title: Prismari Pledgemage
 
 ## Traits
 
-***Evasion.*** If the pledgemage is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the pledgemage instead takes no damage if it succeeds on the saving throw and only half damage if it fails, provided it isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Evasion.*** If the pledgemage is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the pledgemage instead takes no damage if it succeeds on the saving throw and only half damage if it fails, provided it isn't [incapacitated](rules/conditions.md#incapacitated).
 
 ***Spellcasting.*** The pledgemage casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 13):
 
-**At will**: [minor illusion](/compendium/spells/minor-illusion.md)
+**At will**: [minor illusion](compendium/spells/minor-illusion.md)
 
-**1/day each**: [mage armor](/compendium/spells/mage-armor.md), [water walk](/compendium/spells/water-walk.md)
+**1/day each**: [mage armor](compendium/spells/mage-armor.md), [water walk](compendium/spells/water-walk.md)
 
-**2/day each**: [gust of wind](/compendium/spells/gust-of-wind.md), [silent image](/compendium/spells/silent-image.md)
+**2/day each**: [gust of wind](compendium/spells/gust-of-wind.md), [silent image](compendium/spells/silent-image.md)
 
 ## Actions
 
@@ -59,10 +59,10 @@ title: Prismari Pledgemage
 
 ***Elemental Strike.*** *Melee or Ranged Spell Attack:* +5 to hit, reach 5 ft. or range 60 ft., one target. *Hit:* 12 (`3d6 + 2`) fire or cold damage (the pledgemage's choice).
 
-***Showstopper (1/Day).*** The pledgemage shines with elemental magic, targeting one creature it can see within 60 feet of itself. The target must make a DC 13 Wisdom saving throw. On a failed save, the target takes 28 (`8d6`) fire or cold damage (the pledgemage's choice) and is [stunned](/compendium/rules/conditions.md#stunned) until the start of the pledgemage's next turn. On a successful save, the target takes half as much damage and isn't [stunned](/compendium/rules/conditions.md#stunned).
+***Showstopper (1/Day).*** The pledgemage shines with elemental magic, targeting one creature it can see within 60 feet of itself. The target must make a DC 13 Wisdom saving throw. On a failed save, the target takes 28 (`8d6`) fire or cold damage (the pledgemage's choice) and is [stunned](rules/conditions.md#stunned) until the start of the pledgemage's next turn. On a successful save, the target takes half as much damage and isn't [stunned](rules/conditions.md#stunned).
 
 ## Bonus Actions
 
-***Surge of Artistry (Recharge 4-6).*** The pledgemage moves up to its speed, surrounding itself with elemental magic as it moves. Until the end of its turn, the pledgemage can move through the space of other creatures. The first time the pledgemage enters a creature's space on a turn, that creature must succeed on a DC 13 Dexterity saving throw or be knocked [prone](/compendium/rules/conditions.md#prone). If the pledgemage ends its turn in another creature's space, the pledgemage takes 5 (`1d10`) force damage and is pushed into the nearest unoccupied space.
+***Surge of Artistry (Recharge 4-6).*** The pledgemage moves up to its speed, surrounding itself with elemental magic as it moves. Until the end of its turn, the pledgemage can move through the space of other creatures. The first time the pledgemage enters a creature's space on a turn, that creature must succeed on a DC 13 Dexterity saving throw or be knocked [prone](rules/conditions.md#prone). If the pledgemage ends its turn in another creature's space, the pledgemage takes 5 (`1d10`) force damage and is pushed into the nearest unoccupied space.
 ```
 ^statblock

@@ -77,16 +77,16 @@ You are proficient with the following items, in addition to any proficiencies pr
 
 - **Saving Throws**: Intelligence, Wisdom
 - **Armor**: none
-- **Weapons**: [daggers](/compendium/items/dagger.md), [darts](/compendium/items/dart.md), [slings](/compendium/items/sling.md), [quarterstaffs](/compendium/items/quarterstaff.md), [light crossbows](/compendium/items/light-crossbow.md)
+- **Weapons**: [daggers](compendium/items/dagger.md), [darts](compendium/items/dart.md), [slings](compendium/items/sling.md), [quarterstaffs](compendium/items/quarterstaff.md), [light crossbows](compendium/items/light-crossbow.md)
 - **Tools**: none
 - **Skills**: Choose 2 from *Arcana*, *History*, *Insight*, *Investigation*, *Medicine*, *Religion*
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-- (a) a [quarterstaff](/compendium/items/quarterstaff.md) or (b) a [dagger](/compendium/items/dagger.md)  
-- (a) a [component pouch](/compendium/items/component-pouch.md) or (b) an [arcane focus](/compendium/items/arcane-focus.md)  
-- (a) a [scholar's pack](/compendium/items/scholars-pack.md) or (b) an [explorer's pack](/compendium/items/explorers-pack.md)  
-- A [spellbook](/compendium/items/spellbook.md)  
+- (a) a [quarterstaff](compendium/items/quarterstaff.md) or (b) a [dagger](compendium/items/dagger.md)  
+- (a) a [component pouch](compendium/items/component-pouch.md) or (b) an [arcane focus](compendium/items/arcane-focus.md)  
+- (a) a [scholar's pack](compendium/items/scholars-pack.md) or (b) an [explorer's pack](compendium/items/explorers-pack.md)  
+- A [spellbook](compendium/items/spellbook.md)  
 
 Alternatively, you may start with 4d4 × 10 gp and choose your own equipment.
 
@@ -126,7 +126,7 @@ What drew you forth from your life of study? Did your first taste of magical kno
 
 #### Quick Build
 
-You can make a wizard quickly by following these suggestions. First, Intelligence should be your highest ability score, followed by Constitution or Dexterity. If you plan to join the School of Enchantment, make Charisma your next-best score. Second, choose the [sage](/compendium/backgrounds/sage.md) background. Third, choose the [mage hand](/compendium/spells/mage-hand.md), [light](/compendium/spells/light.md), and [ray of frost](/compendium/spells/ray-of-frost.md) cantrips, along with the following 1st-level spells for your spellbook: [burning hands](/compendium/spells/burning-hands.md), [charm person](/compendium/spells/charm-person.md), [feather fall](/compendium/spells/feather-fall.md), [mage armor](/compendium/spells/mage-armor.md), [magic missile](/compendium/spells/magic-missile.md), and [sleep](/compendium/spells/sleep.md).
+You can make a wizard quickly by following these suggestions. First, Intelligence should be your highest ability score, followed by Constitution or Dexterity. If you plan to join the School of Enchantment, make Charisma your next-best score. Second, choose the [sage](compendium/backgrounds/sage.md) background. Third, choose the [mage hand](compendium/spells/mage-hand.md), [light](compendium/spells/light.md), and [ray of frost](compendium/spells/ray-of-frost.md) cantrips, along with the following 1st-level spells for your spellbook: [burning hands](compendium/spells/burning-hands.md), [charm person](compendium/spells/charm-person.md), [feather fall](compendium/spells/feather-fall.md), [mage armor](compendium/spells/mage-armor.md), [magic missile](compendium/spells/magic-missile.md), and [sleep](compendium/spells/sleep.md).
 
 > [!quote]- A quote from Gimble the illusionist  
 > 
@@ -221,7 +221,7 @@ The Wizard table shows how many spell slots you have to cast your wizard spells 
 
 You prepare the list of wizard spells that are available for you to cast. To do so, choose a number of wizard spells from your spellbook equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you're a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell [magic missile](/compendium/spells/magic-missile.md), you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you're a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell [magic missile](compendium/spells/magic-missile.md), you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of wizard spells requires time spent studying your spellbook and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list.
 
@@ -239,7 +239,7 @@ You can cast a wizard spell as a ritual if that spell has the ritual tag and you
 
 #### Spellcasting Focus
 
-You can use an [arcane focus](/compendium/items/arcane-focus.md) as a spellcasting focus for your wizard spells.
+You can use an [arcane focus](compendium/items/arcane-focus.md) as a spellcasting focus for your wizard spells.
 
 #### Learning Spells of 1st Level and Higher
 
@@ -257,7 +257,7 @@ Each time you gain a wizard level, you can add two wizard spells of your choice 
 > 
 > For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the spell just like your other spells.
 > 
-> **Copying from a Spell Scroll.** A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When you copy a spell from a spell scroll, you must succeed on an Intelligence ([Arcana](/compendium/rules/skills.md#Arcana)) check with a DC equal to 10 + the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.
+> **Copying from a Spell Scroll.** A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When you copy a spell from a spell scroll, you must succeed on an Intelligence ([Arcana](rules/skills.md#Arcana)) check with a DC equal to 10 + the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.
 > 
 > **.** **Replacing the Book.** You can copy a spell from your own spellbook into another book—for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell.
 > 
@@ -273,7 +273,7 @@ When you reach 2nd level, you choose an arcane tradition from the list of availa
 ### Cantrip Formulas (Level 3)
 _Source: Tasha's Cauldron of Everything p. 75_
 
-*3rd-level wizard [optional class features](/compendium/rules/variant-rules/optional-class-features-tce.md)*
+*3rd-level wizard [optional class features](rules/variant-rules/optional-class-features-tce.md)*
 
 You have scribed a set of arcane formulas in your spellbook that you can use to formulate a cantrip in your mind. Whenever you finish a long rest and consult those formulas in your spellbook, you can replace one wizard cantrip you know with another cantrip from the wizard spell list.
 

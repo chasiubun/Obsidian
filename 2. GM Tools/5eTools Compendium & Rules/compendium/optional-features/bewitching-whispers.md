@@ -11,4 +11,4 @@ aliases: ["Bewitching Whispers"]
 
 **Prerequisite**: 7th-level Warlock
 
-You can cast [compulsion](/compendium/spells/compulsion.md) once using a warlock spell slot. You can't do so again until you finish a long rest.
+You can cast [compulsion](compendium/spells/compulsion.md) once using a warlock spell slot. You can't do so again until you finish a long rest.

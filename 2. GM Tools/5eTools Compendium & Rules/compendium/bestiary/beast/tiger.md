@@ -15,7 +15,7 @@ aliases: ["Tiger"]
 
 ```ad-statblock
 title: Tiger
-![](/compendium/bestiary/beast/token/tiger.png#token)
+![](compendium/bestiary/beast/token/tiger.png#token)
 *Large beast, Unaligned*
 
 - **Armor Class** 12 
@@ -35,9 +35,9 @@ title: Tiger
 
 ## Traits
 
-***Keen Smell.*** The tiger has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on smell.
+***Keen Smell.*** The tiger has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on smell.
 
-***Pounce.*** If the tiger moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked [prone](/compendium/rules/conditions.md#prone). If the target is [prone](/compendium/rules/conditions.md#prone), the tiger can make one bite attack against it as a bonus action.
+***Pounce.*** If the tiger moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked [prone](rules/conditions.md#prone). If the target is [prone](rules/conditions.md#prone), the tiger can make one bite attack against it as a bonus action.
 
 ## Actions
 

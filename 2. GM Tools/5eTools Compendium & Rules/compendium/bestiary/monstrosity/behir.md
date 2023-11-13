@@ -37,7 +37,7 @@ A behir never makes its lair in an area it knows to be inhabited by a dragon. If
 
 ```ad-statblock
 title: Behir
-![](/compendium/bestiary/monstrosity/token/behir.png#token)
+![](compendium/bestiary/monstrosity/token/behir.png#token)
 *Huge monstrosity, Neutral Evil*
 
 - **Armor Class** 17  (natural armor)
@@ -61,13 +61,13 @@ title: Behir
 
 ***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 22 (`3d10 + 6`) piercing damage.
 
-***Constrict.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one Large or smaller creature. *Hit:* 17 (`2d10 + 6`) bludgeoning damage plus 17 (`2d10 + 6`) slashing damage. The target is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 16) if the behir isn't already constricting a creature, and the target is [restrained](/compendium/rules/conditions.md#restrained) until this grapple ends.
+***Constrict.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one Large or smaller creature. *Hit:* 17 (`2d10 + 6`) bludgeoning damage plus 17 (`2d10 + 6`) slashing damage. The target is [grappled](rules/conditions.md#grappled) (escape DC 16) if the behir isn't already constricting a creature, and the target is [restrained](rules/conditions.md#restrained) until this grapple ends.
 
 ***Lightning Breath (Recharge 5-6).*** The behir exhales a line of lightning that is 20 feet long and 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 66 (`12d10`) lightning damage on a failed save, or half as much damage on a successful one.
 
-***Swallow.*** The behir makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is also swallowed, and the grapple ends. While swallowed, the target is [blinded](/compendium/rules/conditions.md#blinded) and [restrained](/compendium/rules/conditions.md#restrained), it has total cover against attacks and other effects outside the behir, and it takes 21 (`6d6`) acid damage at the start of each of the behir's turns. A behir can have only one creature swallowed at a time.
+***Swallow.*** The behir makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is also swallowed, and the grapple ends. While swallowed, the target is [blinded](rules/conditions.md#blinded) and [restrained](rules/conditions.md#restrained), it has total cover against attacks and other effects outside the behir, and it takes 21 (`6d6`) acid damage at the start of each of the behir's turns. A behir can have only one creature swallowed at a time.
 
-If the behir takes 30 damage or more on a single turn from the swallowed creature, the behir must succeed on a DC 14 Constitution saving throw at the end of that turn or regurgitate the creature, which falls [prone](/compendium/rules/conditions.md#prone) in a space within 10 feet of the behir. If the behir dies, a swallowed creature is no longer [restrained](/compendium/rules/conditions.md#restrained) by it and can escape from the corpse by using 15 feet of movement, exiting [prone](/compendium/rules/conditions.md#prone).
+If the behir takes 30 damage or more on a single turn from the swallowed creature, the behir must succeed on a DC 14 Constitution saving throw at the end of that turn or regurgitate the creature, which falls [prone](rules/conditions.md#prone) in a space within 10 feet of the behir. If the behir dies, a swallowed creature is no longer [restrained](rules/conditions.md#restrained) by it and can escape from the corpse by using 15 feet of movement, exiting [prone](rules/conditions.md#prone).
 ```
 ^statblock
 

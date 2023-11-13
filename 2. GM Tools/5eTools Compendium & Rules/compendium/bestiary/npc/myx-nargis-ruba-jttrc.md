@@ -13,10 +13,10 @@ aliases: ["Myx Nargis Ruba"]
 
 ```ad-statblock
 title: Myx Nargis Ruba
-![](/compendium/bestiary/npc/token/myx-nargis-ruba.png#token)
+![](compendium/bestiary/npc/token/myx-nargis-ruba.png#token)
 *Medium humanoid (orc), Neutral Evil*
 
-- **Armor Class** 15  ([breastplate](/compendium/items/breastplate.md))
+- **Armor Class** 15  ([breastplate](compendium/items/breastplate.md))
 - **Hit Points** 9 (`2d8`)
 - **Speed** 30 ft.
 

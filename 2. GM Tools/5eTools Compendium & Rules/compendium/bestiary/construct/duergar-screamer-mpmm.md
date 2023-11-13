@@ -25,7 +25,7 @@ These machines are deployed to assist with construction projects and war. Some d
 
 ```ad-statblock
 title: Duergar Screamer
-![](/compendium/bestiary/construct/token/duergar-screamer.png#token)
+![](compendium/bestiary/construct/token/duergar-screamer.png#token)
 *Medium construct (dwarf), Any alignment*
 
 - **Armor Class** 15  (natural armor)
@@ -49,7 +49,7 @@ title: Duergar Screamer
 
 ***Drill.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10 (`1d12 + 4`) piercing damage.
 
-***Sonic Scream.*** The screamer emits destructive energy in a 15-foot cube. Each creature in that area must succeed on a DC 11 Strength saving throw or take 7 (`2d6`) thunder damage and be knocked [prone](/compendium/rules/conditions.md#prone).
+***Sonic Scream.*** The screamer emits destructive energy in a 15-foot cube. Each creature in that area must succeed on a DC 11 Strength saving throw or take 7 (`2d6`) thunder damage and be knocked [prone](rules/conditions.md#prone).
 
 ## Reactions
 

@@ -35,7 +35,7 @@ You have resistance to necrotic and radiant damage.
 
 ### Celestial Legacy
 
-You know the [light](/compendium/spells/light.md) cantrip. Once you reach 3rd level, you can cast the [lesser restoration](/compendium/spells/lesser-restoration.md) spell once with this trait, and you regain the ability to do so when you finish a long rest. Once you reach 5th level, you can cast the [daylight](/compendium/spells/daylight.md) spell once with this trait, and you regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [light](compendium/spells/light.md) cantrip. Once you reach 3rd level, you can cast the [lesser restoration](compendium/spells/lesser-restoration.md) spell once with this trait, and you regain the ability to do so when you finish a long rest. Once you reach 5th level, you can cast the [daylight](compendium/spells/daylight.md) spell once with this trait, and you regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Language
 

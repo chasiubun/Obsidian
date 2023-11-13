@@ -57,10 +57,10 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
 
 ```ad-statblock
 title: Durnn
-![](/compendium/bestiary/npc/token/durnn.png#token)
+![](compendium/bestiary/npc/token/durnn.png#token)
 *Medium humanoid (goblinoid), Lawful Evil*
 
-- **Armor Class** 19  ([splint armor](/compendium/items/splint-armor.md), [shield](/compendium/items/shield.md))
+- **Armor Class** 19  ([splint armor](compendium/items/splint-armor.md), [shield](compendium/items/shield.md))
 - **Hit Points** 18 (`2d8 + 2`)
 - **Speed** 30 ft.
 
@@ -77,7 +77,7 @@ title: Durnn
 
 ## Traits
 
-***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 7 (`2d6`) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 7 (`2d6`) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't [incapacitated](rules/conditions.md#incapacitated).
 
 ## Actions
 

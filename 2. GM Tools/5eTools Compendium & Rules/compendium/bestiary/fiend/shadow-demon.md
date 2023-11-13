@@ -159,7 +159,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](/compendium/rules/conditions.md#charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](rules/conditions.md#charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -190,7 +190,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 ```ad-statblock
 title: Shadow Demon
-![](/compendium/bestiary/fiend/token/shadow-demon.png#token)
+![](compendium/bestiary/fiend/token/shadow-demon.png#token)
 *Medium fiend (demon), Chaotic Evil*
 
 - **Armor Class** 13 
@@ -208,7 +208,7 @@ title: Shadow Demon
 - **Damage Vulnerabilities** radiant
 - **Damage Resistances** acid; fire; necrotic; thunder; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** cold, lightning, poison
-- **Condition Immunities** [exhaustion](/compendium/rules/conditions.md#exhaustion), [grappled](/compendium/rules/conditions.md#grappled), [paralyzed](/compendium/rules/conditions.md#paralyzed), [petrified](/compendium/rules/conditions.md#petrified), [poisoned](/compendium/rules/conditions.md#poisoned), [prone](/compendium/rules/conditions.md#prone), [restrained](/compendium/rules/conditions.md#restrained)
+- **Condition Immunities** [exhaustion](rules/conditions.md#exhaustion), [grappled](rules/conditions.md#grappled), [paralyzed](rules/conditions.md#paralyzed), [petrified](rules/conditions.md#petrified), [poisoned](rules/conditions.md#poisoned), [prone](rules/conditions.md#prone), [restrained](rules/conditions.md#restrained)
 - **Languages** Abyssal, telepathy 120 ft.
 - **Challenge** 4
 
@@ -216,7 +216,7 @@ title: Shadow Demon
 
 ***Incorporeal Movement.*** The demon can move through other creatures and objects as if they were difficult terrain. It takes 5 (`1d10`) force damage if it ends its turn inside an object.
 
-***Light Sensitivity.*** While in bright light, the demon has disadvantage on attack rolls, as well as on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Light Sensitivity.*** While in bright light, the demon has disadvantage on attack rolls, as well as on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ***Shadow Stealth.*** While in dim light or darkness, the demon can take the Hide action as a bonus action.
 

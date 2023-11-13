@@ -22,7 +22,7 @@ Commoners include peasants, serfs, slaves, servants, pilgrims, merchants, artisa
 
 ```ad-statblock
 title: Commoner
-![](/compendium/bestiary/humanoid/token/commoner.png#token)
+![](compendium/bestiary/humanoid/token/commoner.png#token)
 *Medium humanoid (any race), Any alignment*
 
 - **Armor Class** 10 

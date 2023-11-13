@@ -21,12 +21,12 @@ Six types of magic beads exist. The DM decides the type of each bead on the neck
 
 | dice: d20 | Bead of... | Spell |
 |-----------|------------|-------|
-| 1-6 | Blessing | [Bless](/compendium/spells/bless.md) |
-| 7-12 | Curing | [Cure wounds](/compendium/spells/cure-wounds.md) (2nd level) or [lesser restoration](/compendium/spells/lesser-restoration.md) |
-| 13-16 | Favor | [Greater restoration](/compendium/spells/greater-restoration.md) |
-| 17-18 | Smiting | [Branding smite](/compendium/spells/branding-smite.md) |
-| 19 | Summons | [Planar ally](/compendium/spells/planar-ally.md) |
-| 20 | Wind walking | [Wind walk](/compendium/spells/wind-walk.md) |
+| 1-6 | Blessing | [Bless](compendium/spells/bless.md) |
+| 7-12 | Curing | [Cure wounds](compendium/spells/cure-wounds.md) (2nd level) or [lesser restoration](compendium/spells/lesser-restoration.md) |
+| 13-16 | Favor | [Greater restoration](compendium/spells/greater-restoration.md) |
+| 17-18 | Smiting | [Branding smite](compendium/spells/branding-smite.md) |
+| 19 | Summons | [Planar ally](compendium/spells/planar-ally.md) |
+| 20 | Wind walking | [Wind walk](compendium/spells/wind-walk.md) |
 ^bead-of-spell
 
 *Source: Dungeon Master's Guide p. 182. Available in the SRD.*

@@ -85,10 +85,10 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 
 ```ad-statblock
 title: Fire Giant
-![](/compendium/bestiary/giant/token/fire-giant.png#token)
+![](compendium/bestiary/giant/token/fire-giant.png#token)
 *Huge giant, Lawful Evil*
 
-- **Armor Class** 18  ([plate armor](/compendium/items/plate-armor.md))
+- **Armor Class** 18  ([plate armor](compendium/items/plate-armor.md))
 - **Hit Points** 162 (`13d12 + 78`)
 - **Speed** 30 ft.
 

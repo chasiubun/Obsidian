@@ -17,7 +17,7 @@ aliases:
 - **Damage**:
   - One-handed: 1d8 S
   - Two-handed: 1d10 S
-- **Properties**: Martial, [Versatile](/compendium/rules/item-properties.md#Versatile)
+- **Properties**: Martial, [Versatile](rules/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 You have a +1 bonus to attack and damage rolls made with this magic weapon. If it hits an object, the hit is automatically a critical hit, and it can deal bludgeoning or slashing damage to the object (your choice). Further, damage from nonmagical sources can't harm the weapon.

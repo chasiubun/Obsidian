@@ -24,7 +24,7 @@ Originally from the Elemental Plane of Fire, firenewts can be found on the Mater
 
 ```ad-statblock
 title: Firenewt Warlock of Imix
-![](/compendium/bestiary/elemental/token/firenewt-warlock-of-imix.png#token)
+![](compendium/bestiary/elemental/token/firenewt-warlock-of-imix.png#token)
 *Medium elemental, Typically  Neutral Evil*
 
 - **Armor Class** 10 
@@ -46,13 +46,13 @@ title: Firenewt Warlock of Imix
 
 ***Amphibious.*** The firenewt can breathe air and water.
 
-***Devil's Sight.*** Magical darkness doesn't impede the firenewt's [darkvision](/compendium/rules/senses.md#darkvision).
+***Devil's Sight.*** Magical darkness doesn't impede the firenewt's [darkvision](rules/senses.md#darkvision).
 
 ***Imix's Blessing.*** When the firenewt reduces an enemy to 0 hit points, the firenewt gains 5 temporary hit points.
 
 ***Spellcasting.*** The firenewt casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 12):
 
-**At will**: [guidance](/compendium/spells/guidance.md), [light](/compendium/spells/light.md), [mage armor](/compendium/spells/mage-armor.md), [mage hand](/compendium/spells/mage-hand.md), [prestidigitation](/compendium/spells/prestidigitation.md)
+**At will**: [guidance](compendium/spells/guidance.md), [light](compendium/spells/light.md), [mage armor](compendium/spells/mage-armor.md), [mage hand](compendium/spells/mage-hand.md), [prestidigitation](compendium/spells/prestidigitation.md)
 
 ## Actions
 

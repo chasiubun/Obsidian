@@ -17,7 +17,7 @@ Because of their arithmetic basis, fractal mascots can alter both their size and
 
 ```ad-statblock
 title: Fractal Mascot
-![](/compendium/bestiary/construct/token/fractal-mascot.png#token)
+![](compendium/bestiary/construct/token/fractal-mascot.png#token)
 *Small construct, typically  Neutral*
 
 - **Armor Class** 12 

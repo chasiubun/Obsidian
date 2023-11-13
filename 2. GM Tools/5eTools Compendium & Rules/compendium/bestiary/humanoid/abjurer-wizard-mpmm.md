@@ -22,10 +22,10 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 
 ```ad-statblock
 title: Abjurer Wizard
-![](/compendium/bestiary/humanoid/token/abjurer-wizard.png#token)
+![](compendium/bestiary/humanoid/token/abjurer-wizard.png#token)
 *Medium humanoid, Any alignment*
 
-- **Armor Class** 12  (15 with [mage armor](/compendium/spells/mage-armor.md))
+- **Armor Class** 12  (15 with [mage armor](compendium/spells/mage-armor.md))
 - **Hit Points** 104 (`16d8 + 32`)
 - **Speed** 30 ft.
 
@@ -42,11 +42,11 @@ title: Abjurer Wizard
 
 ***Spellcasting.*** The abjurer casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 16):
 
-**At will**: [dancing lights](/compendium/spells/dancing-lights.md), [mage hand](/compendium/spells/mage-hand.md), [message](/compendium/spells/message.md), [prestidigitation](/compendium/spells/prestidigitation.md)
+**At will**: [dancing lights](compendium/spells/dancing-lights.md), [mage hand](compendium/spells/mage-hand.md), [message](compendium/spells/message.md), [prestidigitation](compendium/spells/prestidigitation.md)
 
-**1/day each**: [arcane lock](/compendium/spells/arcane-lock.md), [banishment](/compendium/spells/banishment.md), [globe of invulnerability](/compendium/spells/globe-of-invulnerability.md), [invisibility](/compendium/spells/invisibility.md), [wall of force](/compendium/spells/wall-of-force.md)
+**1/day each**: [arcane lock](compendium/spells/arcane-lock.md), [banishment](compendium/spells/banishment.md), [globe of invulnerability](compendium/spells/globe-of-invulnerability.md), [invisibility](compendium/spells/invisibility.md), [wall of force](compendium/spells/wall-of-force.md)
 
-**2/day each**: [dispel magic](/compendium/spells/dispel-magic.md), [lightning bolt](/compendium/spells/lightning-bolt.md), [mage armor](/compendium/spells/mage-armor.md)
+**2/day each**: [dispel magic](compendium/spells/dispel-magic.md), [lightning bolt](compendium/spells/lightning-bolt.md), [mage armor](compendium/spells/mage-armor.md)
 
 ## Actions
 

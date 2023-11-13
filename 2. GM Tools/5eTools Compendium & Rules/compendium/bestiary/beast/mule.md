@@ -16,7 +16,7 @@ aliases: ["Mule"]
 
 ```ad-statblock
 title: Mule
-![](/compendium/bestiary/beast/token/mule.png#token)
+![](compendium/bestiary/beast/token/mule.png#token)
 *Medium beast, Unaligned*
 
 - **Armor Class** 10 
@@ -38,7 +38,7 @@ title: Mule
 
 ***Beast of Burden.*** The mule is considered to be a Large animal for the purpose of determining its carrying capacity.
 
-***Sure-Footed.*** The mule has advantage on Strength and Dexterity saving throws made against effects that would knock it [prone](/compendium/rules/conditions.md#prone).
+***Sure-Footed.*** The mule has advantage on Strength and Dexterity saving throws made against effects that would knock it [prone](rules/conditions.md#prone).
 
 ## Actions
 

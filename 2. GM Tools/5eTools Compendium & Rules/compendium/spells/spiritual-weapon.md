@@ -28,6 +28,6 @@ The weapon can take whatever form you choose. Clerics of deities who are associa
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for every two slot levels above 2nd.
 
-**Classes**: [Cleric (Life Domain)](/compendium/classes/cleric-life-domain.md), [Cleric (War Domain)](/compendium/classes/cleric-war-domain.md), [Cleric](/compendium/classes/cleric.md), [Paladin (Oath of Conquest)](/compendium/classes/paladin-oath-of-conquest-xge.md), [Sorcerer (Divine Soul)](/compendium/classes/sorcerer-divine-soul-xge.md)
+**Classes**: [Cleric (Life Domain)](compendium/classes/cleric-life-domain.md), [Cleric (War Domain)](compendium/classes/cleric-war-domain.md), [Cleric](compendium/classes/cleric.md), [Paladin (Oath of Conquest)](compendium/classes/paladin-oath-of-conquest-xge.md), [Sorcerer (Divine Soul)](compendium/classes/sorcerer-divine-soul-xge.md)
 
 *Source: Player's Handbook p. 278. Available in the SRD and the Basic Rules.*

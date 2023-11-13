@@ -15,7 +15,7 @@ A giant slug named Tecuziztecatl, the Lord of Snails. Tecuziztecatl (TayCOO-zeez
 
 ```ad-statblock
 title: Tecuziztecatl
-![](/compendium/bestiary/npc/token/tecuziztecatl.png#token)
+![](compendium/bestiary/npc/token/tecuziztecatl.png#token)
 *Large monstrosity, Neutral*
 
 - **Armor Class** 13  (natural armor)

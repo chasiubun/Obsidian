@@ -21,15 +21,15 @@ Monks of the Way of the Sun Soul learn to channel their life energy into searing
 
 Starting when you choose this tradition at 3rd level, you can hurl searing bolts of magical radiance.
 
-You gain a new attack option that you can use with the [Attack](/compendium/rules/actions.md#Attack) action. The special attack is a ranged spell attack with a range of 30 feet. You are proficient with it, and you add your Dexterity modifier to its attack and damage rolls. Its damage is radiant, and its damage die is a `d4`. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.
+You gain a new attack option that you can use with the [Attack](rules/actions.md#Attack) action. The special attack is a ranged spell attack with a range of 30 feet. You are proficient with it, and you add your Dexterity modifier to its attack and damage rolls. Its damage is radiant, and its damage die is a `d4`. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.
 
-When you take the [Attack](/compendium/rules/actions.md#Attack) action on your turn and use this special attack as part of it, you can spend 1 ki point to make the special attack twice as a bonus action. When you gain the Extra Attack feature, this special attack can be used for any of the attacks you make as part of the [Attack](/compendium/rules/actions.md#Attack) action.
+When you take the [Attack](rules/actions.md#Attack) action on your turn and use this special attack as part of it, you can spend 1 ki point to make the special attack twice as a bonus action. When you gain the Extra Attack feature, this special attack can be used for any of the attacks you make as part of the [Attack](rules/actions.md#Attack) action.
 
 ### Searing Arc Strike (Level 6)
 
-At 6th level, you gain the ability to channel your ki into searing waves of energy. Immediately after you take the [Attack](/compendium/rules/actions.md#Attack) action on your turn, you can spend 2 ki points to cast the [burning hands](/compendium/spells/burning-hands.md) spell as a bonus action.
+At 6th level, you gain the ability to channel your ki into searing waves of energy. Immediately after you take the [Attack](rules/actions.md#Attack) action on your turn, you can spend 2 ki points to cast the [burning hands](compendium/spells/burning-hands.md) spell as a bonus action.
 
-You can spend additional ki points to cast [burning hands](/compendium/spells/burning-hands.md) as a higher-level spell. Each additional ki point you spend increases the spell's level by 1. The maximum number of ki points (2 plus any additional points) that you can spend on the spell equals half your monk level.
+You can spend additional ki points to cast [burning hands](compendium/spells/burning-hands.md) as a higher-level spell. Each additional ki point you spend increases the spell's level by 1. The maximum number of ki points (2 plus any additional points) that you can spend on the spell equals half your monk level.
 
 ### Searing Sunburst (Level 11)
 

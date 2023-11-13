@@ -13,7 +13,7 @@ aliases: ["Four-Armed Gargoyle"]
 
 ```ad-statblock
 title: Four-Armed Gargoyle
-![](/compendium/bestiary/elemental/token/four-armed-gargoyle.png#token)
+![](compendium/bestiary/elemental/token/four-armed-gargoyle.png#token)
 *Medium elemental, Chaotic Evil*
 
 - **Armor Class** 15  (natural armor)

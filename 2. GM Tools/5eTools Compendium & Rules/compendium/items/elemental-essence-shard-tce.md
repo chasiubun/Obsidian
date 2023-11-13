@@ -22,10 +22,10 @@ Roll a `d4` and consult the Elemental Essence Shards table to determine the shar
 
 | dice: d4 | Element | Shard |
 |----------|---------|-------|
-| 1 | Air | [Elemental Essence Shard (Air)](/compendium/items/elemental-essence-shard-air-tce.md) |
-| 2 | Earth | [Elemental Essence Shard (Earth)](/compendium/items/elemental-essence-shard-earth-tce.md) |
-| 3 | Fire | [Elemental Essence Shard (Fire)](/compendium/items/elemental-essence-shard-fire-tce.md) |
-| 4 | Water | [Elemental Essence Shard (Water)](/compendium/items/elemental-essence-shard-water-tce.md) |
+| 1 | Air | [Elemental Essence Shard (Air)](compendium/items/elemental-essence-shard-air-tce.md) |
+| 2 | Earth | [Elemental Essence Shard (Earth)](compendium/items/elemental-essence-shard-earth-tce.md) |
+| 3 | Fire | [Elemental Essence Shard (Fire)](compendium/items/elemental-essence-shard-fire-tce.md) |
+| 4 | Water | [Elemental Essence Shard (Water)](compendium/items/elemental-essence-shard-water-tce.md) |
 ^elemental-essence-shards
 
 *Source: Tasha's Cauldron of Everything p. 127*

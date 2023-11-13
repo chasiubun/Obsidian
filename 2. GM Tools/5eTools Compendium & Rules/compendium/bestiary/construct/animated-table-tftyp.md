@@ -23,7 +23,7 @@ An animated table doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Animated Table
-![](/compendium/bestiary/construct/token/animated-table.png#token)
+![](compendium/bestiary/construct/token/animated-table.png#token)
 *Large construct, Unaligned*
 
 - **Armor Class** 15  (natural armor)
@@ -43,11 +43,11 @@ title: Animated Table
 
 ## Traits
 
-***Antimagic Susceptibility.*** The table is [incapacitated](/compendium/rules/conditions.md#incapacitated) while in the area of an [antimagic field](/compendium/spells/antimagic-field.md). If targeted by [dispel magic](/compendium/spells/dispel-magic.md), the table must succeed on a Constitution saving throw against the caster's spell save DC or fall [unconscious](/compendium/rules/conditions.md#unconscious) for 1 minute.
+***Antimagic Susceptibility.*** The table is [incapacitated](rules/conditions.md#incapacitated) while in the area of an [antimagic field](compendium/spells/antimagic-field.md). If targeted by [dispel magic](compendium/spells/dispel-magic.md), the table must succeed on a Constitution saving throw against the caster's spell save DC or fall [unconscious](rules/conditions.md#unconscious) for 1 minute.
 
 ***False Appearance.*** While the table remains motionless, it is indistinguishable from a normal table.
 
-***Charge.*** If the table moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 9 (`2d8`) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked [prone](/compendium/rules/conditions.md#prone).
+***Charge.*** If the table moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 9 (`2d8`) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked [prone](rules/conditions.md#prone).
 
 ## Actions
 

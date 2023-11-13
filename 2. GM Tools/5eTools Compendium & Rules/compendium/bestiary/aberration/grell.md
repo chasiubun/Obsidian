@@ -20,7 +20,7 @@ Although solitary by nature, grells sometimes gather in small groups called cove
 
 ## Floating Ambushers
 
-A grell prefers to ambush lone creatures or stragglers, hovering silently near the ceiling of a passage or cavern until a suitable target passes below, whereupon it descends quickly and wraps its tentacles around its prey. It then floats away to its lair with the [paralyzed](/compendium/rules/conditions.md#paralyzed) creature in its clutches.
+A grell prefers to ambush lone creatures or stragglers, hovering silently near the ceiling of a passage or cavern until a suitable target passes below, whereupon it descends quickly and wraps its tentacles around its prey. It then floats away to its lair with the [paralyzed](rules/conditions.md#paralyzed) creature in its clutches.
 
 ## Alien Devourers
 
@@ -37,7 +37,7 @@ A grell will sometimes allow adventurers to wage war on the other monstrous inha
 
 ```ad-statblock
 title: Grell
-![](/compendium/bestiary/aberration/token/grell.png#token)
+![](compendium/bestiary/aberration/token/grell.png#token)
 *Medium aberration, Neutral Evil*
 
 - **Armor Class** 12 
@@ -59,9 +59,9 @@ title: Grell
 
 ***Multiattack.*** The grell makes two attacks: one with its tentacles and one with its beak.
 
-***Tentacles.*** *Melee Weapon Attack:* +4 to hit, reach 10 ft., one creature. *Hit:* 7 (`1d10 + 2`) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or be [poisoned](/compendium/rules/conditions.md#poisoned) for 1 minute. The [poisoned](/compendium/rules/conditions.md#poisoned) target is [paralyzed](/compendium/rules/conditions.md#paralyzed), and it can repeat the saving throw at the end of each of its turns, ending the effect on a success.
+***Tentacles.*** *Melee Weapon Attack:* +4 to hit, reach 10 ft., one creature. *Hit:* 7 (`1d10 + 2`) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or be [poisoned](rules/conditions.md#poisoned) for 1 minute. The [poisoned](rules/conditions.md#poisoned) target is [paralyzed](rules/conditions.md#paralyzed), and it can repeat the saving throw at the end of each of its turns, ending the effect on a success.
 
-The target is also [grappled](/compendium/rules/conditions.md#grappled) (escape DC 15). If the target is Medium or smaller, it is also [restrained](/compendium/rules/conditions.md#restrained) until this grapple ends. While grappling the target, the grell has advantage on attack rolls against it and can 't use this attack against other targets. When the grell moves, any Medium or smaller target it is grappling moves with it.
+The target is also [grappled](rules/conditions.md#grappled) (escape DC 15). If the target is Medium or smaller, it is also [restrained](rules/conditions.md#restrained) until this grapple ends. While grappling the target, the grell has advantage on attack rolls against it and can 't use this attack against other targets. When the grell moves, any Medium or smaller target it is grappling moves with it.
 
 ***Beak.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (`2d4 + 2`) piercing damage.
 ```

@@ -24,7 +24,7 @@ A basilisk born and raised in captivity can be domesticated and trained. Such a 
 
 Basilisks are ponderous for hunting creatures, but they needn't chase prey. Meeting a basilisk's supernatural gaze can be enough to affect a rapid transformation, transforming a victim into porous stone. Basilisks, with their strong jaws, are able to consume the stone. The stone returns to organic form in the basilisk's gullet.
 
-Some alchemists are said to know how to process the basilisk's gullet and the fluids contained within. Properly handled, the gullet produces an oil that can return [petrified](/compendium/rules/conditions.md#petrified) creatures to flesh and life. Unfortunately for such a victim, any parts lost in stone form remain absent if the creature revives. Revivification using the oil is impossible if a vital part of the [petrified](/compendium/rules/conditions.md#petrified) creature, such as its head, is detached.
+Some alchemists are said to know how to process the basilisk's gullet and the fluids contained within. Properly handled, the gullet produces an oil that can return [petrified](rules/conditions.md#petrified) creatures to flesh and life. Unfortunately for such a victim, any parts lost in stone form remain absent if the creature revives. Revivification using the oil is impossible if a vital part of the [petrified](rules/conditions.md#petrified) creature, such as its head, is detached.
 
 > [!quote]- A quote from X the Mystic's 4th rule of dungeon survival  
 > 
@@ -35,7 +35,7 @@ Some alchemists are said to know how to process the basilisk's gullet and the fl
 
 ```ad-statblock
 title: Basilisk
-![](/compendium/bestiary/monstrosity/token/basilisk.png#token)
+![](compendium/bestiary/monstrosity/token/basilisk.png#token)
 *Medium monstrosity, Unaligned*
 
 - **Armor Class** 15  (natural armor)
@@ -55,7 +55,7 @@ title: Basilisk
 
 ## Traits
 
-***Petrifying Gaze.*** If a creature starts its turn within 30 feet of the basilisk and the two of them can see each other, the basilisk can force the creature to make a DC 12 Constitution saving throw if the basilisk isn't [incapacitated](/compendium/rules/conditions.md#incapacitated). On a failed save, the creature magically begins to turn to stone and is [restrained](/compendium/rules/conditions.md#restrained). It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is [petrified](/compendium/rules/conditions.md#petrified) until freed by the  [greater restoration](/compendium/spells/greater-restoration.md) spell or other magic.
+***Petrifying Gaze.*** If a creature starts its turn within 30 feet of the basilisk and the two of them can see each other, the basilisk can force the creature to make a DC 12 Constitution saving throw if the basilisk isn't [incapacitated](rules/conditions.md#incapacitated). On a failed save, the creature magically begins to turn to stone and is [restrained](rules/conditions.md#restrained). It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is [petrified](rules/conditions.md#petrified) until freed by the  [greater restoration](compendium/spells/greater-restoration.md) spell or other magic.
 
 A creature that isn't surprised can avert its eyes to avoid the saving throw at the start of its turn. If it does so, it can't see the basilisk until the start of its next turn, when it can avert its eyes again. If it looks at the basilisk in the meantime, it must immediately make the save.
 

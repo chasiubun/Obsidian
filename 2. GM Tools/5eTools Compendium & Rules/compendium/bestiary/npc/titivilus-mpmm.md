@@ -23,7 +23,7 @@ Titivilus recognizes the precariousness of his position. After all, Dispater's a
 
 ```ad-statblock
 title: Titivilus
-![](/compendium/bestiary/npc/token/titivilus.png#token)
+![](compendium/bestiary/npc/token/titivilus.png#token)
 *Medium fiend (devil), Lawful Evil*
 
 - **Armor Class** 20  (natural armor)
@@ -53,9 +53,9 @@ title: Titivilus
 
 ***Spellcasting.*** Titivilus casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 21):
 
-**At will**: [alter self](/compendium/spells/alter-self.md), [major image](/compendium/spells/major-image.md), [nondetection](/compendium/spells/nondetection.md), [sending](/compendium/spells/sending.md), [suggestion](/compendium/spells/suggestion.md)
+**At will**: [alter self](compendium/spells/alter-self.md), [major image](compendium/spells/major-image.md), [nondetection](compendium/spells/nondetection.md), [sending](compendium/spells/sending.md), [suggestion](compendium/spells/suggestion.md)
 
-**3/day each**: [mislead](/compendium/spells/mislead.md), [modify memory](/compendium/spells/modify-memory.md)
+**3/day each**: [mislead](compendium/spells/mislead.md), [modify memory](compendium/spells/modify-memory.md)
 
 ## Actions
 
@@ -63,15 +63,15 @@ title: Titivilus
 
 ***Silver Sword.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 8 (`1d8 + 4`) force damage, or 9 (`1d10 + 4`) force damage if used with two hands, plus 16 (`3d10`) necrotic damage. If the target is a creature, its hit point maximum is reduced by an amount equal to half the necrotic damage taken.
 
-***Frightful Word.*** Titivilus targets one creature he can see within 10 feet of him. The target must succeed on a DC 21 Wisdom saving throw or become [frightened](/compendium/rules/conditions.md#frightened) of him for 1 minute. While [frightened](/compendium/rules/conditions.md#frightened) in this way, the target must take the [Dash](/compendium/rules/actions.md#Dash) action and move away from Titivilus by the safest available route on each of its turns, unless there is nowhere to move, in which case it needn't take the [Dash](/compendium/rules/actions.md#Dash) action. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Frightful Word.*** Titivilus targets one creature he can see within 10 feet of him. The target must succeed on a DC 21 Wisdom saving throw or become [frightened](rules/conditions.md#frightened) of him for 1 minute. While [frightened](rules/conditions.md#frightened) in this way, the target must take the [Dash](rules/actions.md#Dash) action and move away from Titivilus by the safest available route on each of its turns, unless there is nowhere to move, in which case it needn't take the [Dash](rules/actions.md#Dash) action. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Teleport.*** Titivilus teleports, along with any equipment he is wearing or carrying, up to 120 feet to an unoccupied space he can see.
 
-***Twisting Words.*** Titivilus targets one creature he can see within 60 feet of him. The target must succeed on a DC 21 Charisma saving throw or become [charmed](/compendium/rules/conditions.md#charmed) by Titivilus for 1 minute. The [charmed](/compendium/rules/conditions.md#charmed) target can repeat the saving throw if Titivilus deals any damage to it. A creature that succeeds on the saving throw is immune to Titivilus's Twisting Words for 24 hours.
+***Twisting Words.*** Titivilus targets one creature he can see within 60 feet of him. The target must succeed on a DC 21 Charisma saving throw or become [charmed](rules/conditions.md#charmed) by Titivilus for 1 minute. The [charmed](rules/conditions.md#charmed) target can repeat the saving throw if Titivilus deals any damage to it. A creature that succeeds on the saving throw is immune to Titivilus's Twisting Words for 24 hours.
 
 ## Legendary Actions
 
-***Corrupting Guidance.*** Titivilus uses Twisting Words. Alternatively, he targets one creature [charmed](/compendium/rules/conditions.md#charmed) by him that is within 60 feet of him; that [charmed](/compendium/rules/conditions.md#charmed) target must succeed on a DC 21 Charisma saving throw, or Titivilus decides how the target acts during its next turn.
+***Corrupting Guidance.*** Titivilus uses Twisting Words. Alternatively, he targets one creature [charmed](rules/conditions.md#charmed) by him that is within 60 feet of him; that [charmed](rules/conditions.md#charmed) target must succeed on a DC 21 Charisma saving throw, or Titivilus decides how the target acts during its next turn.
 
 ***Teleport.*** Titivilus uses Teleport.
 

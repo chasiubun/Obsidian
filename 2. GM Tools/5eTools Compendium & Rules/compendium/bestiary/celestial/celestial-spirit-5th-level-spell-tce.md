@@ -13,7 +13,7 @@ aliases: ["Celestial Spirit (5th-level Spell)"]
 
 ```ad-statblock
 title: Celestial Spirit (5th-level Spell)
-![](/compendium/bestiary/celestial/token/celestial-spirit.png#token)
+![](compendium/bestiary/celestial/token/celestial-spirit.png#token)
 *Large celestial, Unaligned*
 
 - **Armor Class** 16  (natural armor)

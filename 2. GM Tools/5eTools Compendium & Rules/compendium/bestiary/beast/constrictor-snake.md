@@ -17,7 +17,7 @@ aliases: ["Constrictor Snake"]
 
 ```ad-statblock
 title: Constrictor Snake
-![](/compendium/bestiary/beast/token/constrictor-snake.png#token)
+![](compendium/bestiary/beast/token/constrictor-snake.png#token)
 *Large beast, Unaligned*
 
 - **Armor Class** 12 
@@ -39,7 +39,7 @@ title: Constrictor Snake
 
 ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 5 (`1d6 + 2`) piercing damage.
 
-***Constrict.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 6 (`1d8 + 2`) bludgeoning damage, and the target is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 14). Until this grapple ends, the creature is [restrained](/compendium/rules/conditions.md#restrained), and the snake can't constrict another target.
+***Constrict.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 6 (`1d8 + 2`) bludgeoning damage, and the target is [grappled](rules/conditions.md#grappled) (escape DC 14). Until this grapple ends, the creature is [restrained](rules/conditions.md#restrained), and the snake can't constrict another target.
 ```
 ^statblock
 

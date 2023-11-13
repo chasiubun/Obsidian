@@ -25,10 +25,10 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 
 ```ad-statblock
 title: Booyahg Slave of the Great Old One
-![](/compendium/bestiary/humanoid/token/booyahg-slave-of-the-great-old-one.png#token)
+![](compendium/bestiary/humanoid/token/booyahg-slave-of-the-great-old-one.png#token)
 *Small humanoid (goblinoid), Any alignment*
 
-- **Armor Class** 12  (15 with [mage armor](/compendium/spells/mage-armor.md))
+- **Armor Class** 12  (15 with [mage armor](compendium/spells/mage-armor.md))
 - **Hit Points** 91 (`14d8 + 28`)
 - **Speed** 30 ft.
 
@@ -45,19 +45,19 @@ title: Booyahg Slave of the Great Old One
 
 ## Traits
 
-***Whispering Aura.*** At the start of each of the goblin's turns, each creature of its choice within 5 feet of it must succeed on a DC 15 Wisdom saving throw or take 10 (`3d6`) psychic damage, provided that the goblin isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Whispering Aura.*** At the start of each of the goblin's turns, each creature of its choice within 5 feet of it must succeed on a DC 15 Wisdom saving throw or take 10 (`3d6`) psychic damage, provided that the goblin isn't [incapacitated](rules/conditions.md#incapacitated).
 
 ***Innate Spellcasting.*** The goblin's innate spellcasting ability is Charisma. It can innately cast the following spells (spell save DC 15), requiring no material components:
 
-**At will**: [detect magic](/compendium/spells/detect-magic.md), [jump](/compendium/spells/jump.md), [levitate](/compendium/spells/levitate.md), [mage armor](/compendium/spells/mage-armor.md) (self only), [speak with dead](/compendium/spells/speak-with-dead.md)
+**At will**: [detect magic](compendium/spells/detect-magic.md), [jump](compendium/spells/jump.md), [levitate](compendium/spells/levitate.md), [mage armor](compendium/spells/mage-armor.md) (self only), [speak with dead](compendium/spells/speak-with-dead.md)
 
-**1/day each**: [arcane gate](/compendium/spells/arcane-gate.md), [true seeing](/compendium/spells/true-seeing.md)
+**1/day each**: [arcane gate](compendium/spells/arcane-gate.md), [true seeing](compendium/spells/true-seeing.md)
 
 ***Spellcasting.*** The goblin is a 14th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
 
-**Cantrips (at will)**: [chill touch](/compendium/spells/chill-touch.md), [eldritch blast](/compendium/spells/eldritch-blast.md), [guidance](/compendium/spells/guidance.md), [mage hand](/compendium/spells/mage-hand.md), [minor illusion](/compendium/spells/minor-illusion.md), [prestidigitation](/compendium/spells/prestidigitation.md), [shocking grasp](/compendium/spells/shocking-grasp.md)
+**Cantrips (at will)**: [chill touch](compendium/spells/chill-touch.md), [eldritch blast](compendium/spells/eldritch-blast.md), [guidance](compendium/spells/guidance.md), [mage hand](compendium/spells/mage-hand.md), [minor illusion](compendium/spells/minor-illusion.md), [prestidigitation](compendium/spells/prestidigitation.md), [shocking grasp](compendium/spells/shocking-grasp.md)
 
-**1st-5th level (3 slots)**: [armor of Agathys](/compendium/spells/armor-of-agathys.md), [arms of Hadar](/compendium/spells/arms-of-hadar.md), [crown of madness](/compendium/spells/crown-of-madness.md), [clairvoyance](/compendium/spells/clairvoyance.md), [contact other plane](/compendium/spells/contact-other-plane.md), [detect thoughts](/compendium/spells/detect-thoughts.md), [dimension door](/compendium/spells/dimension-door.md), [dissonant whispers](/compendium/spells/dissonant-whispers.md), [dominate beast](/compendium/spells/dominate-beast.md), [telekinesis](/compendium/spells/telekinesis.md), [vampiric touch](/compendium/spells/vampiric-touch.md)
+**1st-5th level (3 slots)**: [armor of Agathys](compendium/spells/armor-of-agathys.md), [arms of Hadar](compendium/spells/arms-of-hadar.md), [crown of madness](compendium/spells/crown-of-madness.md), [clairvoyance](compendium/spells/clairvoyance.md), [contact other plane](compendium/spells/contact-other-plane.md), [detect thoughts](compendium/spells/detect-thoughts.md), [dimension door](compendium/spells/dimension-door.md), [dissonant whispers](compendium/spells/dissonant-whispers.md), [dominate beast](compendium/spells/dominate-beast.md), [telekinesis](compendium/spells/telekinesis.md), [vampiric touch](compendium/spells/vampiric-touch.md)
 
 ## Actions
 

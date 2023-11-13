@@ -13,6 +13,6 @@ aliases:
 *Ring, major, legendary*  
 
 
-While wearing this ring, you can use an action to expend 1 of its 3 charges to cast the [wish](/compendium/spells/wish.md) spell from it. The ring becomes nonmagical when you use the last charge.
+While wearing this ring, you can use an action to expend 1 of its 3 charges to cast the [wish](compendium/spells/wish.md) spell from it. The ring becomes nonmagical when you use the last charge.
 
 *Source: Dungeon Master's Guide p. 193. Available in the SRD.*

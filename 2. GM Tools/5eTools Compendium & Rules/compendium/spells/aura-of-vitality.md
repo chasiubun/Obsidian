@@ -21,6 +21,6 @@ aliases: ["Aura of Vitality"]
 
 Healing energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. You can use a bonus action to cause one creature in the aura (including you) to regain `2d6` hit points.
 
-**Classes**: [Artificer (Battle Smith)](/compendium/classes/artificer-battle-smith-tce.md), [Cleric (Twilight Domain)](/compendium/classes/cleric-twilight-domain-tce.md), [Paladin](/compendium/classes/paladin.md), [Sorcerer (Divine Soul)](/compendium/classes/sorcerer-divine-soul-xge.md)
+**Classes**: [Artificer (Battle Smith)](compendium/classes/artificer-battle-smith-tce.md), [Cleric (Twilight Domain)](compendium/classes/cleric-twilight-domain-tce.md), [Paladin](compendium/classes/paladin.md), [Sorcerer (Divine Soul)](compendium/classes/sorcerer-divine-soul-xge.md)
 
 *Source: Player's Handbook p. 216*

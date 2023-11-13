@@ -37,10 +37,10 @@ Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god o
 
 ```ad-statblock
 title: Grenl
-![](/compendium/bestiary/npc/token/grenl.png#token)
+![](compendium/bestiary/npc/token/grenl.png#token)
 *Small humanoid (goblinoid), Neutral Evil*
 
-- **Armor Class** 15  ([leather armor](/compendium/items/leather-armor.md), [shield](/compendium/items/shield.md))
+- **Armor Class** 15  ([leather armor](compendium/items/leather-armor.md), [shield](compendium/items/shield.md))
 - **Hit Points** 10 (`3d6`)
 - **Speed** 30 ft.
 
@@ -61,9 +61,9 @@ title: Grenl
 
 ***Spellcasting.*** Grenl is a 1st-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). She has the following cleric spells prepared:
 
-**Cantrips (at will)**: [poison spray](/compendium/spells/poison-spray.md), [thaumaturgy](/compendium/spells/thaumaturgy.md)
+**Cantrips (at will)**: [poison spray](compendium/spells/poison-spray.md), [thaumaturgy](compendium/spells/thaumaturgy.md)
 
-**1st level (2 slots)**: [bane](/compendium/spells/bane.md), [inflict wounds](/compendium/spells/inflict-wounds.md)
+**1st level (2 slots)**: [bane](compendium/spells/bane.md), [inflict wounds](compendium/spells/inflict-wounds.md)
 
 ## Actions
 

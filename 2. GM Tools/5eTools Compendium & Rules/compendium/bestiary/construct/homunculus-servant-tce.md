@@ -13,7 +13,7 @@ aliases: ["Homunculus Servant"]
 
 ```ad-statblock
 title: Homunculus Servant
-![](/compendium/bestiary/construct/token/homunculus-servant.png#token)
+![](compendium/bestiary/construct/token/homunculus-servant.png#token)
 *Tiny construct, Unaligned*
 
 - **Armor Class** 13  (natural armor)
@@ -32,7 +32,7 @@ title: Homunculus Servant
 
 ## Traits
 
-***Evasion.*** If the homunculus is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. It can't use this trait if it's [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Evasion.*** If the homunculus is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. It can't use this trait if it's [incapacitated](rules/conditions.md#incapacitated).
 
 ## Actions
 

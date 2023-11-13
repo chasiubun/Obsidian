@@ -35,7 +35,7 @@ A wyvern can be tamed for use as a mount, but doing so presents a difficult and 
 
 ```ad-statblock
 title: Wyvern
-![](/compendium/bestiary/dragon/token/wyvern.png#token)
+![](compendium/bestiary/dragon/token/wyvern.png#token)
 *Large dragon, Unaligned*
 
 - **Armor Class** 13  (natural armor)

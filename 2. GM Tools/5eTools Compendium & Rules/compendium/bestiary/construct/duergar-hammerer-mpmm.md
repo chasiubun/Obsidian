@@ -25,7 +25,7 @@ These machines are deployed to assist with construction projects and war. Some d
 
 ```ad-statblock
 title: Duergar Hammerer
-![](/compendium/bestiary/construct/token/duergar-hammerer.png#token)
+![](compendium/bestiary/construct/token/duergar-hammerer.png#token)
 *Medium construct (dwarf), Any alignment*
 
 - **Armor Class** 17  (natural armor)

@@ -44,7 +44,7 @@ This inherent heat is an asset to salamanders' skill as smiths, allowing them to
 
 ```ad-statblock
 title: Fire Snake
-![](/compendium/bestiary/elemental/token/fire-snake.png#token)
+![](compendium/bestiary/elemental/token/fire-snake.png#token)
 *Medium elemental, Neutral Evil*
 
 - **Armor Class** 14  (natural armor)

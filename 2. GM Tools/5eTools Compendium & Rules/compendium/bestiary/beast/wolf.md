@@ -16,7 +16,7 @@ aliases: ["Wolf"]
 
 ```ad-statblock
 title: Wolf
-![](/compendium/bestiary/beast/token/wolf.png#token)
+![](compendium/bestiary/beast/token/wolf.png#token)
 *Medium beast, Unaligned*
 
 - **Armor Class** 13  (natural armor)
@@ -36,13 +36,13 @@ title: Wolf
 
 ## Traits
 
-***Keen Hearing and Smell.*** The wolf has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on hearing or smell.
+***Keen Hearing and Smell.*** The wolf has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on hearing or smell.
 
-***Pack Tactics.*** The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Pack Tactics.*** The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't [incapacitated](rules/conditions.md#incapacitated).
 
 ## Actions
 
-***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (`2d4 + 2`) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked [prone](/compendium/rules/conditions.md#prone).
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (`2d4 + 2`) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked [prone](rules/conditions.md#prone).
 ```
 ^statblock
 

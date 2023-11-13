@@ -13,6 +13,6 @@ aliases:
 
 
 > [!note]
-> This item group has the same name and source as the item [potion of healing](/compendium/items/potion-of-healing.md).
+> This item group has the same name and source as the item [potion of healing](compendium/items/potion-of-healing.md).
 
 *Source: Dungeon Master's Guide p. 187. Available in the SRD.*

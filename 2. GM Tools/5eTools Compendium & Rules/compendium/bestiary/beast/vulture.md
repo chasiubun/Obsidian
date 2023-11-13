@@ -16,7 +16,7 @@ aliases: ["Vulture"]
 
 ```ad-statblock
 title: Vulture
-![](/compendium/bestiary/beast/token/vulture.png#token)
+![](compendium/bestiary/beast/token/vulture.png#token)
 *Medium beast, Unaligned*
 
 - **Armor Class** 10 
@@ -36,9 +36,9 @@ title: Vulture
 
 ## Traits
 
-***Keen Sight and Smell.*** The vulture has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight or smell.
+***Keen Sight and Smell.*** The vulture has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight or smell.
 
-***Pack Tactics.*** The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 feet of the creature and the ally isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Pack Tactics.*** The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 feet of the creature and the ally isn't [incapacitated](rules/conditions.md#incapacitated).
 
 ## Actions
 

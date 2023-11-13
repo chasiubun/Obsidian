@@ -18,7 +18,7 @@ The current Oracle is an elderly human named Jadzi. A graduate of Quandrix Colle
 
 ```ad-statblock
 title: Oracle of Strixhaven
-![](/compendium/bestiary/humanoid/token/oracle-of-strixhaven.png#token)
+![](compendium/bestiary/humanoid/token/oracle-of-strixhaven.png#token)
 *Medium humanoid (human, wizard), Neutral Good*
 
 - **Armor Class** 12 
@@ -42,11 +42,11 @@ title: Oracle of Strixhaven
 
 ***Spellcasting.*** The Oracle casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 18):
 
-**At will**: [detect magic](/compendium/spells/detect-magic.md)
+**At will**: [detect magic](compendium/spells/detect-magic.md)
 
-**1/day each**: [power word stun](/compendium/spells/power-word-stun.md), [scrying](/compendium/spells/scrying.md) (as an action), [wall of force](/compendium/spells/wall-of-force.md)
+**1/day each**: [power word stun](compendium/spells/power-word-stun.md), [scrying](compendium/spells/scrying.md) (as an action), [wall of force](compendium/spells/wall-of-force.md)
 
-**2/day each**: [dispel magic](/compendium/spells/dispel-magic.md), [mage armor](/compendium/spells/mage-armor.md), [remove curse](/compendium/spells/remove-curse.md), [sending](/compendium/spells/sending.md)
+**2/day each**: [dispel magic](compendium/spells/dispel-magic.md), [mage armor](compendium/spells/mage-armor.md), [remove curse](compendium/spells/remove-curse.md), [sending](compendium/spells/sending.md)
 
 ## Actions
 

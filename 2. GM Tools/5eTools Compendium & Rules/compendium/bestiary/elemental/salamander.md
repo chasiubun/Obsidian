@@ -44,7 +44,7 @@ This inherent heat is an asset to salamanders' skill as smiths, allowing them to
 
 ```ad-statblock
 title: Salamander
-![](/compendium/bestiary/elemental/token/salamander.png#token)
+![](compendium/bestiary/elemental/token/salamander.png#token)
 *Large elemental, Neutral Evil*
 
 - **Armor Class** 15  (natural armor)
@@ -74,7 +74,7 @@ title: Salamander
 
 ***Spear.*** *Melee or Ranged Weapon Attack:* +7 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 11 (`2d6 + 4`) piercing damage, or 13 (`2d8 + 4`) piercing damage if used with two hands to make a melee attack, plus 3 (`1d6`) fire damage.
 
-***Tail.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 11 (`2d6 + 4`) bludgeoning damage plus 7 (`2d6`) fire damage, and the target is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 14). Until this grapple ends, the target is [restrained](/compendium/rules/conditions.md#restrained), the salamander can automatically hit the target with its tail, and the salamander can't make tail attacks against other targets.
+***Tail.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 11 (`2d6 + 4`) bludgeoning damage plus 7 (`2d6`) fire damage, and the target is [grappled](rules/conditions.md#grappled) (escape DC 14). Until this grapple ends, the target is [restrained](rules/conditions.md#restrained), the salamander can automatically hit the target with its tail, and the salamander can't make tail attacks against other targets.
 ```
 ^statblock
 

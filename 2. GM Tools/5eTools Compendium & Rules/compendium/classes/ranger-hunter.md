@@ -47,7 +47,7 @@ At 7th level, you gain one of the following features of your choice.
 
 - **Steel Will**  
 
-    You have advantage on saving throws against being [frightened](/compendium/rules/conditions.md#frightened).  
+    You have advantage on saving throws against being [frightened](rules/conditions.md#frightened).  
 
 ### Multiattack (Level 11)
 
@@ -67,7 +67,7 @@ At 15th level, you gain one of the following features of your choice.
 
 - **Evasion**  
 
-    You can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or a [lightning bolt](/compendium/spells/lightning-bolt.md) spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.  
+    You can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or a [lightning bolt](compendium/spells/lightning-bolt.md) spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.  
 
 - **Stand Against the Tide**  
 

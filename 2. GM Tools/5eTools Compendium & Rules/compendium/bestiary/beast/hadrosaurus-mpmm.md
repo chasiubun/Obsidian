@@ -17,7 +17,7 @@ A hadrosaurus is a semi-quadrupedal herbivore with bony head crests. If raised f
 
 ```ad-statblock
 title: Hadrosaurus
-![](/compendium/bestiary/beast/token/hadrosaurus.png#token)
+![](compendium/bestiary/beast/token/hadrosaurus.png#token)
 *Large beast (dinosaur), Unaligned*
 
 - **Armor Class** 11  (natural armor)

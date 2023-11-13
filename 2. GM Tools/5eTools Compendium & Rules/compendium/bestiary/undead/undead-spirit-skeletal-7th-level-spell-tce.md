@@ -13,7 +13,7 @@ aliases: ["Undead Spirit (Skeletal, 7th-Level Spell)"]
 
 ```ad-statblock
 title: Undead Spirit (Skeletal, 7th-Level Spell)
-![](/compendium/bestiary/undead/token/undead-spirit.png#token)
+![](compendium/bestiary/undead/token/undead-spirit.png#token)
 *Medium undead, Unaligned*
 
 - **Armor Class** 18  (natural armor)
@@ -35,16 +35,16 @@ title: Undead Spirit (Skeletal, 7th-Level Spell)
 
 ***Incorporeal Passage (Ghostly Only).*** The spirit can move through other creatures and objects as if they were difficult terrain. If it ends its turn inside an object, it is shunted to the nearest unoccupied space and takes `1d10` force damage for every 5 feet traveled.
 
-***Festering Aura (Putrid Only).*** Any creature, other than you, that starts its turn within 5 feet of the spirit must succeed on a Constitution saving throw against your spell save DC or be [poisoned](/compendium/rules/conditions.md#poisoned) until the start of its next turn.
+***Festering Aura (Putrid Only).*** Any creature, other than you, that starts its turn within 5 feet of the spirit must succeed on a Constitution saving throw against your spell save DC or be [poisoned](rules/conditions.md#poisoned) until the start of its next turn.
 
 ## Actions
 
 ***Multiattack.*** The spirit makes a number of attacks equal to half this spell's level (rounded down).
 
-***Deathly Touch (Ghostly Only).*** *Melee Weapon Attack:* the summoner's spell attack modifier to hit, reach 5 ft., one creature. *Hit:* `1d8 + 3 + summonSpellLevel` necrotic damage, and the creature must succeed on a Wisdom saving throw against your spell save DC or be [frightened](/compendium/rules/conditions.md#frightened) of the undead until the end of the target's next turn.
+***Deathly Touch (Ghostly Only).*** *Melee Weapon Attack:* the summoner's spell attack modifier to hit, reach 5 ft., one creature. *Hit:* `1d8 + 3 + summonSpellLevel` necrotic damage, and the creature must succeed on a Wisdom saving throw against your spell save DC or be [frightened](rules/conditions.md#frightened) of the undead until the end of the target's next turn.
 
 ***Grave Bolt (Skeletal Only).*** *Ranged Spell Attack:* the summoner's spell attack modifier to hit, range 150 ft., one target. *Hit:* `2d4 + 3 + summonSpellLevel` necrotic damage.
 
-***Rotting Claw (Putrid Only).*** *Melee Weapon Attack:* the summoner's spell attack modifier to hit, reach 5 ft., one target. *Hit:* `1d6 + 3 + summonSpellLevel` slashing damage. If the target is [poisoned](/compendium/rules/conditions.md#poisoned), it must succeed on a Constitution saving throw against your spell save DC or be [paralyzed](/compendium/rules/conditions.md#paralyzed) until the end of its next turn.
+***Rotting Claw (Putrid Only).*** *Melee Weapon Attack:* the summoner's spell attack modifier to hit, reach 5 ft., one target. *Hit:* `1d6 + 3 + summonSpellLevel` slashing damage. If the target is [poisoned](rules/conditions.md#poisoned), it must succeed on a Constitution saving throw against your spell save DC or be [paralyzed](rules/conditions.md#paralyzed) until the end of its next turn.
 ```
 ^statblock

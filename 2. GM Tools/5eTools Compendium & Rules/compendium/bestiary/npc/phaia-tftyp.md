@@ -13,10 +13,10 @@ aliases: ["Phaia"]
 
 ```ad-statblock
 title: Phaia
-![](/compendium/bestiary/npc/token/phaia.png#token)
+![](compendium/bestiary/npc/token/phaia.png#token)
 *Medium humanoid (human), Any alignment*
 
-- **Armor Class** 12  (15 with [mage armor](/compendium/spells/mage-armor.md))
+- **Armor Class** 12  (15 with [mage armor](compendium/spells/mage-armor.md))
 - **Hit Points** 66 (`12d8 + 12`)
 - **Speed** 30 ft.
 
@@ -37,19 +37,19 @@ title: Phaia
 
 ***Spellcasting.*** Phaia is a 12th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). Phaia has the following wizard spells prepared:
 
-**Cantrips (at will)**: [chill touch](/compendium/spells/chill-touch.md), [dancing lights](/compendium/spells/dancing-lights.md), [mage hand](/compendium/spells/mage-hand.md), [mending](/compendium/spells/mending.md)
+**Cantrips (at will)**: [chill touch](compendium/spells/chill-touch.md), [dancing lights](compendium/spells/dancing-lights.md), [mage hand](compendium/spells/mage-hand.md), [mending](compendium/spells/mending.md)
 
-**1st level (4 slots)**: [false life](/compendium/spells/false-life.md)*, [mage armor](/compendium/spells/mage-armor.md), [ray of sickness](/compendium/spells/ray-of-sickness.md)*
+**1st level (4 slots)**: [false life](compendium/spells/false-life.md)*, [mage armor](compendium/spells/mage-armor.md), [ray of sickness](compendium/spells/ray-of-sickness.md)*
 
-**2nd level (3 slots)**: [blindness/deafness](/compendium/spells/blindness-deafness.md)*, [ray of enfeeblement](/compendium/spells/ray-of-enfeeblement.md)*, [web](/compendium/spells/web.md)
+**2nd level (3 slots)**: [blindness/deafness](compendium/spells/blindness-deafness.md)*, [ray of enfeeblement](compendium/spells/ray-of-enfeeblement.md)*, [web](compendium/spells/web.md)
 
-**3rd level (3 slots)**: [animate dead](/compendium/spells/animate-dead.md)*, [bestow curse](/compendium/spells/bestow-curse.md)*, [vampiric touch](/compendium/spells/vampiric-touch.md)*
+**3rd level (3 slots)**: [animate dead](compendium/spells/animate-dead.md)*, [bestow curse](compendium/spells/bestow-curse.md)*, [vampiric touch](compendium/spells/vampiric-touch.md)*
 
-**4th level (3 slots)**: [blight](/compendium/spells/blight.md)*, [dimension door](/compendium/spells/dimension-door.md), [stoneskin](/compendium/spells/stoneskin.md)
+**4th level (3 slots)**: [blight](compendium/spells/blight.md)*, [dimension door](compendium/spells/dimension-door.md), [stoneskin](compendium/spells/stoneskin.md)
 
-**5th level (2 slots)**: [Bigby's hand](/compendium/spells/bigbys-hand.md), [cloudkill](/compendium/spells/cloudkill.md)
+**5th level (2 slots)**: [Bigby's hand](compendium/spells/bigbys-hand.md), [cloudkill](compendium/spells/cloudkill.md)
 
-**6th level (1 slots)**: [circle of death](/compendium/spells/circle-of-death.md)*
+**6th level (1 slots)**: [circle of death](compendium/spells/circle-of-death.md)*
 
 *Necromancy spell of 1st level or higher
 

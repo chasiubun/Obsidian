@@ -13,7 +13,7 @@ aliases: ["Wildfire Spirit"]
 
 ```ad-statblock
 title: Wildfire Spirit
-![](/compendium/bestiary/elemental/token/wildfire-spirit.png#token)
+![](compendium/bestiary/elemental/token/wildfire-spirit.png#token)
 *Small elemental, Unaligned*
 
 - **Armor Class** 13  (natural armor)

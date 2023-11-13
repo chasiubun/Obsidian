@@ -21,6 +21,6 @@ The next time you hit a creature with a melee weapon attack during the spell's d
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the initial extra damage dealt by the attack increases by 1d6 for each slot level above 1st.
 
-**Classes**: [Cleric (Forge Domain)](/compendium/classes/cleric-forge-domain-xge.md), [Paladin](/compendium/classes/paladin.md)
+**Classes**: [Cleric (Forge Domain)](compendium/classes/cleric-forge-domain-xge.md), [Paladin](compendium/classes/paladin.md)
 
 *Source: Player's Handbook p. 274*

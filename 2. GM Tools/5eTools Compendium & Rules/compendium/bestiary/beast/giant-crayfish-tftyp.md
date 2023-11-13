@@ -13,7 +13,7 @@ aliases: ["Giant Crayfish"]
 
 ```ad-statblock
 title: Giant Crayfish
-![](/compendium/bestiary/beast/token/giant-crayfish.png#token)
+![](compendium/bestiary/beast/token/giant-crayfish.png#token)
 *Large beast, Unaligned*
 
 - **Armor Class** 15  (natural armor)
@@ -39,6 +39,6 @@ title: Giant Crayfish
 
 ***Multiattack.*** The giant crayfish makes two claw attacks.
 
-***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (`1d10 + 2`) bludgeoning damage, and the target is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 12). The crayfish has two claws, each of which can grapple only one target.
+***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (`1d10 + 2`) bludgeoning damage, and the target is [grappled](rules/conditions.md#grappled) (escape DC 12). The crayfish has two claws, each of which can grapple only one target.
 ```
 ^statblock

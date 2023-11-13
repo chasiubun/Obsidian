@@ -24,7 +24,7 @@ Evil lycanthropes hide among normal folk, emerging in animal form at night to sp
 
 ### Curse of Lycanthropy
 
-A humanoid creature can be afflicted with the curse of lycanthropy after being wounded by a lycanthrope, or if one or both of its parents are lycanthropes. A [remove curse](/compendium/spells/remove-curse.md) spell can rid an afflicted lycanthrope of the curse, but a natural born lycanthrope can be freed of the curse only with a wish.
+A humanoid creature can be afflicted with the curse of lycanthropy after being wounded by a lycanthrope, or if one or both of its parents are lycanthropes. A [remove curse](compendium/spells/remove-curse.md) spell can rid an afflicted lycanthrope of the curse, but a natural born lycanthrope can be freed of the curse only with a wish.
 
 A lycanthrope can either resist its curse or embrace it. By resisting the curse, a lycanthrope retains its normal alignment and personality while in humanoid form. It lives its life as it always has, burying deep the bestial urges raging inside it. However, when the full moon rises, the curse becomes too strong to resist, transforming the individual into its beast form-or into a horrible hybrid form that combines animal and humanoid traits. When the moon wanes, the beast within can be controlled once again. Especially if the cursed creature is unaware of its condition, it might not remember the events of its transformation, though those memories often haunt a lycanthrope as bloody dreams.
 
@@ -70,7 +70,7 @@ The character gains a Strength of 15 if his or her score isn't already higher, a
 
 ```ad-statblock
 title: Snarla
-![](/compendium/bestiary/npc/token/snarla.png#token)
+![](compendium/bestiary/npc/token/snarla.png#token)
 *Medium humanoid (human, shapechanger), Chaotic Evil*
 
 - **Armor Class** 11  (12 from natural armor in wolf and hybrid forms)
@@ -92,17 +92,17 @@ title: Snarla
 
 ***Shapechanger.*** The werewolf can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
-***Keen Hearing and Smell.*** The werewolf has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on hearing or smell.
+***Keen Hearing and Smell.*** The werewolf has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on hearing or smell.
 
 ***Spellcasting.*** Snarla is a 6th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). She has the following wizard spells prepared:
 
-**Cantrips (at will)**: [fire bolt](/compendium/spells/fire-bolt.md), [light](/compendium/spells/light.md), [mage hand](/compendium/spells/mage-hand.md), [shocking grasp](/compendium/spells/shocking-grasp.md)
+**Cantrips (at will)**: [fire bolt](compendium/spells/fire-bolt.md), [light](compendium/spells/light.md), [mage hand](compendium/spells/mage-hand.md), [shocking grasp](compendium/spells/shocking-grasp.md)
 
-**1st level (4 slots)**: [magic missile](/compendium/spells/magic-missile.md), [shield](/compendium/spells/shield.md), [thunderwave](/compendium/spells/thunderwave.md)
+**1st level (4 slots)**: [magic missile](compendium/spells/magic-missile.md), [shield](compendium/spells/shield.md), [thunderwave](compendium/spells/thunderwave.md)
 
-**2nd level (3 slots)**: [mirror image](/compendium/spells/mirror-image.md), [web](/compendium/spells/web.md)
+**2nd level (3 slots)**: [mirror image](compendium/spells/mirror-image.md), [web](compendium/spells/web.md)
 
-**3rd level (3 slots)**: [dispel magic](/compendium/spells/dispel-magic.md), [fear](/compendium/spells/fear.md), [haste](/compendium/spells/haste.md), [stinking cloud](/compendium/spells/stinking-cloud.md)
+**3rd level (3 slots)**: [dispel magic](compendium/spells/dispel-magic.md), [fear](compendium/spells/fear.md), [haste](compendium/spells/haste.md), [stinking cloud](compendium/spells/stinking-cloud.md)
 
 ## Actions
 

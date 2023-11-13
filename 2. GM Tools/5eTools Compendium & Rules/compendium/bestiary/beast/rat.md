@@ -15,7 +15,7 @@ aliases: ["Rat"]
 
 ```ad-statblock
 title: Rat
-![](/compendium/bestiary/beast/token/rat.png#token)
+![](compendium/bestiary/beast/token/rat.png#token)
 *Tiny beast, Unaligned*
 
 - **Armor Class** 10 
@@ -35,7 +35,7 @@ title: Rat
 
 ## Traits
 
-***Keen Smell.*** The rat has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on smell.
+***Keen Smell.*** The rat has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on smell.
 
 ## Actions
 

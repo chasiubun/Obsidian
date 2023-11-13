@@ -29,7 +29,7 @@ Merfolk defend their communities with spears crafted from whatever materials the
 
 ```ad-statblock
 title: Merfolk
-![](/compendium/bestiary/humanoid/token/merfolk.png#token)
+![](compendium/bestiary/humanoid/token/merfolk.png#token)
 *Medium humanoid (merfolk), Neutral*
 
 - **Armor Class** 11 

@@ -25,6 +25,6 @@ You brandish the weapon used in the spell's casting and make a melee attack with
 
 This spell's damage increases when you reach certain levels. At 5th level, the melee attack deals an extra `1d8` thunder damage to the target on a hit, and the damage the target takes for moving increases to `2d8`. Both damage rolls increase by 1d8 at 11th level (`2d8` and `3d8`) and again at 17th level (`3d8` and `4d8`).
 
-**Classes**: [Artificer](/compendium/classes/artificer-tce.md), [Fighter (Eldritch Knight)](/compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/compendium/classes/rogue-arcane-trickster.md), [Sorcerer](/compendium/classes/sorcerer.md), [Warlock](/compendium/classes/warlock.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Artificer](compendium/classes/artificer-tce.md), [Fighter (Eldritch Knight)](compendium/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](compendium/classes/rogue-arcane-trickster.md), [Sorcerer](compendium/classes/sorcerer.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Tasha's Cauldron of Everything p. 106*

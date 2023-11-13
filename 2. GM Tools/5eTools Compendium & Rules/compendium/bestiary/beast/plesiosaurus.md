@@ -25,7 +25,7 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 
 ```ad-statblock
 title: Plesiosaurus
-![](/compendium/bestiary/beast/token/plesiosaurus.png#token)
+![](compendium/bestiary/beast/token/plesiosaurus.png#token)
 *Large beast, Unaligned*
 
 - **Armor Class** 13  (natural armor)

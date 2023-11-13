@@ -28,7 +28,7 @@ Girallons that are well treated might be willing to serve as guards, though they
 
 ```ad-statblock
 title: Girallon
-![](/compendium/bestiary/monstrosity/token/girallon.png#token)
+![](compendium/bestiary/monstrosity/token/girallon.png#token)
 *Large monstrosity, Unaligned*
 
 - **Armor Class** 13 

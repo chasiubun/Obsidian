@@ -15,10 +15,10 @@ They were raised together and share conviction that they must slay the bakunawa 
 
 ```ad-statblock
 title: Dragon Hunter
-![](/compendium/bestiary/humanoid/token/dragon-hunter.png#token)
+![](compendium/bestiary/humanoid/token/dragon-hunter.png#token)
 *Medium humanoid (any race), Any alignment*
 
-- **Armor Class** 13  ([studded leather](/compendium/items/studded-leather-armor.md))
+- **Armor Class** 13  ([studded leather](compendium/items/studded-leather-armor.md))
 - **Hit Points** 58 (`9d8 + 18`)
 - **Speed** 30 ft.
 

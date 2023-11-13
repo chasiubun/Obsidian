@@ -13,10 +13,10 @@ aliases: ["Ashen Heir Veteran"]
 
 ```ad-statblock
 title: Ashen Heir Veteran
-![](/compendium/bestiary/humanoid/token/ashen-heir-veteran.png#token)
+![](compendium/bestiary/humanoid/token/ashen-heir-veteran.png#token)
 *Medium humanoid (any race), Any alignment*
 
-- **Armor Class** 17  ([splint armor](/compendium/items/splint-armor.md))
+- **Armor Class** 17  ([splint armor](compendium/items/splint-armor.md))
 - **Hit Points** 58 (`9d8 + 18`)
 - **Speed** 30 ft.
 

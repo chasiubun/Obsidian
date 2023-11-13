@@ -23,6 +23,6 @@ aliases: ["Purify Food and Drink"]
 
 All nonmagical food and drink within a 5-foot-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.
 
-**Classes**: [Artificer](/compendium/classes/artificer-tce.md), [Cleric](/compendium/classes/cleric.md), [Druid](/compendium/classes/druid.md), [Paladin](/compendium/classes/paladin.md), [Sorcerer (Divine Soul)](/compendium/classes/sorcerer-divine-soul-xge.md)
+**Classes**: [Artificer](compendium/classes/artificer-tce.md), [Cleric](compendium/classes/cleric.md), [Druid](compendium/classes/druid.md), [Paladin](compendium/classes/paladin.md), [Sorcerer (Divine Soul)](compendium/classes/sorcerer-divine-soul-xge.md)
 
 *Source: Player's Handbook p. 270. Available in the SRD.*

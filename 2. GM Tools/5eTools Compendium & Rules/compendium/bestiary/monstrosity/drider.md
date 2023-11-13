@@ -29,7 +29,7 @@ On rare occasion, a drider returns to the fringes of drow society despite its cu
 
 ```ad-statblock
 title: Drider
-![](/compendium/bestiary/monstrosity/token/drider.png#token)
+![](compendium/bestiary/monstrosity/token/drider.png#token)
 *Large monstrosity, Chaotic Evil*
 
 - **Armor Class** 19  (natural armor)
@@ -49,19 +49,19 @@ title: Drider
 
 ## Traits
 
-***Fey Ancestry.*** The drider has advantage on saving throws against being [charmed](/compendium/rules/conditions.md#charmed), and magic can't put the drider to sleep.
+***Fey Ancestry.*** The drider has advantage on saving throws against being [charmed](rules/conditions.md#charmed), and magic can't put the drider to sleep.
 
 ***Spider Climb.*** The drider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-***Sunlight Sensitivity.*** While in sunlight, the drider has disadvantage on attack rolls, as well as on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the drider has disadvantage on attack rolls, as well as on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ***Web Walker.*** The drider ignores movement restrictions caused by webbing.
 
 ***Innate Spellcasting.*** The drider's innate spellcasting ability is Wisdom (spell save DC 13). The drider can innately cast the following spells, requiring no material components:
 
-**At will**: [dancing lights](/compendium/spells/dancing-lights.md)
+**At will**: [dancing lights](compendium/spells/dancing-lights.md)
 
-**1/day each**: [darkness](/compendium/spells/darkness.md), [faerie fire](/compendium/spells/faerie-fire.md)
+**1/day each**: [darkness](compendium/spells/darkness.md), [faerie fire](compendium/spells/faerie-fire.md)
 
 ## Actions
 

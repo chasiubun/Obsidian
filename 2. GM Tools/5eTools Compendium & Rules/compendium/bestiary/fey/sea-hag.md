@@ -73,25 +73,25 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 > 
 > **Shared Spellcasting.** While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard's spell list but must share the spell slots among themselves:
 > 
-> 1st level (4 slots): [identify](/compendium/spells/identify.md), [ray of sickness](/compendium/spells/ray-of-sickness.md)  
-> 2nd level (3 slots): [hold person](/compendium/spells/hold-person.md), [locate object](/compendium/spells/locate-object.md)  
-> 3rd level (3 slots): [bestow curse](/compendium/spells/bestow-curse.md), [counterspell](/compendium/spells/counterspell.md), [lightning bolt](/compendium/spells/lightning-bolt.md)  
-> 4th level (3 slots): [phantasmal killer](/compendium/spells/phantasmal-killer.md), [polymorph](/compendium/spells/polymorph.md)  
-> 5th level (2 slots): [contact other plane](/compendium/spells/contact-other-plane.md), [scrying](/compendium/spells/scrying.md)  
-> 6th level (1 slot): [eyebite](/compendium/spells/eyebite.md)  
+> 1st level (4 slots): [identify](compendium/spells/identify.md), [ray of sickness](compendium/spells/ray-of-sickness.md)  
+> 2nd level (3 slots): [hold person](compendium/spells/hold-person.md), [locate object](compendium/spells/locate-object.md)  
+> 3rd level (3 slots): [bestow curse](compendium/spells/bestow-curse.md), [counterspell](compendium/spells/counterspell.md), [lightning bolt](compendium/spells/lightning-bolt.md)  
+> 4th level (3 slots): [phantasmal killer](compendium/spells/phantasmal-killer.md), [polymorph](compendium/spells/polymorph.md)  
+> 5th level (2 slots): [contact other plane](compendium/spells/contact-other-plane.md), [scrying](compendium/spells/scrying.md)  
+> 6th level (1 slot): [eyebite](compendium/spells/eyebite.md)  
 > 
 > For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12 + the hag's Intelligence modifier, and the spell attack bonus is 4 + the hag's Intelligence modifier.
 > 
-> **Hag Eye.** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and [darkvision](/compendium/rules/senses.md#darkvision) with a radius of 60 feet. If it is destroyed, each coven member takes `3d10` psychic damage and is [blinded](/compendium/rules/conditions.md#blinded) for 24 hours.
+> **Hag Eye.** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and [darkvision](rules/senses.md#darkvision) with a radius of 60 feet. If it is destroyed, each coven member takes `3d10` psychic damage and is [blinded](rules/conditions.md#blinded) for 24 hours.
 > 
-> A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while [blinded](/compendium/rules/conditions.md#blinded). During the ritual, if the hags take any action other than performing the ritual, they must start over.
+> A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while [blinded](rules/conditions.md#blinded). During the ritual, if the hags take any action other than performing the ritual, they must start over.
 ^hag-covens
 
 ## Statblock
 
 ```ad-statblock
 title: Sea Hag
-![](/compendium/bestiary/fey/token/sea-hag.png#token)
+![](compendium/bestiary/fey/token/sea-hag.png#token)
 *Medium fey, Chaotic Evil*
 
 - **Armor Class** 14  (natural armor)
@@ -113,7 +113,7 @@ title: Sea Hag
 
 ***Amphibious.*** The hag can breathe air and water.
 
-***Horrific Appearance.*** Any humanoid that starts its turn within 30 feet of the hag and can see the hag's true form must make a DC 11 Wisdom saving throw. On a failed save, the creature is [frightened](/compendium/rules/conditions.md#frightened) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the hag is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the hag's Horrific Appearance for the next 24 hours.
+***Horrific Appearance.*** Any humanoid that starts its turn within 30 feet of the hag and can see the hag's true form must make a DC 11 Wisdom saving throw. On a failed save, the creature is [frightened](rules/conditions.md#frightened) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the hag is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the hag's Horrific Appearance for the next 24 hours.
 
 Unless the target is surprised or the revelation of the hag's true form is sudden, the target can avert its eyes and avoid making the initial saving throw. Until the start of its next turn, a creature that averts its eyes has disadvantage on attack rolls against the hag.
 
@@ -121,13 +121,13 @@ Unless the target is surprised or the revelation of the hag's true form is sudde
 
 ***Claws.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) slashing damage.
 
-***Death Glare.*** The hag targets one [frightened](/compendium/rules/conditions.md#frightened) creature she can see within 30 feet of her. If the target can see the hag, it must succeed on a DC 11 Wisdom saving throw against this magic or drop to 0 hit points.
+***Death Glare.*** The hag targets one [frightened](rules/conditions.md#frightened) creature she can see within 30 feet of her. If the target can see the hag, it must succeed on a DC 11 Wisdom saving throw against this magic or drop to 0 hit points.
 
 ***Illusory Appearance.*** The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like an ugly creature of her general size and humanoid shape. The effect ends if the hag takes a bonus action to end it or if she dies.
 
 The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have no claws, but someone touching her hand might feel the claws. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 16 Intelligence (Investigation) check to discern that the hag is disguised.
 
-![Sea Hag](/compendium/bestiary/legendary-group/sea-hag.md)
+![Sea Hag](compendium/bestiary/legendary-group/sea-hag.md)
 ```
 ^statblock
 

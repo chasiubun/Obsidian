@@ -39,6 +39,6 @@ Using any material created by this spell as another spell's material component c
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the cube increases by 5 feet for each slot level above 5th.
 
-**Classes**: [Artificer](/compendium/classes/artificer-tce.md), [Cleric (Forge Domain)](/compendium/classes/cleric-forge-domain-xge.md), [Sorcerer](/compendium/classes/sorcerer.md), [Warlock (The Genie)](/compendium/classes/warlock-the-genie-tce.md), [Wizard](/compendium/classes/wizard.md)
+**Classes**: [Artificer](compendium/classes/artificer-tce.md), [Cleric (Forge Domain)](compendium/classes/cleric-forge-domain-xge.md), [Sorcerer](compendium/classes/sorcerer.md), [Warlock (The Genie)](compendium/classes/warlock-the-genie-tce.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: Player's Handbook p. 229. Available in the SRD.*

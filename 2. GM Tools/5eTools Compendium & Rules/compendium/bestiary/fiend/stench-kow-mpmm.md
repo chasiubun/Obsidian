@@ -23,7 +23,7 @@ Many kinds of cattle roam the multiverse, some of them domesticated and others f
 
 ```ad-statblock
 title: Stench Kow
-![](/compendium/bestiary/fiend/token/stench-kow.png#token)
+![](compendium/bestiary/fiend/token/stench-kow.png#token)
 *Large fiend (cattle), Unaligned*
 
 - **Armor Class** 10 
@@ -43,7 +43,7 @@ title: Stench Kow
 
 ## Traits
 
-***Stench.*** Any creature other than a stench kow that starts its turn within 5 feet of the stench kow must succeed on a DC 12 Constitution saving throw or be [poisoned](/compendium/rules/conditions.md#poisoned) until the start of the creature's next turn. On a successful saving throw, the creature is immune to the Stench of all stench kows for 1 hour.
+***Stench.*** Any creature other than a stench kow that starts its turn within 5 feet of the stench kow must succeed on a DC 12 Constitution saving throw or be [poisoned](rules/conditions.md#poisoned) until the start of the creature's next turn. On a successful saving throw, the creature is immune to the Stench of all stench kows for 1 hour.
 
 ## Actions
 

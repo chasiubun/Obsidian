@@ -39,10 +39,10 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 
 ```ad-statblock
 title: Duergar Xarrorn
-![](/compendium/bestiary/humanoid/token/duergar-xarrorn.png#token)
+![](compendium/bestiary/humanoid/token/duergar-xarrorn.png#token)
 *Medium humanoid (dwarf), Any alignment*
 
-- **Armor Class** 18  ([plate armor](/compendium/items/plate-armor.md))
+- **Armor Class** 18  ([plate armor](compendium/items/plate-armor.md))
 - **Hit Points** 26 (`4d8 + 8`)
 - **Speed** 25 ft.
 
@@ -59,9 +59,9 @@ title: Duergar Xarrorn
 
 ## Traits
 
-***Duergar Resilience.*** The duergar has advantage on saving throws against spells and the [charmed](/compendium/rules/conditions.md#charmed), [paralyzed](/compendium/rules/conditions.md#paralyzed), and [poisoned](/compendium/rules/conditions.md#poisoned) conditions.
+***Duergar Resilience.*** The duergar has advantage on saving throws against spells and the [charmed](rules/conditions.md#charmed), [paralyzed](rules/conditions.md#paralyzed), and [poisoned](rules/conditions.md#poisoned) conditions.
 
-***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
@@ -69,7 +69,7 @@ title: Duergar Xarrorn
 
 ***Fire Spray (Recharge 5-6).*** From its fire lance, the duergar shoots a 15-foot cone of fire or a line of fire 30 feet long and 5 feet wide. Each creature in that area must make a DC 12 Dexterity saving throw, taking 10 (`3d6`) fire damage on a failed save, or half as much damage on a successful one.
 
-***Invisibility (Recharges after a Short or Long Rest).*** The duergar magically turns [invisible](/compendium/rules/conditions.md#invisible) for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its [concentration](/compendium/rules/conditions.md#concentration) is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is [invisible](/compendium/rules/conditions.md#invisible) with it.
+***Invisibility (Recharges after a Short or Long Rest).*** The duergar magically turns [invisible](rules/conditions.md#invisible) for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its [concentration](rules/conditions.md#concentration) is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is [invisible](rules/conditions.md#invisible) with it.
 
 ## Bonus Actions
 

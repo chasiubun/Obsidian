@@ -77,10 +77,10 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
 
 ```ad-statblock
 title: Hobgoblin
-![](/compendium/bestiary/humanoid/token/hobgoblin.png#token)
+![](compendium/bestiary/humanoid/token/hobgoblin.png#token)
 *Medium humanoid (goblinoid), Lawful Evil*
 
-- **Armor Class** 18  ([chain mail](/compendium/items/chain-mail.md), [shield](/compendium/items/shield.md))
+- **Armor Class** 18  ([chain mail](compendium/items/chain-mail.md), [shield](compendium/items/shield.md))
 - **Hit Points** 11 (`2d8 + 2`)
 - **Speed** 30 ft.
 
@@ -97,7 +97,7 @@ title: Hobgoblin
 
 ## Traits
 
-***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 7 (`2d6`) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 7 (`2d6`) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't [incapacitated](rules/conditions.md#incapacitated).
 
 ## Actions
 

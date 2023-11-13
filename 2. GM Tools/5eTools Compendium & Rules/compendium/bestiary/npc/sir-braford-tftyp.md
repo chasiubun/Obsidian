@@ -11,14 +11,14 @@ aliases: ["Sir Braford"]
 # Sir Braford
 *Source: Tales from the Yawning Portal p. 243*  
 
-While traveling in the vicinity of the Sunless Citadel, Sir Braford and his companions were captured by goblins. The young paladin of Pelor has been corrupted by the sinister Gulthias Tree and now swings his magic sword, [Shatterspike](/compendium/items/shatterspike-tftyp.md), on behalf of a different sort of "deity."
+While traveling in the vicinity of the Sunless Citadel, Sir Braford and his companions were captured by goblins. The young paladin of Pelor has been corrupted by the sinister Gulthias Tree and now swings his magic sword, [Shatterspike](compendium/items/shatterspike-tftyp.md), on behalf of a different sort of "deity."
 
 ```ad-statblock
 title: Sir Braford
-![](/compendium/bestiary/npc/token/sir-braford.png#token)
+![](compendium/bestiary/npc/token/sir-braford.png#token)
 *Medium humanoid (human), Neutral Evil*
 
-- **Armor Class** 18  ([chain mail](/compendium/items/chain-mail.md), [shield](/compendium/items/shield.md))
+- **Armor Class** 18  ([chain mail](compendium/items/chain-mail.md), [shield](compendium/items/shield.md))
 - **Hit Points** 19 (`3d8 + 6`)
 - **Speed** 30 ft.
 
@@ -37,7 +37,7 @@ title: Sir Braford
 
 ***Barkskin.*** Sir Braford's AC can't be lower than 16.
 
-***Special Equipment.*** Sir Braford wields [Shatterspike](/compendium/items/shatterspike-tftyp.md), a magic longsword that grants a +1 bonus to attack and damage rolls made with it (included in his attack). See the Shatterspike handout for the item's other properties.
+***Special Equipment.*** Sir Braford wields [Shatterspike](compendium/items/shatterspike-tftyp.md), a magic longsword that grants a +1 bonus to attack and damage rolls made with it (included in his attack). See the Shatterspike handout for the item's other properties.
 
 ***Tree Thrall.*** If the Gulthias Tree dies, Sir Braford dies 24 hours later.
 

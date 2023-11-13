@@ -50,10 +50,10 @@ Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god o
 
 ```ad-statblock
 title: Goblin Boss
-![](/compendium/bestiary/humanoid/token/goblin-boss.png#token)
+![](compendium/bestiary/humanoid/token/goblin-boss.png#token)
 *Small humanoid (goblinoid), Neutral Evil*
 
-- **Armor Class** 17  ([chain shirt](/compendium/items/chain-shirt.md), [shield](/compendium/items/shield.md))
+- **Armor Class** 17  ([chain shirt](compendium/items/chain-shirt.md), [shield](compendium/items/shield.md))
 - **Hit Points** 21 (`6d6`)
 - **Speed** 30 ft.
 

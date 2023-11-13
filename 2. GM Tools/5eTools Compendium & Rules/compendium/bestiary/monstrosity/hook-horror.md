@@ -30,7 +30,7 @@ Hook horrors live in extended family groups or clans. Each clan is ruled by the 
 
 ```ad-statblock
 title: Hook Horror
-![](/compendium/bestiary/monstrosity/token/hook-horror.png#token)
+![](compendium/bestiary/monstrosity/token/hook-horror.png#token)
 *Large monstrosity, Neutral*
 
 - **Armor Class** 15  (natural armor)
@@ -50,9 +50,9 @@ title: Hook Horror
 
 ## Traits
 
-***Echolocation.*** The hook horror can't use its blindsight while [deafened](/compendium/rules/conditions.md#deafened).
+***Echolocation.*** The hook horror can't use its blindsight while [deafened](rules/conditions.md#deafened).
 
-***Keen Hearing.*** The hook horror has advantage on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on hearing.
+***Keen Hearing.*** The hook horror has advantage on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on hearing.
 
 ## Actions
 

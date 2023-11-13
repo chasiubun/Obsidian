@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects.md",
+                "file": "1. Worldbuilding/Atlas/Regions/Miroirs.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects.md",
+                "file": "1. Worldbuilding/Atlas/Regions/Miroirs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects.md",
+                "file": "1. Worldbuilding/Atlas/Regions/Miroirs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects.md"
+                "file": "1. Worldbuilding/Atlas/Regions/Miroirs.md"
               }
             }
           },
@@ -213,51 +213,51 @@
   },
   "active": "faea6cb0b4835dcb",
   "lastOpenFiles": [
-    "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Parhelion.md",
-    "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects.md",
-    "1. Worldbuilding/History & Cosmology/Creation Mythos/Origin.md",
-    "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Sol.md",
-    "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity",
-    "1. Worldbuilding/Bloom.md",
-    "1. Worldbuilding/Atlas/Cities/Noir.md",
-    "1. Worldbuilding/History & Cosmology/Creation Mythos",
     "1. Worldbuilding/Atlas/Regions/Fontaine.md",
     "1. Worldbuilding/Atlas/Regions/Astrale.md",
-    "1. Worldbuilding/Atlas/Regions",
-    "1. Worldbuilding/Atlas/Regions/UnderMont.md",
-    "1. Worldbuilding/Atlas/Regions/Miroirs.md",
-    "1. Worldbuilding/Atlas/Regions/Void.md",
-    "Untitled.md",
-    "1. Worldbuilding/Atlas/Regions/Reverie.md",
-    "z_templates/NPC.md",
-    "1. Worldbuilding/Shalom_NPC.md",
-    "1. Worldbuilding/Paradisium Cult.md",
-    "1. Worldbuilding/Timeline of the World.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/humanoid/kobold.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/races/kobold-dmg.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/tables/creature-paintings-tce.md",
-    "2. GM Tools/Misc DND Handbook/Gameplay/Adventuring.md",
-    "2. GM Tools/5eTools Compendium & Rules/rules/actions.md",
-    "2. GM Tools/LazyGM /5e_Monster_Builder.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/celestial/celestial.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/celestial/celestial-spirit-6th-level-spell-tce.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/beast/beast.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/rules/variant-rules/img/xge-003.webp",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/rules/variant-rules/img/xge-001.webp",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/rules/variant-rules/img/xge-002.webp",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/npc/token/zuggtmoy.png",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/npc/token/zisatta.png",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/npc/token/zilchyn-qleptin.png",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/npc/token/zi-liang.png",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/npc/token/zephyros.png",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/npc/token/zeond.png",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/npc/token/zegana.png",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/rules/variant-rules/img",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/npc/token",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/npc/img",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/fey/fey.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/fey/boggle-mpmm.md",
+    "3. Campaign Notes/3. Campaign Notes.md",
+    "2. GM Tools/5eTools Compendium & Rules/rules/item-types.md",
+    "2. GM Tools/5eTools Compendium & Rules/rules/item-properties.md",
+    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/optional-class-features-tce.md",
+    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/adamantine-weapons-xge.md",
+    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/familiars-vgm.md",
+    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/morale.md",
+    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/skills-with-different-abilities.md",
+    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/downtime-activity-selling-a-magic-item-xge.md",
+    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/healing.md",
+    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/skill-variants.md",
+    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/milestones.md",
+    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/fear-and-horror.md",
+    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/explosives.md",
+    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/downtime-activity-research-xge.md",
+    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/proficiency-dice.md",
+    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/downtime-activity-pit-fighting-xge.md",
+    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/customizing-ability-scores.md",
+    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/downtime-activity-scribing-a-spell-scroll-xge.md",
+    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/cleaving-through-creatures.md",
+    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/new-ability-scores-honor-and-sanity.md",
+    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/player-characters-as-lycanthropes.md",
+    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/img/xge-003.webp",
+    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/img/xge-002.webp",
+    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/img/xge-001.webp",
+    "2. GM Tools/5eTools Compendium & Rules/rules/variant-rules/img",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/zombie.png",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/wraith.png",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/will-o-wisp.png",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/wight.png",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/warhorse-skeleton.png",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/vampiric-mist.png",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/vampire.png",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/img",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/ooze/token",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/ooze/img"
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/ooze/img",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/plant/token",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/plant/img",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/npc/token",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/npc/img",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/monstrosity/token"
   ]
 }

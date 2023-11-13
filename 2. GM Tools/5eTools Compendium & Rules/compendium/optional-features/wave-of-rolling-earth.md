@@ -11,4 +11,4 @@ aliases: ["Wave of Rolling Earth"]
 
 **Prerequisite**: 17th-level Monk
 
-You can spend 6 ki points to cast [wall of stone](/compendium/spells/wall-of-stone.md).
+You can spend 6 ki points to cast [wall of stone](compendium/spells/wall-of-stone.md).

@@ -24,6 +24,6 @@ You gain the ability to enter a tree and move from inside it to inside another t
 
 You can use this transportation ability once per round for the duration. You must end each turn outside a tree.
 
-**Classes**: [Cleric (Nature Domain)](/compendium/classes/cleric-nature-domain.md), [Druid (Circle of the Land)](/compendium/classes/druid-circle-of-the-land.md), [Druid](/compendium/classes/druid.md), [Paladin (Oath of the Ancients)](/compendium/classes/paladin-oath-of-the-ancients.md), [Ranger](/compendium/classes/ranger.md)
+**Classes**: [Cleric (Nature Domain)](compendium/classes/cleric-nature-domain.md), [Druid (Circle of the Land)](compendium/classes/druid-circle-of-the-land.md), [Druid](compendium/classes/druid.md), [Paladin (Oath of the Ancients)](compendium/classes/paladin-oath-of-the-ancients.md), [Ranger](compendium/classes/ranger.md)
 
 *Source: Player's Handbook p. 283. Available in the SRD.*

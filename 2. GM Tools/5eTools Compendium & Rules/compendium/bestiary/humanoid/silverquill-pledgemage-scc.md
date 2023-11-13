@@ -23,7 +23,7 @@ The scholars of Silverquill College study the power of magic shaped through spok
 
 ```ad-statblock
 title: Silverquill Pledgemage
-![](/compendium/bestiary/humanoid/token/silverquill-pledgemage.png#token)
+![](compendium/bestiary/humanoid/token/silverquill-pledgemage.png#token)
 *Small or Medium humanoid (bard), Any alignment*
 
 - **Armor Class** 13 
@@ -43,9 +43,9 @@ title: Silverquill Pledgemage
 
 ***Spellcasting.*** The pledgemage casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 13):
 
-**At will**: [dancing lights](/compendium/spells/dancing-lights.md), [friends](/compendium/spells/friends.md)
+**At will**: [dancing lights](compendium/spells/dancing-lights.md), [friends](compendium/spells/friends.md)
 
-**1/day each**: [command](/compendium/spells/command.md), [confusion](/compendium/spells/confusion.md), [mage armor](/compendium/spells/mage-armor.md), [tongues](/compendium/spells/tongues.md)
+**1/day each**: [command](compendium/spells/command.md), [confusion](compendium/spells/confusion.md), [mage armor](compendium/spells/mage-armor.md), [tongues](compendium/spells/tongues.md)
 
 ## Actions
 
@@ -53,7 +53,7 @@ title: Silverquill Pledgemage
 
 ## Bonus Actions
 
-***Demotivate (2/Day).*** The pledgemage hurls magical insults at one creature it can see within 30 feet of itself. The target must succeed on a DC 13 Wisdom saving throw or become [frightened](/compendium/rules/conditions.md#frightened) of the pledgemage for 1 minute. While [frightened](/compendium/rules/conditions.md#frightened) in this way, the target can't take reactions, its speed is halved, and any hit the pledgemage scores against the creature is a critical hit. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Demotivate (2/Day).*** The pledgemage hurls magical insults at one creature it can see within 30 feet of itself. The target must succeed on a DC 13 Wisdom saving throw or become [frightened](rules/conditions.md#frightened) of the pledgemage for 1 minute. While [frightened](rules/conditions.md#frightened) in this way, the target can't take reactions, its speed is halved, and any hit the pledgemage scores against the creature is a critical hit. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ## Reactions
 

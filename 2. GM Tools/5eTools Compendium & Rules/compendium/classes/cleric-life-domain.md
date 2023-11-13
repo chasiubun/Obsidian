@@ -24,11 +24,11 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [bless](/compendium/spells/bless.md), [cure wounds](/compendium/spells/cure-wounds.md) |
-| 3rd | [lesser restoration](/compendium/spells/lesser-restoration.md), [spiritual weapon](/compendium/spells/spiritual-weapon.md) |
-| 5th | [beacon of hope](/compendium/spells/beacon-of-hope.md), [revivify](/compendium/spells/revivify.md) |
-| 7th | [death ward](/compendium/spells/death-ward.md), [guardian of faith](/compendium/spells/guardian-of-faith.md) |
-| 9th | [mass cure wounds](/compendium/spells/mass-cure-wounds.md), [raise dead](/compendium/spells/raise-dead.md) |
+| 1st | [bless](compendium/spells/bless.md), [cure wounds](compendium/spells/cure-wounds.md) |
+| 3rd | [lesser restoration](compendium/spells/lesser-restoration.md), [spiritual weapon](compendium/spells/spiritual-weapon.md) |
+| 5th | [beacon of hope](compendium/spells/beacon-of-hope.md), [revivify](compendium/spells/revivify.md) |
+| 7th | [death ward](compendium/spells/death-ward.md), [guardian of faith](compendium/spells/guardian-of-faith.md) |
+| 9th | [mass cure wounds](compendium/spells/mass-cure-wounds.md), [raise dead](compendium/spells/raise-dead.md) |
 ^life-domain-spells
 
 ### Bonus Proficiency (Level 1)
@@ -56,7 +56,7 @@ At 8th level, you gain the ability to infuse your weapon strikes with divine ene
 ### Blessed Strikes (Level 8)
 _Source: Tasha's Cauldron of Everything p. 30_
 
-*8th-level cleric [optional class features](/compendium/rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*
+*8th-level cleric [optional class features](rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*
 
 You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `1d8` radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 

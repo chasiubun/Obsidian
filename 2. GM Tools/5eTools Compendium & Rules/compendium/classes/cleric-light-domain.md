@@ -24,20 +24,20 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [burning hands](/compendium/spells/burning-hands.md), [faerie fire](/compendium/spells/faerie-fire.md) |
-| 3rd | [flaming sphere](/compendium/spells/flaming-sphere.md), [scorching ray](/compendium/spells/scorching-ray.md) |
-| 5th | [daylight](/compendium/spells/daylight.md), [fireball](/compendium/spells/fireball.md) |
-| 7th | [guardian of faith](/compendium/spells/guardian-of-faith.md), [wall of fire](/compendium/spells/wall-of-fire.md) |
-| 9th | [flame strike](/compendium/spells/flame-strike.md), [scrying](/compendium/spells/scrying.md) |
+| 1st | [burning hands](compendium/spells/burning-hands.md), [faerie fire](compendium/spells/faerie-fire.md) |
+| 3rd | [flaming sphere](compendium/spells/flaming-sphere.md), [scorching ray](compendium/spells/scorching-ray.md) |
+| 5th | [daylight](compendium/spells/daylight.md), [fireball](compendium/spells/fireball.md) |
+| 7th | [guardian of faith](compendium/spells/guardian-of-faith.md), [wall of fire](compendium/spells/wall-of-fire.md) |
+| 9th | [flame strike](compendium/spells/flame-strike.md), [scrying](compendium/spells/scrying.md) |
 ^light-domain-spells
 
 ### Bonus Cantrip (Level 1)
 
-When you choose this domain at 1st level, you gain the [light](/compendium/spells/light.md) cantrip if you don't already know it. This cantrip doesn't count against the number of cleric cantrips you know.
+When you choose this domain at 1st level, you gain the [light](compendium/spells/light.md) cantrip if you don't already know it. This cantrip doesn't count against the number of cleric cantrips you know.
 
 ### Warding Flare (Level 1)
 
-Also at 1st level, you can interpose divine light between yourself and an attacking enemy. When you are attacked by a creature within 30 feet of you that you can see, you can use your reaction to impose disadvantage on the attack roll, causing light to flare before the attacker before it hits or misses. An attacker that can't be [blinded](/compendium/rules/conditions.md#blinded) is immune to this feature.
+Also at 1st level, you can interpose divine light between yourself and an attacking enemy. When you are attacked by a creature within 30 feet of you that you can see, you can use your reaction to impose disadvantage on the attack roll, causing light to flare before the attacker before it hits or misses. An attacker that can't be [blinded](rules/conditions.md#blinded) is immune to this feature.
 
 You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
@@ -58,7 +58,7 @@ Starting at 8th level, you add your Wisdom modifier to the damage you deal with 
 ### Blessed Strikes (Level 8)
 _Source: Tasha's Cauldron of Everything p. 30_
 
-*8th-level cleric [optional class features](/compendium/rules/variant-rules/optional-class-features-tce.md), which replaces the Potent Spellcasting feature*
+*8th-level cleric [optional class features](rules/variant-rules/optional-class-features-tce.md), which replaces the Potent Spellcasting feature*
 
 You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `1d8` radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 

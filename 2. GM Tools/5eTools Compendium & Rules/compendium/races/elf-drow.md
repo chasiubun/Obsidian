@@ -31,11 +31,11 @@ Accustomed to the depths of the Underdark, you have superior vision in dark and 
 
 ### Keen Senses
 
-You have proficiency in the [Perception](/compendium/rules/skills.md#Perception) skill.
+You have proficiency in the [Perception](rules/skills.md#Perception) skill.
 
 ### Fey Ancestry
 
-You have advantage on saving throws against being [charmed](/compendium/rules/conditions.md#charmed), and magic can't put you to sleep.
+You have advantage on saving throws against being [charmed](rules/conditions.md#charmed), and magic can't put you to sleep.
 
 ### Trance
 
@@ -50,15 +50,15 @@ You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle i
 
 ### Sunlight Sensitivity
 
-You have disadvantage on attack rolls and on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
+You have disadvantage on attack rolls and on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
 
 ### Drow Magic
 
-You know the [dancing lights](/compendium/spells/dancing-lights.md) cantrip. When you reach 3rd level, you can cast the [faerie fire](/compendium/spells/faerie-fire.md) spell once with this trait; you regain the ability to cast it when you finish a long rest. When you reach 5th level, you can also cast the [darkness](/compendium/spells/darkness.md) spell once per day with this trait; you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [dancing lights](compendium/spells/dancing-lights.md) cantrip. When you reach 3rd level, you can cast the [faerie fire](compendium/spells/faerie-fire.md) spell once with this trait; you regain the ability to cast it when you finish a long rest. When you reach 5th level, you can also cast the [darkness](compendium/spells/darkness.md) spell once per day with this trait; you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Drow Weapon Training
 
-You have proficiency with [rapiers](/compendium/items/rapier.md), [shortswords](/compendium/items/shortsword.md), and [hand crossbows](/compendium/items/hand-crossbow.md).
+You have proficiency with [rapiers](compendium/items/rapier.md), [shortswords](compendium/items/shortsword.md), and [hand crossbows](compendium/items/hand-crossbow.md).
 
 ## Description
 

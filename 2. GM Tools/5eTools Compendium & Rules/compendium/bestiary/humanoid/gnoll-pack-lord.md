@@ -39,10 +39,10 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
 
 ```ad-statblock
 title: Gnoll Pack Lord
-![](/compendium/bestiary/humanoid/token/gnoll-pack-lord.png#token)
+![](compendium/bestiary/humanoid/token/gnoll-pack-lord.png#token)
 *Medium humanoid (gnoll), Chaotic Evil*
 
-- **Armor Class** 15  ([chain shirt](/compendium/items/chain-shirt.md))
+- **Armor Class** 15  ([chain shirt](compendium/items/chain-shirt.md))
 - **Hit Points** 49 (`9d8 + 9`)
 - **Speed** 30 ft.
 

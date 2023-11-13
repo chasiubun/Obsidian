@@ -13,10 +13,10 @@ aliases: ["Paolo Maykapal"]
 
 ```ad-statblock
 title: Paolo Maykapal
-![](/compendium/bestiary/npc/token/paolo-maykapal.png#token)
+![](compendium/bestiary/npc/token/paolo-maykapal.png#token)
 *Medium humanoid (any race), Any alignment*
 
-- **Armor Class** 13  ([studded leather](/compendium/items/studded-leather-armor.md))
+- **Armor Class** 13  ([studded leather](compendium/items/studded-leather-armor.md))
 - **Hit Points** 58 (`9d8 + 18`)
 - **Speed** 30 ft.
 

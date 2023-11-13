@@ -11,4 +11,4 @@ aliases: ["Eternal Mountain Defense"]
 
 **Prerequisite**: 17th-level Monk
 
-You can spend 5 ki points to cast [stoneskin](/compendium/spells/stoneskin.md), targeting yourself.
+You can spend 5 ki points to cast [stoneskin](compendium/spells/stoneskin.md), targeting yourself.

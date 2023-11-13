@@ -83,7 +83,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ```ad-statblock
 title: Gold Dragon Wyrmling
-![](/compendium/bestiary/dragon/token/gold-dragon-wyrmling.png#token)
+![](compendium/bestiary/dragon/token/gold-dragon-wyrmling.png#token)
 *Medium dragon, Lawful Good*
 
 - **Armor Class** 17  (natural armor)

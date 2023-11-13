@@ -39,10 +39,10 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 
 ```ad-statblock
 title: Duergar Soulblade
-![](/compendium/bestiary/humanoid/token/duergar-soulblade.png#token)
+![](compendium/bestiary/humanoid/token/duergar-soulblade.png#token)
 *Medium humanoid (dwarf), Any alignment*
 
-- **Armor Class** 14  ([leather armor](/compendium/items/leather-armor.md))
+- **Armor Class** 14  ([leather armor](compendium/items/leather-armor.md))
 - **Hit Points** 27 (`6d8`)
 - **Speed** 25 ft.
 
@@ -59,15 +59,15 @@ title: Duergar Soulblade
 
 ## Traits
 
-***Duergar Resilience.*** The duergar has advantage on saving throws against spells and the [charmed](/compendium/rules/conditions.md#charmed), [paralyzed](/compendium/rules/conditions.md#paralyzed), and [poisoned](/compendium/rules/conditions.md#poisoned) conditions.
+***Duergar Resilience.*** The duergar has advantage on saving throws against spells and the [charmed](rules/conditions.md#charmed), [paralyzed](rules/conditions.md#paralyzed), and [poisoned](rules/conditions.md#poisoned) conditions.
 
-***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom ([Perception](/compendium/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom ([Perception](rules/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
 ***Soulblade.*** *Melee Spell Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) force damage, or 13 (`3d6 + 3`) force damage while under the effect of Enlarge.
 
-***Invisibility (Recharges after a Short or Long Rest).*** The duergar magically turns [invisible](/compendium/rules/conditions.md#invisible) for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its [concentration](/compendium/rules/conditions.md#concentration) is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is [invisible](/compendium/rules/conditions.md#invisible) with it.
+***Invisibility (Recharges after a Short or Long Rest).*** The duergar magically turns [invisible](rules/conditions.md#invisible) for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its [concentration](rules/conditions.md#concentration) is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is [invisible](rules/conditions.md#invisible) with it.
 
 ## Bonus Actions
 

@@ -14,7 +14,7 @@ aliases: ["Bard"]
 
 Bards are gifted poets, storytellers, and entertainers who travel far and wide. They're commonly found in taverns or in the company of jolly bands of adventurers, rough-and-tumble mercenaries, and wealthy patrons.
 
-Each bard is a master of at least one type of performance. You may choose a bard's main type, or you may roll on the Bard [Performance](/compendium/rules/skills.md#Performance) Types table to determine it.
+Each bard is a master of at least one type of performance. You may choose a bard's main type, or you may roll on the Bard [Performance](rules/skills.md#Performance) Types table to determine it.
 
 **Bard Performance Types**
 
@@ -34,10 +34,10 @@ Each bard is a master of at least one type of performance. You may choose a bard
 
 ```ad-statblock
 title: Bard
-![](/compendium/bestiary/humanoid/token/bard.png#token)
+![](compendium/bestiary/humanoid/token/bard.png#token)
 *Medium humanoid, Any alignment*
 
-- **Armor Class** 15  ([chain shirt](/compendium/items/chain-shirt.md))
+- **Armor Class** 15  ([chain shirt](compendium/items/chain-shirt.md))
 - **Hit Points** 44 (`8d8 + 8`)
 - **Speed** 30 ft.
 
@@ -54,9 +54,9 @@ title: Bard
 
 ***Spellcasting.*** The bard casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 12):
 
-**At will**: [dancing lights](/compendium/spells/dancing-lights.md), [mage hand](/compendium/spells/mage-hand.md), [prestidigitation](/compendium/spells/prestidigitation.md)
+**At will**: [dancing lights](compendium/spells/dancing-lights.md), [mage hand](compendium/spells/mage-hand.md), [prestidigitation](compendium/spells/prestidigitation.md)
 
-**1/day each**: [charm person](/compendium/spells/charm-person.md), [invisibility](/compendium/spells/invisibility.md), [sleep](/compendium/spells/sleep.md)
+**1/day each**: [charm person](compendium/spells/charm-person.md), [invisibility](compendium/spells/invisibility.md), [sleep](compendium/spells/sleep.md)
 
 ## Actions
 

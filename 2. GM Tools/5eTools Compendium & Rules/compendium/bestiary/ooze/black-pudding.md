@@ -46,7 +46,7 @@ An ooze doesn't require sleep.
 
 ```ad-statblock
 title: Black Pudding
-![](/compendium/bestiary/ooze/token/black-pudding.png#token)
+![](compendium/bestiary/ooze/token/black-pudding.png#token)
 *Large ooze, Unaligned*
 
 - **Armor Class** 7 

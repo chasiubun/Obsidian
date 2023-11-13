@@ -57,10 +57,10 @@ Raxivort's warlocks are respected and feared in xvart society, but they have lit
 
 ```ad-statblock
 title: Xvart Speaker
-![](/compendium/bestiary/humanoid/token/xvart-speaker.png#token)
+![](compendium/bestiary/humanoid/token/xvart-speaker.png#token)
 *Small humanoid (xvart), Chaotic Evil*
 
-- **Armor Class** 13  ([leather armor](/compendium/items/leather-armor.md))
+- **Armor Class** 13  ([leather armor](compendium/items/leather-armor.md))
 - **Hit Points** 7 (`2d6`)
 - **Speed** 30 ft.
 
@@ -79,7 +79,7 @@ title: Xvart Speaker
 
 ***Low Cunning.*** The xvart can take the Disengage action as a bonus action on each of its turns.
 
-***Overbearing Pack.*** The xvart has advantage on Strength (Athletics) checks to shove a creature if at least one of the xvart's allies is within 5 feet of the target and the ally isn't [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Overbearing Pack.*** The xvart has advantage on Strength (Athletics) checks to shove a creature if at least one of the xvart's allies is within 5 feet of the target and the ally isn't [incapacitated](rules/conditions.md#incapacitated).
 
 ***Raxivort's Tongue.*** The xvart can communicate with ordinary bats and rats, as well as giant bats and giant rats.
 

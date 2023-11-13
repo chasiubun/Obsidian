@@ -13,7 +13,7 @@ aliases: ["Kianna"]
 
 ```ad-statblock
 title: Kianna
-![](/compendium/bestiary/npc/token/kianna.png#token)
+![](compendium/bestiary/npc/token/kianna.png#token)
 *Medium humanoid (human), Chaotic Neutral*
 
 - **Armor Class** 10 

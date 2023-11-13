@@ -17,10 +17,10 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 
 ```ad-statblock
 title: Water Elemental Myrmidon
-![](/compendium/bestiary/elemental/token/water-elemental-myrmidon.png#token)
+![](compendium/bestiary/elemental/token/water-elemental-myrmidon.png#token)
 *Medium elemental, Typically  Neutral*
 
-- **Armor Class** 18  ([plate](/compendium/items/plate-armor.md))
+- **Armor Class** 18  ([plate](compendium/items/plate-armor.md))
 - **Hit Points** 127 (`17d8 + 51`)
 - **Speed** 40 ft., swim 40 ft.
 

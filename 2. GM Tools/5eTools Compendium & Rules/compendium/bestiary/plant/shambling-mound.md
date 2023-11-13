@@ -43,7 +43,7 @@ If a shambling mound faces defeat before an overwhelming foe, the root-stem can 
 
 ```ad-statblock
 title: Shambling Mound
-![](/compendium/bestiary/plant/token/shambling-mound.png#token)
+![](compendium/bestiary/plant/token/shambling-mound.png#token)
 *Large plant, Unaligned*
 
 - **Armor Class** 15  (natural armor)
@@ -67,11 +67,11 @@ title: Shambling Mound
 
 ## Actions
 
-***Multiattack.*** The shambling mound makes two slam attacks. If both attacks hit a Medium or smaller target, the target is [grappled](/compendium/rules/conditions.md#grappled) (escape DC 14), and the shambling mound uses its Engulf on it.
+***Multiattack.*** The shambling mound makes two slam attacks. If both attacks hit a Medium or smaller target, the target is [grappled](rules/conditions.md#grappled) (escape DC 14), and the shambling mound uses its Engulf on it.
 
 ***Slam.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (`2d8 + 4`) bludgeoning damage.
 
-***Engulf.*** The shambling mound engulfs a Medium or smaller creature [grappled](/compendium/rules/conditions.md#grappled) by it. The engulfed target is [blinded](/compendium/rules/conditions.md#blinded), [restrained](/compendium/rules/conditions.md#restrained), and unable to breathe, and it must succeed on a DC 14 Constitution saving throw at the start of each of the mound's turns or take 13 (`2d8 + 4`) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time.
+***Engulf.*** The shambling mound engulfs a Medium or smaller creature [grappled](rules/conditions.md#grappled) by it. The engulfed target is [blinded](rules/conditions.md#blinded), [restrained](rules/conditions.md#restrained), and unable to breathe, and it must succeed on a DC 14 Constitution saving throw at the start of each of the mound's turns or take 13 (`2d8 + 4`) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time.
 ```
 ^statblock
 

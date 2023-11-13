@@ -9,9 +9,9 @@ aliases: ["Criminal (Spy) (Variant)"]
 # Criminal (Spy) (Variant)
 *Source: Player's Handbook p. 130, Derived from . Available in the Basic Rules.*  
 
-- **Skill Proficiencies.** [Deception](/compendium/rules/skills.md#Deception), [Stealth](/compendium/rules/skills.md#Stealth)  
-- **Tool Proficiencies.** One type of gaming set, [thieves' tools](/compendium/items/thieves-tools.md)  
-- **Equipment.** A [crowbar](/compendium/items/crowbar.md), a set of dark [common clothes](/compendium/items/common-clothes.md) including a hood, and a belt [pouch](/compendium/items/pouch.md) containing 15 gp  
+- **Skill Proficiencies.** [Deception](rules/skills.md#Deception), [Stealth](rules/skills.md#Stealth)  
+- **Tool Proficiencies.** One type of gaming set, [thieves' tools](compendium/items/thieves-tools.md)  
+- **Equipment.** A [crowbar](compendium/items/crowbar.md), a set of dark [common clothes](compendium/items/common-clothes.md) including a hood, and a belt [pouch](compendium/items/pouch.md) containing 15 gp  
 
 Although your capabilities are not much different from those of a burglar or smuggler, you learned and practiced them in a very different context: as an espionage agent. You might have been an officially sanctioned agent of the crown, or perhaps you sold the secrets you uncovered to the highest bidder.
 

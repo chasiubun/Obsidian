@@ -24,7 +24,7 @@ Shadow mastiffs—hounds of the Shadowfell—move invisibly through the shadows,
 
 ```ad-statblock
 title: Shadow Mastiff Alpha
-![](/compendium/bestiary/monstrosity/token/shadow-mastiff-alpha.png#token)
+![](compendium/bestiary/monstrosity/token/shadow-mastiff-alpha.png#token)
 *Medium monstrosity, Typically  Neutral Evil*
 
 - **Armor Class** 12 
@@ -50,13 +50,13 @@ title: Shadow Mastiff Alpha
 
 ## Actions
 
-***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked [prone](/compendium/rules/conditions.md#prone).
+***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked [prone](rules/conditions.md#prone).
 
-***Terrifying Howl (Recharge 6).*** The shadow mastiff howls. Any Beast or Humanoid within 300 feet of it must succeed on a DC 11 Wisdom saving throw or be [frightened](/compendium/rules/conditions.md#frightened) of it for 1 minute. A [frightened](/compendium/rules/conditions.md#frightened) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's save is successful or the effect ends for it, the target is immune to any shadow mastiff's Terrifying Howl for the next 24 hours.
+***Terrifying Howl (Recharge 6).*** The shadow mastiff howls. Any Beast or Humanoid within 300 feet of it must succeed on a DC 11 Wisdom saving throw or be [frightened](rules/conditions.md#frightened) of it for 1 minute. A [frightened](rules/conditions.md#frightened) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's save is successful or the effect ends for it, the target is immune to any shadow mastiff's Terrifying Howl for the next 24 hours.
 
 ## Bonus Actions
 
-***Shadow Blend.*** While in dim light or darkness, the shadow mastiff becomes [invisible](/compendium/rules/conditions.md#invisible), along with anything it is wearing or carrying. The invisibility lasts until the shadow mastiff uses a bonus action to end it or until the shadow mastiff attacks, is in bright light, or is [incapacitated](/compendium/rules/conditions.md#incapacitated).
+***Shadow Blend.*** While in dim light or darkness, the shadow mastiff becomes [invisible](rules/conditions.md#invisible), along with anything it is wearing or carrying. The invisibility lasts until the shadow mastiff uses a bonus action to end it or until the shadow mastiff attacks, is in bright light, or is [incapacitated](rules/conditions.md#incapacitated).
 ```
 ^statblock
 
