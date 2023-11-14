@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Worldbuilding/Atlas/Cities/Rocheste/Malina.md",
+                "file": "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects/Thread, Assembler of the Weave.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Worldbuilding/Atlas/Cities/Rocheste/Malina.md",
+                "file": "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects/Thread, Assembler of the Weave.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Worldbuilding/Atlas/Cities/Rocheste/Malina.md",
+                "file": "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects/Thread, Assembler of the Weave.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Worldbuilding/Atlas/Cities/Rocheste/Malina.md"
+                "file": "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects/Thread, Assembler of the Weave.md"
               }
             }
           },
@@ -226,13 +226,33 @@
   },
   "active": "509658090b2301cc",
   "lastOpenFiles": [
-    "1. Worldbuilding/Atlas/Cities/Rocheste/Colhen.md",
-    "1. Worldbuilding/Atlas/Cities/Rocheste/Malina.md",
-    "1. Worldbuilding/Atlas/Cities/Rocheste/Ainle.md",
+    "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects/Ulal, Genie of Fortune and Chance.md",
+    "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects/Thread, Assembler of the Weave.md",
+    "3. Campaign Notes/What's in a Name? OneShot/Session Summary.md",
+    "3. Campaign Notes/What's in a Name? OneShot/Nadezhda Plavikamen.md",
+    "3. Campaign Notes/What's in a Name? OneShot/Basilus Simmeran.md",
+    "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects/Aspects.md",
+    "1. Worldbuilding/History & Cosmology/Creation Mythos/Origin.md",
+    "3. Campaign Notes/What's in a Name? OneShot/Combat 2.md",
+    "3. Campaign Notes/What's in a Name? OneShot/Den Koran.md",
+    "3. Campaign Notes/3. Campaign Notes.md",
+    "1. Worldbuilding/Atlas/Cities/Galavese.md",
+    "1. Worldbuilding/Timeline/The Departure.md",
+    "1. Worldbuilding/Timeline/Timeline of the World.md",
+    "1. Worldbuilding/Timeline",
+    "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Parhelion.md",
+    "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Sol.md",
+    "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects/As.md",
+    "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects.md",
+    "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects",
     "1. Worldbuilding/Atlas/Cities/Rocheste/Rocheste.md",
+    "1. Worldbuilding/Atlas/Cities/Blanc.md",
+    "1. Worldbuilding/Atlas/Cities/Noir.md",
+    "1. Worldbuilding/Atlas/Cities/Rocheste/Malina.md",
+    "1. Worldbuilding/Atlas/Cities/Rocheste/Colhen.md",
+    "1. Worldbuilding/Atlas/Cities/Rocheste/Ainle.md",
     "1. Worldbuilding/Atlas/Regions/Astrale.md",
     "1. Worldbuilding/Atlas/Cities/Rocheste",
-    "1. Worldbuilding/Atlas/Cities/Noir.md",
     "1. Worldbuilding/Atlas/Regions/Fontaine.md",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/zombie.png",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/wraith.png",
@@ -245,32 +265,12 @@
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/vampire-spellcaster.png",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/vampire-spawn.png",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/zombie.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/wraith.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/will-o-wisp.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/wight.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/warhorse-skeleton.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/vampiric-mist-mpmm.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/vampire.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/vampire-warrior.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/vampire-spellcaster.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/vampire-spawn.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/undying-soldier-erlw.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/undying-councilor-erlw.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/undead.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/undead-spirit-skeletal-9th-level-spell-tce.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/undead-spirit-skeletal-8th-level-spell-tce.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/undead-spirit-skeletal-7th-level-spell-tce.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/undead-spirit-skeletal-6th-level-spell-tce.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/undead-spirit-skeletal-5th-level-spell-tce.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/undead-spirit-skeletal-4th-level-spell-tce.md",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/img",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/plant/token",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/plant/img",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/npc/token",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/npc/img",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/ooze/token",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/ooze/img",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/monstrosity/token"
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/ooze/token"
   ]
 }

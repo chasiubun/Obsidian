@@ -1,0 +1,1 @@
+The [[Parhelion]] departs from the world and leaves it under the care of the [[Aspects]] 

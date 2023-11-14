@@ -1,0 +1,5 @@
+[[Thread, Assembler of the Weave]] is tasked with overseeing the fabric of creation that could be tapped into to manifest magic. No one knows the location of Thread and she herself has manipulated the weave to cause all to forget what she looks like. 
+
+Thread is particular about how the weave is accessed and does not like experimentation or tampering with the weave lest the intricacies of the weave be disturbed and unraveled. 
+
+Thread is a spider-like creature with many eyes. Similar to how spiders can feel the vibration of insects in their web, Thread can feel the vibrations of creatures accessing the weave to cast magic. Thread created a compendium of how the weave was to be accessed. Thread has the ability to travel through the weave to any point in creation to act as execution of anyone who has tarnished with the weave.

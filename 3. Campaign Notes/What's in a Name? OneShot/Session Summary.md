@@ -34,8 +34,8 @@ The party meets the band of shortstacks lead by the goblin "named" Giorgo. He in
 	- Regina the General Goods Manager
 	- Reggie the Spunky Kid
 		- Reggie the Spunky Kid came across a gambling game
-			- Ulal's Wager: If the party wins the game, the winning members gain 1 point of inspiration
-			- Ulal's Hazard: The party rolls a D20. 
+			- [[Ulal, Genie of Fortune and Chance#Ulal's Wager|Ulal's Wager]]: If the party wins the game, the winning members gain 1 point of inspiration
+			- [[Ulal, Genie of Fortune and Chance#Ulal's Hazard|Ulal's Hazard]]: The party rolls a D20. 
 				- 11+ The player may add that value -10 to any D20 roll 
 				- 10 - nothing happens
 				- 9- The GM may subtract that value from any D20 roll for that character
