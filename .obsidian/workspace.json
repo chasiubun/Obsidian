@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Worldbuilding/Culture/Division of Cultures.md",
+                "file": "1. Worldbuilding/Atlas/Cities/Rocheste/Ainle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "509658090b2301cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Worldbuilding/Atlas/Cities/Rocheste/Colhen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Worldbuilding/Atlas/Regions/Fontaine.md",
+                "file": "1. Worldbuilding/Atlas/Cities/Rocheste/Colhen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Worldbuilding/Atlas/Regions/Fontaine.md",
+                "file": "1. Worldbuilding/Atlas/Cities/Rocheste/Colhen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Worldbuilding/Atlas/Regions/Fontaine.md"
+                "file": "1. Worldbuilding/Atlas/Cities/Rocheste/Colhen.md"
               }
             }
           },
@@ -212,8 +224,16 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "33135c761039daa3",
+  "active": "509658090b2301cc",
   "lastOpenFiles": [
+    "1. Worldbuilding/Atlas/Cities/Rocheste/Rocheste.md",
+    "1. Worldbuilding/Atlas/Cities/Rocheste/Colhen.md",
+    "1. Worldbuilding/Atlas/Cities/Rocheste/Untitled.md",
+    "1. Worldbuilding/Atlas/Cities/Rocheste/Ainle.md",
+    "1. Worldbuilding/Atlas/Regions/Astrale.md",
+    "1. Worldbuilding/Atlas/Cities/Rocheste",
+    "1. Worldbuilding/Atlas/Cities/Noir.md",
+    "1. Worldbuilding/Atlas/Regions/Fontaine.md",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/zombie.png",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/wraith.png",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/will-o-wisp.png",
@@ -224,7 +244,6 @@
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/vampire-warrior.png",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/vampire-spellcaster.png",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/vampire-spawn.png",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/undying-soldier.png",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/zombie.md",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/wraith.md",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/will-o-wisp.md",
@@ -244,12 +263,6 @@
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/undead-spirit-skeletal-6th-level-spell-tce.md",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/undead-spirit-skeletal-5th-level-spell-tce.md",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/undead-spirit-skeletal-4th-level-spell-tce.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/undead-spirit-skeletal-3rd-level-spell-tce.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/undead-spirit-putrid-9th-level-spell-tce.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/undead-spirit-putrid-8th-level-spell-tce.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/undead-spirit-putrid-7th-level-spell-tce.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/undead-spirit-putrid-6th-level-spell-tce.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/undead-spirit-putrid-5th-level-spell-tce.md",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/img",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/plant/token",
@@ -258,7 +271,6 @@
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/npc/img",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/ooze/token",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/ooze/img",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/monstrosity/token",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/monstrosity/img"
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/monstrosity/token"
   ]
 }
