@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Campaign Notes/What's in a Name? OneShot/Session Summary.md",
+                "file": "1. Worldbuilding/Culture/Fomorian Collective.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Campaign Notes/What's in a Name? OneShot/Session Summary.md",
+                "file": "1. Worldbuilding/Culture/Fomorian Collective.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Campaign Notes/What's in a Name? OneShot/Session Summary.md",
+                "file": "1. Worldbuilding/Culture/Fomorian Collective.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Campaign Notes/What's in a Name? OneShot/Session Summary.md"
+                "file": "1. Worldbuilding/Culture/Fomorian Collective.md"
               }
             }
           },
@@ -226,9 +226,12 @@
   },
   "active": "509658090b2301cc",
   "lastOpenFiles": [
+    "1. Worldbuilding/Culture/Division of Cultures.md",
+    "1. Worldbuilding/Culture/Fomorian Collective.md",
+    "3. Campaign Notes/What's in a Name? OneShot/Session Summary.md",
+    "1. Worldbuilding/Culture/Untitled",
     "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects/Thread, Assembler of the Weave.md",
     "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects/Ulal, Genie of Fortune and Chance.md",
-    "3. Campaign Notes/What's in a Name? OneShot/Session Summary.md",
     "3. Campaign Notes/What's in a Name? OneShot/Nadezhda Plavikamen.md",
     "3. Campaign Notes/What's in a Name? OneShot/Basilus Simmeran.md",
     "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects/Aspects.md",
@@ -253,7 +256,6 @@
     "1. Worldbuilding/Atlas/Cities/Rocheste/Ainle.md",
     "1. Worldbuilding/Atlas/Regions/Astrale.md",
     "1. Worldbuilding/Atlas/Cities/Rocheste",
-    "1. Worldbuilding/Atlas/Regions/Fontaine.md",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/zombie.png",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/wraith.png",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/will-o-wisp.png",
@@ -264,13 +266,11 @@
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/vampire-warrior.png",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/vampire-spellcaster.png",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/vampire-spawn.png",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/zombie.md",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/img",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/plant/token",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/plant/img",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/npc/token",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/npc/img",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/ooze/token"
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/npc/img"
   ]
 }
