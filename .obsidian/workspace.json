@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Campaign Notes/Vindictus LMAO.md",
+                "file": "1. Worldbuilding/Culture/Vindictus Adventuring Party/Lynn.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Campaign Notes/Vindictus LMAO.md",
+                "file": "1. Worldbuilding/Culture/Vindictus Adventuring Party/Lynn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Campaign Notes/Vindictus LMAO.md",
+                "file": "1. Worldbuilding/Culture/Vindictus Adventuring Party/Lynn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Campaign Notes/Vindictus LMAO.md"
+                "file": "1. Worldbuilding/Culture/Vindictus Adventuring Party/Lynn.md"
               }
             }
           },
@@ -226,14 +226,15 @@
   },
   "active": "509658090b2301cc",
   "lastOpenFiles": [
+    "3. Campaign Notes/Vindictus LMAO.md",
+    "1. Worldbuilding/Culture/Vindictus Adventuring Party/Lynn.md",
+    "1. Worldbuilding/Culture/Vindictus Adventuring Party",
     "3. Campaign Notes/Untitled",
     "3. Campaign Notes/Unused Plot Hooks/Plot Hook 1.md",
-    "3. Campaign Notes/Vindictus LMAO.md",
     "1. Worldbuilding/Culture/Fomorian Collective.md",
     "3. Campaign Notes/Unused Plot Hooks",
     "1. Worldbuilding/Culture/Division of Cultures.md",
     "3. Campaign Notes/What's in a Name? OneShot/Session Summary.md",
-    "1. Worldbuilding/Culture/Untitled",
     "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects/Thread, Assembler of the Weave.md",
     "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects/Ulal, Genie of Fortune and Chance.md",
     "3. Campaign Notes/What's in a Name? OneShot/Nadezhda Plavikamen.md",
@@ -270,7 +271,6 @@
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/img",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/plant/token",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/plant/img",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/npc/token"
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/plant/img"
   ]
 }
