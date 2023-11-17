@@ -1,12 +1,14 @@
+````
 ---
-AssociatedGroup: Paradisium
-Gender: Female
-Race: Human
-Age: "32"
-Class: Mystic
-Alignment: Lawful Neutral
-Character-Role: Quest-Giver
-Location: Unknown
+AssociatedGroup: 
+Gender: Male
+Race: 
+Age: 
+Class: 
+Alignment: 
+Character-Role: 
+Location: 
+AssociatedGroup: 
 NoteIcon: npc
 ---
 
@@ -62,3 +64,4 @@ name: Individual
 creatures:
  - 1: Commoner
 ```
+````

@@ -4,7 +4,6 @@
   "obsidian-timeline",
   "dataview",
   "obsidian-excalidraw-plugin",
-  "table-editor-obsidian",
   "templater-obsidian",
   "obsidian-git",
   "obsidian-style-settings",
@@ -13,12 +12,13 @@
   "buttons",
   "obsidian-leaflet-plugin",
   "fantasy-calendar",
-  "obsidian-5e-statblocks",
   "supercharged-links-obsidian",
   "alx-folder-note",
   "folder-note-core",
   "obsidian-view-mode-by-frontmatter",
   "initiative-tracker",
+  "image-window",
   "obsidian-admonition",
-  "image-window"
+  "table-editor-obsidian",
+  "obsidian-5e-statblocks"
 ]

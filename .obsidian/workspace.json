@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Worldbuilding/Atlas/Regions/Astrale.md",
+                "file": "1. Worldbuilding/Shalom_NPC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1deee8dc3f7aa07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Worldbuilding/Atlas/Cities/Rocheste/Rocheste.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Worldbuilding/Atlas/Regions/Astrale.md",
+                "file": "1. Worldbuilding/Atlas/Regions/Fontaine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Worldbuilding/Atlas/Regions/Astrale.md",
+                "file": "1. Worldbuilding/Atlas/Regions/Fontaine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Worldbuilding/Atlas/Regions/Astrale.md"
+                "file": "1. Worldbuilding/Atlas/Regions/Fontaine.md"
               }
             }
           },
@@ -215,46 +227,46 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "dbfolder:Create a new database table": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "509658090b2301cc",
+  "active": "faf2738ac2cfe932",
   "lastOpenFiles": [
-    "1. Worldbuilding/Culture/Vindictus Adventuring Party/Latiya.md",
+    "1. Worldbuilding/Atlas/Regions/Astrale.md",
+    "1. Worldbuilding/Culture/Vindictus Adventuring Party/Miri.md",
+    "1. Worldbuilding/Culture/Vindictus Adventuring Party/Lynn.md",
     "1. Worldbuilding/Culture/Vindictus Adventuring Party/Lethor and Dan-Ah.md",
+    "1. Worldbuilding/Culture/Vindictus Adventuring Party/Latiya.md",
+    "1. Worldbuilding/Culture/Vindictus Adventuring Party/Fiona.md",
+    "1. Worldbuilding/Culture/Vindictus Adventuring Party/Evie.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/classes/sorcerer.md",
+    "1. Worldbuilding/Atlas/Cities/Rocheste/Rocheste.md",
+    "1. Worldbuilding/Atlas/Cities/Galavese.md",
+    "3. Campaign Notes/Unused Plot Hooks/Plot Hook 1.md",
+    "3. Campaign Notes/Vindictus LMAO.md",
+    "3. Campaign Notes/What's in a Name? OneShot/Session Summary.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/aberration/cranium-rat-mpmm.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/aberration/blue-slaad.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/aberration/aberration.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/aberration/aboleth.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/construct/clay-golem.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/construct/construct.md",
+    "1. Worldbuilding/Shalom_NPC.md",
+    "Test.md",
+    "Evie.md",
+    "z_templates/NPC.md",
     "1. Worldbuilding/Culture/Vindictus Adventuring Party/Sylas and Belle.md",
     "1. Worldbuilding/Culture/Vindictus Adventuring Party/Eira and Arisha.md",
-    "1. Worldbuilding/Culture/Vindictus Adventuring Party/Miri.md",
     "1. Worldbuilding/Culture/Vindictus Adventuring Party/Delia.md",
-    "1. Worldbuilding/Culture/Vindictus Adventuring Party/Vella.md",
-    "1. Worldbuilding/Culture/Vindictus Adventuring Party/Evie.md",
-    "1. Worldbuilding/Culture/Vindictus Adventuring Party/Fiona.md",
-    "1. Worldbuilding/Culture/Vindictus Adventuring Party/Tessa.md",
-    "1. Worldbuilding/Culture/Vindictus Adventuring Party/Lynn.md",
-    "3. Campaign Notes/Vindictus LMAO.md",
     "1. Worldbuilding/Culture/Vindictus Adventuring Party",
     "3. Campaign Notes/Untitled",
-    "3. Campaign Notes/Unused Plot Hooks/Plot Hook 1.md",
-    "1. Worldbuilding/Culture/Fomorian Collective.md",
     "3. Campaign Notes/Unused Plot Hooks",
-    "1. Worldbuilding/Culture/Division of Cultures.md",
-    "3. Campaign Notes/What's in a Name? OneShot/Session Summary.md",
-    "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects/Thread, Assembler of the Weave.md",
-    "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects/Ulal, Genie of Fortune and Chance.md",
-    "3. Campaign Notes/What's in a Name? OneShot/Nadezhda Plavikamen.md",
-    "3. Campaign Notes/What's in a Name? OneShot/Basilus Simmeran.md",
-    "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects/Aspects.md",
-    "1. Worldbuilding/History & Cosmology/Creation Mythos/Origin.md",
-    "3. Campaign Notes/What's in a Name? OneShot/Combat 2.md",
-    "3. Campaign Notes/What's in a Name? OneShot/Den Koran.md",
-    "3. Campaign Notes/3. Campaign Notes.md",
-    "1. Worldbuilding/Atlas/Cities/Galavese.md",
     "1. Worldbuilding/Timeline",
     "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects",
     "1. Worldbuilding/Atlas/Cities/Rocheste",
