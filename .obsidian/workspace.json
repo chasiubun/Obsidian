@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Worldbuilding/Culture/Vindictus Adventuring Party/Lynn.md",
+                "file": "1. Worldbuilding/Atlas/Regions/Astrale.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Worldbuilding/Culture/Vindictus Adventuring Party/Lynn.md",
+                "file": "1. Worldbuilding/Atlas/Regions/Astrale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Worldbuilding/Culture/Vindictus Adventuring Party/Lynn.md",
+                "file": "1. Worldbuilding/Atlas/Regions/Astrale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Worldbuilding/Culture/Vindictus Adventuring Party/Lynn.md"
+                "file": "1. Worldbuilding/Atlas/Regions/Astrale.md"
               }
             }
           },
@@ -226,8 +226,18 @@
   },
   "active": "509658090b2301cc",
   "lastOpenFiles": [
-    "3. Campaign Notes/Vindictus LMAO.md",
+    "1. Worldbuilding/Culture/Vindictus Adventuring Party/Latiya.md",
+    "1. Worldbuilding/Culture/Vindictus Adventuring Party/Lethor and Dan-Ah.md",
+    "1. Worldbuilding/Culture/Vindictus Adventuring Party/Sylas and Belle.md",
+    "1. Worldbuilding/Culture/Vindictus Adventuring Party/Eira and Arisha.md",
+    "1. Worldbuilding/Culture/Vindictus Adventuring Party/Miri.md",
+    "1. Worldbuilding/Culture/Vindictus Adventuring Party/Delia.md",
+    "1. Worldbuilding/Culture/Vindictus Adventuring Party/Vella.md",
+    "1. Worldbuilding/Culture/Vindictus Adventuring Party/Evie.md",
+    "1. Worldbuilding/Culture/Vindictus Adventuring Party/Fiona.md",
+    "1. Worldbuilding/Culture/Vindictus Adventuring Party/Tessa.md",
     "1. Worldbuilding/Culture/Vindictus Adventuring Party/Lynn.md",
+    "3. Campaign Notes/Vindictus LMAO.md",
     "1. Worldbuilding/Culture/Vindictus Adventuring Party",
     "3. Campaign Notes/Untitled",
     "3. Campaign Notes/Unused Plot Hooks/Plot Hook 1.md",
@@ -245,18 +255,8 @@
     "3. Campaign Notes/What's in a Name? OneShot/Den Koran.md",
     "3. Campaign Notes/3. Campaign Notes.md",
     "1. Worldbuilding/Atlas/Cities/Galavese.md",
-    "1. Worldbuilding/Timeline/The Departure.md",
-    "1. Worldbuilding/Timeline/Timeline of the World.md",
     "1. Worldbuilding/Timeline",
-    "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Parhelion.md",
-    "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Sol.md",
-    "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects/As.md",
-    "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects.md",
     "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects",
-    "1. Worldbuilding/Atlas/Cities/Rocheste/Rocheste.md",
-    "1. Worldbuilding/Atlas/Cities/Blanc.md",
-    "1. Worldbuilding/Atlas/Cities/Noir.md",
-    "1. Worldbuilding/Atlas/Cities/Rocheste/Malina.md",
     "1. Worldbuilding/Atlas/Cities/Rocheste",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/zombie.png",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/wraith.png",

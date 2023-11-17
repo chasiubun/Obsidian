@@ -1,0 +1,3 @@
+[![Delia's NPC Portrait](https://static.wikia.nocookie.net/vindictus_gamepedia/images/7/77/Delia_%28NPC_Icon%29.png/revision/latest/scale-to-width-down/300?cb=20200430035620)
+
+](https://static.wikia.nocookie.net/vindictus_gamepedia/images/7/77/Delia_%28NPC_Icon%29.png/revision/latest?cb=20200430035620 "Delia's NPC Portrait")![](https://static.wikia.nocookie.net/vindictus_gamepedia/images/0/07/Delia_Concept_Art_1.jpg/revision/latest?cb=20180926075219)

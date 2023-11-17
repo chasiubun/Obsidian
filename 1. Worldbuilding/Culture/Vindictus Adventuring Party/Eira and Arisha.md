@@ -1,0 +1,5 @@
+[![Eira's NPC Portrait](https://static.wikia.nocookie.net/vindictus_gamepedia/images/f/f0/Eira_%28NPC_Icon%29.png/revision/latest/scale-to-width-down/300?cb=20200430035713)
+
+](https://static.wikia.nocookie.net/vindictus_gamepedia/images/f/f0/Eira_%28NPC_Icon%29.png/revision/latest?cb=20200430035713 "Eira's NPC Portrait")![](https://static.wikia.nocookie.net/vindictus_gamepedia/images/2/23/Eira_Concept_Art_1.jpg/revision/latest/scale-to-width-down/1000?cb=20190430210147)![](https://static.wikia.nocookie.net/vindictus_gamepedia/images/3/34/Miul.png/revision/latest?cb=20210526222318)[![Arisha's NPC Portrait](https://static.wikia.nocookie.net/vindictus_gamepedia/images/6/60/Arisha_%28NPC_Icon%29.png/revision/latest/scale-to-width-down/300?cb=20200430035546)![](https://static.wikia.nocookie.net/vindictus_gamepedia/images/e/eb/Arisha_Artwork_1.png/revision/latest?cb=20150314190622)
+
+](https://static.wikia.nocookie.net/vindictus_gamepedia/images/6/60/Arisha_%28NPC_Icon%29.png/revision/latest?cb=20200430035546 "Arisha's NPC Portrait")

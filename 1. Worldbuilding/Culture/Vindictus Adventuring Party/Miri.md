@@ -1,0 +1,3 @@
+[![Miri's NPC Portrait](https://static.wikia.nocookie.net/vindictus_gamepedia/images/0/01/Miri_%28NPC_Icon%29.png/revision/latest/scale-to-width-down/300?cb=20200430035640)
+
+](https://static.wikia.nocookie.net/vindictus_gamepedia/images/0/01/Miri_%28NPC_Icon%29.png/revision/latest?cb=20200430035640 "Miri's NPC Portrait")![](https://static.wikia.nocookie.net/vindictus_gamepedia/images/2/29/Miri_Concept_Art_1.jpg/revision/latest/scale-to-width-down/1000?cb=20180926075826)
