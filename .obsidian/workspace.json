@@ -49,26 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Worldbuilding/Shalom_NPC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1deee8dc3f7aa07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Campaign Notes/Vindictus LMAO.md",
+                "file": "1. Worldbuilding/Culture/Vindictus Adventuring Party/Evie.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Campaign Notes/Vindictus LMAO.md",
+                "file": "1. Worldbuilding/Culture/Vindictus Adventuring Party/Evie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Campaign Notes/Vindictus LMAO.md",
+                "file": "1. Worldbuilding/Culture/Vindictus Adventuring Party/Evie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Campaign Notes/Vindictus LMAO.md"
+                "file": "1. Worldbuilding/Culture/Vindictus Adventuring Party/Evie.md"
               }
             }
           },
@@ -236,14 +224,21 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "f1deee8dc3f7aa07",
+  "active": "509658090b2301cc",
   "lastOpenFiles": [
-    "3. Campaign Notes/Unused Plot Hooks/Plot Hook 1.md",
+    "1. Worldbuilding/Atlas/Cities/Rocheste/Rocheste.md",
     "3. Campaign Notes/Vindictus LMAO.md",
+    "z_templates/NPC.md",
+    "Test.md",
+    "z_templates/Tradition and Ritual.md",
+    "3. Campaign Notes/LMoP - Guild of Truth and Light/2. Campaign Roadmap.md",
+    "1. Worldbuilding/Shalom_NPC.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/npc/gundren-rockseeker-lmop.md",
     "3. Campaign Notes/LMoP - Guild of Truth and Light/1. Overview.md",
+    "3. Campaign Notes/What's in a Name? OneShot/Session Summary.md",
+    "3. Campaign Notes/Unused Plot Hooks/Plot Hook 1.md",
     "z_templates/Building and Landmark.md",
     "z_templates/Myths and Legends.md",
-    "z_templates/Tradition and Ritual.md",
     "z_templates/Organization.md",
     "z_templates/Plot or Quest.md",
     "z_templates/Technology.md",
@@ -252,18 +247,11 @@
     "z_templates/Geography.md",
     "z_templates/Item.md",
     "z_templates/Military Formation.md",
-    "z_templates/NPC.md",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/aberration/beholder.md",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/aberration/aberration.md",
     "1. Worldbuilding/Atlas/Regions/Fontaine.md",
     "1. Worldbuilding/Atlas/Regions/Astrale.md",
     "1. Worldbuilding/Culture/Vindictus Adventuring Party/Miri.md",
-    "1. Worldbuilding/Culture/Vindictus Adventuring Party/Lynn.md",
-    "1. Worldbuilding/Culture/Vindictus Adventuring Party/Lethor and Dan-Ah.md",
-    "1. Worldbuilding/Culture/Vindictus Adventuring Party/Latiya.md",
-    "1. Worldbuilding/Culture/Vindictus Adventuring Party/Fiona.md",
-    "1. Worldbuilding/Culture/Vindictus Adventuring Party/Evie.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/classes/sorcerer.md",
     "1. Worldbuilding/Culture/Vindictus Adventuring Party",
     "3. Campaign Notes/LMoP - Guild of Truth and Light",
     "3. Campaign Notes/Unused Plot Hooks",

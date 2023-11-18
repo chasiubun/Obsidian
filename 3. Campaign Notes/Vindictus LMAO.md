@@ -12,4 +12,4 @@ The army spots the gnolls and begins their attack while the party gifts against 
 __
 The party is tasked with investigating the Hoarfrost Hollow and finds a group of kobolds mobilizing to attack the town. 
 ___
-The party goes over to Ainle, a town ravaged by 
+The party goes over to Ainle, a town ravaged by goblins. The Royal Army has deemed the town off limits, but the adventurer's guild is outside their juristiction. They find the goblins in an unusual behavior and extra defenses around the community garden. A cadet from the royal army wants to help out the town and begins investigating. The royal army appoints him as a chief investigator and sends him off to the town. The cadet is ambushed and killed in the process of summoning vampires from another realm. It appears as if the royal army is covering up covert operations in Ainle. 
