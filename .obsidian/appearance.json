@@ -11,7 +11,8 @@
     "dnd5e-only-admonitions",
     "obsidian-default-theme",
     "pf2-compendium",
-    "pf2-only-statblocks"
+    "pf2-only-statblocks",
+    "custom-admonitions.4246e6"
   ],
   "translucency": true,
   "theme": "system"

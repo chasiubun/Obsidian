@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Worldbuilding/Atlas/Cities/Rocheste/Rocheste.md",
-                "mode": "source",
+                "file": "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/aberration/beholder.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Worldbuilding/Atlas/Regions/Fontaine.md",
+                "file": "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/aberration/beholder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Worldbuilding/Atlas/Regions/Fontaine.md",
+                "file": "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/aberration/beholder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Worldbuilding/Atlas/Regions/Fontaine.md"
+                "file": "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/aberration/beholder.md"
               }
             }
           },
@@ -236,8 +236,9 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "faf2738ac2cfe932",
+  "active": "f1deee8dc3f7aa07",
   "lastOpenFiles": [
+    "1. Worldbuilding/Atlas/Regions/Fontaine.md",
     "1. Worldbuilding/Atlas/Regions/Astrale.md",
     "1. Worldbuilding/Culture/Vindictus Adventuring Party/Miri.md",
     "1. Worldbuilding/Culture/Vindictus Adventuring Party/Lynn.md",
@@ -263,7 +264,6 @@
     "z_templates/NPC.md",
     "1. Worldbuilding/Culture/Vindictus Adventuring Party/Sylas and Belle.md",
     "1. Worldbuilding/Culture/Vindictus Adventuring Party/Eira and Arisha.md",
-    "1. Worldbuilding/Culture/Vindictus Adventuring Party/Delia.md",
     "1. Worldbuilding/Culture/Vindictus Adventuring Party",
     "3. Campaign Notes/Untitled",
     "3. Campaign Notes/Unused Plot Hooks",
