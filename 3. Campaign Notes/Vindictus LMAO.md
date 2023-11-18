@@ -9,3 +9,7 @@ Meanwhile, the Royal Army asked the party to investigate the ruins and to dispat
 The Royal Army moves into wipe out the gnolls in the ruins. In order to stop a fuller war, the Adventurer's guild tasks the party with clearing out the scouts in the ruins so that the royal army won't march further in to incite a larger combat.
 
 The army spots the gnolls and begins their attack while the party gifts against the gnoll chieftain. The party succeeds, however the royal army is hit with many casualties. The party goes to find out the remains of what happened to the royal army who were carried off. 
+__
+The party is tasked with investigating the Hoarfrost Hollow and finds a group of kobolds mobilizing to attack the town. 
+___
+The party goes over to Ainle, a town ravaged by 
