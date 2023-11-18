@@ -1,5 +1,133 @@
 {
-  "userAdmonitions": {},
+  "userAdmonitions": {
+    "statblock": {
+      "type": "statblock",
+      "icon": {
+        "name": "dragon",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": false,
+      "noTitle": false,
+      "copy": false,
+      "color": "244, 30, 75"
+    },
+    "flowchart": {
+      "type": "flowchart",
+      "icon": {
+        "name": "map",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": false,
+      "noTitle": true,
+      "copy": false,
+      "color": "73, 206, 205"
+    },
+    "gallery": {
+      "type": "gallery",
+      "icon": {
+        "name": "image",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": false,
+      "noTitle": true,
+      "copy": false,
+      "color": "120, 121, 179"
+    },
+    "readaloud": {
+      "type": "readaloud",
+      "icon": {
+        "name": "book-reader",
+        "type": "font-awesome"
+      },
+      "title": "Read Aloud",
+      "command": false,
+      "injectColor": false,
+      "noTitle": false,
+      "copy": false,
+      "color": "108, 175, 74"
+    },
+    "charm": {
+      "type": "charm",
+      "icon": {
+        "name": "magic",
+        "type": "font-awesome"
+      },
+      "title": "Charm",
+      "command": false,
+      "injectColor": false,
+      "noTitle": false,
+      "copy": false,
+      "color": "253, 212, 126"
+    },
+    "letter": {
+      "type": "letter",
+      "icon": {
+        "name": "envelope-open-text",
+        "type": "font-awesome"
+      },
+      "title": "Letter",
+      "command": false,
+      "injectColor": false,
+      "noTitle": false,
+      "copy": false,
+      "color": "29, 168, 244"
+    },
+    "npc": {
+      "type": "npc",
+      "icon": {
+        "name": "address-card",
+        "type": "font-awesome"
+      },
+      "title": "NPC",
+      "command": false,
+      "injectColor": false,
+      "noTitle": false,
+      "copy": false,
+      "color": "101, 242, 51"
+    },
+    "scene": {
+      "type": "scene",
+      "icon": {
+        "name": "archway",
+        "type": "font-awesome"
+      },
+      "title": "Scene",
+      "command": false,
+      "injectColor": false,
+      "noTitle": false,
+      "copy": false,
+      "color": "33, 250, 34"
+    },
+    "skill": {
+      "type": "skill",
+      "icon": {
+        "name": "hand-sparkles",
+        "type": "font-awesome"
+      },
+      "title": "Skill Check",
+      "command": false,
+      "injectColor": false,
+      "noTitle": false,
+      "copy": false,
+      "color": "240, 204, 146"
+    },
+    "weather": {
+      "type": "weather",
+      "icon": {
+        "name": "cloud-sun",
+        "type": "font-awesome"
+      },
+      "title": "Weather",
+      "command": false,
+      "injectColor": false,
+      "noTitle": false,
+      "copy": false,
+      "color": "111, 178, 34"
+    }
+  },
   "syntaxHighlight": false,
   "copyButton": false,
   "version": "10.1.1",
