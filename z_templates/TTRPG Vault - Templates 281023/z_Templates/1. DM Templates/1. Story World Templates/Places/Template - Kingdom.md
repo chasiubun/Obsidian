@@ -19,7 +19,7 @@
 > **Religions** | `=link(this.religions)` |
 
 > [!infobox|left]- 
-> ![[Placeholderimage.png]]
+> ![[PlaceholderImage.png]]
 > **Description:** 
 
 # **`=this.file.name`**

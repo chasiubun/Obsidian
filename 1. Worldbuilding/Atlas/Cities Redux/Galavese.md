@@ -1,3 +1,16 @@
+---
+Aliases: City of Fortunes and Games
+Type: Large City
+Defences: Average
+Rulers:
+  - "[Ulal"
+  - Genie of Fortune and Chance]
+Exports:
+  - Entertainment
+  - Games
+Theme:
+  - Las Vegas
+---
 
 > [!infobox]+
 > # `=this.file.name`

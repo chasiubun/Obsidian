@@ -1,3 +1,8 @@
+---
+Type: Metropolis
+Aliases: City of Unity
+Defences: Formidable
+---
 
 > [!infobox]+
 > # `=this.file.name`
@@ -32,7 +37,7 @@
 
 # **`=this.file.name`**
 > [!recite]- Introduction
-TBD
+Blanc is one of the great metropolises welcoming of all races regardless of history or creed. It stands in stark contrast to [[Noir]]. While it is also welcoming of other races, it enforces ideals the Founder deemed necessary and important for a society that seeks to unite all races without a descent into chaos. While the races are united, many critics state that the cultures unique to each race became irrelevant and sacrificed for the sake of conformity.
 
 > [!metadata|map]- Map
 > ```leaflet

@@ -1,3 +1,6 @@
+---
+Type: Hamlet
+---
 
 > [!infobox]+
 > # `=this.file.name`

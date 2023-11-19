@@ -1,3 +1,8 @@
+---
+Type: Metropolis
+Aliases: Land of the Free
+Defences: Weak
+---
 
 > [!infobox]+
 > # `=this.file.name`

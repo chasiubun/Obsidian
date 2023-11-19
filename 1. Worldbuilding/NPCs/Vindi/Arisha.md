@@ -1,18 +1,12 @@
 ---
-Type: NPC
-Party1Relations: Enemy
-Alignment: CN
-Gender: Male
-Age: Child
-Aliases: "*bump fists twice, then clap*"
-NoteIcon: Character
+Art: https://static.wikia.nocookie.net/vindictus_gamepedia/images/6/60/Arisha_%28NPC_Icon%29.png/revision/latest?cb=20200430035546
 ---
 
 > [!infobox]+
 > # `=this.file.name` (`=this.pronouns`)
 > **Pronounced:**  "`=this.Pronounced`"
-> ![[BoggleIcon.png]]
-> > ###### Bio
+> ![[PlaceholderImage.png]]
+> ###### Bio
 >  |
 > ---|---|
 > **Ancestry** | `=this.ancestry` |

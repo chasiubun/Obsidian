@@ -1,3 +1,6 @@
+---
+Type: Village
+---
 
 > [!infobox]+
 > # `=this.file.name`

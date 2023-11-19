@@ -1,18 +1,9 @@
----
-Type: NPC
-Party1Relations: Enemy
-Alignment: CN
-Gender: Male
-Age: Child
-Aliases: "*bump fists twice, then clap*"
-NoteIcon: Character
----
 
 > [!infobox]+
 > # `=this.file.name` (`=this.pronouns`)
 > **Pronounced:**  "`=this.Pronounced`"
-> ![[BoggleIcon.png]]
-> > ###### Bio
+> ![[PlaceholderImage.png]]
+> ###### Bio
 >  |
 > ---|---|
 > **Ancestry** | `=this.ancestry` |

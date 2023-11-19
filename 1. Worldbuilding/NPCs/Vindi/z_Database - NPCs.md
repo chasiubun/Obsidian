@@ -244,7 +244,6 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "Colhen", value: "1", color: "hsl(260, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

@@ -11,11 +11,9 @@
             "id": "faea6cb0b4835dcb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "3. Campaign Notes/What's in a Name? OneShot/NPCS/Bumbert.md",
-                "mode": "preview",
-                "source": false
+                "file": "1. Worldbuilding/NPCs/Vindi/z_Database - NPCs.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Campaign Notes/What's in a Name? OneShot/NPCS/Bumbert.md",
+                "file": "1. Worldbuilding/NPCs/Vindi/z_Database - NPCs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Campaign Notes/What's in a Name? OneShot/NPCS/Bumbert.md",
+                "file": "1. Worldbuilding/NPCs/Vindi/z_Database - NPCs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Campaign Notes/What's in a Name? OneShot/NPCS/Bumbert.md"
+                "file": "1. Worldbuilding/NPCs/Vindi/z_Database - NPCs.md"
               }
             }
           },
@@ -160,13 +158,21 @@
               "type": "initiative-tracker-view",
               "state": {}
             }
+          },
+          {
+            "id": "604e03910b7139b8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 403.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -189,51 +195,51 @@
   },
   "active": "faea6cb0b4835dcb",
   "lastOpenFiles": [
-    "Pasted image 20231118211331.png",
-    "3. Campaign Notes/What's in a Name? OneShot/NPCS/Nilbog.md",
-    "3. Campaign Notes/What's in a Name? OneShot/NPCS/Maggie.md",
-    "3. Campaign Notes/What's in a Name? OneShot/NPCS/Deaf Boggle.md",
-    "Pasted image 20231118205032.png",
-    "3. Campaign Notes/What's in a Name? OneShot/Players/Nadezhda Plavikamen.md",
-    "3. Campaign Notes/What's in a Name? OneShot/Players/Party_Info - What's in a Name?.md",
-    "3. Campaign Notes/What's in a Name? OneShot/Players/Untitled.md",
-    "3. Campaign Notes/What's in a Name? OneShot/Players/Den Koran.md",
-    "3. Campaign Notes/What's in a Name? OneShot/Players/Basilus Simmeran.md",
-    "3. Campaign Notes/What's in a Name? OneShot/Players/Test.md",
+    "1. Worldbuilding/NPCs/Vindi/Arisha.md",
+    "1. Worldbuilding/NPCs/Vindi/z_Database - NPCs.md",
+    "1. Worldbuilding/NPCs/Vindi/Vella.md",
+    "1. Worldbuilding/NPCs/Vindi/z_Database-Characters.md",
+    "1. Worldbuilding/NPCs/Vindi/test.md",
+    "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Parhelion.md",
+    "1. Worldbuilding/NPCs/Vindi/Latiya.md",
+    "1. Worldbuilding/NPCs/Vindi/Letty.md",
+    "1. Worldbuilding/NPCs/Vindi/Dan-Ah.md",
+    "1. Worldbuilding/NPCs/Vindi/Tessa.md",
+    "1. Worldbuilding/NPCs/Vindi/Kael.md",
+    "1. Worldbuilding/NPCs/Vindi/Lethor.md",
+    "1. Worldbuilding/NPCs/Vindi/Belle.md",
+    "1. Worldbuilding/NPCs/Vindi/Eira.md",
+    "1. Worldbuilding/NPCs/Vindi/Grimden.md",
+    "1. Worldbuilding/NPCs/Vindi/Miri.md",
+    "1. Worldbuilding/NPCs/Vindi/Delia.md",
+    "1. Worldbuilding/NPCs/Vindi/Sylas.md",
+    "1. Worldbuilding/NPCs/Vindi/Lynn.md",
+    "1. Worldbuilding/NPCs/Vindi/Hurk.md",
+    "1. Worldbuilding/NPCs/Vindi/Kai.md",
+    "1. Worldbuilding/NPCs/Vindi/Karok.md",
+    "1. Worldbuilding/NPCs/Vindi/Evie.md",
+    "1. Worldbuilding/NPCs/Vindi/Fiona.md",
+    "1. Worldbuilding/NPCs/Vindi/Lann.md",
+    "z_Templates/Character Sheet.md",
+    "1. Worldbuilding/NPCs/Vindi",
+    "1. Worldbuilding/NPCs",
+    "1. Worldbuilding/Lore",
+    "1. Worldbuilding/Groups and Factions",
+    "z_Templates/TTRPG Vault - Templates 281023/z_Assets/BumbertIcon.png",
+    "z_Templates/TTRPG Vault - Templates 281023/z_Assets/BoggleIcon.png",
+    "1. Worldbuilding/Atlas/Cities Redux/Rocheste/Colhen",
+    "1. Worldbuilding/Atlas/Cities Redux/Rocheste",
+    "1. Worldbuilding/Atlas/Cities Redux/Rocheste",
+    "1. Worldbuilding/Atlas/Cities Redux",
     "3. Campaign Notes/What's in a Name? OneShot/Players",
-    "3. Campaign Notes/What's in a Name? OneShot/NPCS/z_NPCS - What's in a Name?.md",
-    "z_templates/TTRPG Vault - Templates 281023/z_Assets/Pasted image 20231118181109.png",
-    "z_templates/TTRPG Vault - Templates 281023/z_Assets/Pasted image 20231118203815.png",
-    "3. Campaign Notes/What's in a Name? OneShot/Session Summary.md",
-    "3. Campaign Notes/What's in a Name? OneShot/NPCS/Bumbert.md",
-    "3. Campaign Notes/What's in a Name? OneShot/NPCS/Robert.md",
-    "3. Campaign Notes/What's in a Name? OneShot/NPCS/z_Shops - What's in a name?.md",
-    "z_templates/Character Sheet.md",
-    "z_templates/TTRPG Vault - Templates 281023/Campaign/6. Settlements/🌁 Settlement Database.md",
-    "3. Campaign Notes/Vindictus LMAO.md",
+    "z_Templates/TTRPG Vault - Templates 281023/z_Assets/Pasted image 20231118181109.png",
+    "z_Templates/TTRPG Vault - Templates 281023/z_Assets/Pasted image 20231118203815.png",
     "3. Campaign Notes/What's in a Name? OneShot/NPCS",
-    "3. Campaign Notes/LMoP - Guild of Truth and Light/1. Overview.md",
-    "z_Assets/Misc/ImagePlaceholder.png.md",
-    "1. Worldbuilding/Atlas/Cities/Rocheste/Rocheste.md",
-    "1. Worldbuilding/Culture/Vindi/Untitled.md",
-    "1. Worldbuilding/Culture/Vindi/Evie.md",
-    "1. Worldbuilding/Atlas/Cities/Rocheste/Ainle.md",
-    "1. Worldbuilding/Culture/Vindi/Delia.md",
-    "1. Worldbuilding/Culture/Vindi/Eira and Arisha.md",
-    "z_templates/TTRPG Vault - Templates 281023/z_Templates/1. DM Templates/1. Story World Templates/Session Notes",
-    "z_templates/TTRPG Vault - Templates 281023/z_Templates/1. DM Templates/1. Story World Templates/Places",
-    "z_templates/TTRPG Vault - Templates 281023/z_Templates/1. DM Templates/1. Story World Templates/People",
-    "z_templates/TTRPG Vault - Templates 281023/z_Templates/1. DM Templates/1. Story World Templates",
-    "z_templates/TTRPG Vault - Templates 281023/z_Assets/Misc/PlaceholderImage.png",
-    "z_templates/TTRPG Vault - Templates 281023/Campaign/0. Parties/4. Service Request",
-    "z_templates/TTRPG Vault - Templates 281023/Campaign/0. Parties/3. Quests",
-    "z_templates/TTRPG Vault - Templates 281023/Campaign/0. Parties/2. Session Log",
-    "z_templates/TTRPG Vault - Templates 281023/Campaign/0. Parties/1. Characters",
+    "z_Templates/TTRPG Vault - Templates 281023/z_Assets/Misc/PlaceholderImage.png",
     "TTRPG Vault - Templates 281023/z_Assets/Misc/PlaceholderImage.png",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/zombie.png",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/wraith.png",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/will-o-wisp.png",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/wight.png",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/warhorse-skeleton.png"
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/wight.png"
   ]
 }

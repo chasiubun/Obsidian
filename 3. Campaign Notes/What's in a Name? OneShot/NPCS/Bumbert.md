@@ -12,7 +12,7 @@ AssociatedReligion:
 > [!infobox]+
 > # `=this.file.name` (`=this.pronouns`)
 > **Pronounced:**  "`=this.Pronounced`"
-> ![[Pasted image 20231118211331.png]]
+> ![[BumbertIcon.png]]
 > ###### Bio
 >  |
 > ---|---|

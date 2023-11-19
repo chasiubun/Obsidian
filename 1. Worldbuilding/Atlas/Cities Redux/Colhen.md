@@ -1,3 +1,9 @@
+---
+Type: Hamlet
+Defences: Weak
+Rulers: Rocheste
+GovtType: Autocracy
+---
 
 > [!infobox]+
 > # `=this.file.name`

@@ -1,3 +1,6 @@
+---
+Type: Small City
+---
 
 > [!infobox]+
 > # `=this.file.name`
