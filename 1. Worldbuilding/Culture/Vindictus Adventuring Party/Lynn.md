@@ -1,3 +1,0 @@
-Lynn is a [[shifter-mpmm]] [![Lynn's NPC Portrait](https://static.wikia.nocookie.net/vindictus_gamepedia/images/7/7b/Lynn_%28NPC_Icon%29.png/revision/latest/scale-to-width-down/300?cb=20200430035510)
-
-](https://static.wikia.nocookie.net/vindictus_gamepedia/images/7/7b/Lynn_%28NPC_Icon%29.png/revision/latest?cb=20200430035510 "Lynn's NPC Portrait")![](https://static.wikia.nocookie.net/vindictus_gamepedia/images/5/59/Lynn_Concept_2.jpg/revision/latest?cb=20140107204554)

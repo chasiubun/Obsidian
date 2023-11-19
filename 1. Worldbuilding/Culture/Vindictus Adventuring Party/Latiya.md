@@ -1,1 +1,0 @@
-![Latiya's NPC Portrait](https://static.wikia.nocookie.net/vindictus_gamepedia/images/f/f2/Latiya_%28NPC_Icon%29.png/revision/latest/scale-to-width-down/300?cb=20220707040045)

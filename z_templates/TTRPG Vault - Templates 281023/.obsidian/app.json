@@ -1,0 +1,14 @@
+{
+  "strictLineBreaks": false,
+  "readableLineLength": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "showInlineTitle": false,
+  "showUnsupportedFiles": true,
+  "trashOption": "local",
+  "spellcheckLanguages": null,
+  "attachmentFolderPath": "z_Assets/Unsorted",
+  "showLineNumber": false,
+  "showFrontmatter": false
+}

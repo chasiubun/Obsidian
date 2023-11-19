@@ -1,0 +1,248 @@
+{
+  "strategy": "default",
+  "cedictPath": "./cedict_ts.u8",
+  "matchStrategy": "prefix",
+  "fuzzyMatch": true,
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "useCommonPrefixCompletionOfSuggestion": false,
+  "patternsToSuppressTrigger": [
+    "^~~~.*",
+    "^```.*"
+  ],
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "updateInternalLinksOnSave": true,
+  "insertAliasTransformedFromDisplayedInternalLink": {
+    "enabled": false,
+    "beforeRegExp": "",
+    "after": ""
+  },
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "TBD.png": {
+      "TBD.png": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1678133052449
+        }
+      }
+    },
+    "Sil'jun": {
+      "Sil'jun": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1678048765897
+        }
+      }
+    },
+    "Hearth Mother": {
+      "Sil'jun": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1678014749823
+        }
+      }
+    },
+    "Zephyra": {
+      "Zephyra": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1678042458267
+        }
+      }
+    },
+    "Koress": {
+      "Koress": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1678043278447
+        }
+      }
+    },
+    "Magical": {
+      "Magical": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1678043330386
+        }
+      }
+    },
+    "Serendia": {
+      "Serendia": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1678043433634
+        }
+      }
+    },
+    "Veritas": {
+      "Veritas": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1678043445874
+        }
+      }
+    },
+    "Lysandra": {
+      "Lysandra": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1678043462522
+        }
+      }
+    },
+    "Keata": {
+      "Keata": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1678043910022
+        }
+      }
+    },
+    "Y'oshka": {
+      "Y'oshka": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1678043942985
+        }
+      }
+    },
+    "Godsbreath Bow": {
+      "Godsbreath Bow": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1678044983966
+        }
+      }
+    },
+    "Gormmesh": {
+      "Gormmesh": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1678052939228
+        }
+      }
+    },
+    "Mallacross": {
+      "Mallacross": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1678052549796
+        }
+      }
+    },
+    "civilizations": {
+      "civilizations": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678049659421
+        }
+      }
+    },
+    "Ariah": {
+      "Ariah": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1678052728859
+        }
+      }
+    },
+    "Molvach": {
+      "Molvach": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1678052912817
+        }
+      }
+    },
+    "Malkor": {
+      "Malkor": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1678053366109
+        }
+      }
+    },
+    "piece": {
+      "piece": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678057588126
+        }
+      }
+    },
+    "_Subtitle_": {
+      "_Subtitle_": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678057917860
+        }
+      }
+    },
+    "History": {
+      "History": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1678138522033
+        }
+      }
+    },
+    "OdinysMap": {
+      "OdinysMap": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679855258004
+        }
+      }
+    },
+    "Nallas": {
+      "Nallas": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1680349383949
+        }
+      }
+    }
+  }
+}

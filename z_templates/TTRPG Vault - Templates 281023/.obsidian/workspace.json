@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "07b62134b347c791",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a3d8a4138613018",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8316222c684fd792",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/1. DM Templates/1. Story World Templates/People/Template - Party Dashboard.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "60be647eb1c8306f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4045b5e05b33eb71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c39202ca6eba922f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a907d097afaddcc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6ffd2e43b43f397a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294.5
+  },
+  "right": {
+    "id": "3033ea62766b0e5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "59ba159321b794b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d07c3858b533773e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "195978081757faee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "z_Templates/1. DM Templates/1. Story World Templates/People/Template - Party Dashboard.md"
+              }
+            }
+          },
+          {
+            "id": "870567eab87fddec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "z_Templates/1. DM Templates/1. Story World Templates/People/Template - Party Dashboard.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8b9b45f43e00d058",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "z_Templates/1. DM Templates/1. Story World Templates/People/Template - Party Dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "51666c429aa5407f",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 358.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "dbfolder:Create a new database table": false
+    }
+  },
+  "active": "c39202ca6eba922f",
+  "lastOpenFiles": [
+    "z_Templates/1. DM Templates/1. Story World Templates/People/Template - NPC.md",
+    "z_Templates/1. DM Templates/1. Story World Templates/People/Template - Group.md",
+    "z_Templates/1. DM Templates/1. Story World Templates/People/Template - Party Dashboard.md",
+    "z_Templates/1. DM Templates/1. Story World Templates/People/Template - Player.md",
+    "z_Templates/1. DM Templates/1. Story World Templates/Places/Template - Kingdom.md",
+    "z_Templates/1. DM Templates/1. Story World Templates/Places/Template - Settlement.md",
+    "z_Templates/1. DM Templates/1. Story World Templates/Session Notes/Template - Session Notes.md",
+    "z_Templates/1. DM Templates/1. Story World Templates/Session Notes/Template - Adventure.md",
+    "z_Templates/1. DM Templates/1. Story World Templates/Session Notes/Template - Letter.md",
+    "Campaign/4. Kingdoms/🗺️ Kingdoms Database.md",
+    "Campaign/6. Settlements/🌁 Settlement Database.md",
+    "Campaign/4. Kingdoms/Rearth/Voborn.md",
+    "Campaign/4. Kingdoms/Rearth",
+    "Campaign/15. Letters/✉️ Letter Database.md",
+    "z_Templates/1. DM Templates/1. Story World Templates/Places/Template - ShopService.md",
+    "Campaign/13. NPCs/👨‍👩‍👧‍👦 NPC Database.md",
+    "Campaign/0. Parties/0. Party Hubs/🎊Party Database.md",
+    "Campaign/0. Parties/1. Characters/🧙‍♂️ Player Database.md",
+    "Campaign/0. Parties/2. Session Log/📝 Session Note Database.md",
+    "Campaign/10. Shops & Services/💲 Shop & Service Database.md",
+    "Campaign/12. Groups/🔰 Group Database.md",
+    "Campaign/5. Areas",
+    "To Do.md",
+    "Campaign/14. Letters/Test.md",
+    "Campaign/14. Letters/NPCs/Strange Mischief.md",
+    "Campaign/14. Letters/Motley Few/Wyn's New Adventure.md",
+    "Campaign/14. Letters/NPCs/Jeniss's Directive.md",
+    "Campaign/14. Letters/NPCs",
+    "Campaign/14. Letters/Motley Few",
+    "Campaign/15. Letters",
+    "2. My Campaign/0. Parties/0. Party Hubs/Motley Few/Story Planning.canvas",
+    "z_Assets/Misc/Encounter Adjustment Example.png",
+    "z_Assets/Misc/TABLE 10–14 HAZARD XP.png",
+    "z_Assets/Misc/PlaceholderTavern.jpg",
+    "z_Assets/Misc/TABLE 10–2 CREATURE XP AND ROLE.png",
+    "z_Assets/Misc/Table 10-1 Encounter Budget.png",
+    "z_Assets/Misc/Adventure Groups Examples.png",
+    "z_Canvas/Clergy of the Hearth Mother Hierarch.canvas",
+    "z_Assets/Aranor/Groups/ClergyoftheHearthMother.png",
+    "z_Assets/Aranor/NPCs/AydaSyrel.png",
+    "z_Canvas/YEs Hierarch.canvas",
+    "z_Canvas/Phoenix Consort Hierarch.canvas",
+    "z_Canvas",
+    "Untitled.canvas",
+    "z_Assets/Aranor/Groups/Odinys/Odinys Merchants Guild/OdinysMerchantsGuild.png",
+    "z_Assets/Aranor/NPCs/Aizze.png",
+    "2. My Campaign/10. Keyed Locations/Aranor/Odinys/Dyull Sanctuary",
+    "2. My Campaign/6. Districts/Aranor/Odinys/Valdian",
+    "2. My Campaign/6. Districts/Aranor/Odinys",
+    "2. My Campaign/6. Districts/Aranor",
+    "0. TTRPG Systems/Pathfinder 2e/🧮Pf2e Calculators.canvas",
+    "2. My Campaign/0. Parties/1. Motley Few (Motley Few)/Story Planning.canvas"
+  ]
+}

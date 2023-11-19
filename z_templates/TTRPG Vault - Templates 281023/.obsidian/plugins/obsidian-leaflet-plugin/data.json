@@ -1,0 +1,1360 @@
+{
+  "mapMarkers": [
+    {
+      "id": "Kamderah",
+      "locked": true,
+      "lastAccessed": 1686925499449,
+      "markers": [
+        {
+          "id": "ID_29eb984a9a5a",
+          "type": "Shop",
+          "loc": [
+            -144.1875,
+            168.25
+          ],
+          "link": "Babbling Wraith",
+          "layer": "%5B%5BKamderahMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6192776627559237,
+            0.5978232702772739
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fb2909984918",
+          "type": "Shop",
+          "loc": [
+            -87.39583206176758,
+            169.54166793823242
+          ],
+          "link": "Jannah's Mixtures",
+          "layer": "%5B%5BKamderahMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6240319040744695,
+            0.3623563910309099
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0baad989294b",
+          "type": "Shop",
+          "loc": [
+            -94.10416603088379,
+            167.04166412353516
+          ],
+          "link": "Jiri's Shop",
+          "layer": "%5B%5BKamderahMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6148301417015327,
+            0.39017016234624013
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_299a68cb98db",
+          "type": "Shop",
+          "loc": [
+            -99.83333206176758,
+            162.14583587646484
+          ],
+          "link": "Reader's Creed",
+          "layer": "%5B%5BKamderahMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.596810069938679,
+            0.4139241547002543
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a397a18caea",
+          "type": "Tavern",
+          "loc": [
+            -113.41666793823242,
+            113.875
+          ],
+          "link": "Sour Pint",
+          "layer": "%5B%5BKamderahMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4191396365309409,
+            0.47024272791182137
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0beb2a5bca28",
+          "type": "Shop",
+          "loc": [
+            -114.70833206176758,
+            163.72916793823242
+          ],
+          "link": "Brima's Blades",
+          "layer": "%5B%5BKamderahMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6026378392021438,
+            0.47559816351082695
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_38ea58493a68",
+          "type": "POI",
+          "loc": [
+            -105.41666603088379,
+            155.35416412353516
+          ],
+          "link": "Hearth Temple (Kamderah)",
+          "layer": "%5B%5BKamderahMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5718119682485766,
+            0.43707350518117144
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "2. My Campaign/5. Settlements/Aranor/Odinys/Kamderah.md"
+      ]
+    },
+    {
+      "id": "Meshwich",
+      "lastAccessed": 1686925504304,
+      "markers": [
+        {
+          "id": "ID_8b7968fadb59",
+          "type": "Shop",
+          "loc": [
+            -95.375,
+            154.2083282470703
+          ],
+          "link": "Charring Forge",
+          "layer": "%5B%5BMeshwichMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_39bb08d93909",
+          "type": "Shop",
+          "loc": [
+            -135.17578506469727,
+            110.04167175292969
+          ],
+          "link": "Lionshield Wares",
+          "layer": "%5B%5BMeshwichMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1b3af9babb78",
+          "type": "Tavern",
+          "loc": [
+            -106.13411331176758,
+            107.41666412353516
+          ],
+          "link": "Stonehill Inn",
+          "layer": "%5B%5BMeshwichMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9a39ca2889f9",
+          "type": "POI",
+          "loc": [
+            -129.33334350585938,
+            134.91665649414062
+          ],
+          "link": "Jarl's Hall (Meshwich)",
+          "layer": "%5B%5BMeshwichMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "2. My Campaign/5. Settlements/Aranor/Odinys/Meshwich.md"
+      ]
+    },
+    {
+      "id": "GnomengardeMap",
+      "locked": true,
+      "lastAccessed": 1688860024505,
+      "markers": [
+        {
+          "id": "ID_0b7a4ba90bf9",
+          "type": "Info",
+          "loc": [
+            -157.17578506469727,
+            378.54166412353516
+          ],
+          "layer": "%5B%5BGnomengardeMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "30 ft",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f938bb5ab819",
+          "type": "Info",
+          "loc": [
+            -267.1666717529297,
+            379.4166564941406
+          ],
+          "layer": "%5B%5BGnomengardeMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6569985393837933,
+            0.7269841408242985
+          ],
+          "description": "40 ft",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_29db1baa39fa",
+          "type": "Info",
+          "loc": [
+            -271.2174530029297,
+            328.9166488647461
+          ],
+          "layer": "%5B%5BGnomengardeMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "40 ft",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_184bfaf81b09",
+          "type": "Info",
+          "loc": [
+            -186.3697967529297,
+            268.4999084472656
+          ],
+          "layer": "%5B%5BGnomengardeMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "30 ft",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba8818e9a9bb",
+          "type": "Keyed Location",
+          "loc": [
+            -289.9166564941406,
+            359.5833435058594
+          ],
+          "link": "Gnomengarde#G2. Waterfall and Rope Bridge",
+          "layer": "%5B%5BGnomengardeMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6226551402698863,
+            0.788888861208546
+          ],
+          "description": "G2",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8b799938a8aa",
+          "type": "Keyed Location",
+          "loc": [
+            -231.41666412353516,
+            345
+          ],
+          "link": "Gnomengarde#G1. Misty Pool and Mushroom Islands",
+          "layer": "%5B%5BGnomengardeMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5974025974025974,
+            0.6297052084994154
+          ],
+          "description": "G1",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e88b2b5bfb4b",
+          "type": "Keyed Location",
+          "loc": [
+            -114.58333587646484,
+            423.9166717529297
+          ],
+          "link": "Gnomengarde#G3. Dining Room",
+          "layer": "%5B%5BGnomengardeMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7340548428622159,
+            0.31179139014004037
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_382b1888db9a",
+          "type": "Keyed Location",
+          "loc": [
+            -48.268226623535156,
+            466.5833282470703
+          ],
+          "link": "Gnomengarde#G4. Kitchen",
+          "layer": "%5B%5BGnomengardeMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_08aa4a3868b8",
+          "type": "Keyed Location",
+          "loc": [
+            -71.35155487060547,
+            527.7500152587891
+          ],
+          "link": "Gnomengarde#G5. Pantry",
+          "layer": "%5B%5BGnomengardeMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_191838787a48",
+          "type": "Keyed Location",
+          "loc": [
+            -111.76822662353516,
+            507.6666717529297
+          ],
+          "link": "Gnomengarde#G6. Barrel Crabs",
+          "layer": "%5B%5BGnomengardeMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8a0b4ae80b3b",
+          "type": "Keyed Location",
+          "loc": [
+            -190.01822662353516,
+            449.66664123535156
+          ],
+          "link": "Gnomengarde#G7. Autoloading Crossbow Platform",
+          "layer": "%5B%5BGnomengardeMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9baa19ebaaf9",
+          "type": "Keyed Location",
+          "loc": [
+            -243.2682342529297,
+            499.41664123535156
+          ],
+          "link": "Gnomengarde#G8. Mimic and Mushroom Wine",
+          "layer": "%5B%5BGnomengardeMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1a0a78fa7818",
+          "type": "Keyed Location",
+          "loc": [
+            -292.6666717529297,
+            445.9166564941406
+          ],
+          "link": "Gnomengarde#G9. Gnome Guard Post",
+          "layer": "%5B%5BGnomengardeMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7721500545353085,
+            0.7963718959263393
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0ad929c99ac8",
+          "type": "Keyed Location",
+          "loc": [
+            -314.01822662353516,
+            257.24993896484375
+          ],
+          "link": "Gnomengarde#G10. Spinning Blades",
+          "layer": "%5B%5BGnomengardeMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_19f84aa879b8",
+          "type": "Keyed Location",
+          "loc": [
+            -269.5833282470703,
+            172.5
+          ],
+          "link": "Gnomengarde#G11. Inventors' Workshop",
+          "layer": "%5B%5BGnomengardeMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2987012987012987,
+            0.7335600768627764
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a2a3829f9a9",
+          "type": "Keyed Location",
+          "loc": [
+            -325.1666564941406,
+            133.83334350585938
+          ],
+          "link": "Gnomengarde#G13. Treasury",
+          "layer": "%5B%5BGnomengardeMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.23174604936079546,
+            0.8848072285554847
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_dae828ba693a",
+          "type": "Keyed Location",
+          "loc": [
+            -247.0182113647461,
+            88.49992370605469
+          ],
+          "link": "Gnomengarde#G14. Throne Room",
+          "layer": "%5B%5BGnomengardeMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6a09c8e90afb",
+          "type": "Keyed Location",
+          "loc": [
+            -181.51820373535156,
+            122.41658020019531
+          ],
+          "link": "Gnomengarde#G15. Gnome Kings' Bedroom",
+          "layer": "%5B%5BGnomengardeMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fb68589a3a3b",
+          "type": "Keyed Location",
+          "loc": [
+            -209.26822662353516,
+            220.8333282470703
+          ],
+          "link": "Gnomengarde#G12. Gnome Domiciles",
+          "layer": "%5B%5BGnomengardeMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "2. My Campaign/7. Landmarks/Aranor/Odinys/Gnomengarde.md"
+      ]
+    },
+    {
+      "id": "OdinysMap",
+      "locked": true,
+      "lastAccessed": 1689159168143,
+      "markers": [
+        {
+          "id": "ID_f939da6a2969",
+          "type": "Settlement",
+          "loc": [
+            100.29166412353516,
+            120.08334350585938
+          ],
+          "link": "Valdian",
+          "layer": "%5B%5BOdinysMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.16584325488388033,
+            -0.20607894165851154
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fabaeb8a89cb",
+          "type": "Settlement",
+          "loc": [
+            100.58333206176758,
+            150.39583587646484
+          ],
+          "link": "Kamderah",
+          "layer": "%5B%5BOdinysMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.207706866036069,
+            -0.20667825986259103
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4bcb2a588bb9",
+          "type": "Settlement",
+          "loc": [
+            92.0122699018995,
+            201.08349089992447
+          ],
+          "link": "Onyxdale",
+          "layer": "%5B%5BOdinysMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2777099609375,
+            -0.18906647293861242
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f88b08c9bbda",
+          "type": "Settlement",
+          "loc": [
+            81.9654592542751,
+            161.80959816499058
+          ],
+          "link": "Meshwich",
+          "layer": "%5B%5BOdinysMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2234700471162796,
+            -0.1684223234631822
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2839e9eaca59",
+          "type": "POI",
+          "loc": [
+            67.61708595096361,
+            155.79919591970153
+          ],
+          "link": "Gnomengarde",
+          "layer": "%5B%5BOdinysMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.21516927331686023,
+            -0.13893933890301488
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7bba3a0b5969",
+          "type": "POI",
+          "loc": [
+            69.0018385290528,
+            171.6207047539539
+          ],
+          "link": "Hyrun Ruins",
+          "layer": "%5B%5BOdinysMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.23701985180377957,
+            -0.14178472339479092
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1bbaf84999e8",
+          "type": "Fortification",
+          "loc": [
+            68.00010032584079,
+            165.05051143849104
+          ],
+          "link": "Urvad Keep",
+          "layer": "%5B%5BOdinysMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.22794596850872037,
+            -0.13972635542831116
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_192b4959aa4b",
+          "type": "POI",
+          "loc": [
+            63.58068833822148,
+            163.19434534828315
+          ],
+          "link": "Dyull Sanctuary",
+          "layer": "%5B%5BOdinysMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2253824770450592,
+            -0.13064536397083862
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2af90a0bfb9b",
+          "type": "Motley Few",
+          "loc": [
+            64.65607630474494,
+            167.56957664906983
+          ],
+          "link": "🛡️ Motley Few - Motley Few",
+          "layer": "%5B%5BOdinysMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2314249686896801,
+            -0.1328550671994188
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_481bda084b4a",
+          "type": "Settlement",
+          "loc": [
+            139.392578125,
+            169.2451171875
+          ],
+          "link": "Feldon",
+          "layer": "%5B%5BOdinysMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b8b9388bc91a",
+          "type": "Settlement",
+          "loc": [
+            185.017578125,
+            106.3701171875
+          ],
+          "link": "Nallas",
+          "layer": "%5B%5BOdinysMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a8a195b0b5a",
+          "type": "POI",
+          "loc": [
+            63.89004485759229,
+            166.96558870767356
+          ],
+          "link": "Forgotten Tomb",
+          "layer": "%5B%5BOdinysMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.23059082031250003,
+            -0.13128102860622218
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "2. My Campaign/4. Kingdoms/Aranor/Odinys.md"
+      ]
+    },
+    {
+      "id": "Valdian",
+      "locked": true,
+      "lastAccessed": 1689168779628,
+      "markers": [
+        {
+          "id": "ID_9888c92bda5b",
+          "type": "POI",
+          "loc": [
+            -174.173828125,
+            144.28906059265137
+          ],
+          "link": "Irius Mansion",
+          "layer": "%5B%5BValdian.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 3,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b1818eb6b09",
+          "type": "Fortification",
+          "loc": [
+            -159.6536407470703,
+            131.94791412353516
+          ],
+          "layer": "%5B%5BValdian.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Keep",
+          "minZoom": 3,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f87b594aa8f9",
+          "type": "POI",
+          "loc": [
+            -136.3125,
+            132.29166793823242
+          ],
+          "link": "Eclipse Academy of the Arcane",
+          "layer": "%5B%5BValdian.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5536664104137375,
+            0.4970373746581586
+          ],
+          "description": null,
+          "minZoom": 3,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_389a3bd8d878",
+          "type": "Shop",
+          "loc": [
+            -158.98958206176758,
+            120.64583206176758
+          ],
+          "link": "Dancing Hourglass",
+          "layer": "%5B%5BValdian.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5049263178101704,
+            0.5797250029599547
+          ],
+          "description": null,
+          "minZoom": 3,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_39f8db78eb29",
+          "type": "Tavern",
+          "loc": [
+            -155.01041793823242,
+            112.65625
+          ],
+          "link": "Bear and Bottle",
+          "layer": "%5B%5BValdian.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4714883599267591,
+            0.5652157445332084
+          ],
+          "description": null,
+          "minZoom": 3,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b3a7998eaa9",
+          "type": "POI",
+          "loc": [
+            -157.45182418823242,
+            98.26562881469727
+          ],
+          "link": "Central Halls of Ancestry",
+          "layer": "%5B%5BValdian.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 3,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f9d82a8bbac9",
+          "type": "POI",
+          "loc": [
+            -146.95182418823242,
+            134.8697853088379
+          ],
+          "link": "Halls of Lore",
+          "layer": "%5B%5BValdian.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 3,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a6ae869c94a",
+          "type": "Keyed Location",
+          "loc": [
+            -185.1666717529297,
+            124.75
+          ],
+          "link": "Fellidak",
+          "layer": "%5B%5BValdianMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.522103060423751,
+            0.6751747374764984
+          ],
+          "description": "",
+          "minZoom": null,
+          "maxZoom": 2,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "polygon",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": -190.16666412353516,
+              "lng": 139.3125,
+              "id": "ID_abbb6b3aaa88",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -178.66666412353516,
+              "lng": 131.6875,
+              "id": "ID_8a3bf9ab2829",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -169.91666412353516,
+              "lng": 133.4375,
+              "id": "ID_bb695ae809f8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -161.66666412353516,
+              "lng": 122.6875,
+              "id": "ID_f97b6a7b9b9b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -164.79166412353516,
+              "lng": 112.1875,
+              "id": "ID_092a9aa80a79",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -190.04166412353516,
+              "lng": 115.4375,
+              "id": "ID_88caaa7a18ab",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -204.66666412353516,
+              "lng": 125.0625,
+              "id": "ID_1b6a1bd89be8",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ]
+        }
+      ],
+      "files": [
+        "2. My Campaign/5. Settlements/Aranor/Odinys/Valdian.md"
+      ]
+    },
+    {
+      "id": "TBD",
+      "lastAccessed": 1698518723998,
+      "markers": [
+        {
+          "id": "ID_db3afa1b6baa",
+          "type": "Keyed Location",
+          "loc": [
+            -158.1666717529297,
+            216.33331298828125
+          ],
+          "link": "Cave Opening",
+          "layer": "%5B%5BDyullSanctuaryCaveMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9614813910590277,
+            0.7988215745097459
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f97b6a88799b",
+          "type": "Keyed Location",
+          "loc": [
+            -91,
+            111.5
+          ],
+          "link": "Pool",
+          "layer": "%5B%5BDyullSanctuaryCaveMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4955555555555556,
+            0.4595959595959596
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2af83a8a8878",
+          "type": "Keyed Location",
+          "loc": [
+            -138.66668701171875,
+            180
+          ],
+          "link": "Entrance",
+          "layer": "%5B%5BDyullSanctuaryCaveMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8,
+            0.7003368030894886
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d809a80bd99a",
+          "type": "Keyed Location",
+          "loc": [
+            -46.24999237060547,
+            176.1041717529297
+          ],
+          "link": "Storage Space",
+          "layer": "%5B%5BDyullSanctuaryCaveMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1a985a2888db",
+          "type": "Keyed Location",
+          "loc": [
+            -192.5,
+            120.58331298828125
+          ],
+          "link": "Hot Spring Entrance",
+          "layer": "%5B%5BDyullSanctuaryCaveMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5359258355034722,
+            0.9722222222222222
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c86a6a09e81a",
+          "type": "Keyed Location",
+          "loc": [
+            -59.33332824707031,
+            56.916656494140625
+          ],
+          "link": "Living Space",
+          "layer": "%5B%5BDyullSanctuaryCaveMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2529629177517361,
+            0.29966327397510256
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ebaa7ba90a7b",
+          "type": "Keyed Location",
+          "loc": [
+            -146.08334350585938,
+            10.25
+          ],
+          "link": "Tight Hollow",
+          "layer": "%5B%5BDyullSanctuaryCaveMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.04555555555555556,
+            0.7377946641710069
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "z_Templates/1. DM Templates/1. Story World Templates/Places/Template - Settlement.md",
+        "z_Templates/1. DM Templates/1. Story World Templates/Places/Template - Kingdom.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "Settlement",
+      "iconName": "city",
+      "color": "#2b4700",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "POI",
+      "iconName": "binoculars",
+      "color": "#730d52",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Fortification",
+      "iconName": "chess-rook",
+      "color": "#262626",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Info",
+      "iconName": "info",
+      "color": "#121212",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Tavern",
+      "iconName": "beer",
+      "color": "#330a0a",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Shop",
+      "iconName": "tag",
+      "color": "#a87b00",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Keyed Location",
+      "iconName": "align-justify",
+      "color": "#341e04",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Motley Few",
+      "iconName": "users",
+      "color": "#a12eff",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": true,
+  "layerMarkers": true,
+  "previousVersion": "5.7.3",
+  "version": {
+    "major": 5,
+    "minor": 7,
+    "patch": 3
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>.",
+  "defaultTileSubdomains": "a,b,c"
+}

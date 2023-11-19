@@ -1,0 +1,17 @@
+{
+  "accentColor": "",
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "PF2e-Actions-Font",
+    "Pathfinder2E-TTRPG-Statblock-v1.4",
+    "MyCallourts",
+    "FantasyFonts",
+    "MyCallouts",
+    "SlimHorizontalLine",
+    "BetterLeafletIcons"
+  ],
+  "baseFontSize": 16,
+  "textFontFamily": "",
+  "translucency": false,
+  "nativeMenus": false
+}

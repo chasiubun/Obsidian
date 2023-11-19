@@ -1,0 +1,91 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1683053763994,
+      "items": [
+        {
+          "type": "file",
+          "path": "0. TTRPG Systems/Pathfinder 2e/🧮Pf2e Calculators.canvas",
+          "ctime": 1683053738546
+        },
+        {
+          "type": "file",
+          "path": "2. My Campaign/1. Lore/🔗Aranor Links.md",
+          "ctime": 1683053738546
+        },
+        {
+          "type": "file",
+          "path": "2. My Campaign/0. Parties/1. Motley Few (Motley Few)/🛡️ Motley Few - Motley Few.md",
+          "ctime": 1683053738546
+        },
+        {
+          "type": "file",
+          "ctime": 1683146399516,
+          "path": "2. My Campaign/0. Parties/0. Party Hubs/Motley Few/🛡️ Motley Few.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1686916118402,
+          "path": "Campaign/0. Parties/2. Session Log/📝 Session Note Database.md"
+        },
+        {
+          "type": "file",
+          "path": "2. My Campaign/2. Deities/🧞‍♀️ Deity Database.md",
+          "ctime": 1683053738546
+        },
+        {
+          "type": "file",
+          "path": "2. My Campaign/4. Kingdoms/🗺️ Kingdoms Database.md",
+          "ctime": 1683053738546
+        },
+        {
+          "type": "file",
+          "path": "Campaign/6. Settlements/🌁 Settlement Database.md",
+          "ctime": 1683053738546
+        },
+        {
+          "type": "file",
+          "ctime": 1686926912593,
+          "path": "2. My Campaign/6. Districts/🪧 District Database.md"
+        },
+        {
+          "type": "file",
+          "path": "2. My Campaign/7. Landmarks/🏰Landmark Database.md",
+          "ctime": 1683053738546
+        },
+        {
+          "type": "file",
+          "path": "2. My Campaign/8. Points of Interests/❓ POI Database.md",
+          "ctime": 1683053738546
+        },
+        {
+          "type": "file",
+          "path": "Campaign/10. Shops & Services/💲 Shop & Service Database.md",
+          "ctime": 1683053738546
+        },
+        {
+          "type": "file",
+          "ctime": 1686922792740,
+          "path": "Campaign/10. Keyed Locations/🔑 Keyed Location Database.md"
+        },
+        {
+          "type": "file",
+          "path": "Campaign/12. Groups/🔰 Group Database.md",
+          "ctime": 1683053738546
+        },
+        {
+          "type": "file",
+          "path": "Campaign/13. NPCs/👨‍👩‍👧‍👦 NPC Database.md",
+          "ctime": 1683053738546
+        },
+        {
+          "type": "file",
+          "path": "2. My Campaign/13. Literature/📕 Literature Database.md",
+          "ctime": 1683053738546
+        }
+      ],
+      "title": "My Campaign"
+    }
+  ]
+}

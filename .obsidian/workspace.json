@@ -35,28 +35,14 @@
             "id": "faea6cb0b4835dcb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "1. Worldbuilding/Atlas/Cities/Rocheste/Ainle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "509658090b2301cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Worldbuilding/Culture/Vindictus Adventuring Party/Evie.md",
-                "mode": "source",
-                "source": false
+                "file": "3. Campaign Notes/What's in a Name? OneShot/NPCS/NPCS - What's in a Name?.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Worldbuilding/Culture/Vindictus Adventuring Party/Evie.md",
+                "file": "3. Campaign Notes/What's in a Name? OneShot/NPCS/NPCS - What's in a Name?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Worldbuilding/Culture/Vindictus Adventuring Party/Evie.md",
+                "file": "3. Campaign Notes/What's in a Name? OneShot/NPCS/NPCS - What's in a Name?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Worldbuilding/Culture/Vindictus Adventuring Party/Evie.md"
+                "file": "3. Campaign Notes/What's in a Name? OneShot/NPCS/NPCS - What's in a Name?.md"
               }
             }
           },
@@ -224,53 +210,53 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "509658090b2301cc",
+  "active": "faea6cb0b4835dcb",
   "lastOpenFiles": [
-    "1. Worldbuilding/Atlas/Cities/Rocheste/Rocheste.md",
-    "3. Campaign Notes/Vindictus LMAO.md",
-    "z_templates/NPC.md",
-    "Test.md",
-    "z_templates/Tradition and Ritual.md",
-    "3. Campaign Notes/LMoP - Guild of Truth and Light/2. Campaign Roadmap.md",
-    "1. Worldbuilding/Shalom_NPC.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/npc/gundren-rockseeker-lmop.md",
-    "3. Campaign Notes/LMoP - Guild of Truth and Light/1. Overview.md",
-    "3. Campaign Notes/What's in a Name? OneShot/Session Summary.md",
-    "3. Campaign Notes/Unused Plot Hooks/Plot Hook 1.md",
-    "z_templates/Building and Landmark.md",
-    "z_templates/Myths and Legends.md",
-    "z_templates/Organization.md",
-    "z_templates/Plot or Quest.md",
-    "z_templates/Technology.md",
+    "3. Campaign Notes/What's in a Name? OneShot/NPCS/Nilbog.md",
+    "3. Campaign Notes/What's in a Name? OneShot/NPCS/NPCS - What's in a Name?.md",
+    "3. Campaign Notes/What's in a Name? OneShot/NPCS/Deaf Boggle.md",
     "z_templates/Character Sheet.md",
-    "z_templates/Documents.md",
-    "z_templates/Geography.md",
-    "z_templates/Item.md",
-    "z_templates/Military Formation.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/aberration/beholder.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/aberration/aberration.md",
-    "1. Worldbuilding/Atlas/Regions/Fontaine.md",
-    "1. Worldbuilding/Atlas/Regions/Astrale.md",
-    "1. Worldbuilding/Culture/Vindictus Adventuring Party/Miri.md",
-    "1. Worldbuilding/Culture/Vindictus Adventuring Party",
-    "3. Campaign Notes/LMoP - Guild of Truth and Light",
-    "3. Campaign Notes/Unused Plot Hooks",
-    "1. Worldbuilding/Timeline",
-    "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects",
-    "1. Worldbuilding/Atlas/Cities/Rocheste",
+    "z_templates/TTRPG Vault - Templates 281023/Campaign/6. Settlements/🌁 Settlement Database.md",
+    "3. Campaign Notes/Vindictus LMAO.md",
+    "3. Campaign Notes/What's in a Name? OneShot/NPCS",
+    "3. Campaign Notes/What's in a Name? OneShot/Session Summary.md",
+    "3. Campaign Notes/LMoP - Guild of Truth and Light/1. Overview.md",
+    "Pasted image 20231118181109.png",
+    "z_Assets/Misc/ImagePlaceholder.png.md",
+    "1. Worldbuilding/Atlas/Cities/Rocheste/Rocheste.md",
+    "1. Worldbuilding/Culture/Vindi/Untitled.md",
+    "1. Worldbuilding/Culture/Vindi/Evie.md",
+    "1. Worldbuilding/Atlas/Cities/Rocheste/Ainle.md",
+    "1. Worldbuilding/Culture/Vindi/Delia.md",
+    "1. Worldbuilding/Culture/Vindi/Eira and Arisha.md",
+    "1. Worldbuilding/Culture/Vindi/Tessa.md",
+    "1. Worldbuilding/Culture/Vindi/Vella.md",
+    "1. Worldbuilding/Culture/Vindi/Howdie.md",
+    "z_templates/TTRPG Vault - Templates 281023/z_Templates/1. DM Templates/1. Story World Templates/People/Template - Group.md",
+    "z_templates/TTRPG Vault - Templates 281023/z_Templates/1. DM Templates/1. Story World Templates/People/Template - NPC.md",
+    "z_templates/TTRPG Vault - Templates 281023/z_Templates/1. DM Templates/1. Story World Templates/People/Template - Party Dashboard.md",
+    "z_templates/TTRPG Vault - Templates 281023/z_Templates/1. DM Templates/1. Story World Templates/People/Template - Player.md",
+    "1. Worldbuilding/Culture/Vindictus Adventuring Party/Evie 1.md",
+    "z_templates/TTRPG Vault - Templates 281023/z_Templates/1. DM Templates/1. Story World Templates/Session Notes/Template - Session Notes.md",
+    "z_templates/TTRPG Vault - Templates 281023/z_Templates/1. DM Templates/1. Story World Templates/Session Notes/Template - Letter.md",
+    "z_templates/TTRPG Vault - Templates 281023/z_Templates/1. DM Templates/1. Story World Templates/Session Notes/Template - Adventure.md",
+    "z_templates/TTRPG Vault - Templates 281023/z_Templates/1. DM Templates/1. Story World Templates/Session Notes",
+    "z_templates/TTRPG Vault - Templates 281023/z_Templates/1. DM Templates/1. Story World Templates/Places",
+    "z_templates/TTRPG Vault - Templates 281023/z_Templates/1. DM Templates/1. Story World Templates/People",
+    "z_templates/TTRPG Vault - Templates 281023/z_Templates/1. DM Templates/1. Story World Templates",
+    "z_templates/TTRPG Vault - Templates 281023/z_Assets/Misc/PlaceholderImage.png",
+    "z_templates/TTRPG Vault - Templates 281023/Campaign/0. Parties/4. Service Request",
+    "z_templates/TTRPG Vault - Templates 281023/Campaign/0. Parties/3. Quests",
+    "z_templates/TTRPG Vault - Templates 281023/Campaign/0. Parties/2. Session Log",
+    "z_templates/TTRPG Vault - Templates 281023/Campaign/0. Parties/1. Characters",
+    "z_templates/TTRPG Vault - Templates 281023/Campaign/0. Parties/0. Party Hubs",
+    "TTRPG Vault - Templates 281023/z_Assets/Misc/PlaceholderImage.png",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/zombie.png",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/wraith.png",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/will-o-wisp.png",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/wight.png",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/warhorse-skeleton.png",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/vampiric-mist.png",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/vampire.png",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/vampire-warrior.png",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/vampire-spellcaster.png",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/vampire-spawn.png",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/img",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/plant/token",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/plant/img"
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/vampire.png"
   ]
 }
