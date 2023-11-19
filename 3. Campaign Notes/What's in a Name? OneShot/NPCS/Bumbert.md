@@ -1,18 +1,19 @@
 ---
+Aliases: Reggie the Spunky Kid
+NoteIcon: Character
 Type: NPC
-Party1Relations: Enemy
-Alignment: CN
+Party1Relations: Acquaintance
 Gender: Male
 Age: Child
-Aliases: "*bump fists twice, then clap*"
-NoteIcon: Character
+AssociatedReligion:
+  - Ulal
 ---
 
 > [!infobox]+
 > # `=this.file.name` (`=this.pronouns`)
 > **Pronounced:**  "`=this.Pronounced`"
-> ![[Pasted image 20231118205032.png]]
-> > ###### Bio
+> ![[Pasted image 20231118211331.png]]
+> ###### Bio
 >  |
 > ---|---|
 > **Ancestry** | `=this.ancestry` |

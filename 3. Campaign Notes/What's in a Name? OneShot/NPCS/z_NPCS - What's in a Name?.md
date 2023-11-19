@@ -296,6 +296,8 @@ columns:
       - { label: "Tailor", value: "Tailor", color: "hsl(217, 95%, 90%)"}
       - { label: "Kingsguard", value: "Kingsguard", color: "hsl(264, 95%, 90%)"}
       - { label: "Builder", value: "Builder", color: "hsl(34, 95%, 90%)"}
+      - { label: "Innkeeper", value: "Innkeeper", color: "hsl(210, 95%, 90%)"}
+      - { label: "Store Manager", value: "Store Manager", color: "hsl(350, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -358,6 +360,7 @@ columns:
       - { label: "Gormmesh", value: "Gormmesh", color: "hsl(357, 95%, 90%)"}
       - { label: "Ariah", value: "Ariah", color: "hsl(143, 95%, 90%)"}
       - { label: "Malkor", value: "Malkor", color: "hsl(129, 95%, 90%)"}
+      - { label: "Ulal", value: "Ulal", color: "hsl(25, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -432,6 +435,7 @@ columns:
     sortIndex: -1
     options:
       - { label: "NPC", value: "NPC", color: "hsl(346, 95%, 90%)"}
+      - { label: "Shopkeeper", value: "Shopkeeper", color: "hsl(354, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -489,29 +493,6 @@ columns:
       footer_type: none
       persist_changes: false
       persist_formula: false
-  Pronouns:
-    input: select
-    accessorKey: Pronouns
-    key: Pronouns
-    id: Pronouns
-    label: Pronouns
-    position: 12
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    options:
-      - { label: "He/Him", value: "He/Him", color: "hsl(111, 95%, 90%)"}
-      - { label: "She/Her", value: "She/Her", color: "hsl(17, 95%, 90%)"}
-      - { label: "They/Them", value: "They/Them", color: "hsl(187, 95%, 90%)"}
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
   Heritage:
     input: select
     accessorKey: Heritage

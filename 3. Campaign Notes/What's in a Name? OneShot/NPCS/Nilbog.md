@@ -4,12 +4,14 @@ Party1Relations: Enemy
 Alignment: CN
 Gender: Male
 Age: Ancient
+Aliases: Giorgo
+NoteIcon: Character
 ---
 
 > [!infobox]+
 > # `=this.file.name` (`=this.pronouns`)
 > **Pronounced:**  "`=this.Pronounced`"
-> ![[PlaceholderImage.png]]
+> ![[Pasted image 20231118203815.png]]
 > ###### Bio
 >  |
 > ---|---|

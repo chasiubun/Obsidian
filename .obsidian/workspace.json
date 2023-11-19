@@ -8,41 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b9a54f20908299e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Worldbuilding/Atlas/Regions/Fontaine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27ea1dc72862b5fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Worldbuilding/Atlas/Regions/Fontaine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "faea6cb0b4835dcb",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "3. Campaign Notes/What's in a Name? OneShot/NPCS/NPCS - What's in a Name?.md"
+                "file": "3. Campaign Notes/What's in a Name? OneShot/NPCS/Bumbert.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Campaign Notes/What's in a Name? OneShot/NPCS/NPCS - What's in a Name?.md",
+                "file": "3. Campaign Notes/What's in a Name? OneShot/NPCS/Bumbert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Campaign Notes/What's in a Name? OneShot/NPCS/NPCS - What's in a Name?.md",
+                "file": "3. Campaign Notes/What's in a Name? OneShot/NPCS/Bumbert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Campaign Notes/What's in a Name? OneShot/NPCS/NPCS - What's in a Name?.md"
+                "file": "3. Campaign Notes/What's in a Name? OneShot/NPCS/Bumbert.md"
               }
             }
           },
@@ -212,16 +189,30 @@
   },
   "active": "faea6cb0b4835dcb",
   "lastOpenFiles": [
+    "Pasted image 20231118211331.png",
     "3. Campaign Notes/What's in a Name? OneShot/NPCS/Nilbog.md",
-    "3. Campaign Notes/What's in a Name? OneShot/NPCS/NPCS - What's in a Name?.md",
+    "3. Campaign Notes/What's in a Name? OneShot/NPCS/Maggie.md",
     "3. Campaign Notes/What's in a Name? OneShot/NPCS/Deaf Boggle.md",
+    "Pasted image 20231118205032.png",
+    "3. Campaign Notes/What's in a Name? OneShot/Players/Nadezhda Plavikamen.md",
+    "3. Campaign Notes/What's in a Name? OneShot/Players/Party_Info - What's in a Name?.md",
+    "3. Campaign Notes/What's in a Name? OneShot/Players/Untitled.md",
+    "3. Campaign Notes/What's in a Name? OneShot/Players/Den Koran.md",
+    "3. Campaign Notes/What's in a Name? OneShot/Players/Basilus Simmeran.md",
+    "3. Campaign Notes/What's in a Name? OneShot/Players/Test.md",
+    "3. Campaign Notes/What's in a Name? OneShot/Players",
+    "3. Campaign Notes/What's in a Name? OneShot/NPCS/z_NPCS - What's in a Name?.md",
+    "z_templates/TTRPG Vault - Templates 281023/z_Assets/Pasted image 20231118181109.png",
+    "z_templates/TTRPG Vault - Templates 281023/z_Assets/Pasted image 20231118203815.png",
+    "3. Campaign Notes/What's in a Name? OneShot/Session Summary.md",
+    "3. Campaign Notes/What's in a Name? OneShot/NPCS/Bumbert.md",
+    "3. Campaign Notes/What's in a Name? OneShot/NPCS/Robert.md",
+    "3. Campaign Notes/What's in a Name? OneShot/NPCS/z_Shops - What's in a name?.md",
     "z_templates/Character Sheet.md",
     "z_templates/TTRPG Vault - Templates 281023/Campaign/6. Settlements/🌁 Settlement Database.md",
     "3. Campaign Notes/Vindictus LMAO.md",
     "3. Campaign Notes/What's in a Name? OneShot/NPCS",
-    "3. Campaign Notes/What's in a Name? OneShot/Session Summary.md",
     "3. Campaign Notes/LMoP - Guild of Truth and Light/1. Overview.md",
-    "Pasted image 20231118181109.png",
     "z_Assets/Misc/ImagePlaceholder.png.md",
     "1. Worldbuilding/Atlas/Cities/Rocheste/Rocheste.md",
     "1. Worldbuilding/Culture/Vindi/Untitled.md",
@@ -229,17 +220,6 @@
     "1. Worldbuilding/Atlas/Cities/Rocheste/Ainle.md",
     "1. Worldbuilding/Culture/Vindi/Delia.md",
     "1. Worldbuilding/Culture/Vindi/Eira and Arisha.md",
-    "1. Worldbuilding/Culture/Vindi/Tessa.md",
-    "1. Worldbuilding/Culture/Vindi/Vella.md",
-    "1. Worldbuilding/Culture/Vindi/Howdie.md",
-    "z_templates/TTRPG Vault - Templates 281023/z_Templates/1. DM Templates/1. Story World Templates/People/Template - Group.md",
-    "z_templates/TTRPG Vault - Templates 281023/z_Templates/1. DM Templates/1. Story World Templates/People/Template - NPC.md",
-    "z_templates/TTRPG Vault - Templates 281023/z_Templates/1. DM Templates/1. Story World Templates/People/Template - Party Dashboard.md",
-    "z_templates/TTRPG Vault - Templates 281023/z_Templates/1. DM Templates/1. Story World Templates/People/Template - Player.md",
-    "1. Worldbuilding/Culture/Vindictus Adventuring Party/Evie 1.md",
-    "z_templates/TTRPG Vault - Templates 281023/z_Templates/1. DM Templates/1. Story World Templates/Session Notes/Template - Session Notes.md",
-    "z_templates/TTRPG Vault - Templates 281023/z_Templates/1. DM Templates/1. Story World Templates/Session Notes/Template - Letter.md",
-    "z_templates/TTRPG Vault - Templates 281023/z_Templates/1. DM Templates/1. Story World Templates/Session Notes/Template - Adventure.md",
     "z_templates/TTRPG Vault - Templates 281023/z_Templates/1. DM Templates/1. Story World Templates/Session Notes",
     "z_templates/TTRPG Vault - Templates 281023/z_Templates/1. DM Templates/1. Story World Templates/Places",
     "z_templates/TTRPG Vault - Templates 281023/z_Templates/1. DM Templates/1. Story World Templates/People",
@@ -249,14 +229,11 @@
     "z_templates/TTRPG Vault - Templates 281023/Campaign/0. Parties/3. Quests",
     "z_templates/TTRPG Vault - Templates 281023/Campaign/0. Parties/2. Session Log",
     "z_templates/TTRPG Vault - Templates 281023/Campaign/0. Parties/1. Characters",
-    "z_templates/TTRPG Vault - Templates 281023/Campaign/0. Parties/0. Party Hubs",
     "TTRPG Vault - Templates 281023/z_Assets/Misc/PlaceholderImage.png",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/zombie.png",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/wraith.png",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/will-o-wisp.png",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/wight.png",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/warhorse-skeleton.png",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/vampiric-mist.png",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/vampire.png"
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/warhorse-skeleton.png"
   ]
 }

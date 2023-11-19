@@ -1,18 +1,19 @@
 ---
-Type: NPC
-Party1Relations: Enemy
-Alignment: CN
-Gender: Male
-Age: Child
-Aliases: "*bump fists twice, then clap*"
+Aliases: Reg the Innkeeper
 NoteIcon: Character
+Type: Shopkeeper
+Party1Relations: Acquaintance
+Gender: Male
+Age: Adult
+Occupation:
+  - Innkeeper
 ---
 
 > [!infobox]+
 > # `=this.file.name` (`=this.pronouns`)
 > **Pronounced:**  "`=this.Pronounced`"
-> ![[Pasted image 20231118205032.png]]
-> > ###### Bio
+> ![[PlaceholderImage.png]]
+> ###### Bio
 >  |
 > ---|---|
 > **Ancestry** | `=this.ancestry` |
