@@ -1,8 +1,13 @@
+---
+Art: https://static.wikia.nocookie.net/vindictus_gamepedia/images/3/31/Lann_%28NPC_Icon%29.png/revision/latest?cb=20200430035227
+Age: Adult
+Location: Colhen
+---
 
 > [!infobox]+
 > # `=this.file.name` (`=this.pronouns`)
 > **Pronounced:**  "`=this.Pronounced`"
-> ![[PlaceholderImage.png]]
+>![[Pasted image 20231119003704.png]]
 > ###### Bio
 >  |
 > ---|---|
@@ -25,7 +30,7 @@
 
 # **`=this.file.name`** <span style="font-size: medium">(`=this.occupation`)</span>
 > [!metadata|overview]- Overview 
-> TBD
+> Lann hails from the northwest. He left his hometown when it was destroyed by Fomors and came to Colhen to join the Crimson Blade mercenaries.
 
 ## Aspirations
 ### Example

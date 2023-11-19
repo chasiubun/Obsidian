@@ -1,8 +1,13 @@
+---
+Art: https://static.wikia.nocookie.net/vindictus_gamepedia/images/4/40/Hurk_%28NPC_Icon%29.png/revision/latest?cb=20200430035526
+Gender: Male
+Location: Rocheste
+---
 
 > [!infobox]+
 > # `=this.file.name` (`=this.pronouns`)
 > **Pronounced:**  "`=this.Pronounced`"
-> ![[PlaceholderImage.png]]
+![[Pasted image 20231119003038.png]]
 > ###### Bio
 >  |
 > ---|---|
@@ -25,7 +30,9 @@
 
 # **`=this.file.name`** <span style="font-size: medium">(`=this.occupation`)</span>
 > [!metadata|overview]- Overview 
-> TBD
+> **Hurk**, a mysterious new mercenary, may look like a handsome young adventurer, but he hides a dark secret. He's often found in the shadowy corners of inns, brooding over a mug of ale. Other warriors know to avoid him- Hurk's temper is short, and sparking it means signing your own death warrant. When he hears the sound of steel clashing against steel, Hurk becomes a bloodthirsty berserker. With his mighty greatsword, Hurk has been known to chop enemies in half, and cut through hordes of Fomors in a heartbeat.
+
+
 
 ## Aspirations
 ### Example
@@ -36,7 +43,12 @@
 
 
 ### Friends:
+#### [[Miri]] 
+Wandering the East in search of a new weapon, Hurk stayed at Miri's house for a while, helping Miri's brother in the process.
 
+Even after Hurk's sudden departure, Miri never stopped admiring Hurk's strength and confidence.
+
+Of course, Hurk who doesn't remember people by their names, and remembers Miri, whom he met again in Colhen, as a girl with unusual looks.
 
 ### Rivals:
 

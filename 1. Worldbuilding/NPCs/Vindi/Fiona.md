@@ -1,5 +1,8 @@
 ---
 Art: https://static.wikia.nocookie.net/vindictus_gamepedia/images/a/a6/Fiona_%28NPC_Icon%29.png/revision/latest?cb=20200430035316
+Gender: Female
+Age: Adult
+Location: Colhen
 ---
 
 > [!infobox]+
@@ -28,7 +31,7 @@ Art: https://static.wikia.nocookie.net/vindictus_gamepedia/images/a/a6/Fiona_%28
 
 # **`=this.file.name`** <span style="font-size: medium">(`=this.occupation`)</span>
 > [!metadata|overview]- Overview 
-> TBD
+> Fiona comes from the south. She treasures her privacy and boasts a solemn, serious personality, so no one knows how she came to join the Crimson Blade mercenaries. She rarely speaks about her past. Even as people marvel at her combat abilities, they can't help but wonder what secrets she's hiding.
 
 ## Aspirations
 ### Example

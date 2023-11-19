@@ -1,11 +1,18 @@
 ---
 Art: https://static.wikia.nocookie.net/vindictus_gamepedia/images/6/60/Arisha_%28NPC_Icon%29.png/revision/latest?cb=20200430035546
+AssociatedGroup:
+  - Vindi
+Occupation:
+  - Adventurer
+Age: Adult
+Gender: Female
+Location: Colhen
 ---
 
 > [!infobox]+
 > # `=this.file.name` (`=this.pronouns`)
 > **Pronounced:**  "`=this.Pronounced`"
-> ![[PlaceholderImage.png]]
+> ![[Pasted image 20231118235017.png]]
 > ###### Bio
 >  |
 > ---|---|
@@ -36,7 +43,11 @@ Art: https://static.wikia.nocookie.net/vindictus_gamepedia/images/6/60/Arisha_%2
 
 ## Acquaintances
 ### Family:
+[[Arisha]] and [[Eira]] are sisters, sharing the powers of Time and Space derived from ==PLACEHOLDER==
 
+After years of being separated due to unfortunate events happened during their childhood, the sisters have finally reunited in Colhen's Mercenary corps. But unlike Eira, who has always missed her sister, Arisha has lost her memory and doesn't remember her only sister.
+
+Nevertheless, Arisha is vaguely feeling that she shouldn't give up on her. A strong link formed between the two.
 
 ### Friends:
 

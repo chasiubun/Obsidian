@@ -1,11 +1,14 @@
 ---
 Art: https://static.wikia.nocookie.net/vindictus_gamepedia/images/7/7c/Belle_%28NPC_Icon%29.png/revision/latest?cb=20200430035726
+Gender: Female
+Age: Young Adult
+Location: Rocheste
 ---
 
 > [!infobox]+
 > # `=this.file.name` (`=this.pronouns`)
 > **Pronounced:**  "`=this.Pronounced`"
-> ![[PlaceholderImage.png]]
+![[Pasted image 20231118235349.png]]
 > ###### Bio
 >  |
 > ---|---|
@@ -39,7 +42,15 @@ Art: https://static.wikia.nocookie.net/vindictus_gamepedia/images/7/7c/Belle_%28
 
 
 ### Friends:
+Sylas and Belle often quarreled with each other ever since they've first met.
 
+Belle thought Sylas was a child, while Sylas thought Belle was a child.
+
+But as time went past, the two gradually learned the secrets they've been keeping hidden from each other.
+
+Sylas possessed the Phantom Magic and Belle could no longer age.
+
+They uncover each other's pain hidden behind their childlike attitudes.
 
 ### Rivals:
 

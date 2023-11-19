@@ -1,8 +1,13 @@
+---
+Art: https://static.wikia.nocookie.net/vindictus_gamepedia/images/d/d2/Letty_%28NPC_Icon%29.png/revision/latest?cb=20220609164805
+Age: Young Adult
+Location: Malina
+---
 
 > [!infobox]+
 > # `=this.file.name` (`=this.pronouns`)
 > **Pronounced:**  "`=this.Pronounced`"
-> ![[PlaceholderImage.png]]
+> ![[Pasted image 20231119004031.png]]
 > ###### Bio
 >  |
 > ---|---|

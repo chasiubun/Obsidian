@@ -1,11 +1,14 @@
 ---
 Art: https://static.wikia.nocookie.net/vindictus_gamepedia/images/f/f0/Eira_%28NPC_Icon%29.png/revision/latest?cb=20200430035713
+Gender: Female
+Age: Young Adult
+Location: Colhen
 ---
 
 > [!infobox]+
 > # `=this.file.name` (`=this.pronouns`)
 > **Pronounced:**  "`=this.Pronounced`"
-> ![[PlaceholderImage.png]]
+> ![[Pasted image 20231119000706.png]]
 > ###### Bio
 >  |
 > ---|---|
@@ -28,7 +31,7 @@ Art: https://static.wikia.nocookie.net/vindictus_gamepedia/images/f/f0/Eira_%28N
 
 # **`=this.file.name`** <span style="font-size: medium">(`=this.occupation`)</span>
 > [!metadata|overview]- Overview 
-> TBD
+A gunner who can bend space itself to her will. She stalks the battlefield seeking her lost older sister who was condemned as a witch. She found [[Arisha]] being pursued by a clan of lizardmen who wanted to establish her as a goddess. Eira power to open portals allows her to attack and evade from anywhere on the battlefield.
 
 ## Aspirations
 ### Example
@@ -36,7 +39,11 @@ Art: https://static.wikia.nocookie.net/vindictus_gamepedia/images/f/f0/Eira_%28N
 
 ## Acquaintances
 ### Family:
+Arisha and Eira are sisters, sharing the powers of Time and Space derived from ==PLACEHOLDER==
 
+After years of being separated due to unfortunate events happened during their childhood when Arisha was condemned as a witch, the sisters have finally reunited in Colhen's Mercenary corps. But unlike Eira, who has always missed her sister, Arisha has lost her memory and doesn't remember her only sister.
+
+Nevertheless, Arisha is vaguely feeling that she shouldn't give up on her. A strong link formed between the two.
 
 ### Friends:
 

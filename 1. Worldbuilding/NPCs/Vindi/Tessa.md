@@ -1,8 +1,13 @@
+---
+Art: https://static.wikia.nocookie.net/vindictus_gamepedia/images/f/fe/Tessa_%28NPC_Icon%29.png/revision/latest?cb=20201202212359
+Age: Adult
+Location: Rocheste
+---
 
 > [!infobox]+
 > # `=this.file.name` (`=this.pronouns`)
 > **Pronounced:**  "`=this.Pronounced`"
-> ![[PlaceholderImage.png]]
+![[Pasted image 20231119004741.png]]
 > ###### Bio
 >  |
 > ---|---|
@@ -36,6 +41,12 @@
 
 
 ### Friends:
+#### [[Kai]] 
+The ones left behind.
+
+The Headhunter and the Solver, wandering through the darkness of the city, met in a small bar. They're chasing the people they hold dear, each for their own reasons. Despite them having completely different purposes, the two understand each other's hearts. After a brief meeting, the Headhunter decided to follow the in the Solver's footsteps.
+
+If I become friends with him, it will be of great help to me. Also. Because that face full of indifference strangely resembles the past lover.
 
 
 ### Rivals:

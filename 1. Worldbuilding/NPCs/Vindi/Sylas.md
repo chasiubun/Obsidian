@@ -1,8 +1,13 @@
+---
+Art: https://static.wikia.nocookie.net/vindictus_gamepedia/images/0/0d/Sylas_%28NPC_Icon%29.png/revision/latest?cb=20200430035604
+Age: Ancient
+Location: Malina
+---
 
 > [!infobox]+
 > # `=this.file.name` (`=this.pronouns`)
 > **Pronounced:**  "`=this.Pronounced`"
-> ![[PlaceholderImage.png]]
+![[Pasted image 20231119004439.png]]]
 > ###### Bio
 >  |
 > ---|---|
@@ -25,7 +30,7 @@
 
 # **`=this.file.name`** <span style="font-size: medium">(`=this.occupation`)</span>
 > [!metadata|overview]- Overview 
-> TBD
+> A magician adept in manipulating phantom energy. He left his old world to escape a turbulent past.
 
 ## Aspirations
 ### Example
@@ -36,7 +41,16 @@
 
 
 ### Friends:
+#### [[Belle]] 
+Sylas and Belle often quarreled with each other ever since they've first met.
 
+Belle thought Sylas was a child, while Sylas thought Belle was a child.
+
+But as time went past, the two gradually learned the secrets they've been keeping hidden from each other.
+
+Sylas possessed the Phantom Magic and Belle could no longer age.
+
+They uncover each other's pain hidden behind their childlike attitudes.
 
 ### Rivals:
 

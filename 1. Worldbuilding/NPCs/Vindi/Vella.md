@@ -1,8 +1,17 @@
+---
+Art: https://static.wikia.nocookie.net/vindictus_gamepedia/images/2/27/Vella_%28NPC_Icon%29.png/revision/latest?cb=20200430035447
+Alignment: NE
+Gender: Female
+Age: Adult
+Location: Malina
+Occupation:
+  - Mercenary
+---
 
 > [!infobox]+
 > # `=this.file.name` (`=this.pronouns`)
 > **Pronounced:**  "`=this.Pronounced`"
-> ![[PlaceholderImage.png]]
+> ![[Pasted image 20231118234451.png]]
 > ###### Bio
 >  |
 > ---|---|
@@ -39,6 +48,7 @@
 
 
 ### Rivals:
+ Joined forces with [[Kai]] against vampires
 
 
 ### Met:

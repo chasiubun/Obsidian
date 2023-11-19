@@ -11,9 +11,11 @@
             "id": "faea6cb0b4835dcb",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "1. Worldbuilding/NPCs/Vindi/z_Database - NPCs.md"
+                "file": "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects/Thread, Assembler of the Weave.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Worldbuilding/NPCs/Vindi/z_Database - NPCs.md",
+                "file": "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects/Thread, Assembler of the Weave.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Worldbuilding/NPCs/Vindi/z_Database - NPCs.md",
+                "file": "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects/Thread, Assembler of the Weave.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Worldbuilding/NPCs/Vindi/z_Database - NPCs.md"
+                "file": "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects/Thread, Assembler of the Weave.md"
               }
             }
           },
@@ -195,51 +197,50 @@
   },
   "active": "faea6cb0b4835dcb",
   "lastOpenFiles": [
-    "1. Worldbuilding/NPCs/Vindi/Arisha.md",
     "1. Worldbuilding/NPCs/Vindi/z_Database - NPCs.md",
     "1. Worldbuilding/NPCs/Vindi/Vella.md",
+    "1. Worldbuilding/NPCs/Vindi/Tessa.md",
+    "Pasted image 20231119004741.png",
+    "1. Worldbuilding/NPCs/Vindi/Sylas.md",
+    "Pasted image 20231119004439.png",
+    "1. Worldbuilding/NPCs/Vindi/Miri.md",
+    "Pasted image 20231119004326.png",
+    "1. Worldbuilding/NPCs/Vindi/Lynn.md",
+    "Pasted image 20231119004124.png",
+    "1. Worldbuilding/NPCs/Vindi/Letty.md",
+    "Pasted image 20231119004031.png",
+    "1. Worldbuilding/NPCs/Vindi/Lethor.md",
+    "Pasted image 20231119003955.png",
+    "1. Worldbuilding/NPCs/Vindi/Latiya.md",
+    "Pasted image 20231119003805.png",
+    "1. Worldbuilding/NPCs/Vindi/Lann.md",
+    "Pasted image 20231119003704.png",
+    "1. Worldbuilding/NPCs/Vindi/Karok.md",
+    "Pasted image 20231119003549.png",
+    "Pasted image 20231119003534.png",
+    "1. Worldbuilding/NPCs/Vindi/Kai.md",
+    "1. Worldbuilding/NPCs/Vindi/Kael.md",
+    "1. Worldbuilding/NPCs/Vindi/Hurk.md",
+    "1. Worldbuilding/NPCs/Vindi/Grimden.md",
+    "1. Worldbuilding/NPCs/Vindi/Fiona.md",
+    "1. Worldbuilding/NPCs/Vindi/Evie.md",
+    "1. Worldbuilding/NPCs/Vindi/Eira.md",
+    "1. Worldbuilding/NPCs/Vindi/Delia.md",
+    "1. Worldbuilding/NPCs/Vindi/Dan-Ah.md",
+    "1. Worldbuilding/NPCs/Vindi/Belle.md",
+    "1. Worldbuilding/NPCs/Vindi/Arisha.md",
     "1. Worldbuilding/NPCs/Vindi/z_Database-Characters.md",
     "1. Worldbuilding/NPCs/Vindi/test.md",
     "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Parhelion.md",
-    "1. Worldbuilding/NPCs/Vindi/Latiya.md",
-    "1. Worldbuilding/NPCs/Vindi/Letty.md",
-    "1. Worldbuilding/NPCs/Vindi/Dan-Ah.md",
-    "1. Worldbuilding/NPCs/Vindi/Tessa.md",
-    "1. Worldbuilding/NPCs/Vindi/Kael.md",
-    "1. Worldbuilding/NPCs/Vindi/Lethor.md",
-    "1. Worldbuilding/NPCs/Vindi/Belle.md",
-    "1. Worldbuilding/NPCs/Vindi/Eira.md",
-    "1. Worldbuilding/NPCs/Vindi/Grimden.md",
-    "1. Worldbuilding/NPCs/Vindi/Miri.md",
-    "1. Worldbuilding/NPCs/Vindi/Delia.md",
-    "1. Worldbuilding/NPCs/Vindi/Sylas.md",
-    "1. Worldbuilding/NPCs/Vindi/Lynn.md",
-    "1. Worldbuilding/NPCs/Vindi/Hurk.md",
-    "1. Worldbuilding/NPCs/Vindi/Kai.md",
-    "1. Worldbuilding/NPCs/Vindi/Karok.md",
-    "1. Worldbuilding/NPCs/Vindi/Evie.md",
-    "1. Worldbuilding/NPCs/Vindi/Fiona.md",
-    "1. Worldbuilding/NPCs/Vindi/Lann.md",
-    "z_Templates/Character Sheet.md",
     "1. Worldbuilding/NPCs/Vindi",
     "1. Worldbuilding/NPCs",
     "1. Worldbuilding/Lore",
     "1. Worldbuilding/Groups and Factions",
-    "z_Templates/TTRPG Vault - Templates 281023/z_Assets/BumbertIcon.png",
-    "z_Templates/TTRPG Vault - Templates 281023/z_Assets/BoggleIcon.png",
     "1. Worldbuilding/Atlas/Cities Redux/Rocheste/Colhen",
     "1. Worldbuilding/Atlas/Cities Redux/Rocheste",
     "1. Worldbuilding/Atlas/Cities Redux/Rocheste",
     "1. Worldbuilding/Atlas/Cities Redux",
     "3. Campaign Notes/What's in a Name? OneShot/Players",
-    "z_Templates/TTRPG Vault - Templates 281023/z_Assets/Pasted image 20231118181109.png",
-    "z_Templates/TTRPG Vault - Templates 281023/z_Assets/Pasted image 20231118203815.png",
-    "3. Campaign Notes/What's in a Name? OneShot/NPCS",
-    "z_Templates/TTRPG Vault - Templates 281023/z_Assets/Misc/PlaceholderImage.png",
-    "TTRPG Vault - Templates 281023/z_Assets/Misc/PlaceholderImage.png",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/zombie.png",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/wraith.png",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/will-o-wisp.png",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/undead/token/wight.png"
+    "3. Campaign Notes/What's in a Name? OneShot/NPCS"
   ]
 }

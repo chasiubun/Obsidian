@@ -187,7 +187,7 @@ columns:
     skipPersist: false
     accessorKey: NoteIcon
     width: 100
-    isHidden: false
+    isHidden: true
     sortIndex: -1
     options:
       - { label: "Character", value: "Character", color: "hsl(221, 95%, 90%)"}
@@ -244,6 +244,9 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
+      - { label: "Malina", value: "Malina", color: "hsl(83, 95%, 90%)"}
+      - { label: "Colhen", value: "Colhen", color: "hsl(281, 95%, 90%)"}
+      - { label: "Rocheste", value: "Rocheste", color: "hsl(42, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -296,6 +299,7 @@ columns:
       - { label: "Tailor", value: "Tailor", color: "hsl(217, 95%, 90%)"}
       - { label: "Kingsguard", value: "Kingsguard", color: "hsl(264, 95%, 90%)"}
       - { label: "Builder", value: "Builder", color: "hsl(34, 95%, 90%)"}
+      - { label: "Mercenary", value: "Mercenary", color: "hsl(261, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -319,6 +323,7 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
+      - { label: "Vindi", value: "Vindi", color: "hsl(50, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -379,7 +384,7 @@ columns:
     skipPersist: false
     accessorKey: Pronounced
     width: 253
-    isHidden: false
+    isHidden: true
     sortIndex: -1
     config:
       enable_media_view: true
@@ -489,29 +494,6 @@ columns:
       footer_type: none
       persist_changes: false
       persist_formula: false
-  Pronouns:
-    input: select
-    accessorKey: Pronouns
-    key: Pronouns
-    id: Pronouns
-    label: Pronouns
-    position: 12
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    options:
-      - { label: "He/Him", value: "He/Him", color: "hsl(111, 95%, 90%)"}
-      - { label: "She/Her", value: "She/Her", color: "hsl(17, 95%, 90%)"}
-      - { label: "They/Them", value: "They/Them", color: "hsl(187, 95%, 90%)"}
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
   Heritage:
     input: select
     accessorKey: Heritage

@@ -1,8 +1,13 @@
+---
+Art: https://static.wikia.nocookie.net/vindictus_gamepedia/images/7/7b/Lynn_%28NPC_Icon%29.png/revision/latest?cb=20200430035510
+Age: Young Adult
+Location: Malina
+---
 
 > [!infobox]+
 > # `=this.file.name` (`=this.pronouns`)
 > **Pronounced:**  "`=this.Pronounced`"
-> ![[PlaceholderImage.png]]
+> ![[Pasted image 20231119004124.png]]
 > ###### Bio
 >  |
 > ---|---|
