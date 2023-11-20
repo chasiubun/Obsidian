@@ -1,4 +1,4 @@
-[[Thread, Assembler of the Weave]] is tasked with overseeing the fabric of creation that could be tapped into to manifest magic. No one knows the location of Thread and she herself has manipulated the weave to cause all to forget what she looks like. 
+[[Lace, Assembler of the Weave]] is tasked with overseeing the fabric of creation that could be tapped into to manifest magic. No one knows the location of Thread and she herself has manipulated the weave to cause all to forget what she looks like. 
 
 Thread is particular about how the weave is accessed and does not like experimentation or tampering with the weave lest the intricacies of the weave be disturbed and unraveled. 
 
