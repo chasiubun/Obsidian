@@ -1,0 +1,188 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1699893583730,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1699893583730,
+          "items": [],
+          "title": "General"
+        },
+        {
+          "type": "group",
+          "ctime": 1699893583730,
+          "items": [],
+          "title": "Compendium"
+        },
+        {
+          "type": "group",
+          "ctime": 1699893583730,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1699893608454,
+              "items": [],
+              "title": "Lore"
+            },
+            {
+              "type": "group",
+              "ctime": 1699893608454,
+              "items": [
+                {
+                  "type": "group",
+                  "ctime": 1699893908473,
+                  "items": [],
+                  "title": "Party Dashboards"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1699893908473,
+                  "items": [],
+                  "title": "Characters"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1699893908473,
+                  "items": [],
+                  "title": "Session Notes"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1699893908473,
+                  "items": [],
+                  "title": "Quests"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1699893908473,
+                  "items": [],
+                  "title": "Service Requests"
+                }
+              ],
+              "title": "Parties"
+            },
+            {
+              "type": "group",
+              "ctime": 1699893608454,
+              "items": [],
+              "title": "Deities"
+            },
+            {
+              "type": "group",
+              "ctime": 1699893608454,
+              "items": [],
+              "title": "Planes"
+            },
+            {
+              "type": "group",
+              "ctime": 1699893608454,
+              "items": [],
+              "title": "Planets"
+            },
+            {
+              "type": "group",
+              "ctime": 1699893608454,
+              "items": [],
+              "title": "Countries"
+            },
+            {
+              "type": "group",
+              "ctime": 1699893608454,
+              "items": [],
+              "title": "Regions"
+            },
+            {
+              "type": "group",
+              "ctime": 1699893608454,
+              "items": [],
+              "title": "Settlements"
+            },
+            {
+              "type": "group",
+              "ctime": 1699893608454,
+              "items": [],
+              "title": "Districts"
+            },
+            {
+              "type": "group",
+              "ctime": 1699893608454,
+              "items": [],
+              "title": "Landmarks"
+            },
+            {
+              "type": "group",
+              "ctime": 1699893608454,
+              "items": [],
+              "title": "Points of Interest"
+            },
+            {
+              "type": "group",
+              "ctime": 1699893608454,
+              "items": [],
+              "title": "Shops"
+            },
+            {
+              "type": "group",
+              "ctime": 1699893608454,
+              "items": [],
+              "title": "Keyed Locations"
+            },
+            {
+              "type": "group",
+              "ctime": 1699893608454,
+              "items": [],
+              "title": "Organizations"
+            },
+            {
+              "type": "group",
+              "ctime": 1699893608454,
+              "items": [],
+              "title": "NPCs"
+            },
+            {
+              "type": "group",
+              "ctime": 1699893608454,
+              "items": [],
+              "title": "Literature"
+            },
+            {
+              "type": "group",
+              "ctime": 1699893608454,
+              "items": [],
+              "title": "Letters"
+            }
+          ],
+          "title": "Campaign"
+        },
+        {
+          "type": "group",
+          "ctime": 1699893583730,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1699894149866,
+              "items": [],
+              "title": "Misc"
+            }
+          ],
+          "title": "z_Assets"
+        },
+        {
+          "type": "group",
+          "ctime": 1699893583730,
+          "items": [],
+          "title": "z_Canvas"
+        },
+        {
+          "type": "group",
+          "ctime": 1699893583730,
+          "items": [],
+          "title": "z_Templates"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}

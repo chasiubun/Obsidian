@@ -1,0 +1,113 @@
+{
+  "devMode": false,
+  "ignoreCodeBlockRestrictions": true,
+  "preferredDateFormat": "DD-MM-YYYY",
+  "useUsDateInputOrder": false,
+  "firstWeekday": {
+    "index": 1,
+    "name": "Monday",
+    "shortName": "Mo"
+  },
+  "syncInterval": 200,
+  "minSyncInterval": 50,
+  "maxSyncInterval": 1000,
+  "enableJs": false,
+  "viewFieldDisplayNullAsEmpty": true,
+  "inputFieldTemplates": [
+    {
+      "name": "Tags",
+      "declaration": "INPUT[inlineSelect(option(#Location), option(#Settlement), option(#Character), option(#Society), option(#Shop), option(#NPC), option(#Player), option(#POI), option(#SessionNote), option(#ServiceRequest), option(#Letter), option(#Party), option(#Deity), option(#Country), option(#Landmark), option(#Ancestry))]"
+    },
+    {
+      "name": "Ancestry",
+      "declaration": "INPUT[inlineSelect(option(Human), option(Elf), option(Anadi), option(Android), option(Automaton), option(Azarketi), option(Tabaxi), option(Conrasu), option(Dwarf), option(Fetchling), option(Fleshwarp), option(Ghoran), option(Gnoll), option(Gnome), option(Goblin), option(Goloma), option(Grippli), option(Halfling), option(Hobgoblin), option(Kashrishi), option(Kitsune), option(Kobold), option(Leshy), option(Lizardfolk), option(Nagaji), option(Orc), option(Poppet), option(Ratfolk), option(Shisk), option(Skeleton), option(Sprite), option(Strix), option(Tengu), option(Vanara), option(Vishkanya), option(Dragonborn), option(Goliath), option(Tortle), option(Centaur), option(Bugbear), option(Firbolg), option(Harengon), option(Minotaur), option(Satyr), option(Owlin), option(Giff), option(Thri-kreen), option(Leonin), option(Aarakocra))]"
+    },
+    {
+      "name": "Heritage",
+      "declaration": "INPUT[inlineSelect(option(Aasimar), option(Aphorite), option(Ardande), option(Beastkin), option(Changeling), option(Dhampir), option(Duskwalker), option(Ganzi), option(Ifrit), option(Oread), option(Reflection), option(Suli), option(Sylph), option(Talos), option(Tiefling), option(Undine), option(Half-Elf), option(Half-Orc))]"
+    },
+    {
+      "name": "Gender",
+      "declaration": "INPUT[inlineSelect(option(Male), option(Female), option(N/A))]"
+    },
+    {
+      "name": "Pronouns",
+      "declaration": "INPUT[inlineSelect(option(He/Him), option(She/Her), option(They/Them))]"
+    },
+    {
+      "name": "Sexuality",
+      "declaration": "INPUT[inlineSelect(option(Straight), option(Gay))]"
+    },
+    {
+      "name": "Age",
+      "declaration": "INPUT[inlineSelect(option(Young), option(Old))]"
+    },
+    {
+      "name": "Alignment",
+      "declaration": "INPUT[inlineSelect(option(Good), option(Bad))]"
+    },
+    {
+      "name": "Occupation",
+      "declaration": "INPUT[inlineSelect(option(Merchant), option(Noble), option(Adventurer), option(Alchemist), option(Barkeeper), option(Blacksmith), option(Courier), option(Enchanter), option(Farmer), option(Guard), option(Historian), option(Liberian), option(Mage), option(Priest), option(Royal), option(Servant), option(Stable hand), option(Steward), option(Teacher), option(Hunter), option(Chief), option(Hierarch), option(High Priest), option(Spy), option(Tailor), option(Kingsguard), option(Builder), option(Criminal))]"
+    },
+    {
+      "name": "Condition",
+      "declaration": "INPUT[inlineSelect(option(Healthy), option(Dead))]"
+    },
+    {
+      "name": "SettlementType",
+      "declaration": "INPUT[inlineSelect(option(Thorp), option(Hamlet), option(Village), option(Small Town), option(Large Town), option(Small City), option(Large City), option(Metropolis))]"
+    },
+    {
+      "name": "Theme",
+      "declaration": "INPUT[inlineSelect(option(Medieval), option(Gothic))]"
+    },
+    {
+      "name": "Terrain",
+      "declaration": "INPUT[inlineSelect(option(Hills), option(Plains), option(Urban), option(River), option(Ocean))]"
+    },
+    {
+      "name": "Defence",
+      "declaration": "INPUT[inlineSelect(option(None), option(Pathetic), option(Weak), option(Average), option(Strong), option(Formidable))]"
+    },
+    {
+      "name": "GovernmentType",
+      "declaration": "INPUT[inlineSelect(option(Autocracy), option(Bureaucracy), option(Confederacy), option(Democracy), option(Dictatorship), option(Feudalism), option(Gerontocracy), option(Hierarchy), option(Kleptocracy), option(Magocracy), option(Martiarchy), option(Meritocracy), option(Stratocracy), option(Monarchy), option(Oligarchy), option(Plutocracy), option(Republic), option(Satrapy), option(Theocracy))]"
+    },
+    {
+      "name": "Goods",
+      "declaration": "INPUT[inlineSelect(option(Lumber), option(Stone), option(Grain), option(Onyx), option(Iron), option(Copper), option(Steel), option(Coal))]"
+    },
+    {
+      "name": "SocietyType",
+      "declaration": "INPUT[inlineSelect(option(Trade), option(Mage), option(Clan), option(Army), option(Worship), option(Criminal))]"
+    },
+    {
+      "name": "ShopType",
+      "declaration": "INPUT[inlineSelect(option(General), option(Tavern), option(Blacksmith), option(Magic), option(Alchemist), option(Book), option(Armaments), option(Tailor), option(Construction))]"
+    },
+    {
+      "name": "POIType",
+      "declaration": "INPUT[inlineSelect(option(Temple), option(Keep))]"
+    },
+    {
+      "name": "LetterStatus",
+      "declaration": "INPUT[inlineSelect(option(Sent), option(In Transit), option(Delivered), option(Lost), option(Stolen), option(Complete))]"
+    },
+    {
+      "name": "Party1Relation",
+      "declaration": "INPUT[inlineSelect(option(Friend), option(Family), option(Ally), option(Enemy), option(Unmet), option(Acquaintance), option(Lover), option(Like), option(Dislike))]"
+    },
+    {
+      "name": "LandmarkType",
+      "declaration": "INPUT[inlineSelect(option(Fort), option(Mine))]"
+    },
+    {
+      "name": "AncestryRarity",
+      "declaration": "INPUT[inlineSelect(option(Common), option(Uncommon), option(Rare))]"
+    }
+  ],
+  "excludedFolders": [
+    "templates"
+  ]
+}

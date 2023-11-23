@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "TTRPGCallouts",
+    "BetterLeafletIcons",
+    "Banned_Fade"
+  ],
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "translucency": true,
+  "theme": "obsidian"
+}
