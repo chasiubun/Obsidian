@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Worldbuilding/NPCs/LMoP/Sildar Hallwinter.md",
+                "file": "3. Campaign Notes/LMoP - Guild of Truth and Light/Party Dashboard.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Worldbuilding/NPCs/LMoP/Sildar Hallwinter.md",
+                "file": "3. Campaign Notes/LMoP - Guild of Truth and Light/Party Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Worldbuilding/NPCs/LMoP/Sildar Hallwinter.md",
+                "file": "3. Campaign Notes/LMoP - Guild of Truth and Light/Party Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Worldbuilding/NPCs/LMoP/Sildar Hallwinter.md"
+                "file": "3. Campaign Notes/LMoP - Guild of Truth and Light/Party Dashboard.md"
               }
             }
           },
@@ -197,43 +197,44 @@
   },
   "active": "faea6cb0b4835dcb",
   "lastOpenFiles": [
-    "z_Templates/TTRPG Tempaltes 2.0/z_Templates/1. GM Templates/1. Story World Templates/2. Characters/Template - NPC.md",
-    "1. Worldbuilding/NPCs/LMoP/Sildar Hallwinter.md",
-    "1. Worldbuilding/NPCs/LMoP",
+    "❗ Quest Database.md",
+    "3. Campaign Notes/LMoP - Guild of Truth and Light/Party Dashboard.md",
+    "3. Campaign Notes/LMoP - Guild of Truth and Light/1. Overview.md",
+    "3. Campaign Notes/LMoP - Guild of Truth and Light/2. Campaign Roadmap.md",
+    "🏰Landmark Database.md",
+    "3. Campaign Notes/LMoP - Guild of Truth and Light/3. NPCss, Factions, Groups/Cragmaw Tribe.md",
+    "3. Campaign Notes/LMoP - Guild of Truth and Light/3. NPCss, Factions, Groups/Sildar Hallwinter.md",
+    "3. Campaign Notes/LMoP - Guild of Truth and Light/3. NPCss, Factions, Groups/Gundren Rockseeker.md",
+    "3. Campaign Notes/LMoP - Guild of Truth and Light/3. NPCss, Factions, Groups/Shops.md",
+    "3. Campaign Notes/LMoP - Guild of Truth and Light/4.1 Goblin Arrows.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/humanoid/goblin.md",
+    "z_TEMP TEMPLATES/TTRPG Tempaltes 2.0/Compendium/Pf2e/Character Creation/Ancestries/Goblin.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/npc/gundren-rockseeker-lmop.md",
+    "z_TEMP TEMPLATES/TTRPG Tempaltes 2.0/z_Templates/1. GM Templates/1. Story World Templates/3. Locations/Template - Shop.md",
+    "z_TEMP TEMPLATES/TTRPG Tempaltes 2.0/z_Templates/1. GM Templates/1. Story World Templates/4. Items/Template - Letter.md",
+    "z_TEMP TEMPLATES/TTRPG Tempaltes 2.0/z_Templates/1. GM Templates/1. Story World Templates/3. Locations/Template - Country.md",
+    "z_TEMP TEMPLATES/TTRPG Tempaltes 2.0/z_Templates/1. GM Templates/1. Story World Templates/2. Characters/Template - Player.md",
+    "z_TEMP TEMPLATES/TTRPG Tempaltes 2.0/z_Templates/1. GM Templates/1. Story World Templates/3. Locations/Template - Settlement.md",
+    "z_TEMP TEMPLATES/TTRPG Tempaltes 2.0/z_Templates/1. GM Templates/1. Story World Templates/3. Locations/Template - Point of Interest.md",
+    "z_TEMP TEMPLATES/TTRPG Tempaltes 2.0/z_Templates/1. GM Templates/1. Story World Templates/3. Locations/Template - Landmark.md",
+    "z_TEMP TEMPLATES/TTRPG Tempaltes 2.0/z_Templates/1. GM Templates/1. Story World Templates/2. Characters/Template - Party Dashboard.md",
+    "z_TEMP TEMPLATES/TTRPG Tempaltes 2.0/z_Templates/1. GM Templates/1. Story World Templates/2. Characters/Template - Organization.md",
+    "z_TEMP TEMPLATES/TTRPG Tempaltes 2.0/z_Templates/1. GM Templates/1. Story World Templates/2. Characters/Template - NPC.md",
+    "z_TEMP TEMPLATES/TTRPG Tempaltes 2.0/z_Templates/1. GM Templates/1. Story World Templates/2. Characters/Template - Deity.md",
+    "z_TEMP TEMPLATES/TTRPG Tempaltes 2.0/z_Templates/1. GM Templates/1. Story World Templates/1. Story Notes/Template- Adventure.md",
+    "z_TEMP TEMPLATES/TTRPG Tempaltes 2.0/z_Templates/1. GM Templates/1. Story World Templates/1. Story Notes/Template - Session Note.md",
+    "z_TEMP TEMPLATES/TTRPG Tempaltes 2.0/z_Templates/1. GM Templates/1. Story World Templates/4. Items",
+    "z_TEMP TEMPLATES/TTRPG Tempaltes 2.0/z_Templates/1. GM Templates/1. Story World Templates/3. Locations",
+    "z_TEMP TEMPLATES/TTRPG Tempaltes 2.0/z_Templates/1. GM Templates/1. Story World Templates/2. Characters",
+    "z_TEMP TEMPLATES/TTRPG Tempaltes 2.0/z_Templates/1. GM Templates/1. Story World Templates/1. Story Notes",
+    "z_TEMP TEMPLATES/TTRPG Tempaltes 2.0/Compendium/Pf2e/Character Creation/Heritages",
+    "z_TEMP TEMPLATES/TTRPG Tempaltes 2.0/Compendium/Pf2e/Character Creation/Ancestries",
+    "z_TEMP TEMPLATES/TTRPG Tempaltes 2.0/Campaign/Parties/Session Notes/Party 1",
+    "z_TEMP TEMPLATES/TTRPG Tempaltes 2.0/Campaign/Parties/Service Requests/Party 1",
+    "z_TEMP TEMPLATES/TTRPG Tempaltes 2.0/Campaign/Parties/Quests/Party 1",
+    "z_TEMP TEMPLATES/TTRPG Tempaltes 2.0/Campaign/Parties/Characters/Party 1",
+    "z_TEMP TEMPLATES/TTRPG Tempaltes 2.0/z_Assets/Misc/PlaceholderImage.png",
     "z_Templates/TTRPG Tempaltes 2.0/z_Assets/Misc/PlaceholderImage.png",
-    "z_Templates/TTRPG Tempaltes 2.0/Compendium/Pf2e/Character Creation/Ancestries/Catfolk.md",
-    "z_Templates/TTRPG Tempaltes 2.0/Compendium/Pf2e/Character Creation/Ancestries/Android.md",
-    "z_Templates/TTRPG Vault - Templates 281023/Campaign/6. Settlements/🌁 Settlement Database.md",
-    "1. Worldbuilding/NPCs/Vindi2/Untitled.md",
-    "1. Worldbuilding/NPCs/Vindi2",
-    "z_Templates/TTRPG Tempaltes 2.0/z_Templates/1. GM Templates/1. Story World Templates/3. Locations/Template - Point of Interest.md",
-    "z_Templates/TTRPG Tempaltes 2.0/z_Templates/1. GM Templates/1. Story World Templates/3. Locations/Template - Shop.md",
-    "z_Templates/TTRPG Tempaltes 2.0/z_Templates/1. GM Templates/1. Story World Templates/3. Locations/Template - Settlement.md",
-    "z_Templates/TTRPG Tempaltes 2.0/z_Templates/1. GM Templates/1. Story World Templates/3. Locations/Template - Country.md",
-    "z_Templates/TTRPG Tempaltes 2.0/z_Templates/1. GM Templates/1. Story World Templates/3. Locations/Template - Landmark.md",
-    "z_Templates/TTRPG Tempaltes 2.0/z_Templates/1. GM Templates/1. Story World Templates/1. Story Notes/Template- Adventure.md",
-    "z_Templates/TTRPG Tempaltes 2.0/z_Templates/1. GM Templates/1. Story World Templates/1. Story Notes/Template - Session Note.md",
-    "z_Templates/TTRPG Tempaltes 2.0/z_Templates/1. GM Templates/1. Story World Templates/2. Characters/Template - Organization.md",
-    "z_Templates/TTRPG Tempaltes 2.0/z_Templates/1. GM Templates/1. Story World Templates/4. Items/Template - Letter.md",
-    "z_Templates/TTRPG Tempaltes 2.0/z_Templates/1. GM Templates/1. Story World Templates/2. Characters/Template - Player.md",
-    "z_Templates/TTRPG Tempaltes 2.0/z_Templates/1. GM Templates/1. Story World Templates/2. Characters/Template - Party Dashboard.md",
-    "z_Templates/TTRPG Tempaltes 2.0/z_Templates/1. GM Templates/1. Story World Templates/2. Characters/Template - Deity.md",
-    "z_Templates/TTRPG Tempaltes 2.0/Compendium/Pf2e/Character Creation/Ancestries/Vishkanya.md",
-    "z_Templates/TTRPG Tempaltes 2.0/Compendium/Pf2e/Character Creation/Ancestries/Vanara.md",
-    "z_Templates/TTRPG Tempaltes 2.0/Compendium/Pf2e/Character Creation/Ancestries/Tengu.md",
-    "z_Templates/TTRPG Tempaltes 2.0/Compendium/Pf2e/Character Creation/Ancestries/Strix.md",
-    "z_Templates/TTRPG Tempaltes 2.0/Compendium/Pf2e/Character Creation/Ancestries/Sprite.md",
-    "z_Templates/TTRPG Tempaltes 2.0/Compendium/Pf2e/Character Creation/Ancestries/Skeleton.md",
-    "z_Templates/TTRPG Tempaltes 2.0/Compendium/Pf2e/Character Creation/Ancestries/Shoony.md",
-    "z_Templates/TTRPG Tempaltes 2.0/Compendium/Pf2e/Character Creation/Ancestries/Shisk.md",
-    "z_Templates/TTRPG Tempaltes 2.0/z_Templates/1. GM Templates/1. Story World Templates/3. Locations",
-    "z_Templates/TTRPG Tempaltes 2.0/z_Templates/1. GM Templates/1. Story World Templates/4. Items",
-    "z_Templates/TTRPG Tempaltes 2.0/z_Templates/1. GM Templates/1. Story World Templates/2. Characters",
-    "z_Templates/TTRPG Tempaltes 2.0/z_Templates/1. GM Templates/1. Story World Templates/1. Story Notes",
-    "z_Templates/TTRPG Tempaltes 2.0/Campaign/Parties/Service Requests/Party 1",
-    "z_Templates/TTRPG Tempaltes 2.0/Compendium/Pf2e/Character Creation/Heritages",
-    "z_Templates/TTRPG Tempaltes 2.0/Compendium/Pf2e/Character Creation/Ancestries",
-    "z_Templates/TTRPG Tempaltes 2.0/Campaign/Parties/Session Notes/Party 1",
     "TTRPG Tempaltes 2.0/z_Assets/Misc/PlaceholderImage.png",
     "z_Templates/TTRPG Vault - Templates 281023/z_Assets/Pasted image 20231118234451.png",
     "z_Templates/TTRPG Vault - Templates 281023/z_Assets/Pasted image 20231119004741.png",
@@ -241,7 +242,6 @@
     "z_Templates/TTRPG Vault - Templates 281023/z_Assets/Pasted image 20231119004326.png",
     "z_Templates/TTRPG Vault - Templates 281023/z_Assets/Pasted image 20231119004124.png",
     "z_Templates/TTRPG Vault - Templates 281023/z_Assets/Pasted image 20231119004031.png",
-    "z_Templates/TTRPG Vault - Templates 281023/z_Assets/Pasted image 20231119003955.png",
-    "z_Templates/TTRPG Vault - Templates 281023/z_Assets/Pasted image 20231119003805.png"
+    "z_Templates/TTRPG Vault - Templates 281023/z_Assets/Pasted image 20231119003955.png"
   ]
 }
