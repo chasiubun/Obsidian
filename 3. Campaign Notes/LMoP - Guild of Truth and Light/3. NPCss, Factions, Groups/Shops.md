@@ -1,1 +1,0 @@
-## Barthen's Provisions

@@ -491,29 +491,6 @@ columns:
       footer_type: none
       persist_changes: false
       persist_formula: false
-  Pronouns:
-    input: select
-    accessorKey: Pronouns
-    key: Pronouns
-    id: Pronouns
-    label: Pronouns
-    position: 12
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    options:
-      - { label: "He/Him", value: "He/Him", color: "hsl(111, 95%, 90%)"}
-      - { label: "She/Her", value: "She/Her", color: "hsl(17, 95%, 90%)"}
-      - { label: "They/Them", value: "They/Them", color: "hsl(187, 95%, 90%)"}
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
   Heritage:
     input: select
     accessorKey: Heritage
