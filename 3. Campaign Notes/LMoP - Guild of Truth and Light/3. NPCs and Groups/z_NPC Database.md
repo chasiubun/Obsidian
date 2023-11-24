@@ -20,7 +20,7 @@ columns:
     position: 1
     isSorted: true
     isSortedDesc: false
-    width: 342
+    width: 127
     isHidden: false
     sortIndex: 0
     config:
@@ -34,6 +34,7 @@ columns:
       persist_changes: false
       persist_formula: false
       source_data: current_folder
+      wrap_content: false
   __created__:
     key: __created__
     id: __created__
@@ -187,7 +188,7 @@ columns:
     skipPersist: false
     accessorKey: NoteIcon
     width: 100
-    isHidden: true
+    isHidden: false
     sortIndex: -1
     options:
       - { label: "Character", value: "Character", color: "hsl(221, 95%, 90%)"}
@@ -244,9 +245,6 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "Malina", value: "Malina", color: "hsl(83, 95%, 90%)"}
-      - { label: "Colhen", value: "Colhen", color: "hsl(281, 95%, 90%)"}
-      - { label: "Rocheste", value: "Rocheste", color: "hsl(42, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -299,7 +297,6 @@ columns:
       - { label: "Tailor", value: "Tailor", color: "hsl(217, 95%, 90%)"}
       - { label: "Kingsguard", value: "Kingsguard", color: "hsl(264, 95%, 90%)"}
       - { label: "Builder", value: "Builder", color: "hsl(34, 95%, 90%)"}
-      - { label: "Mercenary", value: "Mercenary", color: "hsl(261, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -323,7 +320,6 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "Vindi", value: "Vindi", color: "hsl(50, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -384,7 +380,7 @@ columns:
     skipPersist: false
     accessorKey: Pronounced
     width: 253
-    isHidden: true
+    isHidden: false
     sortIndex: -1
     config:
       enable_media_view: true
@@ -447,32 +443,6 @@ columns:
       footer_type: none
       persist_changes: false
       option_source: manual
-  Sexuality:
-    input: select
-    accessorKey: Sexuality
-    key: Sexuality
-    label: Sexuality
-    position: 13
-    width: 92
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    options:
-      - { label: "Asexual", value: "Asexual", color: "hsl(36, 95%, 90%)"}
-      - { label: "Bisexual", value: "Bisexual", color: "hsl(313, 95%, 90%)"}
-      - { label: "Gay", value: "Gay", color: "hsl(235, 95%, 90%)"}
-      - { label: "Straight", value: "Straight", color: "hsl(355, 95%, 90%)"}
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-      persist_formula: false
-      source_data: current_folder
   Art:
     input: text
     accessorKey: Art
@@ -550,6 +520,7 @@ columns:
       - { label: "Elf", value: "Elf", color: "hsl(52, 95%, 90%)"}
       - { label: "Dragon", value: "Dragon", color: "hsl(137, 95%, 90%)"}
       - { label: "Doppelganger", value: "Doppelganger", color: "hsl(271, 95%, 90%)"}
+      - { label: "Bugbear", value: "Bugbear", color: "hsl(10, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

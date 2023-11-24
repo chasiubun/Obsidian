@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Campaign Notes/LMoP - Guild of Truth and Light/3. NPCss, Factions, Groups/Untitled.md",
+                "file": "3. Campaign Notes/LMoP - Guild of Truth and Light/1. Party Information/Gaston.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Campaign Notes/LMoP - Guild of Truth and Light/3. NPCss, Factions, Groups/Untitled.md",
+                "file": "3. Campaign Notes/LMoP - Guild of Truth and Light/1. Party Information/Gaston.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Campaign Notes/LMoP - Guild of Truth and Light/3. NPCss, Factions, Groups/Untitled.md",
+                "file": "3. Campaign Notes/LMoP - Guild of Truth and Light/1. Party Information/Gaston.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Campaign Notes/LMoP - Guild of Truth and Light/3. NPCss, Factions, Groups/Untitled.md"
+                "file": "3. Campaign Notes/LMoP - Guild of Truth and Light/1. Party Information/Gaston.md"
               }
             }
           },
@@ -168,6 +168,14 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "af67caf3a195e09e",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
           }
         ],
         "currentTab": 8
@@ -192,39 +200,41 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
   "active": "faea6cb0b4835dcb",
   "lastOpenFiles": [
-    "3. Campaign Notes/LMoP - Guild of Truth and Light/2. Campaign Roadmap/1. Goblin Arrows.md",
-    "3. Campaign Notes/LMoP - Guild of Truth and Light/3. NPCss, Factions, Groups/Untitled.md",
-    "3. Campaign Notes/LMoP - Guild of Truth and Light/4.1 Goblin Arrows.md",
-    "3. Campaign Notes/LMoP - Guild of Truth and Light/2. Campaign Roadmap/2. Campaign Roadmap.md",
-    "3. Campaign Notes/LMoP - Guild of Truth and Light/2. Campaign Roadmap",
-    "3. Campaign Notes/LMoP - Guild of Truth and Light/1. Party Overview.md",
     "3. Campaign Notes/LMoP - Guild of Truth and Light/1. Party Information/Argan.md",
-    "3. Campaign Notes/LMoP - Guild of Truth and Light/1. Party Information/Gaston.md",
-    "3. Campaign Notes/LMoP - Guild of Truth and Light/1. Party Information/Leeloo de Sebat.md",
-    "3. Campaign Notes/LMoP - Guild of Truth and Light/1. Party Information/Haru.md",
-    "3. Campaign Notes/LMoP - Guild of Truth and Light/1. Party Information/1. Party Information.md",
-    "3. Campaign Notes/LMoP - Guild of Truth and Light/1. Party Information/Untitled.md",
-    "❗ Quest Database.md",
-    "z_Templates/TTRPG Vault - Templates 281023/Campaign/0. Parties/1. Characters/🧙‍♂️ Player Database.md",
-    "z_Templates/TTRPG Vault - Templates 281023/z_Templates/1. DM Templates/1. Story World Templates/People/Template - Party Dashboard.md",
-    "z_Templates/TTRPG Vault - Templates 281023/Campaign/12. Groups/🔰 Group Database.md",
-    "z_Templates/TTRPG Vault - Templates 281023/z_Templates/1. DM Templates/1. Story World Templates/People/Template - Group.md",
-    "z_Templates/TTRPG Vault - Templates 281023/z_Templates/1. DM Templates/1. Story World Templates/People/Template - NPC.md",
+    "3. Campaign Notes/LMoP - Guild of Truth and Light/3. NPCs and Groups/z_NPC Database.md",
+    "3. Campaign Notes/LMoP - Guild of Truth and Light/3. NPCs and Groups/Beliana.md",
     "z_Templates/TTRPG Vault - Templates 281023/Campaign/13. NPCs/👨‍👩‍👧‍👦 NPC Database.md",
-    "z_Templates/TTRPG Vault - Templates 281023/Campaign/4. Kingdoms/🗺️ Kingdoms Database.md",
-    "z_Templates/TTRPG Vault - Templates 281023/Campaign/6. Settlements/🌁 Settlement Database.md",
-    "🏰Landmark Database.md",
+    "3. Campaign Notes/LMoP - Guild of Truth and Light/3. NPCs, Groups/z_Database - NPCs 1.md",
+    "1. Worldbuilding/NPCs/Vindi/z_Database - NPCs.md",
+    "1. Worldbuilding/NPCs/Vindi/Zelio.md",
+    "1. Worldbuilding/NPCs/Vindi/Zenos.md",
+    "3. Campaign Notes/LMoP - Guild of Truth and Light/3. NPCs and Groups/Gundren Rockseeker.md",
+    "3. Campaign Notes/LMoP - Guild of Truth and Light/3. NPCs and Groups/Klarg.md",
+    "3. Campaign Notes/LMoP - Guild of Truth and Light/3. NPCs, Groups/Belle.md",
+    "3. Campaign Notes/Unused Plot Hooks/Plot Hook 1.md",
+    "1. Worldbuilding/NPCs/Vindi/Arisha.md",
+    "1. Worldbuilding/NPCs/Vindi/Belle.md",
+    "3. Campaign Notes/LMoP - Guild of Truth and Light/1. Party Information/1. Party Information.md",
+    "3. Campaign Notes/LMoP - Guild of Truth and Light/2. Campaign Roadmap/1. Goblin Arrows.md",
+    "3. Campaign Notes/Vindictus LMAO.md",
+    "3. Campaign Notes/What's in a Name? OneShot/Session Summary.md",
+    "3. Campaign Notes/What's in a Name? OneShot/Combat 2.md",
+    "3. Campaign Notes/What's in a Name? OneShot/Combat 1.md",
+    "3. Campaign Notes/What's in a Name? OneShot/Players/Nadezhda Plavikamen.md",
+    "3. Campaign Notes/What's in a Name? OneShot/Players/Den Koran.md",
+    "3. Campaign Notes/What's in a Name? OneShot/Players/dash.md",
+    "3. Campaign Notes/What's in a Name? OneShot/Players/Basilus Simmeran.md",
+    "3. Campaign Notes/LMoP - Guild of Truth and Light/3. NPCs, Groups/[Elmar Barthen].md",
+    "3. Campaign Notes/LMoP - Guild of Truth and Light/3. NPCs, Groups/Gundren Rockseeker.md",
+    "3. Campaign Notes/LMoP - Guild of Truth and Light/3. NPCs and Groups",
+    "3. Campaign Notes/LMoP - Guild of Truth and Light/2. Campaign Roadmap",
     "3. Campaign Notes/LMoP - Guild of Truth and Light/1. Party Information",
-    "1. Worldbuilding/Timeline/Timeline of the World.md",
-    "1. Worldbuilding/Timeline/The Departure.md",
-    "3. Campaign Notes/LMoP - Guild of Truth and Light/Untitled.md",
-    "3. Campaign Notes/LMoP - Guild of Truth and Light/Party Dashboard.md",
-    "3. Campaign Notes/LMoP - Guild of Truth and Light/3. NPCss, Factions, Groups/Sildar Hallwinter.md",
     "z_TEMP TEMPLATES/TTRPG Tempaltes 2.0/z_Templates/1. GM Templates/1. Story World Templates/4. Items",
     "z_TEMP TEMPLATES/TTRPG Tempaltes 2.0/z_Templates/1. GM Templates/1. Story World Templates/3. Locations",
     "z_TEMP TEMPLATES/TTRPG Tempaltes 2.0/z_Templates/1. GM Templates/1. Story World Templates/2. Characters",
@@ -232,7 +242,6 @@
     "z_TEMP TEMPLATES/TTRPG Tempaltes 2.0/Compendium/Pf2e/Character Creation/Heritages",
     "z_TEMP TEMPLATES/TTRPG Tempaltes 2.0/Compendium/Pf2e/Character Creation/Ancestries",
     "z_TEMP TEMPLATES/TTRPG Tempaltes 2.0/Campaign/Parties/Session Notes/Party 1",
-    "z_TEMP TEMPLATES/TTRPG Tempaltes 2.0/Campaign/Parties/Service Requests/Party 1",
     "z_TEMP TEMPLATES/TTRPG Tempaltes 2.0/z_Assets/Misc/PlaceholderImage.png",
     "z_Templates/TTRPG Tempaltes 2.0/z_Assets/Misc/PlaceholderImage.png",
     "TTRPG Tempaltes 2.0/z_Assets/Misc/PlaceholderImage.png",

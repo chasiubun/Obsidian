@@ -1888,6 +1888,11 @@ settings:
         id: canvas-cards
         type: class-toggle
     -
+        title: Canvas Arrow Coloful Text
+        id: canvas-arrow-text-color
+        description: Make text on canvas arrows match the color of the arrows
+        type: class-toggle
+    -
         title: Canvas Card Background Color Brightness
         id: canvas-color-opacity
         type: variable-number-slider
@@ -4281,6 +4286,7 @@ a[href^=https]:hover,
   --indentation-guide-color: var(--lines);
   --indentation-guide-width: 2px;
   --indentation-guide-color-active: var(--accent);
+  --indentation-guide-editing-indent: 1px;
   --list-color-1: var(--indentation-guide-color);
   --list-color-2: var(--indentation-guide-color);
   --list-color-3: var(--indentation-guide-color);
@@ -4858,6 +4864,10 @@ body {
   box-shadow: 0 4px 0 var(--outline);
 }
 
+.embedded-backlinks {
+  clear: both;
+}
+
 .outgoing-link-item {
   align-items: center;
 }
@@ -5143,6 +5153,10 @@ body.theme-light {
 
 .canvas-node-placeholder {
   line-height: var(--line-height-tight);
+}
+
+.canvas-node-connection-point::after {
+  border-color: rgb(var(--canvas-color));
 }
 
 body {
@@ -8482,27 +8496,35 @@ body:not(.check-color, .check-text) ul > li.task-list-item[data-task][data-task=
   --callout-tall: 95%;
 }
 .callout.callout.callout[data-callout-metadata~=wmicro] {
+  max-width: unset;
   width: var(--callout-micro);
 }
 .callout.callout.callout[data-callout-metadata~=wtiny] {
+  max-width: unset;
   width: var(--callout-tiny);
 }
 .callout.callout.callout[data-callout-metadata~=wsmall] {
+  max-width: unset;
   width: var(--callout-small);
 }
 .callout.callout.callout[data-callout-metadata~=ws-med] {
+  max-width: unset;
   width: var(--callout-small-med);
 }
 .callout.callout.callout[data-callout-metadata~=wm-sm] {
+  max-width: unset;
   width: var(--callout-med-small);
 }
 .callout.callout.callout[data-callout-metadata~=wmed] {
+  max-width: unset;
   width: var(--callout-medium);
 }
 .callout.callout.callout[data-callout-metadata~=wm-tl] {
+  max-width: unset;
   width: var(--callout-med-tall);
 }
 .callout.callout.callout[data-callout-metadata~=wtall] {
+  max-width: unset;
   width: var(--callout-tall);
 }
 .callout.callout.callout[data-callout-metadata~=sban], .callout.callout.callout[data-callout-metadata~=wfull] {
@@ -8530,6 +8552,7 @@ body:not(.check-color, .check-text) ul > li.task-list-item[data-task][data-task=
 }
 .callout.callout.callout[data-callout-metadata~=wfit] {
   width: fit-content;
+  max-width: min-content;
 }
 
 .callout.callout[data-callout-metadata~=static] {
@@ -8594,7 +8617,7 @@ body:not(.check-color, .check-text) ul > li.task-list-item[data-task][data-task=
 /*Infobox*/
 :is(.is-mobile:not(.is-tablet),
 .is-mobile:not(.is-tablet) .is-live-preview,
-.is-live-preview) .callout[data-callout~=infobox]:not([data-callout-metadata~=mobile]) {
+.is-live-preview) .callout[data-callout~=infobox]:not([data-callout-metadata~=mobile]) > .callout-content {
   float: unset !important;
   max-width: 100%;
   margin: 0 !important;
@@ -8604,7 +8627,7 @@ body:not(.check-color, .check-text) ul > li.task-list-item[data-task][data-task=
 .callout.callout[data-callout~=infobox] {
   --callout-color: var(--note, var(--background-primary));
   --callout-padding: 0;
-  --callout-content-padding: 0;
+  --callout-content-padding: 5px;
   --callout-margin: 0 0 0 5px;
   background: var(--note, var(--background-primary));
   --h1-border-line-height: 0;
@@ -8712,6 +8735,21 @@ body:not(.check-color, .check-text) ul > li.task-list-item[data-task][data-task=
 .callout.callout[data-callout~=infobox][data-callout-metadata][data-callout-metadata][data-callout-metadata~=left] {
   --callout-margin: 0 5px 0 0;
 }
+.callout.callout[data-callout~=infobox] .callout-content > .callout[data-callout~=infobox] {
+  max-width: unset;
+  float: unset;
+  --callout-margin: 5px 0 0 0;
+}
+.callout.callout[data-callout~=infobox] .callout-content > .callout[data-callout~=infobox] > .callout-title {
+  color: var(--text-normal);
+  background: var(--outer-bar, var(--background-secondary));
+  border: 1px solid var(--table, var(--background-modifier-border));
+  border-bottom: none;
+}
+.callout.callout[data-callout~=infobox] .callout-content > .callout[data-callout~=infobox] > .callout-content {
+  border-top: none;
+}
+
 .callout.callout[data-callout~=infobox][data-callout-metadata~=wikipedia] table {
   --table-header-color: var(--text, var(--text-normal));
   --table-header-background: transparent;
@@ -8725,10 +8763,6 @@ body:not(.check-color, .check-text) ul > li.task-list-item[data-task][data-task=
 .callout.callout[data-callout~=infobox][data-callout-metadata~=wikipedia] table tr:last-child {
   margin-bottom: 2px;
 }
-.callout.callout[data-callout~=infobox] .callout-content > .callout[data-callout~=infobox] {
-  max-width: unset;
-  float: unset;
-}
 
 @media print {
   .callout[data-callout~=infobox] {
@@ -8737,6 +8771,23 @@ body:not(.check-color, .check-text) ul > li.task-list-item[data-task][data-task=
 }
 .theme-light .callout[data-callout~=infobox][data-callout-metadata~=wikipedia] {
   --th-text: var(--th);
+}
+
+.illusion.illusion .callout[data-callout~=infobox].is-collapsed.is-collapsed[data-callout-metadata~=left] {
+  margin-left: -30px;
+}
+.illusion.illusion .callout[data-callout~=infobox].is-collapsed.is-collapsed[data-callout-metadata~=right] {
+  margin-right: -30px;
+}
+.illusion.illusion .callout[data-callout~=infobox] [data-heading] {
+  --illusion-box-shadow: none;
+  --header-shadow: var(--illusion-box-shadow);
+  --h1-shadow: var(--header-shadow);
+  --h2-shadow: var(--header-shadow);
+  --h3-shadow: var(--header-shadow);
+  --h4-shadow: var(--header-shadow);
+  --h5-shadow: var(--header-shadow);
+  --h6-shadow: var(--header-shadow);
 }
 
 /*Image Grid*/
@@ -9734,8 +9785,8 @@ body:not(.default-callout-quote) .callout.callout[data-callout=quote] > .callout
   background-color: rgba(var(--canvas-color), 0.2);
 }
 
-.canvas-node-connection-point::after {
-  border-color: rgb(var(--canvas-color));
+.canvas-arrow-text-color .canvas-path-label {
+  color: rgb(var(--canvas-color));
 }
 
 .sizing-readable.sizing-readable {
@@ -11027,9 +11078,11 @@ body {
   --h5-padding: var(--illusion-header-padding);
   --h6-padding: var(--illusion-header-padding);
   --collapse-icon-color: var(--headers);
-  --collapse-icon-color-collapsed: var(--accent-text);
+  --collapse-icon-color-collapsed: var(--text-dl);
+  --header-arrow-icon-color: var(--text-dl);
   --header-arrow-icon-size: var(--illusion-header-arrow-icon-size);
   --header-arrow-color: var(--illusion-header-text);
+  display: flow-root;
 }
 .illusion.illusion :is(.markdown-preview-view, .is-live-preview) :is(h1, h2, h3, h4, h5, h6)[data-heading] [class*=cm-formatting], .illusion.illusion :is(.markdown-preview-view, .is-live-preview) :is(h1, h2, h3, h4, h5, h6)[data-heading] .cm-foldPlaceholder, .illusion.illusion :is(.markdown-preview-view, .is-live-preview) :is(.is-live-preview .HyperMD-header) [class*=cm-formatting], .illusion.illusion :is(.markdown-preview-view, .is-live-preview) :is(.is-live-preview .HyperMD-header) .cm-foldPlaceholder, .illusion.illusion:is(.markdown-preview-view, .is-live-preview) :is(h1, h2, h3, h4, h5, h6)[data-heading] [class*=cm-formatting], .illusion.illusion:is(.markdown-preview-view, .is-live-preview) :is(h1, h2, h3, h4, h5, h6)[data-heading] .cm-foldPlaceholder, .illusion.illusion:is(.markdown-preview-view, .is-live-preview) :is(.is-live-preview .HyperMD-header) [class*=cm-formatting], .illusion.illusion:is(.markdown-preview-view, .is-live-preview) :is(.is-live-preview .HyperMD-header) .cm-foldPlaceholder {
   color: var(--illusion-header-text);

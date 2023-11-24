@@ -12,7 +12,10 @@
     "obsidian-default-theme",
     "pf2-compendium",
     "pf2-only-statblocks",
-    "custom-admonitions.4246e6"
+    "custom-admonitions.4246e6",
+    "TTRPGCallouts",
+    "BetterLeafletIcons",
+    "Banned_Fade"
   ],
   "translucency": true,
   "theme": "system"
