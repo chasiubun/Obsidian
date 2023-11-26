@@ -1,4 +1,4 @@
-The town of Colhen by Rocheste City is under attack by its guardian, a [[giant-spider]] that appears to have gone rogue. The party is dispatched to handle the situation with the local adventurer's guild that oversees the town defenses
+The town of Colhen by Rocheste City is under attack by its guardian, a [[b_giant-spider]] that appears to have gone rogue. The party is dispatched to handle the situation with the local adventurer's guild that oversees the town defenses
 
 The day after, the Royal Army from Rocheste arrives from Colhen and has a dispute with the Adventurer's Guild regarding the protection of Colhen. Meanwhile, the party is tasked with investigating a Fomorian Emblem  found with the giant spider belonging to gnolls who supposedly had from the Fomorian Army. 
 

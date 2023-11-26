@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/fiend/incubus.md",
+                "file": "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/fiend/b_incubus.md",
                 "mode": "preview",
                 "source": false
               }
@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Campaign Notes/What's in a Name? OneShot/NPCS/Deaf Boggle.md",
-                "mode": "source",
+                "file": "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/legendary-group/b_aboleth.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Campaign Notes/What's in a Name? OneShot/NPCS/Deaf Boggle.md",
+                "file": "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/legendary-group/b_aboleth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Campaign Notes/What's in a Name? OneShot/NPCS/Deaf Boggle.md",
+                "file": "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/legendary-group/b_aboleth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Campaign Notes/What's in a Name? OneShot/NPCS/Deaf Boggle.md"
+                "file": "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/legendary-group/b_aboleth.md"
               }
             }
           },
@@ -217,38 +217,39 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "6befd86420355c6c",
+  "active": "faf2738ac2cfe932",
   "lastOpenFiles": [
-    "1. Worldbuilding/NPCs/Vindia/z_Database - NPCs.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/fiend/incubus.md",
-    "1. Worldbuilding/NPCs/Vindia/Arisha.md",
-    "1. Worldbuilding/NPCs/Vindia/Belle.md",
-    "1. Worldbuilding/NPCs/Vindia/Dan-Ah.md",
-    "1. Worldbuilding/NPCs/Vindia/Delia.md",
+    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/monstrosity/monstrosity.md",
+    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/monstrosity/b_yuan-ti-malison-type-4-vgm.md",
+    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/monstrosity/b_yuan-ti-malison-type-3.md",
+    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/monstrosity/b_yuan-ti-malison-type-1.md",
+    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/monstrosity/b_yuan-ti-malison-type-2.md",
+    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/monstrosity/b_yuan-ti-malison-type-5-vgm.md",
+    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/monstrosity/b_yuan-ti-mind-whisperer-mpmm.md",
+    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/monstrosity/b_lonely-sorrowsworn.md",
+    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/monstrosity/yeti 1.md",
+    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/monstrosity/b_tlincalli-mpmm.md",
+    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/monstrosity/b_shadow-spirit-8th-level-spell-tce.md",
+    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/humanoid/b_gladiator.md",
+    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/monstrosity/b_kruthik-hive-lord-mpmm.md",
+    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/monstrosity/b_grick.md",
+    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/monstrosity/b_chimera.md",
+    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/monstrosity/b_chitine-mpmm.md",
+    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/humanoid/b_witherbloom-professor-of-growth-scc.md",
+    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/humanoid/b_werebear.md",
+    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/humanoid/b_thri-kreen.md",
+    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/humanoid/b_scorchbringer-guard-ggr.md",
+    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/humanoid/b_orc-hand-of-yurtrus-vgm.md",
+    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/humanoid/b_kraul-warrior-ggr.md",
+    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/humanoid/b_kobold-inventor-mpmm.md",
+    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/humanoid/bandit-captain.md",
+    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/giant/b_fomorian.md",
+    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/humanoid/b_gnoll-pack-lord.md",
     "z_Templates/TTRPG Vault - Templates 281023/z_Assets/BumbertIcon.png",
     "z_Templates/TTRPG Vault - Templates 281023/z_Assets/Pasted image 20231118181109.png",
     "z_Templates/TTRPG Vault - Templates 281023/z_Assets/Pasted image 20231118203815.png",
-    "1. Worldbuilding/NPCs/Vindia/Vella.md",
-    "1. Worldbuilding/NPCs/Vindia/Evie.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/fiend/cambion.md",
-    "1. Worldbuilding/NPCs/Vindia/Eira.md",
-    "1. Worldbuilding/History & Cosmology/Creation Mythos/Origin.md",
-    "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Sol.md",
-    "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Parhelion.md",
-    "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects/Lace, Assembler of the Weave.md",
-    "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects/Ulal, Genie of Fortune and Chance.md",
     "z_Assets/IMG_0286.jpg",
     "z_Assets/IMG_0285.jpg",
-    "1. Worldbuilding/NPCs/Vindia/Tessa.md",
-    "1. Worldbuilding/NPCs/Vindia/Sylas.md",
-    "1. Worldbuilding/NPCs/Vindia/Miri.md",
-    "1. Worldbuilding/NPCs/Vindia/Lynn.md",
-    "1. Worldbuilding/NPCs/Vindia/Letty.md",
-    "1. Worldbuilding/NPCs/Vindia/Lethor.md",
-    "1. Worldbuilding/NPCs/Vindia/Latiya.md",
-    "1. Worldbuilding/NPCs/Vindia/Lann.md",
-    "1. Worldbuilding/NPCs/Vindia/Karok.md",
-    "1. Worldbuilding/NPCs/Vindia/Kai.md",
     "z_Assets/IMG_B8339D8892FB-1.jpeg",
     "z_Assets/IMG_0313.png",
     "z_Assets/IMG_0319.png",

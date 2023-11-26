@@ -46,7 +46,7 @@
 | PROFICIENCIES   |           |               |          |
 | [[Languages]]   |           |               |          |
 | [[2. GM Tools/Misc DND Handbook/Equipment/Weapons|Weapons]]        |           |               |          |
-| [[Armor]]           |           |               |          |
+| [[_Armor]]           |           |               |          |
 | [[2. GM Tools/Misc DND Handbook/Equipment/Tools|Tools]]           |           |               |          |
 | [[vehicles]]        |           |               |          |
 | FEATURES/TRAITS |           |               |          |

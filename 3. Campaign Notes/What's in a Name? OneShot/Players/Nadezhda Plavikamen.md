@@ -8,7 +8,7 @@ PlayedBy: Rendale
 | Name:        | Nadezhda Plavikamen | Race:      | [[hobgoblin-mpmm]]              |
 | Player Name: | Rendale             | Class:     | [[artificer-tce]]               |
 | Gender:      | Female              |            |                                 |
-| Background:  | [[soldier]]         | Alignment: | Lawful-Good                     |
+| Background:  | [[b_soldier]]         | Alignment: | Lawful-Good                     |
 | Age:         | 27                  | Height:    | 6'4"                            |
 | Weight:      | 180 lb              | Eyes:      | black                           |
 | Skin:        | Purplish-Red        | Hair:      | Black with streaks of navy blue |
@@ -41,9 +41,9 @@ PlayedBy: Rendale
 | 20 bolts                                                     |                                       |                                                                    |                  |
 | PROFICIENCIES                                                |                                       |                                                                    |                  |
 | [[Languages]]                                                | common                                | goblin                                                             |                  |
-| [[Armor]]                                                    | light                                 | medium                                                             |                  |
-| [[2. GM Tools/Misc DND Handbook/Equipment/Weapons\|Weapons]] | simple                                |                                                                    |                  |
-| [[2. GM Tools/Misc DND Handbook/Equipment/Tools\|Tools]]     | [[thieves-tools]]                     | [[tinkers-tools]]                                                  | [[smiths-tools]] |
+| [[_Armor]]                                                    | light                                 | medium                                                             |                  |
+| [[_Weapons|Weapons]] | simple                                |                                                                    |                  |
+| [[_Tools|Tools]]     | [[thieves-tools]]                     | [[tinkers-tools]]                                                  | [[smiths-tools]] |
 | [[vehicles]]                                                 |                                       |                                                                    |                  |
 | FEATURES/TRAITS                                              |                                       |                                                                    |                  |
 | [[darkvision]]                                               | 60 ft                                 |                                                                    |                  |

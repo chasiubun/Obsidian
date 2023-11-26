@@ -3,6 +3,6 @@ Participants:
 **Jon Lin**: [[Den Koran]] 
 
 Enemies:
-3 [[blink-dog]] 
-1 [[nilbog-mpmm]] 
-4 [[boggle-mpmm]] 
+3 [[b_blink-dog]] 
+1 [[b_nilbog-mpmm]] 
+4 [[b_boggle-mpmm]] 

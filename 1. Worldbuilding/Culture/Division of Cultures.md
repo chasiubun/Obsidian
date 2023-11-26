@@ -5,14 +5,14 @@ Many races reside in the land of [[Fontaine]] . In the beginning there were cert
 | [[Astrale]]          | [[Reverie]]  | [[Miroirs]]      | [[UnderMont]]       | [[Void]]            |
 | -------------------- | ------------ | ---------------- | ------------------- | ------------------- |
 | [[aasimar-dmg]]      | [[tiefling]] | [[eladrin-mpmm]] | [[changeling-mpmm]] | [[shadar-kai-mpmm]] |
-| [[kenku]] (banished) | [[elf]]      |                  |                     |                     |
-| [[kalashtar-erlw]]                      |              |                  |                     |                     |
+| [[b_kenku]] (banished) | [[elf]]      |                  |                     |                     |
+| [[2. GM Tools/5eTools Compendium & Rules/_compendium/races/kalashtar-erlw]]                      |              |                  |                     |                     |
 
 ## Primeval Races: 
 
 | [[Astrale]] | [[Reverie]]     | [[Miroirs]] | [[UnderMont]]       | [[Void]]         |
 | ----------- | --------------- | ----------- | ------------------- | ---------------- |
-|             | [[human]]       | [[centaur]] | [[deep-gnome-mpmm]] |  |
+|             | [[human]]       | [[b_centaur]] | [[deep-gnome-mpmm]] |  |
 |             | [[dwarf]]       | [[gnome]]   | [[duergar-mpmm]]    |                  |
 |             | [[triton-mpmm]] |             |                     |                  |
 |             | [[half-elf]]    |             |                     |                  |
@@ -24,15 +24,15 @@ Many races reside in the land of [[Fontaine]] . In the beginning there were cert
 
 | [[Astrale]] | [[Reverie]]                                                                          | [[Miroirs]]      | [[UnderMont]]     | [[Void]] |
 | ----------- | ------------------------------------------------------------------------------------ | ---------------- | ----------------- | -------- |
-|             | [[bugbear]]                                                                          | [[satyr-mpmm]]   | [[goblin]]        |          |
-|             | [[dragonborn]]                                                                       | [[owlin-scc]]    | [[kobold]]        |          |
-|             | [[aarakocra]]                                                                        |       [[yuan-ti-mpmm]]            | [[minotaur-mpmm]] |          |
+|             | [[b_bugbear]]                                                                          | [[satyr-mpmm]]   | [[b_goblin]]        |          |
+|             | [[dragonborn]]                                                                       | [[owlin-scc]]    | [[b_kobold]]        |          |
+|             | [[b_aarakocra]]                                                                        |       [[yuan-ti-mpmm]]            | [[minotaur-mpmm]] |          |
 |             | [[half-orc]]                                                                         | [[fairy-mpmm]]   | [[orc-mpmm]]      |          |
 |             | [[goliath-mpmm]]                                                                     | [[firbolg-mpmm]] |                   |          |
 |             | [[harengon-mpmm]]                                                                    | |                   |          |
-|             | [[lizardfolk]]                                                                       |                  |                   |          |
+|             | [[b_lizardfolk]]                                                                       |                  |                   |          |
 |             | [[tabaxi-mpmm]]                                                                      |                  |                   |          |
-|             | [[2. GM Tools/5eTools Compendium & Rules/compendium/races/tortle-mpmm\|tortle-mpmm]] |                  |                   |          |
+|             | [[2. GM Tools/5eTools Compendium & Rules/_compendium/races/tortle-mpmm|tortle-mpmm]] |                  |                   |          |
 |             | [[leonin-mot]]                                                                       |                  |                   |          |
 |             | [[loxodon-ggr]]                                                                      |                  |                   |          |
 |            |      [[shifter-mpmm]]                                                                                 |                  |                   |          |
@@ -41,4 +41,4 @@ Many races reside in the land of [[Fontaine]] . In the beginning there were cert
 [[githzerai-mpmm]] - made through experimentation; original race unknown
 [[githyanki-mpmm]] - made through experimentation; original race unknown
 [[warforged-erlw]] - construct
-[[giff-mpmm]] 
+[[b_giff-mpmm]] 

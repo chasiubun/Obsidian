@@ -3,8 +3,8 @@ Participants:
 **Jon Lin**: [[Den Koran]] 
 
 Enemies:
-6 [[blink-dog]] 
+6 [[b_blink-dog]] 
 
 Neutral Party:
-1 [[nilbog-mpmm]] 
-4 [[boggle-mpmm]] 
+1 [[b_nilbog-mpmm]] 
+4 [[b_boggle-mpmm]] 

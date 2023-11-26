@@ -8,7 +8,7 @@ PlayedBy: Jon Lin
 | Name:        | Den Koran | Race:      | [[genasi-air-mpmm]]  |
 | Player Name: | Jon Lin   | Class:     | [[monk]]            |
 | Gender:      |  male         |            |            |
-| Background:  | [[criminal]]           | Alignment: |            |
+| Background:  | [[b_criminal]]           | Alignment: |            |
 | Age:         |   18        | Height:    |   5'7         |
 | Weight:      |  134 lb         | Eyes:      | Pape Pupils with Blue Iris           |
 | Skin:        |    Sky Blue       | Hair:      |    Made of Vapor        |
@@ -42,9 +42,9 @@ PlayedBy: Jon Lin
 | 1                                                            |                        |               |          |     |
 | PROFICIENCIES                                                |                        |               |          |     |
 | [[Languages]]                                                | common                 | +1            |          |     |
-| [[2. GM Tools/Misc DND Handbook/Equipment/Weapons\|Weapons]] | simple                 | shortswords   |          |     |
-| [[Armor]]                                                    |                        |               |          |     |
-| [[2. GM Tools/Misc DND Handbook/Equipment/Tools\|Tools]]     | [[musical-instrument]] | [[artisans-tools]]               |          |     |
+| [[_Weapons|Weapons]] | simple                 | shortswords   |          |     |
+| [[_Armor]]                                                    |                        |               |          |     |
+| [[_Tools|Tools]]     | [[musical-instrument]] | [[artisans-tools]]               |          |     |
 | FEATURES/TRAITS                                              |                        |               |          |     |
 | Unending Breath                                                            |                        |               |          |     |
 | Lightning Resistance                                                            |                        |               |          |     |

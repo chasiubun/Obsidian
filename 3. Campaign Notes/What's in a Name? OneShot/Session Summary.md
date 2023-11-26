@@ -9,7 +9,7 @@
 # Synopsis
 
 ## Act 1
-The adventurers wander through the Spoom Woods and hear conflict as [[blink-dog]]s  attack a group of [[boggle-mpmm]] led by a goblin ([[nilbog-mpmm]] ). 
+The adventurers wander through the Spoom Woods and hear conflict as [[b_blink-dog]]s  attack a group of [[b_boggle-mpmm]] led by a goblin ([[b_nilbog-mpmm]] ). 
 - The party may choose to help the victims of the attack
 - The party may choose to abandon the victims, but the victims will be able to fend off the dogs
 The party meets the band of shortstacks lead by the goblin "named" Giorgo. He introduces the small band of seemingly deaf Boggles. The Boggles use sign language to introduce their "sign names" and hand a sheet of paper to the party with the words, "My name is \_\_\_\_\_." Giorgo explains that they want to make friends with the adventuring party.

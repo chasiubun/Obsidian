@@ -8,7 +8,7 @@ PlayedBy: Victor
 | Name:        | Basilus Simmeran | Race:      | [[changeling-mpmm]] |
 | Player Name: | Victor           | Class:     | [[2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/humanoid/druid|druid]]   (1)                    |
 | Gender:      |  male                |            |                     |
-| Background:  |   [[outlander]]                | Alignment: |                     |
+| Background:  |   [[b_outlander]]                | Alignment: |                     |
 | Age:         |                  | Height:    |                     |
 | Weight:      |                  | Eyes:      |                     |
 | Skin:        |                  | Hair:      |                     |
@@ -47,9 +47,9 @@ PlayedBy: Victor
 | 6                                                                          |           |               |          |
 | PROFICIENCIES                                                              |           |               |          |
 | [[Languages]]                                                              |           |               |          |
-| [[2. GM Tools/Misc DND Handbook/Equipment/Weapons\|Weapons]]               |  Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears         |               |          |
-| [[Armor]]                                                                  |           |               |          |
-| [[2. GM Tools/Misc DND Handbook/Equipment/Tools\|Tools]]                   |           |               |          |
+| [[_Weapons|Weapons]]               |  Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears         |               |          |
+| [[_Armor]]                                                                  |           |               |          |
+| [[_Tools|Tools]]                   |           |               |          |
 | [[vehicles]]                                                               |           |               |          |
 | FEATURES/TRAITS                                                            |           |               |          |
 | 1                                                                          |           |               |          |
