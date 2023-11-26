@@ -8,6 +8,9 @@ Sexuality:
   - Dominant
   - Straight
   - Top
+Occupation:
+  - Adventurer
+  - Mercenary
 ---
 
 > [!infobox]+

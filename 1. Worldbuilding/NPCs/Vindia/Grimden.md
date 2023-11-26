@@ -4,6 +4,9 @@ Gender: Male
 Location: Colhen
 Alignment: LN
 Age: Adult
+Occupation:
+  - Mercenary
+  - Assassin
 ---
 
 > [!infobox]+

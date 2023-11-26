@@ -23,9 +23,11 @@
             "id": "6befd86420355c6c",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "1. Worldbuilding/NPCs/Vindia/z_Database - NPCs.md"
+                "file": "3. Campaign Notes/What's in a Name? OneShot/NPCS/Deaf Boggle.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Worldbuilding/NPCs/Vindia/z_Database - NPCs.md",
+                "file": "3. Campaign Notes/What's in a Name? OneShot/NPCS/Deaf Boggle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Worldbuilding/NPCs/Vindia/z_Database - NPCs.md",
+                "file": "3. Campaign Notes/What's in a Name? OneShot/NPCS/Deaf Boggle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Worldbuilding/NPCs/Vindia/z_Database - NPCs.md"
+                "file": "3. Campaign Notes/What's in a Name? OneShot/NPCS/Deaf Boggle.md"
               }
             }
           },
@@ -217,6 +219,8 @@
   },
   "active": "6befd86420355c6c",
   "lastOpenFiles": [
+    "1. Worldbuilding/NPCs/Vindia/z_Database - NPCs.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/fiend/incubus.md",
     "1. Worldbuilding/NPCs/Vindia/Arisha.md",
     "1. Worldbuilding/NPCs/Vindia/Belle.md",
     "1. Worldbuilding/NPCs/Vindia/Dan-Ah.md",
@@ -224,10 +228,8 @@
     "z_Templates/TTRPG Vault - Templates 281023/z_Assets/BumbertIcon.png",
     "z_Templates/TTRPG Vault - Templates 281023/z_Assets/Pasted image 20231118181109.png",
     "z_Templates/TTRPG Vault - Templates 281023/z_Assets/Pasted image 20231118203815.png",
-    "1. Worldbuilding/NPCs/Vindia/z_Database - NPCs.md",
     "1. Worldbuilding/NPCs/Vindia/Vella.md",
     "1. Worldbuilding/NPCs/Vindia/Evie.md",
-    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/fiend/incubus.md",
     "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/fiend/cambion.md",
     "1. Worldbuilding/NPCs/Vindia/Eira.md",
     "1. Worldbuilding/History & Cosmology/Creation Mythos/Origin.md",

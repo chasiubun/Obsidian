@@ -8,6 +8,8 @@ Sexuality:
   - Straight
   - Top
   - Dominant
+Occupation:
+  - Mercenary
 ---
 
 > [!infobox]+

@@ -45,7 +45,7 @@ columns:
     skipPersist: false
     csvCandidate: true
     accessor: __created__
-    position: 24
+    position: 25
     width: 184
     isHidden: true
     sortIndex: -1
@@ -73,7 +73,7 @@ columns:
     skipPersist: false
     csvCandidate: true
     accessor: __modified__
-    position: 25
+    position: 26
     width: 175
     isHidden: true
     sortIndex: -1
@@ -153,7 +153,7 @@ columns:
     accessor: Age
     key: Age
     label: Age
-    position: 12
+    position: 15
     skipPersist: false
     accessorKey: Age
     width: 150
@@ -210,7 +210,7 @@ columns:
     accessor: Condition
     key: Condition
     label: Condition
-    position: 13
+    position: 16
     skipPersist: false
     accessorKey: Condition
     width: 106
@@ -238,7 +238,7 @@ columns:
     accessor: Location
     key: Location
     label: Location
-    position: 21
+    position: 22
     skipPersist: false
     accessorKey: Location
     width: 124
@@ -265,7 +265,7 @@ columns:
     accessor: Occupation
     key: Occupation
     label: Occupation
-    position: 15
+    position: 14
     skipPersist: false
     accessorKey: Occupation
     width: 132
@@ -302,6 +302,8 @@ columns:
       - { label: "Builder", value: "Builder", color: "hsl(34, 95%, 90%)"}
       - { label: "Mercenary", value: "Mercenary", color: "hsl(261, 95%, 90%)"}
       - { label: "Outlander", value: "Outlander", color: "hsl(296, 95%, 90%)"}
+      - { label: "Royal Guard", value: "Royal Guard", color: "hsl(20, 95%, 90%)"}
+      - { label: "Assassin", value: "Assassin", color: "hsl(262, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -314,12 +316,15 @@ columns:
       persist_formula: false
       source_data: current_folder
       option_source: manual
+      wrap_content: true
+      content_vertical_alignment: align-middle
+      content_alignment: text-align-left
   AssociatedGroup:
     input: tags
     accessor: AssociatedGroup
     key: AssociatedGroup
     label: AssociatedGroup
-    position: 22
+    position: 23
     skipPersist: false
     accessorKey: AssociatedGroup
     width: 180
@@ -344,7 +349,7 @@ columns:
     accessor: AssociatedReligion
     key: AssociatedReligion
     label: AssociatedReligion
-    position: 16
+    position: 17
     skipPersist: false
     accessorKey: AssociatedReligion
     width: 78
@@ -408,7 +413,7 @@ columns:
     accessor: WhichParty
     key: WhichParty
     label: WhichParty
-    position: 17
+    position: 18
     skipPersist: false
     accessorKey: WhichParty
     width: 138
@@ -432,7 +437,7 @@ columns:
     accessorKey: Sexuality
     key: Sexuality
     label: Sexuality
-    position: 14
+    position: 13
     width: 293
     skipPersist: false
     isHidden: false
@@ -500,6 +505,8 @@ columns:
       - { label: "White Dragon", value: "White Dragon", color: "hsl(200, 95%, 90%)"}
       - { label: "Aasimar", value: "Aasimar", color: "hsl(261, 95%, 90%)"}
       - { label: "Succubus", value: "Succubus", color: "hsl(185, 95%, 90%)"}
+      - { label: "Human", value: "Human", color: "hsl(259, 95%, 90%)"}
+      - { label: "Lunar", value: "Lunar", color: "hsl(12, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -536,6 +543,9 @@ columns:
       - { label: "Elf", value: "Elf", color: "hsl(52, 95%, 90%)"}
       - { label: "Dragon", value: "Dragon", color: "hsl(137, 95%, 90%)"}
       - { label: "Doppelganger", value: "Doppelganger", color: "hsl(271, 95%, 90%)"}
+      - { label: "Succubus", value: "Succubus", color: "hsl(92, 95%, 90%)"}
+      - { label: "Lunar", value: "Lunar", color: "hsl(229, 95%, 90%)"}
+      - { label: "Half-Elf", value: "Half-Elf", color: "hsl(254, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -554,7 +564,7 @@ columns:
     key: Planet/Plane
     id: Planet/Plane
     label: Planet/Plane
-    position: 19
+    position: 20
     skipPersist: false
     isHidden: true
     sortIndex: -1
@@ -575,7 +585,7 @@ columns:
     key: Kingdom
     id: Kingdom
     label: Kingdom
-    position: 20
+    position: 21
     skipPersist: false
     isHidden: true
     sortIndex: -1
@@ -618,7 +628,7 @@ columns:
     key: OwnedLocations
     id: OwnedLocations
     label: OwnedProperties
-    position: 18
+    position: 19
     skipPersist: false
     isHidden: true
     sortIndex: -1
@@ -637,7 +647,7 @@ columns:
     key: Imposter
     id: Imposter
     label: Imposter
-    position: 23
+    position: 24
     skipPersist: false
     isHidden: true
     sortIndex: -1
@@ -707,6 +717,33 @@ columns:
       footer_type: none
       persist_changes: false
       option_source: manual
+  Kinks:
+    input: tags
+    accessorKey: Kinks
+    key: Kinks
+    id: Kinks
+    label: Kinks
+    position: 12
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+      - { label: "Magic Amplification", value: "Magic Amplification", color: "hsl(50, 95%, 90%)"}
+      - { label: "Group", value: "Group", color: "hsl(106, 95%, 90%)"}
+      - { label: "Peripherals", value: "Peripherals", color: "hsl(292, 95%, 90%)"}
+      - { label: "Tactile Bond", value: "Tactile Bond", color: "hsl(275, 95%, 90%)"}
+      - { label: "Summoning", value: "Summoning", color: "hsl(193, 95%, 90%)"}
+      - { label: "Otherworldly Amplification", value: "Otherworldly Amplification", color: "hsl(176, 95%, 90%)"}
+      - { label: "Transformation", value: "Transformation", color: "hsl(193, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
 config:
   enable_show_state: false
   group_folder_column: Planet/Plane,Kingdom,Location

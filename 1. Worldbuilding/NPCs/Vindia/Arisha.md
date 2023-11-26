@@ -7,13 +7,18 @@ Occupation:
 Age: Adult
 Gender: Female
 Location: Colhen
-Ancestry: ""
+Ancestry: Half-Elf
 Sexuality:
   - Bisexual
   - Flex
   - Dominant
 Type: "1"
 Alignment: LN
+Heritage: Lunar
+Kinks:
+  - Magic Amplification
+  - Peripherals
+  - Summoning
 ---
 
 > [!infobox]+

@@ -8,6 +8,13 @@ Sexuality:
   - Top
   - Lesbian
   - Dominant
+Occupation:
+  - Adventurer
+  - Mercenary
+Kinks:
+  - Otherworldly Amplification
+  - Peripherals
+  - Transformation
 ---
 
 > [!infobox]+

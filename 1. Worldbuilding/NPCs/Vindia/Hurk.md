@@ -4,6 +4,9 @@ Gender: Male
 Location: Rocheste
 Alignment: Neutral
 Age: Young Adult
+Occupation:
+  - Outlander
+  - Mercenary
 ---
 
 > [!infobox]+

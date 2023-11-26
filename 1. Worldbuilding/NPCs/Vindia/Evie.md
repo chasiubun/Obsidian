@@ -8,7 +8,15 @@ Sexuality:
   - Lesbian
   - Bottom
   - Submissive
-Heritage: Succubus
+Heritage: Human
+Occupation:
+  - Adventurer
+  - Mercenary
+Ancestry: Succubus
+Kinks:
+  - Magic Amplification
+  - Peripherals
+  - Tactile Bond
 ---
 
 > [!infobox]+

@@ -4,6 +4,9 @@ Gender: Male
 Location: Malina
 Alignment: Neutral
 Age: Adult
+Occupation:
+  - Mercenary
+  - Adventurer
 ---
 
 > [!infobox]+

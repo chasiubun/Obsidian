@@ -8,6 +8,12 @@ Sexuality:
   - Bisexual
   - Dominant
   - Flex
+Occupation:
+  - Mercenary
+  - Adventurer
+  - Royal Guard
+Ancestry: Human
+Heritage: Human
 ---
 
 > [!infobox]+

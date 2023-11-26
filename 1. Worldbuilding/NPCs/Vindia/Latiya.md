@@ -8,6 +8,9 @@ Sexuality:
   - Top
   - Straight
   - Dominant
+Occupation:
+  - Royal Guard
+  - Mercenary
 ---
 
 > [!infobox]+

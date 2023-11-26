@@ -8,6 +8,8 @@ Sexuality:
   - Flex
   - Submissive
   - Straight
+Occupation:
+  - Adventurer
 ---
 
 > [!infobox]+

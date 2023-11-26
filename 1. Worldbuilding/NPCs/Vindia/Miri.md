@@ -8,6 +8,8 @@ Sexuality:
   - Bottom
   - Straight
   - Submissive
+Occupation:
+  - Royal Guard
 ---
 
 > [!infobox]+

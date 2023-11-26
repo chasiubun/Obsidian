@@ -10,6 +10,8 @@ Sexuality:
   - Straight
   - Top
   - Dominant
+Kinks:
+  - Group
 ---
 
 > [!infobox]+

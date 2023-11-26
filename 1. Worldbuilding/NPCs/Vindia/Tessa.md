@@ -8,6 +8,11 @@ Sexuality:
   - Bottom
   - Straight
   - Dominant
+Occupation:
+  - Assassin
+  - Royal Guard
+Kinks:
+  - Group
 ---
 
 > [!infobox]+

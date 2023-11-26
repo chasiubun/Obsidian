@@ -8,6 +8,13 @@ Sexuality:
   - Straight
   - Top
   - Dominant
+Occupation:
+  - Outlander
+  - Mercenary
+Ancestry: Half-Elf
+Heritage: Lunar
+Kinks:
+  - Group
 ---
 
 > [!infobox]+

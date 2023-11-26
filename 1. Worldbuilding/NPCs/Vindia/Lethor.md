@@ -8,6 +8,10 @@ Sexuality:
   - Flex
   - Submissive
   - Bisexual
+Occupation:
+  - Adventurer
+Kinks:
+  - Peripherals
 ---
 
 > [!infobox]+

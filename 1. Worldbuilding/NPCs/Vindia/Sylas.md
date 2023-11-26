@@ -8,6 +8,9 @@ Sexuality:
   - Bottom
   - Straight
   - Top
+Occupation:
+  - Adventurer
+  - Royal Guard
 ---
 
 > [!infobox]+
