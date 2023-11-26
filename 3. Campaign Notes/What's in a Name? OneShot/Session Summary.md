@@ -42,4 +42,8 @@ The party meets the band of shortstacks lead by the goblin "named" Giorgo. He in
 	- Reggie the Guard
 
 ## Act 3
-- The party wanders through the forest and comes across an old temple rule where the Hamlet told them the Boggles reside.
+- The party wanders through the forest and comes across the cave where the Hamlet told them the Boggles reside.
+- On the left in the room with more Boggles can be found the book of names which tell the rules of stealing names.
+- On the right is Nilbog with the stolen names.
+
+![[Pasted image 20231125214605.png]]
