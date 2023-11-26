@@ -2,6 +2,12 @@
 Art: https://static.wikia.nocookie.net/vindictus_gamepedia/images/5/58/Karok_%28NPC_Icon%29.png/revision/latest?cb=20200430035401
 Age: Adult
 Location: Colhen
+Gender: Male
+Alignment: NG
+Sexuality:
+  - Dominant
+  - Straight
+  - Top
 ---
 
 > [!infobox]+

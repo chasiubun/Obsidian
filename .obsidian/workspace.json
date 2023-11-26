@@ -8,18 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "faea6cb0b4835dcb",
+            "id": "5a6c61164a401793",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Worldbuilding/NPCs/Vindia/Delia.md",
-                "mode": "source",
+                "file": "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/fiend/incubus.md",
+                "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "6befd86420355c6c",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "1. Worldbuilding/NPCs/Vindia/z_Database - NPCs.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "incubus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Worldbuilding/NPCs/Vindia/Delia.md",
+                "file": "1. Worldbuilding/NPCs/Vindia/z_Database - NPCs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Worldbuilding/NPCs/Vindia/Delia.md",
+                "file": "1. Worldbuilding/NPCs/Vindia/z_Database - NPCs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Worldbuilding/NPCs/Vindia/Delia.md"
+                "file": "1. Worldbuilding/NPCs/Vindia/z_Database - NPCs.md"
               }
             }
           },
@@ -204,44 +215,44 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "faea6cb0b4835dcb",
+  "active": "6befd86420355c6c",
   "lastOpenFiles": [
-    "1. Worldbuilding/NPCs/Vindia/Dan-Ah.md",
-    "1. Worldbuilding/NPCs/Vindia/Belle.md",
     "1. Worldbuilding/NPCs/Vindia/Arisha.md",
-    "1. Worldbuilding/NPCs/Vindia/Eira.md",
-    "IMG_B8339D8892FB-1.jpeg",
+    "1. Worldbuilding/NPCs/Vindia/Belle.md",
+    "1. Worldbuilding/NPCs/Vindia/Dan-Ah.md",
     "1. Worldbuilding/NPCs/Vindia/Delia.md",
-    "1. Worldbuilding/NPCs/Vindia/Kael.md",
-    "1. Worldbuilding/NPCs/Vindia/Hurk.md",
-    "1. Worldbuilding/NPCs/Vindia/Fiona.md",
-    "IMG_0313.png",
-    "1. Worldbuilding/NPCs/Vindia/Evie.md",
-    "1. Worldbuilding/NPCs/Vindia/Grimden.md",
-    "1. Worldbuilding/NPCs/Vindia/Kai.md",
-    "1. Worldbuilding/NPCs/Vindia/Karok.md",
-    "1. Worldbuilding/NPCs/Vindia/Lann.md",
-    "1. Worldbuilding/NPCs/Vindia/Latiya.md",
-    "1. Worldbuilding/NPCs/Vindia/Lethor.md",
-    "1. Worldbuilding/NPCs/Vindia/Letty.md",
-    "1. Worldbuilding/NPCs/Vindia/Lynn.md",
-    "1. Worldbuilding/NPCs/Vindia/Miri.md",
-    "1. Worldbuilding/NPCs/Vindia/Sylas.md",
+    "z_Templates/TTRPG Vault - Templates 281023/z_Assets/BumbertIcon.png",
+    "z_Templates/TTRPG Vault - Templates 281023/z_Assets/Pasted image 20231118181109.png",
+    "z_Templates/TTRPG Vault - Templates 281023/z_Assets/Pasted image 20231118203815.png",
+    "1. Worldbuilding/NPCs/Vindia/z_Database - NPCs.md",
     "1. Worldbuilding/NPCs/Vindia/Vella.md",
+    "1. Worldbuilding/NPCs/Vindia/Evie.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/fiend/incubus.md",
+    "2. GM Tools/5eTools Compendium & Rules/compendium/bestiary/fiend/cambion.md",
+    "1. Worldbuilding/NPCs/Vindia/Eira.md",
+    "1. Worldbuilding/History & Cosmology/Creation Mythos/Origin.md",
+    "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Sol.md",
+    "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Parhelion.md",
+    "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects/Lace, Assembler of the Weave.md",
+    "1. Worldbuilding/History & Cosmology/Creation Mythos/Deity/Aspects/Ulal, Genie of Fortune and Chance.md",
+    "z_Assets/IMG_0286.jpg",
+    "z_Assets/IMG_0285.jpg",
     "1. Worldbuilding/NPCs/Vindia/Tessa.md",
-    "IMG_0319.png",
-    "IMG_0321.png",
-    "IMG_0310.png",
-    "IMG_0307.png",
-    "IMG_0306.png",
-    "IMG_0303.jpg",
-    "IMG_0301.png",
-    "IMG_0294.png",
-    "3. Campaign Notes/What's in a Name? OneShot/Session Summary.md",
+    "1. Worldbuilding/NPCs/Vindia/Sylas.md",
+    "1. Worldbuilding/NPCs/Vindia/Miri.md",
+    "1. Worldbuilding/NPCs/Vindia/Lynn.md",
+    "1. Worldbuilding/NPCs/Vindia/Letty.md",
+    "1. Worldbuilding/NPCs/Vindia/Lethor.md",
+    "1. Worldbuilding/NPCs/Vindia/Latiya.md",
+    "1. Worldbuilding/NPCs/Vindia/Lann.md",
+    "1. Worldbuilding/NPCs/Vindia/Karok.md",
+    "1. Worldbuilding/NPCs/Vindia/Kai.md",
+    "z_Assets/IMG_B8339D8892FB-1.jpeg",
+    "z_Assets/IMG_0313.png",
+    "z_Assets/IMG_0319.png",
+    "z_Assets/IMG_0321.png",
+    "z_Assets/IMG_0310.png",
     "3. Campaign Notes/What's in a Name? OneShot/Assets",
-    "3. Campaign Notes/What's in a Name? OneShot/Combat 2.md",
-    "3. Campaign Notes/What's in a Name? OneShot/Combat 1.md",
-    "3. Campaign Notes/What's in a Name? OneShot/Players/Nadezhda Plavikamen.md",
     "3. Campaign Notes/LMoP - Guild of Truth and Light/3. NPCs and Groups",
     "3. Campaign Notes/LMoP - Guild of Truth and Light/2. Campaign Roadmap",
     "3. Campaign Notes/LMoP - Guild of Truth and Light/1. Party Information",

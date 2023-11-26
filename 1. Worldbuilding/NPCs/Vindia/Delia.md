@@ -3,6 +3,11 @@ Art: https://static.wikia.nocookie.net/vindictus_gamepedia/images/7/77/Delia_%28
 Gender: Female
 Age: Young Adult
 Location: Rocheste
+Alignment: LG
+Sexuality:
+  - Top
+  - Submissive
+  - Straight
 ---
 
 > [!infobox]+

@@ -6,6 +6,10 @@ Age: Adult
 Location: Malina
 Occupation:
   - Mercenary
+Sexuality:
+  - Straight
+  - Top
+  - Dominant
 ---
 
 > [!infobox]+

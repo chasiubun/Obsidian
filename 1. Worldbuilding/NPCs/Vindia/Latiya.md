@@ -2,6 +2,12 @@
 Art: https://static.wikia.nocookie.net/vindictus_gamepedia/images/f/f2/Latiya_%28NPC_Icon%29.png/revision/latest?cb=20220707040045
 Age: Adult
 Location: Rocheste
+Gender: Female
+Alignment: LG
+Sexuality:
+  - Top
+  - Straight
+  - Dominant
 ---
 
 > [!infobox]+

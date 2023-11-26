@@ -2,6 +2,12 @@
 Art: https://static.wikia.nocookie.net/vindictus_gamepedia/images/0/01/Miri_%28NPC_Icon%29.png/revision/latest?cb=20200430035640
 Age: Young Adult
 Location: Rocheste
+Gender: Female
+Alignment: LG
+Sexuality:
+  - Bottom
+  - Straight
+  - Submissive
 ---
 
 > [!infobox]+

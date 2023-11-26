@@ -2,6 +2,12 @@
 Art: https://static.wikia.nocookie.net/vindictus_gamepedia/images/f/fe/Tessa_%28NPC_Icon%29.png/revision/latest?cb=20201202212359
 Age: Adult
 Location: Rocheste
+Gender: Female
+Alignment: CG
+Sexuality:
+  - Bottom
+  - Straight
+  - Dominant
 ---
 
 > [!infobox]+

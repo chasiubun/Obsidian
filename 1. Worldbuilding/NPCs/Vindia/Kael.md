@@ -2,6 +2,8 @@
 Art: https://static.wikia.nocookie.net/vindictus_gamepedia/images/b/b5/Kael_%28NPC_Icon%29.png/revision/latest?cb=20200701153009
 Gender: Male
 Location: Malina
+Alignment: Neutral
+Age: Adult
 ---
 
 > [!infobox]+

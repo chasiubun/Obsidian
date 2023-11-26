@@ -3,6 +3,11 @@ Art: https://static.wikia.nocookie.net/vindictus_gamepedia/images/a/a6/Fiona_%28
 Gender: Female
 Age: Adult
 Location: Colhen
+Alignment: LG
+Sexuality:
+  - Bisexual
+  - Dominant
+  - Flex
 ---
 
 > [!infobox]+

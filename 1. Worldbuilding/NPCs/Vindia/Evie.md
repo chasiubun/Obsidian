@@ -3,6 +3,12 @@ Art: https://static.wikia.nocookie.net/vindictus_gamepedia/images/8/80/Evie_%28N
 Gender: Female
 Age: Adult
 Location: Colhen
+Alignment: NG
+Sexuality:
+  - Lesbian
+  - Bottom
+  - Submissive
+Heritage: Succubus
 ---
 
 > [!infobox]+
@@ -63,7 +69,25 @@ Evie is surprised by Lethor's unexpected behavior, but she holds the hand of the
 
 
 ## History
+Evie is a half-human sorcerer warlock born under union of a human and incubus. One of two sisters, Evie grew up in the overworld of Reverie while her sister took up life after her father. Not wanting to draw all her power from her lineage, she made a pact with patron to pave her own way for spellcasting. Nonetheless her bloodline continues to empower her with exceptional skill in manipulating spells she cast forth.
 
+## General Statblock:
+Level 11: Sorcerer (Sorcerer 9/Warlock 2)
+
+**Spells Known**  
+**Cantrips:** _eldritch blast, fire bolt, mage hand, magic stone, mind sliver, minor illusion, mold earth._  
+**1st Level:** _armor of Agathys, gift of alacrity, shield, silvery barbs, unseen servant._  
+**2nd Level:** _misty step, phantasmal force, Rime’s binding ice, Tasha’s mind whip, web._  
+**3rd Level:** _fireball, hypnotic pattern, sleet storm._  
+**4th Level:** _dimension door._  
+**5th Level:** synaptic static
+
+**Clockwork Magic Spells Known**  
+**1st Level:** _absorb elements, longstrider._  
+**2nd Level:** _aid, rope trick._  
+**3rd Level:** _counterspell, tiny servant._  
+**4th Level:** _freedom of movement, polymorph._  
+**5th Level:**:transmute rock, wall of force.
 
 ## DM
 ### Plot Hooks

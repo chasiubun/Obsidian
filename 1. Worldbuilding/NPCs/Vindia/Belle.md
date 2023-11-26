@@ -3,6 +3,13 @@ Art: https://static.wikia.nocookie.net/vindictus_gamepedia/images/7/7c/Belle_%28
 Gender: Female
 Age: Young Adult
 Location: Rocheste
+Alignment: LG
+Occupation:
+  - Mercenary
+Sexuality:
+  - Lesbian
+  - Flex
+  - Submissive
 ---
 
 > [!infobox]+

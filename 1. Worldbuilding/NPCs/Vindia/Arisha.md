@@ -7,6 +7,13 @@ Occupation:
 Age: Adult
 Gender: Female
 Location: Colhen
+Ancestry: ""
+Sexuality:
+  - Bisexual
+  - Flex
+  - Dominant
+Type: "1"
+Alignment: LN
 ---
 
 > [!infobox]+

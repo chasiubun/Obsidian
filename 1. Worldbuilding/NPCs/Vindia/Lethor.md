@@ -2,6 +2,12 @@
 Art: https://static.wikia.nocookie.net/vindictus_gamepedia/images/c/c5/Lethor_%28NPC_Icon%29.png/revision/latest?cb=20200430035743
 Age: Young Adult
 Location: Colhen
+Gender: Female
+Alignment: CG
+Sexuality:
+  - Flex
+  - Submissive
+  - Bisexual
 ---
 
 > [!infobox]+

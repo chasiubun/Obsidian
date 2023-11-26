@@ -2,6 +2,8 @@
 Art: https://static.wikia.nocookie.net/vindictus_gamepedia/images/4/40/Hurk_%28NPC_Icon%29.png/revision/latest?cb=20200430035526
 Gender: Male
 Location: Rocheste
+Alignment: Neutral
+Age: Young Adult
 ---
 
 > [!infobox]+

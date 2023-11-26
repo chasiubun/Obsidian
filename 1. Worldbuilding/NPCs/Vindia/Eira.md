@@ -3,6 +3,11 @@ Art: https://static.wikia.nocookie.net/vindictus_gamepedia/images/f/f0/Eira_%28N
 Gender: Female
 Age: Young Adult
 Location: Colhen
+Alignment: NG
+Sexuality:
+  - Straight
+  - Top
+  - Dominant
 ---
 
 > [!infobox]+

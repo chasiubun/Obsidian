@@ -20,7 +20,7 @@ columns:
     position: 1
     isSorted: true
     isSortedDesc: false
-    width: 342
+    width: 140
     isHidden: false
     sortIndex: 0
     config:
@@ -45,9 +45,9 @@ columns:
     skipPersist: false
     csvCandidate: true
     accessor: __created__
-    position: 25
+    position: 24
     width: 184
-    isHidden: false
+    isHidden: true
     sortIndex: -1
     isSorted: false
     isSortedDesc: false
@@ -73,9 +73,9 @@ columns:
     skipPersist: false
     csvCandidate: true
     accessor: __modified__
-    position: 26
+    position: 25
     width: 175
-    isHidden: false
+    isHidden: true
     sortIndex: -1
     config:
       enable_media_view: true
@@ -108,6 +108,7 @@ columns:
       - { label: "CG", value: "CG", color: "hsl(174, 95%, 90%)"}
       - { label: "CE", value: "CE", color: "hsl(319, 95%, 90%)"}
       - { label: "NE", value: "NE", color: "hsl(154, 95%, 90%)"}
+      - { label: "LN", value: "LN", color: "hsl(223, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -152,7 +153,7 @@ columns:
     accessor: Age
     key: Age
     label: Age
-    position: 14
+    position: 12
     skipPersist: false
     accessorKey: Age
     width: 150
@@ -209,11 +210,11 @@ columns:
     accessor: Condition
     key: Condition
     label: Condition
-    position: 15
+    position: 13
     skipPersist: false
     accessorKey: Condition
     width: 106
-    isHidden: false
+    isHidden: true
     sortIndex: -1
     options:
       - { label: "Dead", value: "Dead", color: "hsl(280, 95%, 90%)"}
@@ -237,7 +238,7 @@ columns:
     accessor: Location
     key: Location
     label: Location
-    position: 23
+    position: 21
     skipPersist: false
     accessorKey: Location
     width: 124
@@ -264,7 +265,7 @@ columns:
     accessor: Occupation
     key: Occupation
     label: Occupation
-    position: 16
+    position: 15
     skipPersist: false
     accessorKey: Occupation
     width: 132
@@ -300,6 +301,7 @@ columns:
       - { label: "Kingsguard", value: "Kingsguard", color: "hsl(264, 95%, 90%)"}
       - { label: "Builder", value: "Builder", color: "hsl(34, 95%, 90%)"}
       - { label: "Mercenary", value: "Mercenary", color: "hsl(261, 95%, 90%)"}
+      - { label: "Outlander", value: "Outlander", color: "hsl(296, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -311,15 +313,16 @@ columns:
       persist_changes: false
       persist_formula: false
       source_data: current_folder
+      option_source: manual
   AssociatedGroup:
     input: tags
     accessor: AssociatedGroup
     key: AssociatedGroup
     label: AssociatedGroup
-    position: 17
+    position: 22
     skipPersist: false
     accessorKey: AssociatedGroup
-    width: 254
+    width: 180
     isHidden: false
     sortIndex: -1
     options:
@@ -341,11 +344,11 @@ columns:
     accessor: AssociatedReligion
     key: AssociatedReligion
     label: AssociatedReligion
-    position: 18
+    position: 16
     skipPersist: false
     accessorKey: AssociatedReligion
     width: 78
-    isHidden: false
+    isHidden: true
     sortIndex: -1
     options:
       - { label: "Keata", value: "Keata", color: "hsl(161, 95%, 90%)"}
@@ -405,11 +408,11 @@ columns:
     accessor: WhichParty
     key: WhichParty
     label: WhichParty
-    position: 19
+    position: 17
     skipPersist: false
     accessorKey: WhichParty
     width: 138
-    isHidden: false
+    isHidden: true
     sortIndex: -1
     options:
     config:
@@ -424,44 +427,25 @@ columns:
       persist_formula: false
       source_data: current_folder
       option_source: manual
-  Type:
-    input: select
-    accessor: Type
-    key: Type
-    label: Type
-    position: 6
-    skipPersist: false
-    accessorKey: Type
-    width: 78
-    isHidden: false
-    sortIndex: -1
-    options:
-      - { label: "NPC", value: "NPC", color: "hsl(346, 95%, 90%)"}
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-      option_source: manual
   Sexuality:
-    input: select
+    input: tags
     accessorKey: Sexuality
     key: Sexuality
     label: Sexuality
-    position: 13
-    width: 92
+    position: 14
+    width: 293
     skipPersist: false
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "Asexual", value: "Asexual", color: "hsl(36, 95%, 90%)"}
-      - { label: "Bisexual", value: "Bisexual", color: "hsl(313, 95%, 90%)"}
-      - { label: "Gay", value: "Gay", color: "hsl(235, 95%, 90%)"}
-      - { label: "Straight", value: "Straight", color: "hsl(355, 95%, 90%)"}
+      - { label: "Lesbian", value: "Lesbian", color: "hsl(32, 95%, 90%)"}
+      - { label: "Bisexual", value: "Bisexual", color: "hsl(93, 95%, 90%)"}
+      - { label: "Straight", value: "Straight", color: "hsl(137, 95%, 90%)"}
+      - { label: "Flex", value: "Flex", color: "hsl(155, 95%, 90%)"}
+      - { label: "Top", value: "Top", color: "hsl(77, 95%, 90%)"}
+      - { label: "Dominant", value: "Dominant", color: "hsl(86, 95%, 90%)"}
+      - { label: "Submissive", value: "Submissive", color: "hsl(161, 95%, 90%)"}
+      - { label: "Bottom", value: "Bottom", color: "hsl(242, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -471,8 +455,9 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-      persist_formula: false
-      source_data: current_folder
+      content_vertical_alignment: align-middle
+      option_source: manual
+      wrap_content: true
   Art:
     input: text
     accessorKey: Art
@@ -514,6 +499,7 @@ columns:
       - { label: "Ancient Elf", value: "Ancient Elf", color: "hsl(97, 95%, 90%)"}
       - { label: "White Dragon", value: "White Dragon", color: "hsl(200, 95%, 90%)"}
       - { label: "Aasimar", value: "Aasimar", color: "hsl(261, 95%, 90%)"}
+      - { label: "Succubus", value: "Succubus", color: "hsl(185, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -568,9 +554,9 @@ columns:
     key: Planet/Plane
     id: Planet/Plane
     label: Planet/Plane
-    position: 21
+    position: 19
     skipPersist: false
-    isHidden: false
+    isHidden: true
     sortIndex: -1
     options:
     config:
@@ -589,9 +575,9 @@ columns:
     key: Kingdom
     id: Kingdom
     label: Kingdom
-    position: 22
+    position: 20
     skipPersist: false
-    isHidden: false
+    isHidden: true
     sortIndex: -1
     options:
     config:
@@ -632,9 +618,9 @@ columns:
     key: OwnedLocations
     id: OwnedLocations
     label: OwnedProperties
-    position: 20
+    position: 18
     skipPersist: false
-    isHidden: false
+    isHidden: true
     sortIndex: -1
     config:
       enable_media_view: true
@@ -651,9 +637,9 @@ columns:
     key: Imposter
     id: Imposter
     label: Imposter
-    position: 24
+    position: 23
     skipPersist: false
-    isHidden: false
+    isHidden: true
     sortIndex: -1
     options:
       - { label: "Mirx", value: "Mirx", color: "hsl(349, 95%, 90%)"}
@@ -674,7 +660,7 @@ columns:
     label: Party1Relations
     position: 7
     skipPersist: false
-    isHidden: false
+    isHidden: true
     sortIndex: -1
     width: 142
     options:
@@ -687,6 +673,30 @@ columns:
       - { label: "Lover", value: "Lover", color: "hsl(337, 95%, 90%)"}
       - { label: "Like", value: "Like", color: "hsl(38, 95%, 90%)"}
       - { label: "Dislike", value: "Dislike", color: "hsl(2, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      option_source: manual
+  Type:
+    input: select
+    accessor: Type
+    key: Type
+    label: Type
+    position: 6
+    skipPersist: false
+    accessorKey: Type
+    width: 78
+    isHidden: true
+    sortIndex: -1
+    options:
+      - { label: "dom", value: "1", color: "hsl(358, 95%, 90%)"}
+      - { label: "flex", value: "flex", color: "hsl(118, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

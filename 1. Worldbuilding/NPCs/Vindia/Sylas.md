@@ -2,6 +2,12 @@
 Art: https://static.wikia.nocookie.net/vindictus_gamepedia/images/0/0d/Sylas_%28NPC_Icon%29.png/revision/latest?cb=20200430035604
 Age: Ancient
 Location: Malina
+Gender: Male
+Alignment: Neutral
+Sexuality:
+  - Bottom
+  - Straight
+  - Top
 ---
 
 > [!infobox]+

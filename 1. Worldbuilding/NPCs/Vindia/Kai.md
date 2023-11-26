@@ -1,7 +1,13 @@
 ---
 Art: https://static.wikia.nocookie.net/vindictus_gamepedia/images/c/c1/Kai_%28NPC_Icon%29.png/revision/latest?cb=20200430035420
-Age: Adult
+Age: Mature Adult
 Location: Malina
+Gender: Male
+Alignment: NG
+Sexuality:
+  - Dominant
+  - Straight
+  - Top
 ---
 
 > [!infobox]+

@@ -3,6 +3,13 @@ Art: https://static.wikia.nocookie.net/vindictus_gamepedia/images/2/20/Danah_%28
 Gender: Female
 Age: Adult
 Location: Colhen
+Alignment: LG
+Sexuality:
+  - Lesbian
+  - Dominant
+  - Top
+Occupation:
+  - Outlander
 ---
 
 > [!infobox]+

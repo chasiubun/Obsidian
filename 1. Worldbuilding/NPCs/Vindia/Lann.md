@@ -1,7 +1,13 @@
 ---
 Art: https://static.wikia.nocookie.net/vindictus_gamepedia/images/3/31/Lann_%28NPC_Icon%29.png/revision/latest?cb=20200430035227
-Age: Adult
+Age: Young Adult
 Location: Colhen
+Gender: Female
+Alignment: LG
+Sexuality:
+  - Straight
+  - Top
+  - Dominant
 ---
 
 > [!infobox]+

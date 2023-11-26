@@ -2,6 +2,8 @@
 Art: https://static.wikia.nocookie.net/vindictus_gamepedia/images/1/11/Grimden_%28NPC_Icon%29.png/revision/latest?cb=20200430035656
 Gender: Male
 Location: Colhen
+Alignment: LN
+Age: Adult
 ---
 
 > [!infobox]+
