@@ -1,3 +1,6 @@
+---
+PlayedBy: Rendale
+---
 ## Physical Characteristics
 
 | -            | -                   | -          | -                               |
