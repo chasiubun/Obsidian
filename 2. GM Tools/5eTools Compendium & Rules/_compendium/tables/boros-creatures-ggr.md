@@ -30,5 +30,5 @@ aliases: ["Boros Creatures"]
 | 12 | [Firemane angel](b_firemane-angel-ggr.md) | *GGR* |
 | 16 | [Planetar](b_planetar.md) | *MM* |
 | 21 | [Solar](b_solar.md) | *MM* |
-| 23 | [Aurelia](compendium/bestiary/npc/aurelia-ggr.md) | *GGR* |
+| 23 | [Aurelia](b_aurelia-ggr.md) | *GGR* |
 ^boros-creatures

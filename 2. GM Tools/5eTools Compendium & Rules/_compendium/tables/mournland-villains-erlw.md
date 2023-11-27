@@ -15,7 +15,7 @@ aliases: ["Mournland Villains"]
 | dice: d6 | Villain |
 |----------|---------|
 | 1 | [The Lord of Blades](compendium/bestiary/npc/the-lord-of-blades-erlw.md) maintains a detention center where experiments are performed on adventurers and scavengers that his forces capture in the Mournland. |
-| 2 | The leader of a cult devoted to [Belashyrra](compendium/bestiary/npc/belashyrra-erlw.md), the Lord of Eyes, uses daelkyr-made tentacles to tear out the eyes of victims and attaches them to members of the cult. |
+| 2 | The leader of a cult devoted to [Belashyrra](2.%20GM%20Tools/5eTools%20Compendium%20&%20Rules/_compendium/bestiary/npc/b_belashyrra-erlw.md), the Lord of Eyes, uses daelkyr-made tentacles to tear out the eyes of victims and attaches them to members of the cult. |
 | 3 | A powerful member of House Cannith hopes to find something in the Mournland that will guarantee the ascendancy of her branch of the house. |
 | 4 | A Karrnathi [bone knight](b_bone-knight-erlw.md) (see "chapter 6") wants to raise up an undead army from the corpses in the Mournland. |
 | 5 | A [b_rakshasa](b_rakshasa.md) works to free a fiendish overlord trapped in a whirlwind of stone and sand somewhere in the Mournland. |

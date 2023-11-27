@@ -34,5 +34,5 @@ aliases: ["Gruul Creatures"]
 | 8 | [Hydra](b_hydra.md) | *MM* |
 | 10 | [Sunder shaman](b_sunder-shaman-ggr.md) | *GGR* |
 | 14 | [Wurm](b_wurm-ggr.md) | *GGR* |
-| 18 | [Borborygmos](compendium/bestiary/npc/borborygmos-ggr.md) | *GGR* |
+| 18 | [Borborygmos](b_borborygmos-ggr.md) | *GGR* |
 ^gruul-creatures

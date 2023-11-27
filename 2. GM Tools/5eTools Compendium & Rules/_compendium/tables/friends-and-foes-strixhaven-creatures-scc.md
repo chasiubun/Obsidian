@@ -16,7 +16,7 @@ aliases: ["Friends and Foes; Strixhaven Creatures"]
 |----------|---------------|----|
 | [Archaic](b_archaic-scc.md) | Celestial | 18 |
 | [Art Elemental Mascot](b_art-elemental-mascot-scc.md) | Elemental | 1/4 |
-| [Beledros Witherbloom](compendium/bestiary/npc/beledros-witherbloom-scc.md) | Dragon | 24 |
+| [Beledros Witherbloom](b_beledros-witherbloom-scc.md) | Dragon | 24 |
 | [Brackish Trudge](compendium/bestiary/plant/brackish-trudge-scc.md) | Plant | 3 |
 | [Cogwork Archivist](b_cogwork-archivist-scc.md) | Construct | 4 |
 | [Daemogoth](b_daemogoth-scc.md) | Fiend | 10 |

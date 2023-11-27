@@ -30,5 +30,7 @@
   "obsidian-meta-bind-plugin",
   "quickadd",
   "obsidian-dice-roller",
-  "custom-sort"
+  "custom-sort",
+  "cm-editor-syntax-highlight-obsidian",
+  "js-engine"
 ]

@@ -18,5 +18,5 @@ aliases: ["Founder Dragons"]
 | Prismari | [Galazeth Prismari](compendium/bestiary/npc/galazeth-prismari-scc.md) |
 | Quandrix | [Tanazir Quandrix](compendium/bestiary/npc/tanazir-quandrix-scc.md) |
 | Silverquill | [Shadrix Silverquill](compendium/bestiary/npc/shadrix-silverquill-scc.md) |
-| Witherbloom | [Beledros Witherbloom](compendium/bestiary/npc/beledros-witherbloom-scc.md) |
+| Witherbloom | [Beledros Witherbloom](b_beledros-witherbloom-scc.md) |
 ^founder-dragons
