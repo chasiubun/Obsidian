@@ -31,7 +31,7 @@ There's no limit on the number of sidekicks in a group, but having more than one
 
 ## Gaining a Sidekick Class
 
-When you create a sidekick, you choose the class it will have for the rest of its career: [Expert](compendium/classes/expert-sidekick-tce.md), [Spellcaster](compendium/classes/spellcaster-sidekick-tce.md), or [Warrior](compendium/classes/warrior-sidekick-tce.md). If a sidekick class contains a choice, you may make the choice or let the players make it.
+When you create a sidekick, you choose the class it will have for the rest of its career: [Expert](expert-sidekick-tce.md), [Spellcaster](spellcaster-sidekick-tce.md), or [Warrior](warrior-sidekick-tce.md). If a sidekick class contains a choice, you may make the choice or let the players make it.
 
 ### Starting Level
 

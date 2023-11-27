@@ -16,7 +16,7 @@ _Source: Dungeon Master's Guide p. 141. Available in the SRD and the Basic Rules
 
 Activating some magic items requires a user to do something in particular, such as holding the item and uttering a command word, reading the item if it is a scroll, or drinking it if it is a potion. The description of each item category or individual item details how an item is activated. Certain items use one or more of the following rules related to their activation.
 
-If an item requires an action to activate, that action isn't a function of the [Use an Object](_actions.md#Use%20an%20Object) action, so a feature such as the rogue's [Fast Hands](compendium/classes/rogue-thief.md#Fast%20Hands%20(Level%203)) can't be used to activate the item.
+If an item requires an action to activate, that action isn't a function of the [Use an Object](_actions.md#Use%20an%20Object) action, so a feature such as the rogue's [Fast Hands](rogue-thief.md#Fast%20Hands%20(Level%203)) can't be used to activate the item.
 
 ### Command Word
 
@@ -112,7 +112,7 @@ _Source: Player's Handbook p. 146. Available in the SRD and the Basic Rules._
 
 - **Duration**: 1 action
 
-The time it takes to don or doff armor [depends on the armor's category](compendium/tables/getting-into-and-out-of-armor-donning-and-doffing-armor.md). A [shield](compendium/items/shield.md) can be donned or doffed as an action.
+The time it takes to don or doff armor [depends on the armor's category](getting-into-and-out-of-armor-donning-and-doffing-armor.md). A [shield](z_compendium/items/shield.md) can be donned or doffed as an action.
 
 ## End Concentration
 _Source: Player's Handbook p. 203. Available in the SRD and the Basic Rules._
@@ -199,7 +199,7 @@ _Source: Dungeon Master's Guide p. 271_
 
 This option makes it easier for melee combatants to harry each other with opportunity attacks.
 
-When a creature makes a melee attack, it can also mark its target. Until the end of the attacker's next turn, any opportunity attack it makes against the marked target has advantage. The opportunity attack doesn't expend the attacker's reaction, but the attacker can't make the attack if anything, such as the [incapacitated](_conditions.md#incapacitated) condition or the [shocking grasp](compendium/spells/shocking-grasp.md) spell, is preventing it from taking reactions. The attacker is limited to one opportunity attack per turn.
+When a creature makes a melee attack, it can also mark its target. Until the end of the attacker's next turn, any opportunity attack it makes against the marked target has advantage. The opportunity attack doesn't expend the attacker's reaction, but the attacker can't make the attack if anything, such as the [incapacitated](_conditions.md#incapacitated) condition or the [shocking grasp](shocking-grasp.md) spell, is preventing it from taking reactions. The attacker is limited to one opportunity attack per turn.
 
 See also: [Attack](_actions.md#Attack)
 

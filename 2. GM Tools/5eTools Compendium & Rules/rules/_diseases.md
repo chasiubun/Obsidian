@@ -15,7 +15,7 @@ _Source: Player's Handbook p. 227_
 Pain grips the creature's mind, and its eyes turn milky white. The creature has disadvantage on Wisdom checks and Wisdom saving throws and is [blinded](_conditions.md#blinded).
 
 > [!note]
-> This disease can be inflicted with the [contagion](compendium/spells/contagion.md) spell.
+> This disease can be inflicted with the [contagion](contagion.md) spell.
 
 ## Cackle Fever
 _Source: Dungeon Master's Guide p. 257. Available in the SRD._
@@ -36,7 +36,7 @@ _Source: Player's Handbook p. 227_
 A raging fever sweeps through the creature's body. The creature has disadvantage on Strength checks, Strength saving throws, and attack rolls that use Strength.
 
 > [!note]
-> This disease can be inflicted with the [contagion](compendium/spells/contagion.md) spell.
+> This disease can be inflicted with the [contagion](contagion.md) spell.
 
 ## Flesh Rot
 _Source: Player's Handbook p. 227_
@@ -44,15 +44,15 @@ _Source: Player's Handbook p. 227_
 The creature's flesh decays. The creature has disadvantage on Charisma checks and vulnerability to all damage.
 
 > [!note]
-> This disease can be inflicted with the [contagion](compendium/spells/contagion.md) spell.
+> This disease can be inflicted with the [contagion](contagion.md) spell.
 
 ## Mindfire
 _Source: Player's Handbook p. 227_
 
-The creature's mind becomes feverish. The creature has disadvantage on Intelligence checks and Intelligence saving throws, and the creature behaves as if under the effects of the [confusion](compendium/spells/confusion.md) spell during combat.
+The creature's mind becomes feverish. The creature has disadvantage on Intelligence checks and Intelligence saving throws, and the creature behaves as if under the effects of the [confusion](confusion.md) spell during combat.
 
 > [!note]
-> This disease can be inflicted with the [contagion](compendium/spells/contagion.md) spell.
+> This disease can be inflicted with the [contagion](contagion.md) spell.
 
 ## Seizure
 _Source: Player's Handbook p. 227_
@@ -60,7 +60,7 @@ _Source: Player's Handbook p. 227_
 The creature is overcome with shaking. The creature has disadvantage on Dexterity checks, Dexterity saving throws, and attack rolls that use Dexterity.
 
 > [!note]
-> This disease can be inflicted with the [contagion](compendium/spells/contagion.md) spell.
+> This disease can be inflicted with the [contagion](contagion.md) spell.
 
 ## Sewer Plague
 _Source: Dungeon Master's Guide p. 257. Available in the SRD._
@@ -80,9 +80,9 @@ _Source: Dungeon Master's Guide p. 257. Available in the SRD._
 
 This painful infection causes bleeding from the eyes and eventually blinds the victim.
 
-A beast or humanoid that drinks water tainted by sight rot must succeed on a DC 15 Constitution saving throw or become infected. One day after infection, the creature's vision starts to become blurry. The creature takes a -1 penalty to attack rolls and ability checks that rely on sight. At the end of each long rest after the symptoms appear, the penalty worsens by 1. When it reaches -5, the victim is [blinded](_conditions.md#blinded) until its sight is restored by magic such as [lesser restoration](compendium/spells/lesser-restoration.md) or [heal](compendium/spells/heal.md).
+A beast or humanoid that drinks water tainted by sight rot must succeed on a DC 15 Constitution saving throw or become infected. One day after infection, the creature's vision starts to become blurry. The creature takes a -1 penalty to attack rolls and ability checks that rely on sight. At the end of each long rest after the symptoms appear, the penalty worsens by 1. When it reaches -5, the victim is [blinded](_conditions.md#blinded) until its sight is restored by magic such as [lesser restoration](lesser-restoration.md) or [heal](heal.md).
 
-Sight rot can be cured using a rare flower called Eyebright, which grows in some swamps. Given an hour, a character who has proficiency with an [herbalism kit](compendium/items/herbalism-kit.md) can turn the flower into one dose of ointment. Applied to the eyes before a long rest, one dose of it prevents the disease from worsening after that rest. After three doses, the ointment cures the disease entirely.
+Sight rot can be cured using a rare flower called Eyebright, which grows in some swamps. Given an hour, a character who has proficiency with an [herbalism kit](herbalism-kit.md) can turn the flower into one dose of ointment. Applied to the eyes before a long rest, one dose of it prevents the disease from worsening after that rest. After three doses, the ointment cures the disease entirely.
 
 ## Slimy Doom
 _Source: Player's Handbook p. 227_
@@ -90,7 +90,7 @@ _Source: Player's Handbook p. 227_
 The creature begins to bleed uncontrollably. The creature has disadvantage on Constitution checks and Constitution saving throws. In addition, whenever the creature takes damage, it is [stunned](_conditions.md#stunned) until the end of its next turn.
 
 > [!note]
-> This disease can be inflicted with the [contagion](compendium/spells/contagion.md) spell.
+> This disease can be inflicted with the [contagion](contagion.md) spell.
 
 ## Super-Tetanus
 _Source: Tales from the Yawning Portal p. 104_

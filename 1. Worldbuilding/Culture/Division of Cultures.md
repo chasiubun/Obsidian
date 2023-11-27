@@ -6,7 +6,7 @@ Many races reside in the land of [[Fontaine]] . In the beginning there were cert
 | -------------------- | ------------ | ---------------- | ------------------- | ------------------- |
 | [[aasimar-dmg]]      | [[tiefling]] | [[eladrin-mpmm]] | [[changeling-mpmm]] | [[shadar-kai-mpmm]] |
 | [[b_kenku]] (banished) | [[elf]]      |                  |                     |                     |
-| [[2. GM Tools/5eTools Compendium & Rules/_compendium/races/kalashtar-erlw]]                      |              |                  |                     |                     |
+| [[kalashtar-erlw]]                      |              |                  |                     |                     |
 
 ## Primeval Races: 
 

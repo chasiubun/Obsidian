@@ -15,7 +15,11 @@
     "custom-admonitions.4246e6",
     "TTRPGCallouts",
     "BetterLeafletIcons",
-    "Banned_Fade"
+    "Banned_Fade",
+    "custom-admonitions.030fcb",
+    "my-mb-css",
+    "my-mb-css-text",
+    "spell-slot"
   ],
   "translucency": true,
   "theme": "system"

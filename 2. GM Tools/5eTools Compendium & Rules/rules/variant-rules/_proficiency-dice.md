@@ -14,4 +14,4 @@ Whenever a feature, such as the rogue's Expertise, lets a character double his o
 
 This option is intended for player characters and nonplayer characters who have levels, as opposed to monsters who don't.
 
-![Proficiency Dice](compendium/tables/proficiency-dice.md)
+![Proficiency Dice](proficiency-dice.md)

@@ -22,9 +22,9 @@ A creature that leaves the Feywild must make a DC 10 Wisdom saving throw. Fey cr
 
 While time seems to pass normally in the Feywild, characters might spend a day there and realize, upon leaving the plane, that less or more time has elapsed everywhere else in the multiverse.
 
-Whenever a creature or group of creatures leaves the Feywild after spending at least 1 day on that plane, you can choose a time change that works best for your campaign, if any, or roll on the Feywild Time Warp table. A [wish](compendium/spells/wish.md) spell can be used to remove the effect on up to ten creatures. Some powerful fey have the ability to grant such wishes and might do so if the beneficiaries agree to subject themselves to a [geas](compendium/spells/geas.md) spell and complete a quest after the [wish](compendium/spells/wish.md) spell is cast.
+Whenever a creature or group of creatures leaves the Feywild after spending at least 1 day on that plane, you can choose a time change that works best for your campaign, if any, or roll on the Feywild Time Warp table. A [wish](wish.md) spell can be used to remove the effect on up to ten creatures. Some powerful fey have the ability to grant such wishes and might do so if the beneficiaries agree to subject themselves to a [geas](geas.md) spell and complete a quest after the [wish](wish.md) spell is cast.
 
-![Feywild Time Warp](compendium/tables/feywild-time-warp.md)
+![Feywild Time Warp](feywild-time-warp.md)
 
 ## Shadowfell: Shadowfell Despair
 
@@ -32,11 +32,11 @@ A melancholic atmosphere pervades the Shadowfell. Extended forays to this plane 
 
 When you deem it appropriate, though usually not more than once per day, you can require a character not native to the Shadowfell to make a DC 10 Wisdom saving throw. On a failure, the character is affected by despair. Roll a `d6` to determine the effects, using the Shadowfell Despair table. You can substitute different despair effects of your own creation.
 
-![Shadowfell Despair](compendium/tables/shadowfell-despair.md)
+![Shadowfell Despair](shadowfell-despair.md)
 
 If a character is already suffering a despair effect and fails the saving throw, the new despair effect replaces the old one. After finishing a long rest, a character can attempt to overcome the despair with a DC 15 Wisdom saving throw. (The DC is higher because it's harder to shake off despair once it has taken hold.) On a successful save, the despair effect ends for that character.
 
-A [calm emotions](compendium/spells/calm-emotions.md) spell removes despair, as does any spell or other magical effect that removes a curse.
+A [calm emotions](calm-emotions.md) spell removes despair, as does any spell or other magical effect that removes a curse.
 
 ## Outer Planes: Psychic Dissonance
 
@@ -44,15 +44,15 @@ Each of the Outer Planes emanates a psychic dissonance that affects visitors of 
 
 ## Mount Celestia: Blessed Beneficence
 
-In contrast to the dissonance experienced by evil creatures here, good creatures are literally blessed by the pervasive beneficence of the plane. Creatures of good alignment gain the benefit of the [bless](compendium/spells/bless.md) spell as long as they remain on the plane. In addition, finishing a long rest on the plane grants a good creature the benefit of a [lesser restoration](compendium/spells/lesser-restoration.md) spell.
+In contrast to the dissonance experienced by evil creatures here, good creatures are literally blessed by the pervasive beneficence of the plane. Creatures of good alignment gain the benefit of the [bless](bless.md) spell as long as they remain on the plane. In addition, finishing a long rest on the plane grants a good creature the benefit of a [lesser restoration](lesser-restoration.md) spell.
 
 ## Bytopia: Pervasive Goodwill
 
-At the end of each long rest taken on this plane, a visitor that is neither lawful good nor neutral good must make a DC 10 Wisdom saving throw. On a failed save, the creature's alignment changes to lawful good or neutral good (whichever is closer to the creature's current alignment). The change becomes permanent if the creature doesn't leave the plane within `1d4` days. Otherwise, the creature's alignment reverts to normal after one day spent on a plane other than Bytopia. Casting the [dispel evil and good](compendium/spells/dispel-evil-and-good.md) spell on the creature also restores its original alignment.
+At the end of each long rest taken on this plane, a visitor that is neither lawful good nor neutral good must make a DC 10 Wisdom saving throw. On a failed save, the creature's alignment changes to lawful good or neutral good (whichever is closer to the creature's current alignment). The change becomes permanent if the creature doesn't leave the plane within `1d4` days. Otherwise, the creature's alignment reverts to normal after one day spent on a plane other than Bytopia. Casting the [dispel evil and good](dispel-evil-and-good.md) spell on the creature also restores its original alignment.
 
 ## Elysium: Overwhelming Joy
 
-Visitors spending any time on this plane risk becoming trapped by overwhelming sensations of contentment and happiness. At the end of each long rest taken on this plane, a visitor must make a DC 10 Wisdom saving throw. On a failed save, the creature is unwilling to leave the plane before taking another long rest. After three failed saving throws, the creature never willingly leaves the plane and, if forcibly removed, does everything in its power to return to the plane. A [dispel evil and good](compendium/spells/dispel-evil-and-good.md) spell removes this effect from the creature.
+Visitors spending any time on this plane risk becoming trapped by overwhelming sensations of contentment and happiness. At the end of each long rest taken on this plane, a visitor must make a DC 10 Wisdom saving throw. On a failed save, the creature is unwilling to leave the plane before taking another long rest. After three failed saving throws, the creature never willingly leaves the plane and, if forcibly removed, does everything in its power to return to the plane. A [dispel evil and good](dispel-evil-and-good.md) spell removes this effect from the creature.
 
 ## The Beastlands: Hunter's Paradise
 
@@ -60,11 +60,11 @@ Visitors to the Beastlands find their hunting and stalking capabilities improved
 
 ## The Beastlands: Beast Transformation
 
-Whenever a visitor slays a beast native to the plane, the slayer must succeed on a DC 10 Charisma saving throw or become transformed (as the [polymorph](compendium/spells/polymorph.md) spell) into the type of beast that was slain. In this form, the creature retains its intelligence and ability to speak. At the end of each long rest, the polymorphed creature can repeat the saving throw. On a successful saving throw, the creature returns to its true form. After three failed saving throws. the transformation can be undone only by a [remove curse](compendium/spells/remove-curse.md) spell or similar magic. 
+Whenever a visitor slays a beast native to the plane, the slayer must succeed on a DC 10 Charisma saving throw or become transformed (as the [polymorph](polymorph.md) spell) into the type of beast that was slain. In this form, the creature retains its intelligence and ability to speak. At the end of each long rest, the polymorphed creature can repeat the saving throw. On a successful saving throw, the creature returns to its true form. After three failed saving throws. the transformation can be undone only by a [remove curse](remove-curse.md) spell or similar magic. 
 
 ## Arborea: Intense Yearning
 
-Keep track of how many days a visitor spends on Arborea. When the visitor leaves, it must make a Charisma saving throw against a DC of 5, plus 1 for each day spent on the plane. On a failed save, the creature becomes afflicted with a yearning to return to Arborea. As long as the effect persists the creature has disadvantage on ability checks. At the end of each long rest, the creature can repeat the saving throw, ending the effect on a success. A [dispel evil and good](compendium/spells/dispel-evil-and-good.md) spell removes this effect from the creature.
+Keep track of how many days a visitor spends on Arborea. When the visitor leaves, it must make a Charisma saving throw against a DC of 5, plus 1 for each day spent on the plane. On a failed save, the creature becomes afflicted with a yearning to return to Arborea. As long as the effect persists the creature has disadvantage on ability checks. At the end of each long rest, the creature can repeat the saving throw, ending the effect on a success. A [dispel evil and good](dispel-evil-and-good.md) spell removes this effect from the creature.
 
 ## Ysgard: Immortal Wrath
 
@@ -86,9 +86,9 @@ A visitor must make a DC 10 Wisdom saving throw after each hour spent among the 
 
 A non-evil visitor that finishes a long rest in the Abyss must make a DC 10 Charisma saving throw. On a failure, the creature becomes corrupted. Refer to the Abyssal Corruption table to determine the effects of this corruption. You can substitute different corruption effects of your own creation.
 
-After finishing a long rest, a corrupted creature can make a DC 15 Charisma saving throw. On a successful save, the corruption effect ends. A [dispel evil and good](compendium/spells/dispel-evil-and-good.md) spell or any magic that removes a curse also ends the effect.
+After finishing a long rest, a corrupted creature can make a DC 15 Charisma saving throw. On a successful save, the corruption effect ends. A [dispel evil and good](dispel-evil-and-good.md) spell or any magic that removes a curse also ends the effect.
 
-If a corrupted creature doesn't leave the plane within `1d4 + 2` days, its alignment changes to chaotic evil. Casting the [dispel evil and good](compendium/spells/dispel-evil-and-good.md) spell on the creature restores its original alignment.
+If a corrupted creature doesn't leave the plane within `1d4 + 2` days, its alignment changes to chaotic evil. Casting the [dispel evil and good](dispel-evil-and-good.md) spell on the creature restores its original alignment.
 
 **Abyssal Corruption**
 
@@ -97,7 +97,7 @@ If a corrupted creature doesn't leave the plane within `1d4 + 2` days, its align
 | 1-4 | **Treachery.** The character gains the following flaw: "I can only achieve my goals by making sure that my companions don't achieve theirs." |
 | 5-7 | **Bloodlust.** The character gains the following flaw: "I enjoy killing for its own sake, and once I start, it's hard to stop." |
 | 8-9 | **Mad Ambition.** The character gains the following flaw: "I am destined to rule the Abyss, and my companions are tools to that end." |
-| 10 | **Demonic Possession.** The character is possessed by a demonic entity until freed by [dispel evil and good](compendium/spells/dispel-evil-and-good.md) or similar magic. Whenever the possessed character rolls a 1 on an attack roll, ability check, or saving throw, the demon takes control of the character and determines the character's behavior. At the end of each of the possessed character's turns, he or she can make a DC 15 Charisma saving throw. On a success, the character regains control until he or she rolls another 1. |
+| 10 | **Demonic Possession.** The character is possessed by a demonic entity until freed by [dispel evil and good](dispel-evil-and-good.md) or similar magic. Whenever the possessed character rolls a 1 on an attack roll, ability check, or saving throw, the demon takes control of the character and determines the character's behavior. At the end of each of the possessed character's turns, he or she can make a DC 15 Charisma saving throw. On a success, the character regains control until he or she rolls another 1. |
 ^abyssal-corruption
 
 ## Carceri: Prison Plane
@@ -118,7 +118,7 @@ The plane's cruel nature makes it difficult for visitors to help one another. Wh
 
 ## The Nine Hells: Pervasive Evil
 
-Evil pervades the Nine Hells, and visitors to this plane feel its influence. At the end of each long rest taken on this plane, a visitor that isn't evil must make a DC 10 Wisdom saving throw. On a failed save, the creature's alignment changes to lawful evil. The change becomes permanent if the creature doesn't leave the plane within `1d4` days. Otherwise, the creature's alignment reverts to normal after one day spent on a plane other than the Nine Hells. Casting the [dispel evil and good](compendium/spells/dispel-evil-and-good.md) spell on the creature also restores its original alignment.
+Evil pervades the Nine Hells, and visitors to this plane feel its influence. At the end of each long rest taken on this plane, a visitor that isn't evil must make a DC 10 Wisdom saving throw. On a failed save, the creature's alignment changes to lawful evil. The change becomes permanent if the creature doesn't leave the plane within `1d4` days. Otherwise, the creature's alignment reverts to normal after one day spent on a plane other than the Nine Hells. Casting the [dispel evil and good](dispel-evil-and-good.md) spell on the creature also restores its original alignment.
 
 ## Acheron: Bloodlust
 
@@ -130,7 +130,7 @@ While on Mechanus, creatures always use the average damage result for attacks an
 
 ## Mechanus: Imposing Order
 
-At the end of each long rest taken on this plane, a visitor that isn't lawful neutral must make a DC 10 Wisdom saving throw. On a failed save, the creature's alignment changes to lawful neutral. The creature's alignment reverts to normal after one day spent on a plane other than Mechanus. Casting the [dispel evil and good](compendium/spells/dispel-evil-and-good.md) spell on the creature also restores its original alignment.
+At the end of each long rest taken on this plane, a visitor that isn't lawful neutral must make a DC 10 Wisdom saving throw. On a failed save, the creature's alignment changes to lawful neutral. The creature's alignment reverts to normal after one day spent on a plane other than Mechanus. Casting the [dispel evil and good](dispel-evil-and-good.md) spell on the creature also restores its original alignment.
 
 ## Arcadia: Planar Vitality
 

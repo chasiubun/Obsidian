@@ -8,27 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5a6c61164a401793",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/fiend/b_incubus.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6befd86420355c6c",
+            "id": "12e050318b418851",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "incubus",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/fiend/b_incubus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/fiend/b_incubus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/fiend/b_incubus.md"
-              }
+              "state": {}
             }
           },
           {
@@ -213,44 +196,45 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "6befd86420355c6c",
+  "active": "12e050318b418851",
   "lastOpenFiles": [
-    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/npc/npc.md",
-    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/ooze/ooze.md",
-    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/npc/b_afsoun-ghorbani-jttrc.md",
-    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/legendary-group/b_aboleth.md",
-    "Large Character Sheet Test.md",
-    "Currency Calculator.md",
-    "Compact Character Sheet Test.md",
-    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/npc/b_aunt-dellie-jttrc.md",
-    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/monstrosity/monstrosity.md",
-    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/monstrosity/b_yuan-ti-malison-type-4-vgm.md",
-    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/monstrosity/b_yuan-ti-malison-type-3.md",
-    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/monstrosity/b_yuan-ti-malison-type-1.md",
-    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/monstrosity/b_yuan-ti-malison-type-2.md",
-    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/monstrosity/b_yuan-ti-malison-type-5-vgm.md",
-    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/monstrosity/b_yuan-ti-mind-whisperer-mpmm.md",
-    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/monstrosity/b_lonely-sorrowsworn.md",
-    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/monstrosity/yeti 1.md",
-    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/monstrosity/b_tlincalli-mpmm.md",
-    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/monstrosity/b_shadow-spirit-8th-level-spell-tce.md",
-    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/humanoid/b_gladiator.md",
-    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/monstrosity/b_kruthik-hive-lord-mpmm.md",
-    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/monstrosity/b_grick.md",
-    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/monstrosity/b_chimera.md",
-    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/monstrosity/b_chitine-mpmm.md",
-    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/humanoid/b_witherbloom-professor-of-growth-scc.md",
-    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/humanoid/b_werebear.md",
-    "z_Templates/TTRPG Vault - Templates 281023/z_Assets/BumbertIcon.png",
+    "z_Templates/TTRPG Vault - Templates 281023/z_Templates/1. DM Templates/1. Story World Templates/People/Template - Group.md",
+    "z_Templates/TTRPG Vault - Templates 281023/z_Templates/1. DM Templates/1. Story World Templates/People/Template - Party Dashboard.md",
+    "z_Templates/TTRPG Vault - Templates 281023/z_Templates/1. DM Templates/1. Story World Templates/People/Template - NPC.md",
     "z_Templates/TTRPG Vault - Templates 281023/z_Assets/Pasted image 20231118181109.png",
-    "z_Templates/TTRPG Vault - Templates 281023/z_Assets/Pasted image 20231118203815.png",
-    "z_Assets/IMG_0286.jpg",
+    "z_Templates/TTRPG Vault - Templates 281023/z_Canvas/Untitled.canvas",
+    "z_compendium/bestiary/npc/npc.md",
+    "3. Campaign Notes/Unused Plot Hooks/Plot Hook 1.md",
+    "3. Campaign Notes/What's in a Name? OneShot/Session Summary.md",
+    "3. Campaign Notes/What's in a Name? OneShot/Combat 2.md",
+    "3. Campaign Notes/What's in a Name? OneShot/Combat 1.md",
+    "z_Templates/Compact Character Sheet Test.md",
+    "z_Assets/IMG_0301.png",
     "z_Assets/IMG_0285.jpg",
+    "z_Assets/Misc/ImagePlaceholder.png.md",
+    "z_Assets/IMG_0286.jpg",
+    "z_Templates/Currency Calculator.md",
+    "z_Templates/Character Sheet.md",
+    "z_Templates/Large Character Sheet Test.md",
+    "3. Campaign Notes/What's in a Name? OneShot/Players/Den Koran.md",
+    "3. Campaign Notes/What's in a Name? OneShot/Players/Untitled.md",
+    "3. Campaign Notes/What's in a Name? OneShot/Players/Basilus Simmeran.md",
+    "3. Campaign Notes/What's in a Name? OneShot/NPCS/Bumbert.md",
+    "3. Campaign Notes/What's in a Name? OneShot/Players/Den Koran Test.md",
+    "z_compendium/decks/deck-of-illusions.md",
+    "z_compendium/backgrounds/backgrounds.md",
+    "z_compendium/bestiary/undead/undead.md",
+    "z_compendium/bestiary/plant/b_awakened-shrub.md",
+    "2. GM Tools/5eTools Compendium & Rules/_compendium/bestiary/undead/haint-jttrc 1.md",
+    "z_compendium/bestiary/undead/b_bodak-mpmm.md",
+    "z_compendium/bestiary/undead/b_blood-drinker-vampire-ggr.md",
+    "z_compendium/bestiary/undead/b_adult-blue-dracolich.md",
+    "z_Templates/TTRPG Vault - Templates 281023/z_Assets/BumbertIcon.png",
+    "z_Templates/TTRPG Vault - Templates 281023/z_Assets/Pasted image 20231118203815.png",
     "z_Assets/IMG_B8339D8892FB-1.jpeg",
     "z_Assets/IMG_0313.png",
     "z_Assets/IMG_0319.png",
     "z_Assets/IMG_0321.png",
-    "z_Assets/IMG_0310.png",
     "3. Campaign Notes/What's in a Name? OneShot/Assets",
     "3. Campaign Notes/LMoP - Guild of Truth and Light/3. NPCs and Groups",
     "3. Campaign Notes/LMoP - Guild of Truth and Light/2. Campaign Roadmap",

@@ -44,4 +44,4 @@ A character who wants to sell an item must make a Charisma ([Persuasion](_skills
 
 The main risk in selling a magic item lies in attracting thieves and anyone else who wants the item but doesn't want to pay for it. Other folk might try to undermine a deal in order to bolster their own business or seek to discredit the character as a legitimate seller. Every workweek spent trying to sell an item brings a 10% chance chance of a complication, examples of which are on the Magic Item Sale Complications table.
 
-![Magic Item Sale Complications](compendium/tables/magic-item-sale-complications-xge.md)
+![Magic Item Sale Complications](magic-item-sale-complications-xge.md)

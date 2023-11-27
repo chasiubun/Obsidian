@@ -18,7 +18,7 @@ Typically, a character needs access to a library or a sage to conduct research. 
 
 The character declares the focus of the research—a specific person, place, or thing. After one workweek, the character makes an Intelligence check with a +1 bonus per 50 gp spent beyond the initial 50 gp, to a maximum of +6. In addition, a character who has access to a particularly well-stocked library or knowledgeable sages gains advantage on this check. Determine how much lore a character learns using the Research Outcomes table.
 
-![Research Outcomes](compendium/tables/research-outcomes-xge.md)
+![Research Outcomes](research-outcomes-xge.md)
 
 Each piece of lore is the equivalent of one true statement about a person, place, or thing. Examples include knowledge of a creature's resistances, the password needed to enter a sealed dungeon level, the spells commonly prepared by an order of wizards, and so on.
 
@@ -30,4 +30,4 @@ The greatest risk in research is uncovering false information. Not all lore is a
 
 In addition, a character might run into other complications during research. Every workweek spent in research brings a 10% chance chance of a complication, examples of which are on the Research Complications table.
 
-![Research Complications](compendium/tables/research-complications-xge.md)
+![Research Complications](research-complications-xge.md)

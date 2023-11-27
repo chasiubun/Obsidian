@@ -14,13 +14,13 @@ Carousing is a default downtime activity for many characters. Between adventures
 
 Carousing covers a workweek of fine food, strong drink, and socializing. A character can attempt to carouse among lower-, middle-, or upper-class folk. A character can carouse with the lower class for 10 gp to cover expenses, or 50 gp for the middle class. Carousing with the upper class requires 250 gp for the workweek and access to the local nobility.
 
-A character with the noble background can mingle with the upper class, but other characters can do so only if you judge that the character has made sufficient contacts. Alternatively, a character might use a [disguise kit](compendium/items/disguise-kit.md) and the [Deception](_skills.md#Deception) skill to pass as a noble visiting from a distant city.
+A character with the noble background can mingle with the upper class, but other characters can do so only if you judge that the character has made sufficient contacts. Alternatively, a character might use a [disguise kit](disguise-kit.md) and the [Deception](_skills.md#Deception) skill to pass as a noble visiting from a distant city.
 
 ## Resolution
 
 After a workweek of carousing, a character stands to make contacts within the selected social class. The character makes a Charisma ([Persuasion](_skills.md#Persuasion)) check using the Carousing table.
 
-![Carousing](compendium/tables/carousing-xge.md)
+![Carousing](carousing-xge.md)
 
 Contacts are NPCs who now share a bond with the character. Each one either owes the character a favor or has some reason to bear a grudge. A hostile contact works against the character, placing obstacles but stopping short of committing a crime or a violent act. Allied contacts are friends who will render aid to the character, but not at the risk of their lives.
 
@@ -46,8 +46,8 @@ At any time, a character can have a maximum number of unspecified allied contact
 
 Characters who carouse risk bar brawls, accumulating a cloud of nasty rumors, and building a bad reputation around town. As a rule of thumb, a character has a 10% chance chance of triggering a complication for each workweek of carousing.
 
-![Lower-Class Carousing Complications](compendium/tables/lower-class-carousing-complications-xge.md)
+![Lower-Class Carousing Complications](lower-class-carousing-complications-xge.md)
 
-![Middle-Class Carousing Complications](compendium/tables/middle-class-carousing-complications-xge.md)
+![Middle-Class Carousing Complications](middle-class-carousing-complications-xge.md)
 
-![Upper-Class Carousing Complications](compendium/tables/upper-class-carousing-complications-xge.md)
+![Upper-Class Carousing Complications](upper-class-carousing-complications-xge.md)

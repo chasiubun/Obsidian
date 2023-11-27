@@ -16,7 +16,7 @@ Performing a job requires one workweek of effort.
 
 ## Resolution
 
-To determine how much money a character earns, the character makes an ability check: Strength ([Athletics](_skills.md#Athletics)), Dexterity ([Acrobatics](_skills.md#Acrobatics)), Intelligence using a set of tools, Charisma ([Performance](_skills.md#Performance)), or Charisma using a [musical instrument](compendium/items/musical-instrument.md). Consult the Wages table to see how much money is generated according to the total of the check.
+To determine how much money a character earns, the character makes an ability check: Strength ([Athletics](_skills.md#Athletics)), Dexterity ([Acrobatics](_skills.md#Acrobatics)), Intelligence using a set of tools, Charisma ([Performance](_skills.md#Performance)), or Charisma using a [musical instrument](musical-instrument.md). Consult the Wages table to see how much money is generated according to the total of the check.
 
 **Wages**
 
@@ -32,4 +32,4 @@ To determine how much money a character earns, the character makes an ability ch
 
 Ordinary work is rarely filled with significant complications. Still, the Work Complications table can add some difficulties to a worker's life. Each workweek of activity brings a 10% chance chance that a character encounters a complication.
 
-![Work Complications](compendium/tables/work-complications-xge.md)
+![Work Complications](work-complications-xge.md)
